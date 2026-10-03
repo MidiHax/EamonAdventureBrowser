@@ -13,6 +13,8 @@
         <script type="text/javascript" src="lib/underscore-min.js"></script>
         <script type="text/javascript" src="lib/sammy-latest.min.js"></script>
         <script type="text/javascript" src="lib/knockout-3.1.0.js"></script>
+        <script type="text/javascript" src="lib/cytoscape-3.34.3.min.js"></script>
+        <script type="text/javascript" src="map.js"></script>
         <script type="text/javascript" src="main.js"></script>
     </head>
     <body>
@@ -71,6 +73,10 @@
             <div id="divAdventure" data-bind="with: adventure">
                 
                 <h2><a data-bind="text: name, attr: { href: '#/adv/' + $root.currentId() }"></a></h2>
+                <a data-bind="attr: { href: '#/adv/' + $root.currentId() }">Summary</a>
+                &nbsp;|&nbsp;
+                <a data-bind="attr: { href: '#/adv/' + $root.currentId() + '/map' }">Room Map</a>
+                <br/><br/>
                 
                 <div id="divAdvSummary" style="width:100%">
                     <b>Rooms</b>
@@ -322,6 +328,34 @@
                     </table>
                 </div>
 
+            </div>
+            <div id="divMap" style="display: none">
+                <div class="mapToolbar">
+                    <button onclick="EamonMap.fit()">Fit to window</button>
+                    <button data-bind="click: function () { EamonMap.exportPng(currentId() + '-map.png'); }">Export to image</button>
+                    &nbsp;
+                    <label><input type="checkbox" id="chkMapDirs" checked onchange="EamonMap.showDirections(this.checked)"/> Show directions</label>
+                    &nbsp;&nbsp;
+                    <span class="mapLegend">
+                        <span class="lgRoom"></span> Room
+                        <span class="lgRoom lgDark"></span> Dark room
+                        <span class="lgRoom lgStart"></span> Start (room 1)
+                        <span class="lgLine"></span> Exit
+                        <span class="lgLine lgDoor"></span> Door (&#128274; = locked)
+                        <span class="lgLine lgHidden"></span> Hidden door
+                        <span class="lgSpecial"></span> Special exit
+                        <span class="lgMissing"></span> Missing room/door
+                    </span>
+                </div>
+                <div id="divMapWrap">
+                    <div id="divMapCanvas"></div>
+                    <div class="mapZoom">
+                        <button onclick="EamonMap.zoomBy(-10)" title="Zoom out">&minus;</button>
+                        <input type="range" id="rngMapZoom" min="0" max="100" step="1" oninput="EamonMap.setZoom(this.value)" title="Zoom"/>
+                        <button onclick="EamonMap.zoomBy(10)" title="Zoom in">+</button>
+                    </div>
+                </div>
+                <div id="divMapInfo">Hover over a room or connection for details. Click a room to open it. Scroll to zoom, drag to pan.</div>
             </div>
             <div id="divSearch">
                 

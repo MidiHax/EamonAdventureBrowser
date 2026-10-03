@@ -1,0 +1,12 @@
+{
+  "name": "eamon-adventure-browser",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Online utility for quickly browsing the contents of classic Eamon adventure modules.",
+  "scripts": {
+    "start": "browser-sync start --server --files \"*.html\" \"*.js\" \"*.css\" \"data/*.txt\" --no-notify"
+  },
+  "devDependencies": {
+    "browser-sync": "^3.0.4"
+  }
+}

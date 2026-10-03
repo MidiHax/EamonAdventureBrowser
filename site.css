@@ -42,3 +42,100 @@ th {
     font-size: 8pt;
     color: lightcoral;
 }
+
+#divMapCanvas {
+    width: 100%;
+    height: 75vh;
+    border: 1px solid #8b4513;
+    background-color: #fffdf0;
+}
+
+#divMapWrap {
+    position: relative;
+}
+
+.mapZoom {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    z-index: 10;
+    padding: 4px 6px;
+    background-color: rgba(245, 245, 220, 0.9);
+    border: 1px solid #8b4513;
+    border-radius: 4px;
+}
+
+.mapZoom input {
+    width: 140px;
+    vertical-align: middle;
+}
+
+.mapZoom button {
+    width: 24px;
+    padding: 0;
+    vertical-align: middle;
+}
+
+#divMapInfo {
+    min-height: 3em;
+    padding: 6px;
+    font-size: 10pt;
+}
+
+.mapToolbar {
+    margin-bottom: 6px;
+    font-size: 9pt;
+}
+
+.mapLegend span {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+
+.mapLegend .lgRoom {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: #f4a460;
+    border: 1px solid #8b4513;
+}
+
+.mapLegend .lgDark {
+    background-color: #666;
+    border-color: #222;
+}
+
+.mapLegend .lgStart {
+    border: 3px solid #2e8b57;
+    width: 8px;
+    height: 8px;
+}
+
+.mapLegend .lgLine {
+    width: 24px;
+    border-top: 2px solid #8b4513;
+}
+
+.mapLegend .lgDoor {
+    border-top: 2px dashed #1e90ff;
+}
+
+.mapLegend .lgHidden {
+    border-top: 3px dotted #1e90ff;
+}
+
+.mapLegend .lgSpecial {
+    width: 9px;
+    height: 9px;
+    background-color: #9370db;
+    transform: rotate(45deg);
+}
+
+.mapLegend .lgMissing {
+    width: 0;
+    height: 0;
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    border-bottom: 11px solid #dc143c;
+}

@@ -15,6 +15,7 @@
             self.currentId(null);
             $("#divMainList").show();
             $("#divAdventure").hide();
+            $("#divMap").hide();
             $("#divSearch").hide();
             $("#divSearchWait").hide();
         }
@@ -23,6 +24,7 @@
             
             $("#divMainList").hide();
             $("#divAdventure").hide();
+            $("#divMap").hide();
             $("#divSearch").show();
             $("#divSearchWait").hide();
             $("#btnSearch").prop('disabled', false);
@@ -32,6 +34,14 @@
         this.get('#/adv/:id', function(context)
         {
             self.loadState = 's';
+            self.loadId = null;
+
+            self.safeUpdateUI(this.params['id']);
+        });
+
+        this.get('#/adv/:id/map', function(context)
+        {
+            self.loadState = 'p';
             self.loadId = null;
 
             self.safeUpdateUI(this.params['id']);
@@ -76,8 +86,26 @@
 
     self.updateUI = function()
     {
+        $("#divMap").hide();
+
         switch(self.loadState)
         {
+            case 'p': // Room map
+
+                self.room(null);
+                self.artifact(null);
+                self.monster(null);
+
+                $("#divMainList").hide();
+                $("#divSearch").hide();
+                $("#divAdventure").show();
+                $("#divAdvSummary").hide();
+                $("#divMap").show();
+
+                EamonMap.render($("#divMapCanvas")[0], self.adventure(), self.currentId(), $("#divMapInfo")[0], $("#rngMapZoom")[0]);
+                EamonMap.showDirections($("#chkMapDirs").prop('checked'));
+                break;
+
             case 's': // Adventure summary/overview
                 
                 $("#divMainList").hide();
