@@ -1,0 +1,887 @@
+{
+   "artifacts" : [
+      {
+         "data" : [ 2500, 1, 4, 3, 0, 0, 0, 0 ],
+         "description" : "You see a copy of the Hitchhiker's Guide to the Galaxy.  It looks like an oversized calculator.  You cannot read what is printed on any of the buttons, but you can make out \"DON'T PANIC!\" written in large friendly letters on the case.",
+         "name" : "Hitchhiker's Guide",
+         "number" : 1
+      },
+      {
+         "data" : [ 50, 1, 1, 1022, 0, 0, 0, 0 ],
+         "description" : "You'll have to remove it first.",
+         "name" : "babel fish",
+         "number" : 2
+      },
+      {
+         "data" : [ 5, 1, 2, 3, 0, 0, 0, 0 ],
+         "description" : "You see a battered towel.  It has light blue floral designs on it (although in spite of what appears to be several attempts to bleach them off).",
+         "name" : "towel",
+         "number" : 3
+      },
+      {
+         "data" : [ 0, 1, 10, 0, 0, 0, 0, 0 ],
+         "description" : "A Philonias Owel from the planet of Lark, Lark, Zoob-7 has suddenly appeared.",
+         "name" : "Owel",
+         "number" : 4
+      },
+      {
+         "data" : [ 0, 6, 1, 1020, 0, 0, 1, 0 ],
+         "description" : "A fresh cup of tea is simmering here.",
+         "name" : "cup of tea",
+         "number" : 5
+      },
+      {
+         "data" : [ 2, 1, 1, 1019, 0, 0, 0, 0 ],
+         "description" : "You see a plain, ordinary screwdriver.",
+         "name" : "screwdriver",
+         "number" : 6
+      },
+      {
+         "data" : [ 9000, 1, 10, 1018, 0, 0, 0, 0 ],
+         "description" : "You see a strange machine.  It looks sort of like a gun with a small dish on the end.  It has \"T-Remover v3.0\" written under a label which reads, \"Another fine product of the Sirius Cybernetics Corporation.\"",
+         "name" : "T-Remover",
+         "number" : 7
+      },
+      {
+         "data" : [ 3, 1, 1, 13, 0, 0, 0, 0 ],
+         "description" : "You see a bottle of aspirin.  If not for the two white pills inside, it would be empty.",
+         "name" : "aspirin",
+         "number" : 8
+      },
+      {
+         "data" : [ 900, 1, 10, 3, 0, 0, 0, 0 ],
+         "description" : "You see a gray laptop.  A small antenna has been wired into it, with aluminum foil wrapped around the end (for better reception?).  A small sticker on the antenna reads, \"Sirius Cybernetics S-Modem v7.3 (GUE-FRAP/20,000,000,000 baud)\".",
+         "name" : "laptop computer",
+         "number" : 9
+      },
+      {
+         "data" : [ 100, 0, 10, 0, 0, 0, 0, 0 ],
+         "description" : "You see a solid-gold lapop compuer.",
+         "name" : "lapop compuer",
+         "number" : 10
+      },
+      {
+         "data" : [ 10, 6, 4, 11, -20, 10, 1, 0 ],
+         "description" : "You see a half-filled bottle which emits an almost fatal odor.  A label reads, \"That Ol' Janx Spirit\".",
+         "name" : "Ol' Janx Spirit",
+         "number" : 11
+      },
+      {
+         "data" : [ 0, 1, 1, 0, 0, 0, 0, 0 ],
+         "description" : "You see an ancient, cracked picture of the first Galactic President, Janx Spiri III.",
+         "name" : "picture of Janx Spiri",
+         "number" : 12
+      },
+      {
+         "data" : [ 1, 1, 2, 1019, 0, 0, 0, 0 ],
+         "description" : "You see a standard monkey wrench.",
+         "name" : "wrench",
+         "number" : 13
+      },
+      {
+         "data" : [ 100, 1, 2, 1019, 0, 0, 0, 0 ],
+         "description" : "You see a recently discarded infinite interplosion rasp.",
+         "name" : "infinite interplosion rasp",
+         "number" : 14
+      },
+      {
+         "data" : [ 27, 1, 8, 1019, 0, 0, 0, 0 ],
+         "description" : "You see an early model of an ionic decimal/binary converter.  It has a label which says, \"Another fine product of the Sirius Cybernetics Corporation.\"",
+         "name" : "ionic decimal/binary converter",
+         "number" : 15
+      },
+      {
+         "data" : [ 2, 1, 2, 1019, 0, 0, 0, 0 ],
+         "description" : "You see a pair of pliers.  The handles are very slippery, and it appears that they have been dipped in red herring oil.",
+         "name" : "pliers",
+         "number" : 16
+      },
+      {
+         "data" : [ 45, 11, 0, 0, 0, 4, 0, 0 ],
+         "description" : "You see a pair of Joo Janta super-chromatic peril-sensitive sunglasses.",
+         "name" : "peril-sensitive sunglasses",
+         "number" : 17
+      },
+      {
+         "data" : [ 0, 4, -999, 0, 0, 0, 0, 0 ],
+         "description" : "A panel has suddenly appeared on the east wall.  It is held securely in place with large bolts.",
+         "name" : "panel",
+         "number" : 18
+      },
+      {
+         "data" : [ 10, 4, 50, 0, 0, 0, 5, 8 ],
+         "description" : "A sturdy and, as yet unnoticed, tool box falls off of a shelf and nearly kills you.",
+         "name" : "toolbox",
+         "number" : 19
+      },
+      {
+         "data" : [ 9500, 4, 999, 6, 0, 0, 1, 0 ],
+         "description" : "One particular machine stands out.  It has \"Carbon-Based Life Forms Model #122 Frap\" written on it.",
+         "name" : "nutri-matic",
+         "number" : 20
+      },
+      {
+         "data" : [ 15, 4, 7, -3, 0, 0, 2, 4 ],
+         "description" : "You see Ford Prefect's battered leather satchel.",
+         "name" : "satchel",
+         "number" : 21
+      },
+      {
+         "data" : [ 5, 1, 3, 1021, 0, 0, 0, 0 ],
+         "description" : "You see a jar made of a strange black glass.  It gives off an odor that is both pleasing and nauseating at the same time.  It seems to have a large red label pasted across the front of it.",
+         "name" : "glass jar",
+         "number" : 22
+      },
+      {
+         "data" : [ 3, 7, 2, 1021, 55, 1, 1, 0 ],
+         "description" : "You see a battered, travel-worn copy of Robert Heinlien's \"Stranger in a Strange Land\".",
+         "name" : "book",
+         "number" : 23
+      },
+      {
+         "data" : [ 9999, 1, 20, 0, 0, 0, 0, 0 ],
+         "description" : "You see a spare Ultimate Improbability Drive.  It has a long cord with a plug on the end which could be connected to something, and a small compartment marked \"Place Brownian Motion producer here\".",
+         "name" : "spare improbability drive",
+         "number" : 24
+      },
+      {
+         "data" : [ 900, 1, 2, 11, 0, 0, 0, 0 ],
+         "description" : "You see a long silver bottle lying on the floor.  It has a label with large, neat writing.  Somebody must have dropped it.",
+         "name" : "silver bottle",
+         "number" : 25
+      }
+   ],
+   "effects" : [
+      {
+         "description" : "It is pitch black.  There is nothing you can see, feel, taste, hear, or touch.  You are not even certain who you are...",
+         "number" : 1
+      },
+      {
+         "description" : "Howl howl gargle howl gargle howl howl howl errr arghh slurrp howl gargle uuurghh ech moose grarl howl howl arr ehhh gargle slurrp howl estatie verse hten moose howl gargle howl...",
+         "number" : 2
+      },
+      {
+         "description" : "A mellow, mechanical voice says, \"Greetings!  You have been beamed aboard the spaceship Heart of Gold at an improbability factor of two to the power of six thousand against and falling.  You should feel an initial shock, but it will soon pass.\"",
+         "number" : 3
+      },
+      {
+         "description" : "Arthur looks at you nervously.  \"Er,\" he begins, \"Ah,\" he mumbles, \"Umm,\" he mutters.  Suddenly he walks to another corner of the room.",
+         "number" : 4
+      },
+      {
+         "description" : "Ford Prefect looks at you for a moment, then he goes back into his own little world.",
+         "number" : 5
+      },
+      {
+         "description" : "\"Hey, the monkey-man talks!\" Zaphod laughs, \"What a concept, a talking monkey.\"",
+         "number" : 6
+      },
+      {
+         "description" : "Trillian smiles and says, \"Not now, I'm trying to work out the improbability factor to produce white mice.\"  She turns away.",
+         "number" : 7
+      },
+      {
+         "description" : "\"I think you ought to know that I'm feeling very depressed.\"",
+         "number" : 8
+      },
+      {
+         "description" : "\"Do you know how difficult it is to pilot a ship such as this?\" Eddie asks, \"I didn't think so, now please leave me be!\"",
+         "number" : 9
+      },
+      {
+         "description" : "You cannot seem to understand a thing that he says.",
+         "number" : 10
+      },
+      {
+         "description" : "He doesn't seem interested in acknowledging you.",
+         "number" : 11
+      },
+      {
+         "description" : "Hmm.  No response.",
+         "number" : 12
+      },
+      {
+         "description" : "He would rather rip out your internal organs.",
+         "number" : 13
+      },
+      {
+         "description" : "He doesn't understand a word you say.",
+         "number" : 14
+      },
+      {
+         "description" : "All you've done is made him mad!",
+         "number" : 15
+      },
+      {
+         "description" : "THIS SPACE WAS INTENTIONALLY LEFT BLANK.",
+         "number" : 16
+      },
+      {
+         "description" : "THIS SPACE WAS INTENTIONALLY LEFT BLANK.",
+         "number" : 17
+      },
+      {
+         "description" : "THIS SPACE WAS INTENTIONALLY LEFT BLANK.",
+         "number" : 18
+      },
+      {
+         "description" : "THIS SPACE WAS INTENTIONALLY LEFT BLANK.",
+         "number" : 19
+      },
+      {
+         "description" : "THIS SPACE WAS INTENTIONALLY LEFT BLANK.",
+         "number" : 20
+      },
+      {
+         "description" : "You are so intent upon fleeing that you manage to rip a hole in the fabric of the space-time continuum.  You suddenly find yourself standing on Betelgeuse Seven on the day of the Great Collapsing Hrung Disaster.  (Gal/Sid year 03758)",
+         "number" : 21
+      },
+      {
+         "description" : "Unfortunately, nobody but Ford Prefect's father/uncle survived the disaster.  You don't even have the slightest idea what a Hrung is (making you an \"Ix\" in the local tongue) and die rather confused.  Too bad.",
+         "number" : 22
+      },
+      {
+         "description" : "\"I am busy running this ship, I don't have time to perform your meaningless labors.\" Eddie replies curtly.",
+         "number" : 23
+      },
+      {
+         "description" : "You put your nose to the jar and inhale deeply.  Suddenly you get the sickening sensation of something slippery shooting straight towards your nose!",
+         "number" : 24
+      },
+      {
+         "description" : "You start back in astonishment and see a small, yellow object plop onto the floor.  It flops into the air and, before you can react, it shoots toward the side of your head and lands in your ear with a \"squish\".",
+         "number" : 25
+      },
+      {
+         "description" : "Suddenly a little silver robot flies into the room at an incredible speed.  He grabs the satchel from you and says, \"Pardon me, sir, but Mr. Prefect sent me to reclaim his property.\"  He then flies out of the room.",
+         "number" : 26
+      },
+      {
+         "description" : "Suddenly Ford grabs his satchel back from you.  \"Playtime is over.\" he says.  He then opens a secret pocket inside the satchel and pulls a stack of papers from it.",
+         "number" : 27
+      },
+      {
+         "description" : "\"Fine, you can play with my satchel.  Just leave me alone, I have a lot of work to catch up on.\"",
+         "number" : 28
+      },
+      {
+         "description" : "Ford firmly blocks your path.  \"No way, pal, I'm not going to let you wander of carrying one of the few things that I own!\"",
+         "number" : 29
+      },
+      {
+         "description" : "\"What!?!\" Ford Prefect exclaims as if you've asked him for a grilled weasel in a bun with a side of fries.  \"You expect me to give you anything after you tried stealing from my satchel?  I can't believe I even brought you with me!\"",
+         "number" : 30
+      },
+      {
+         "description" : "\"Hey!  Keep your bloody hands off of my property!\" Ford Prefect yells, grabbing his satchel away from you as you begin to open it.",
+         "number" : 31
+      },
+      {
+         "description" : "\"Hey!  What's your problem, man?\" Zaphod yells, grabbing your collar and shaking you.  \"Quit messing with my ship!\"",
+         "number" : 32
+      },
+      {
+         "description" : "Suddenly a loud alarm sounds!  \"Warning!  Warning!\" Eddie says, \"Somebody has connected an external device to my main console.",
+         "number" : 33
+      },
+      {
+         "description" : "\"While I was distracted, two items suddenly appeared on board at an improbability factor of two thousand to the power of eighteen against.  I am dispatching the cleaning robots to destroy these items.  Repeating:  Somebody has...\"",
+         "number" : 34
+      },
+      {
+         "description" : "You flip the switch marked \"POWER\" but nothing happens.  You suddenly notice a cable which says, \"Connect to 15039mhz computer ONLY!\"  Obviously the batteries are dead and you'll need to CONNECT it to another power source.",
+         "number" : 35
+      },
+      {
+         "description" : "As you flip the switch marked \"POWER\", the laptop comes to life.  It hums for a few minutes, then a message appears:",
+         "number" : 36
+      },
+      {
+         "description" : "\"Welcome to DJinni, your personal link to the universe.  The time is ^^2/67 (Betelgeusian).  Hello, Mr. Prefect.\"",
+         "number" : 37
+      },
+      {
+         "description" : "You have selected FTL (Faster Than Light Newsfeed) for today, March 27/27.",
+         "number" : 38
+      },
+      {
+         "description" : "The big news today is that during the unveiling ceremony of the long-awaited improbability-driven ship, that ship, \"Heart of Gold\", was stolen!",
+         "number" : 39
+      },
+      {
+         "description" : "The even bigger news is that the Heart of Gold was stolen by none other than Galactic President Zaphod Beeblebrox!  Police from every sector of the galaxy have orders to execute Mr. Beeblebrox and his fellow conspirators and reclaim the ship.",
+         "number" : 40
+      },
+      {
+         "description" : "Suddenly a message scrolls across the screen.  It reads, \"Sorry, Mr. Prefect, but due to the fact that you still owe fifteen years worth of dues, this service has been canceled until payment arrives (and then only if we feel like it).\"",
+         "number" : 41
+      },
+      {
+         "description" : "Hmm...  Everything has suddenly gone pitch black...",
+         "number" : 42
+      },
+      {
+         "description" : "Nine out of ten sensitive people solve this puzzle right away.",
+         "number" : 43
+      },
+      {
+         "description" : "Without saying so much as a word, everybody leaves the room.",
+         "number" : 44
+      },
+      {
+         "description" : "The Nutri-Matic comes to life, humming slightly.  Sensors scan your taste buds and metabolism for a few seconds, then a panel opens, a cup slides out, and a voice says, \"Share and enjoy!\"",
+         "number" : 45
+      },
+      {
+         "description" : "\"Announcement, announcement!  This is Eddie (the shipboard computer), somebody has connected a spare Ultimate Improbability Drive to my manual override receptacle.  Better be an emergency, that's all I have to say!\"",
+         "number" : 46
+      },
+      {
+         "description" : "\"Announcement, announcement!  This is Eddie (the shipboard computer), somebody has just activated an Ultimate Improbability Drive in my manual override receptacle.  This moved us 8 billion parsecs off course, placing us three weeks behind schedule.",
+         "number" : 47
+      },
+      {
+         "description" : "\"As if that wasn't bad enough, it caused the entire marketing division of the Sirius Cybernetics Corporation to appear in the baggage compartment at an improbability factor 17,568 to the power of 10,000.  I am flushing them into space...\"",
+         "number" : 48
+      },
+      {
+         "description" : "Suddenly a high pitched alarm sounds from the T-Remover.  \"Warning!  Warning!  Internal error #14!\" it wails.  You never hear it, however, because you suddenly turn into a towel (and an awful pink, floral design at that!)",
+         "number" : 49
+      },
+      {
+         "description" : "With a \"SPAT SPRAT SPUCK FLUPE ZAP!!\", the T-Remover comes to life.  A thick sweet smelling steam fills the room.  When it finally clears, you notice something has appeared which wasn't here before...",
+         "number" : 50
+      },
+      {
+         "description" : "Cannibalism is no way for an adventurer to act!",
+         "number" : 51
+      },
+      {
+         "description" : "Pull yourself together, that's not what you do with tea!",
+         "number" : 52
+      },
+      {
+         "description" : "Your situation does not improve.",
+         "number" : 53
+      },
+      {
+         "description" : "It does smell a bit...  You awake to the foul smell of lazurus-hide luggage.",
+         "number" : 54
+      },
+      {
+         "description" : "You really don't expect me to quote the entire novel, do you?",
+         "number" : 55
+      },
+      {
+         "description" : "The Hitchhiker's Guide to the Galaxy checks through its sub-etha databases for the closest possible match to your input and comes up with the following entry:",
+         "number" : 56
+      },
+      {
+         "description" : "Why would you do that?  Having a babel fish in your ear is terrible useful.",
+         "number" : 57
+      },
+      {
+         "description" : "Suddenly a loud alarm sounds!  \"Warning!  Warning!  This is Eddie (the shipboard computer), a serious malfunction has just occurred in the Ultimate Improbability Drive!",
+         "number" : 58
+      },
+      {
+         "description" : "\"If I were to attempt repairs, the entire ship (and all aboard) would be torn apart atom by atom and strewn across the sub-etha.  If it isn't repaired, the same will happen in a matter of minutes.",
+         "number" : 59
+      },
+      {
+         "description" : "\"Somebody will have to enter the engine room and fix the malfunction (a very simple task, simply unplug the Improbability Drive).",
+         "number" : 60
+      },
+      {
+         "description" : "\"Unfortunately, whoever takes up this task will be displaced to any random point across the fabric of the space-time continuum (at an improbability factor of 18,8635 to the power of 20,000 against and rising) and will most likely perish.",
+         "number" : 61
+      },
+      {
+         "description" : "\"I'm transferring all passengers to the corridor just outside of the engine room.  One of you had better decide to be the hero within the next three minutes...\"",
+         "number" : 62
+      },
+      {
+         "description" : "You bravely march into the engine room, prepared to sacrifice all for your ship mates.  Suddenly your fear overtakes you and you start to panic!  You scream and run for the exit!",
+         "number" : 63
+      },
+      {
+         "description" : "Suddenly Zaphod looks at you and grins.  \"Hey, Marvin kid, how you doing?\" he says.  \"Very badly, I suspect.\" Marvin replies...",
+         "number" : 64
+      },
+      {
+         "description" : "Later that evening, you are sitting in the lounge when Eddie suddenly pipes up.  \"Attention!  Attention!  This is Eddie (the shipboard computer).  I have finally locked onto Marvin's whereabouts, following the quantum energy left behind.",
+         "number" : 65
+      },
+      {
+         "description" : "\"He seems to have ended up on the deserted planet, Frogstar World B.  Unfortunately, we would never be able to bypass Frogstar World A's defenses.  I'm afraid we've seen the last of Marvin.\"",
+         "number" : 66
+      },
+      {
+         "description" : "\"Poor Marvin.\" Trillian sighs.  \"Yeah, ain't it awful,\" Zaphod replies, \"Hey, Ford, you hungry?  I am like starved, man.  Computer, take us to the nearest place to eat.\"  \"Sure thing!\" Eddie replies happily, and everything explodes!",
+         "number" : 67
+      },
+      {
+         "description" : "As the transporter starts to disassemble your atoms for the teleportation, it suddenly sounds an alarm.  Somewhere far off, you hear Zaphod Beeblebrox's voice.  He seems to be yelling something about \"semi-evolved simians\" playing with T-Removers...",
+         "number" : 68
+      },
+      {
+         "description" : "There are too many problems going through your mind right now for you to be messing around with the T-Remover.",
+         "number" : 69
+      },
+      {
+         "description" : "\"Warning!  Warning!  This is Eddie (the shipboard computer), the improbability-proof field of the ship has broken.  I just wanted to tell you guys that it has been just super knowing you!  I just wish it could have been repaired in time...\"",
+         "number" : 70
+      },
+      {
+         "description" : "Your inert body sinks through spinning blackness.  The roar of silence echoes dismally around you as you sink at last into a dark, bitter sea of heaving red that slowly engulfs you, seemingly forever.",
+         "number" : 71
+      },
+      {
+         "description" : "Cold spasms shake you, lights dance sickly around.  The cold hard shore tips and spins and then stands still.  It shines darkly -- It seems to be a very highly polished cold hard shore.",
+         "number" : 72
+      },
+      {
+         "description" : "You notice a green blur watching disapprovingly.  It coughs.  \"Good evening, madam, gentlemen,\" the green blur says.  \"Do you have a reservation?\"",
+         "number" : 73
+      },
+      {
+         "description" : "\"Reservation?\"  You hear Ford Prefect croak weakly from somewhere.",
+         "number" : 74
+      },
+      {
+         "description" : "\"Yes, sir,\" the green blur replies.",
+         "number" : 75
+      },
+      {
+         "description" : "\"Do you need a reservation for the afterlife?\" Ford Prefect moans back.",
+         "number" : 76
+      },
+      {
+         "description" : "In so far as it is possible for a green blur to arch its eyebrows disdainfully, that is what the green blur does.  \"Afterlife, sir?\" it says.",
+         "number" : 77
+      },
+      {
+         "description" : "\"Well, I assume so,\" you interrupt, trying to work out which way is up.  You test the theory that it must lie in the opposite direction from the cold hard shore on which you are lying, and stagger to what you hope are your feet.",
+         "number" : 78
+      },
+      {
+         "description" : "\"The Monkeyman is right,\" you hear Zaphod add, \"I mean, there is no way we could have survived that blast is there?\"",
+         "number" : 79
+      },
+      {
+         "description" : "\"No,\" moans Arthur, far off in the distance.",
+         "number" : 80
+      },
+      {
+         "description" : "\"No,\" agrees Trillian, \"No way at all.\"",
+         "number" : 81
+      },
+      {
+         "description" : "\"I certainly didn't survive,\" Zaphod gargles from the floor.  \"I was a total goner.  Wham bang and that was it.\"",
+         "number" : 82
+      },
+      {
+         "description" : "\"Yeah, thanks to you, Zaphod,\" says Ford \"we didn't stand a chance.  We must have been blown to bits.  Arms, legs everywhere.\"",
+         "number" : 83
+      },
+      {
+         "description" : "\"If the lady and gentlemen would care to order drinks...\" interrupts the green blur, hovering patiently beside you.",
+         "number" : 84
+      },
+      {
+         "description" : "\"Kerpow, splat,\" continues Zaphod, \"instantaneously zonked into our component molecules.  Hey, Ford, did you get that thing of your whole life flashing before you?\"",
+         "number" : 85
+      },
+      {
+         "description" : "\"You got that too? answers Ford.  \"Your whole life?\"",
+         "number" : 86
+      },
+      {
+         "description" : "\"Yeah,\" says Zaphod, \"at least I assume it was mine.  I spend a lot of time out of my skulls you know.\"",
+         "number" : 87
+      },
+      {
+         "description" : "You look around and notice that the various shapes are at last becoming proper shapes instead of vague and wobbling shapeless shapes.",
+         "number" : 88
+      },
+      {
+         "description" : "\"So...\" says Zaphod.  \"So what?\" asks Ford.  \"So here we are,\" says Zaphod hesitantly, \"lying here dead...\"  \"Standing,\" corrects Trillian.  \"Er, standing dead,\" continues Zaphod, \"in this desolate...\"",
+         "number" : 89
+      },
+      {
+         "description" : "\"Restaurant!\" you suddenly exclaim.  You have gotten to your feet and, much to your surprise, can see clearly.  That is to say, it's not being able to see which surprises you, but what you see.",
+         "number" : 90
+      },
+      {
+         "description" : "\"Here we are,\" concludes Zaphod doggedly, \"standing dead in this desolate...\"  \"Five star,\" adds Trillian.  \"Restaurant.\" concludes Zaphod.  \"Odd, isn't it?\" says Ford.  \"Er, yeah,\" answers Arthur.  \"Nice chandeliers,\" remarks Trillian.",
+         "number" : 91
+      },
+      {
+         "description" : "Zaphod's eyes flash.  \"Hey, wait a minute, you dead guys,\" he says.  \"I think we're missing some ultra-important thing here, you know?  Something somebody said and we missed it.  Ford?\"",
+         "number" : 92
+      },
+      {
+         "description" : "\"Perhaps,\" interrupts the green blur (who has by this time resolved into the shape of a small wizened dark-suited green waiter), \"perhaps, you would care to discuss the matter over drinks...\"",
+         "number" : 93
+      },
+      {
+         "description" : "\"Drinks!\" cries Zaphod.  \"That was it!  See what you miss if you don't stay alert?\"  \"Indeed, sir,\" the waiter says patiently.  \"If the lady and gentlemen would care to take drinks before dinner...\"  \"Dinner!!\" Zaphod breathes.",
+         "number" : 94
+      },
+      {
+         "description" : "\"...and the Universe,\" continues the waiter, \"will explode later for your pleasure.\"  \"Wow!\" says Ford, \"What kind of drinks do you serve?\"  \"Ah,\" answers the waiter, \"I think sir has misunderstood.\"  \"Oh, I hope not!\" says Ford.",
+         "number" : 95
+      },
+      {
+         "description" : "The waiter coughs a polite little waiter's cough.  \"It is not unusual for our customers to be a little disoriented by the time journey,\" he says, \"so if I might suggest--\"  \"Time journey?\" you all exclaim at once.",
+         "number" : 96
+      },
+      {
+         "description" : "\"You mean this isn't the afterlife?\" blurts Arthur.  The waiter smiles a polite little waiter's smile.  You can see he's nearly exhausted his polite little waiter repertoire and is slipping into the role of tight-lipped sarcastic waiter.",
+         "number" : 97
+      },
+      {
+         "description" : "\"Afterlife, sir?\" he says.  \"No, sir.\"  \"And we're not dead?\" continues Arthur.  The waiter tightens his lips and says, \"Aha, ha.  Sir is most evidently alive, otherwise I would not attempt to serve sir.\"",
+         "number" : 98
+      },
+      {
+         "description" : "In an extraordinary gesture (which is pointless to attempt to describe) Zaphod slaps both his foreheads with two of his arms and one of his thighs with the other.  \"Hey, guys,\" he says, \"This is crazy.  We did it!\"",
+         "number" : 99
+      },
+      {
+         "description" : "He looks around in astonishment and continues.  \"This is where I've been trying to go since we picked up Ford and the Monkeyman:  This is Milliways!\"",
+         "number" : 100
+      },
+      {
+         "description" : "\"Milliways!\" whoops Ford.  \"Yes, sir,\" says the waiter (laying on the patience with a trowel), \"this is Milliways -- The Restaurant at the End of the Universe.  Now, if you would care to order your drinks, I'll show you to your table.\"",
+         "number" : 101
+      },
+      {
+         "description" : "Zaphod grins two maniac grins and slaps you on the back.  Him and Ford Prefect saunter to the bar and proceed to buy most of it.",
+         "number" : 102
+      },
+      {
+         "description" : "It does smell a bit.  You awaken to the overwhelming smell of juicy steaks mixed with strong drinks.",
+         "number" : 103
+      },
+      {
+         "description" : "You are standing in an enormous restaurant.  You see the eighty-yard-long- marble-topped bar.  The fronting for this bar has been made by stitching together nearly twenty thousand Anterian Mosiac Lizard skins.",
+         "number" : 104
+      },
+      {
+         "description" : "You see smartly dressed creatures lounging about the bar area.  A young Vl'Hurg officer and his green steaming young lady pass by you into the dining area.",
+         "number" : 105
+      },
+      {
+         "description" : "\"Incredible!\" you breathe.  \"The lights...!  The people...!  The things...!\"",
+         "number" : 106
+      },
+      {
+         "description" : "\"The 'things',\" you are politely corrected by a passing attendant flunky, \"are also people.\"  However, you don't seem to hear.  You stand amidst the splendor babbling and making odd noises for several minutes...",
+         "number" : 107
+      },
+      {
+         "description" : "As you enter the bar and walk towards Ford and Zaphod, you see that they are already extremely drunk.  Ford suddenly notices somebody at another table.",
+         "number" : 108
+      },
+      {
+         "description" : "\"Hey!\" he says to Zaphod, \"That's my old pal, HOTBLACK DESIATO.  I'm going to go see how he's doing.\"  Ford then staggers away.",
+         "number" : 109
+      },
+      {
+         "description" : "Ford returns shortly, looking rather startled.  \"You won't believe this,\" he says to Zaphod, \"but Hotblack's spending a year dead for tax reasons!\"  He then plops down on a stool and orders another drink.",
+         "number" : 110
+      },
+      {
+         "description" : "Suddenly Ford, Zaphod, Arthur, and Trillian walk past you and head south to the parking garage.  \"Hurry up,\" they call after you, \"the universe is about to explode!\"",
+         "number" : 111
+      },
+      {
+         "description" : "You are stopped by a waiter.  \"Pardon me sir,\" he says coldly, \"but you must pay your friends' bill!\"  He thrust a keyboard at you and says, \"Enter your name and we'll check your credit.\"",
+         "number" : 112
+      },
+      {
+         "description" : "\"Thank you, Mr. Desiato.\" says the waiter.  \"Your account has been charged.  You may leave now.\"",
+         "number" : 113
+      },
+      {
+         "description" : "\"Sorry, sir,\" says the waiter, \"but that seems to be an invalid account.\"",
+         "number" : 114
+      },
+      {
+         "description" : "Suddenly you hear screaming throughout the restaurant.  The universe explodes!  Normally you would have survived, but the restaurant's time machine malfunctions and you are killed!",
+         "number" : 115
+      },
+      {
+         "description" : "As you enter the garage, you are shocked to see Marvin standing in the entrance!  \"Hey, uh...\" you stutter sheepishly.",
+         "number" : 116
+      },
+      {
+         "description" : "\"I know what your puny brain is wondering,\" whines Marvin, \"You traveled here through time, not space.  In fact this is the place I was transported to after saving all of your lives...  That was seventy-six thousand million billion years ago!\"",
+         "number" : 117
+      },
+      {
+         "description" : "\"Uh, Marvin...\" you try to offer.  \"Save your apologies,\" Marvin interrupts, \"I don't need to hear them.  I just think that you ought to know that I'm feeling very depressed.\"  With that, he sits on the floor and ignores you.",
+         "number" : 118
+      },
+      {
+         "description" : "Zaphod locates an emergency phone on one wall.  \"OK, don't panic!\" he says, \"I'll call the owner and straighten things out...\"  He talks for a few minutes, then he drops the phone and looks dazed.",
+         "number" : 119
+      },
+      {
+         "description" : "\"Well?\" says Ford.  \"Who did you talk to?\"  \"Hotblack's band,\" Zaphod replies shakily, \"They said they would be glad to let us off, however they're not going to because they just paid our restaurant bill...\"",
+         "number" : 120
+      },
+      {
+         "description" : "Suddenly the ship begins to heat up.  You dive straight into a blazing sun and are burnt to a crisp!",
+         "number" : 121
+      },
+      {
+         "description" : "Zaphod slaps you on the back and says, \"You've done it again, Monkeyman!  Hey Marvin, hop to it!\"  Marvin slinks into the teleporter room and one by one everybody disappears.  Then you feel your atoms being torn apart as well...",
+         "number" : 122
+      },
+      {
+         "description" : "\"Hey!\" Ford suddenly shouts, \"The teleporter to the east still works.  The only problem is that somebody will have to stay behind to operate it...\"",
+         "number" : 123
+      },
+      {
+         "description" : "Suddenly the Buggblatter Beast lunges at you and happily tears you to pieces!",
+         "number" : 124
+      },
+      {
+         "description" : "Suddenly a gang of zoologists teleport in.  They mistake you for the Ravenous Buggblatter Beast of Traal and shoot you with a stun gun.  You wake up in a zoo and spend several days there before they realize their mistake.",
+         "number" : 125
+      },
+      {
+         "description" : "Without so much as an apology, they teleport you off to a random location.  Although highly improbable, you end up in a dark cell with...  Ford Prefect!?!",
+         "number" : 126
+      },
+      {
+         "description" : "\"Ah,\" says Ford, \"Nice of you to drop buy.  I'm afraid you picked a rather bad time, however, we are about to face a reading of Vogon poetry.  We will surely die!\"",
+         "number" : 127
+      },
+      {
+         "description" : "Shortly thereafter, two green slug-like creatures drag both of you off to meet their Captain.",
+         "number" : 128
+      },
+      {
+         "description" : "The Vogon Captain begins reading...  Argghh!!  It is more than you can stand!  You flop around severely and die.",
+         "number" : 129
+      },
+      {
+         "description" : "You pour out some of the contents of the silver bottle onto your target.  Suddenly a shower of sparks appears.  When it stops, you see something which you thought had vanished earlier.",
+         "number" : 130
+      },
+      {
+         "description" : "Suddenly the Buggblatter beast lunges at Prostetnic Vogon Jeltz and tears him to pieces!  It then runs rampant through the ship, slaughtering each and every one of the Vogons!",
+         "number" : 131
+      },
+      {
+         "description" : "Finally, it charges toward you and Ford.  Just as it is about to attack, however, it suddenly falls over and dies from food poisoning (it ate some of the Vogons)!",
+         "number" : 132
+      },
+      {
+         "description" : "You and Ford manage to undo your bindings after several hours and you realize that you are the only living beings left aboard the ship!",
+         "number" : 133
+      },
+      {
+         "description" : "You activate the time travel equipment and journey back to several days before this all began.  Ford uses the Vogon ship to access computers at the Galactic Hyperspace Planning Council and changes the status of planet Eamon.",
+         "number" : 134
+      },
+      {
+         "description" : "He then assures you that nobody will ever attempt to demolish Eamon ever again.  He then thanks you for the kindness that you and the Free Adventurer's Guild showed him during his stay there.  He then prepares the transporter to send you back.",
+         "number" : 135
+      },
+      {
+         "description" : "Ford mentions that he is heading back to his native planet, Betelgeuse for a much-needed vacation.  He bids you farewell and you are transported back to the Main Hall.",
+         "number" : 136
+      },
+      {
+         "description" : "You breathe a sigh of relief as you greet the burly Irishman and take a seat next to Hokas at the bar.  You drink a great amount that night and relate your story to anybody you can corner.",
+         "number" : 137
+      },
+      {
+         "description" : "As has happened in the past, you become the laughing stock of the Main Hall.  This time is doesn't bother you, however, for you are happy in knowing that you have saved your world.",
+         "number" : 138
+      },
+      {
+         "description" : "Congratulations, and thank you for playing \"The Heart of Gold\".                                                                                                 --Frank Kunze",
+         "number" : 139
+      }
+   ],
+   "info" : {
+      "author" : "Frank Black",
+      "difficulty" : "8",
+      "rating" : "6.5/1",
+      "serialNum" : "240"
+   },
+   "intro" : "",
+   "monsters" : [
+      {
+         "data" : [ 16, 16, 1, 65, 5, 0, 0, -1, 1, 4, 3, 0, 0 ],
+         "description" : "You see a nervous man who is looking about as if he's not sure what it is that the universe is doing to him, but he wishes it would please stop.",
+         "name" : "Arthur Dent",
+         "number" : 1
+      },
+      {
+         "data" : [ 30, 25, 1, 200, 5, 0, 0, -1, 2, 6, 3, 0, 0 ],
+         "description" : "Your friend, Ford Prefect, is standing here.  He has his beat-up satchel slung over one shoulder (as usual).",
+         "name" : "Ford Prefect",
+         "number" : 2
+      },
+      {
+         "data" : [ 20, 20, 1, 200, 5, 0, 0, -1, 2, 6, 2, 0, 0 ],
+         "description" : "You see a man here who has one more than the usual number of heads and arms.  He seems to be deliberately ignoring your presence.",
+         "name" : "Zaphod Beeblebrox",
+         "number" : 3
+      },
+      {
+         "data" : [ 19, 17, 1, 100, 5, 0, 0, -1, 1, 4, 3, 0, 0 ],
+         "description" : "A tall, slim blonde woman stands here.  She seems to have a self-possessed shyness to her (a great trick if you know how to do it), and she smiles cordially at you.",
+         "name" : "Trillian",
+         "number" : 4
+      },
+      {
+         "data" : [ 250, 35, 1, 200, 3, 0, 10, 0, 2, 8, 2, 0, 0 ],
+         "description" : "You feel a horrible wave of depression wash over you, and you turn to see that Marvin the robot has entered the room.",
+         "name" : "Marvin",
+         "number" : 5
+      },
+      {
+         "data" : [ 70, 0, 1, 200, 5, 0, 0, 0, 0, 0, 2, 0, 0 ],
+         "description" : "Eddie (the shipboard computer) is humming cheerfully as it attends to the overwhelming complexities of running the Heart of Gold.",
+         "name" : "Eddie",
+         "number" : 6
+      },
+      {
+         "data" : [ 17, 14, 1, 200, 0, 0, 0, -1, 1, 8, 2, 0, 0 ],
+         "description" : "You see a dark skinned man of Arabic descent standing where Arthur Dent was a moment ago.  He looks rather confused.",
+         "name" : "Arhur Den",
+         "number" : 7
+      },
+      {
+         "data" : [ 0, 0, 1, 200, 0, 0, 0, 0, 0, 0, 3, 0, 0 ],
+         "description" : "A super intelligent shade of the color blue is hovering in the air above you.  Somehow it manages to convey a smile and say, \"Hi!  I'm Ford Prefec from the world Gratta^(nih) Chance-3.  Take me to your lizard!\"",
+         "name" : "Ford Prefec",
+         "number" : 8
+      },
+      {
+         "data" : [ 45, 7, 1, 30, 0, 0, 2, 0, 2, 9, 2, 0, 0 ],
+         "description" : "You see a giant pink insect wearing black horn-rimmed glasses and holding half of a telephone.",
+         "name" : "Rillian",
+         "number" : 9
+      },
+      {
+         "data" : [ 120, 78, 1, 200, 14, 0, 6, 0, 3, 10, 1, 0, 0 ],
+         "description" : "Oh no!  You have stumbled upon the Ravenous Buggblatter Beast of Traal!  You will surely be ripped to pieces!",
+         "name" : "Buggblatter Beast",
+         "number" : 10
+      },
+      {
+         "data" : [ 16, 20, 1, 200, 0, 0, 0, 0, 1, 4, 3, 0, 0 ],
+         "description" : "You see before you a perfectly harmless and extremely cute Buggblaer Beas.  It licks your hand playfully and runs off in search of pocket fuzz to eat.",
+         "name" : "Buggblaer Beas",
+         "number" : 11
+      },
+      {
+         "data" : [ 30, 2, 1, 70, 15, 0, 0, 0, 2, 8, 1, 0, 0 ],
+         "description" : "You see before you a terrible, slimy, green slug-like creature.  He grabs his latest poem and prepares to slowly torture you to death with it.",
+         "name" : "Prostetnic Vogon Jeltz",
+         "number" : 12
+      }
+   ],
+   "name" : "The Heart of Gold",
+   "numDirections" : 6,
+   "rooms" : [
+      {
+         "data" : [ 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in the remarkably clean baggage compartment of the Heart of Gold.  You can hear the faint purring of the ship's engines.",
+         "name" : "Baggage compartment.  (S)",
+         "number" : 1
+      },
+      {
+         "data" : [ 1, 4, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are standing at the north end of a long corridor which runs the length of the Heart of Gold.",
+         "name" : "Corridor, north end.  (N/S)",
+         "number" : 2
+      },
+      {
+         "data" : [ 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in the cabin currently occupied by Ford Prefect.  There are small diagrams and maps scrawled all over the walls.",
+         "name" : "Ford Prefect's cabin.  (S)",
+         "number" : 3
+      },
+      {
+         "data" : [ 2, 8, 0, 0, 5, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The corridor continues south, and a gangway leads up.",
+         "name" : "Corridor.  (N/S/U)",
+         "number" : 4
+      },
+      {
+         "data" : [ 3, 6, 9, 0, 0, 4, 0, 0, 0, 0, 1 ],
+         "description" : "You are standing on the main deck of the spaceship Heart of Gold.  Controls and computer equipment surround you on all sides.",
+         "name" : "Main deck.  (N/S/E/D)",
+         "number" : 5
+      },
+      {
+         "data" : [ 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in the galley of the spaceship Heart of Gold.  Advanced nutrient synthesizers of all types are lined against the walls.  They each have labels reading, \"Another fine product of the Sirius Cybernetics Corporation.\"",
+         "name" : "Galley.  (N)",
+         "number" : 6
+      },
+      {
+         "data" : [ 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are standing in the engine room of the spaceship Heart of Gold.  The legendary Ultimate Improbability Drive is here, humming quietly.",
+         "name" : "Engine room.  (E)",
+         "number" : 7
+      },
+      {
+         "data" : [ 4, 0, 0, 7, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at the southern end of the corridor.  The door to the engine room lies west.",
+         "name" : "Corridor, south end.  (N/W)",
+         "number" : 8
+      },
+      {
+         "data" : [ 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a warm and comfortable lounge.  A large window gives a serene and calming view of the stars.  For a moment you lose your urge to panic.",
+         "name" : "Lounge.  (W)",
+         "number" : 9
+      },
+      {
+         "data" : [ 11, 12, -1, -1, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are standing in the middle of the lounge at Milliways, the Restaurant at the End of the Universe.  To the north lies the bar, to the east and west are dining areas, and the parking garage lies south.",
+         "name" : "Lounge.  (N/S/E/W)",
+         "number" : 10
+      },
+      {
+         "data" : [ 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in the long bar at Milliways.  You see strange beings of all types happily drinking and jabbering to one another.",
+         "name" : "Bar.  (S)",
+         "number" : 11
+      },
+      {
+         "data" : [ 10, 0, -2, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You stand in the dark parking garage.  Strange space-craft of all shapes and sizes loom around you.  There is one completely black ship to the east which gets your attention.  It seems somebody has left it unlocked.",
+         "name" : "Parking garage.  (N/E)",
+         "number" : 12
+      },
+      {
+         "data" : [ 0, 0, -3, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "As you enter the ship, the door slams shut and it takes off.  You frantically try the controls, but they don't respond!  You suddenly notice a note which informs you that this is a stunt ship which is about to be flung into a sun!",
+         "name" : "Stunt ship.  (E)",
+         "number" : 13
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You feel the wrenching sensation of your atoms being reassembled.  Your head starts to clear and you take note of your surroundings.  You are standing in a cave littered with the bones of various creatures!",
+         "name" : "Lair of the Buggblatter Beast.",
+         "number" : 14
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You and Ford are strapped into uncomfortable chairs.  The Vogon Captain prepares to read you his poem.",
+         "name" : "Poetry Appreciation Room.  (No escape)",
+         "number" : 15
+      }
+   ]
+}

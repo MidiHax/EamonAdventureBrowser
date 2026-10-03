@@ -1,0 +1,515 @@
+{
+   "artifacts" : [
+      {
+         "data" : [ 50, 2, 3, -2, 10, 5, 1, 8 ],
+         "description" : "You see a high quality sword, dropped by Natty.",
+         "name" : "sword",
+         "number" : 1
+      },
+      {
+         "data" : [ 60, 2, 3, -3, 15, 5, 1, 10 ],
+         "description" : "You see a nice long sword, dropped by Nevil.",
+         "name" : "long sword",
+         "number" : 2
+      },
+      {
+         "data" : [ 50, 2, 3, -4, 10, 5, 1, 8 ],
+         "description" : "You see a decent looking short sword, dropped by Norwood the Nervous.",
+         "name" : "short sword",
+         "number" : 3
+      },
+      {
+         "data" : [ 50, 3, 3, -13, 5, 1, 1, 6 ],
+         "description" : "You see a miner's pick, dropped by one of the dwarfs.",
+         "name" : "pick",
+         "number" : 4
+      },
+      {
+         "data" : [ 50, 3, 3, -13, 5, 1, 1, 6 ],
+         "description" : "You see a miner's pick, dropped by one of the dwarfs.",
+         "name" : "pick#",
+         "number" : 5
+      },
+      {
+         "data" : [ 50, 3, 3, -13, 5, 1, 1, 6 ],
+         "description" : "You see a miner's pick, dropped by one of the dwarfs.",
+         "name" : "pick##",
+         "number" : 6
+      },
+      {
+         "data" : [ 50, 3, 3, -13, 5, 1, 1, 6 ],
+         "description" : "You see a miner's pick, dropped by one of the dwarfs.",
+         "name" : "pick###",
+         "number" : 7
+      },
+      {
+         "data" : [ 50, 3, 3, -13, 5, 1, 1, 6 ],
+         "description" : "You see a miner's pick, dropped by one of the dwarfs.",
+         "name" : "pick####",
+         "number" : 8
+      },
+      {
+         "data" : [ 1000, 3, 2, -22, 35, 2, 3, 4 ],
+         "description" : "You see a very odd weapon that is aimed like a bow.  It is called a \"gun\".",
+         "name" : "gun",
+         "number" : 9
+      },
+      {
+         "data" : [ 0, 1, 9999, 30, 0, 0, 0, 0 ],
+         "description" : "You see a device with human beings growing inside of it!  It is the Clonatorium!",
+         "name" : "Clonatorium",
+         "number" : 10
+      },
+      {
+         "data" : [ 0, 1, 9999, 0, 0, 0, 0, 0 ],
+         "description" : "You see the Clonatorium, except it is now in itsy-bitsy pieces on the floor.  It will never produce another clone again!",
+         "name" : "destroyed Clonatorium",
+         "number" : 11
+      },
+      {
+         "data" : [ 20, 1, 2, 5, 0, 0, 0, 0 ],
+         "description" : "You see a pure silver serving tray.  It is intricately made.",
+         "name" : "serving tray",
+         "number" : 12
+      },
+      {
+         "data" : [ 0, 9, 10, 7, 10, 1, 1, 0 ],
+         "description" : "You see a succulent roast boar.",
+         "name" : "roast boar",
+         "number" : 13
+      },
+      {
+         "data" : [ 5, 1, 10, 7, 0, 0, 0, 0 ],
+         "description" : "You see three water jugs, tied together.",
+         "name" : "water jugs",
+         "number" : 14
+      },
+      {
+         "data" : [ 20, 1, 30, 7, 0, 0, 0, 0 ],
+         "description" : "You see a pile of blankets here.",
+         "name" : "blankets",
+         "number" : 15
+      },
+      {
+         "data" : [ 40, 2, 8, 13, 10, 1, 1, 6 ],
+         "description" : "You see a standard axe of decent quality.",
+         "name" : "axe",
+         "number" : 16
+      },
+      {
+         "data" : [ 60, 2, 6, 17, 10, 2, 1, 6 ],
+         "description" : "You see a high quality bow.",
+         "name" : "bow",
+         "number" : 17
+      },
+      {
+         "data" : [ 100, 3, 3, 17, 15, 1, 2, 4 ],
+         "description" : "You see a halberd, which is an axe-like weapon that also resembles a spear.",
+         "name" : "halberd",
+         "number" : 18
+      },
+      {
+         "data" : [ 2000, 0, 120, 14, 0, 0, 0, 0 ],
+         "description" : "You see a pile of gold bars, welded together.  When (of if) you make it home they will be worth big bucks.",
+         "name" : "gold bars",
+         "number" : 19
+      },
+      {
+         "data" : [ 300, 1, 180, 18, 0, 0, 0, 0 ],
+         "description" : "You see a small bronze statue here.  It is finely crafted, though of rather cheap materials.",
+         "name" : "statue",
+         "number" : 20
+      },
+      {
+         "data" : [ 1000, 1, 50, 27, 0, 0, 0, 0 ],
+         "description" : "You see a small jade statue of Buddha here.  Its beauty is captivating, alluring, distracting.",
+         "name" : "Buddha",
+         "number" : 21
+      },
+      {
+         "data" : [ 3000, 1, 60, 27, 0, 0, 0, 0 ],
+         "description" : "You see the biggest diamond you have ever seen in your life here!",
+         "name" : "diamond",
+         "number" : 22
+      },
+      {
+         "data" : [ 200, 1, 5, 27, 0, 0, 0, 0 ],
+         "description" : "You see a very, very odd painting in an old frame.  You can't quite make out the name, something like \"Pickleman?\"",
+         "name" : "painting",
+         "number" : 23
+      },
+      {
+         "data" : [ 1195, 0, 15, 26, 0, 0, 0, 0 ],
+         "description" : "You see a strange, white, and blockish device.  You notice that it is labeled as an \"Apple ][\", but it isn't red or squishy.",
+         "name" : "Apple II",
+         "number" : 24
+      },
+      {
+         "data" : [ 0, 8, -999, 2026, 27, 0, 0, 1 ],
+         "description" : "You have discovered a secret vault door behind the drapes!",
+         "name" : "a secret door north",
+         "number" : 25
+      }
+   ],
+   "effects" : [
+      {
+         "description" : "If you leave without killing the Clonemaster and destroying the Clonatorium, the archers out there will riddle you like a pincushion.",
+         "number" : 1
+      },
+      {
+         "description" : "The rebels take you back, throw a party that lasts three weeks, reward you handsomely, and show you the space-time flaw that sends you home.",
+         "number" : 2
+      },
+      {
+         "description" : "A purple scintillating ray suddenly blasts from your eyes and strikes everybody in the room!",
+         "number" : 3
+      },
+      {
+         "description" : "The rebels gave you some small sheets of green paper with lots of zeros on them as a reward.  You threw it away as valueless.",
+         "number" : 4
+      },
+      {
+         "description" : "This is a blank effect.",
+         "number" : 5
+      },
+      {
+         "description" : "This is a blank effect.",
+         "number" : 6
+      },
+      {
+         "description" : "This is a blank effect.",
+         "number" : 7
+      },
+      {
+         "description" : "This is a blank effect.",
+         "number" : 8
+      },
+      {
+         "description" : "This is a blank effect.",
+         "number" : 9
+      },
+      {
+         "description" : "This is a blank effect.",
+         "number" : 10
+      }
+   ],
+   "info" : {
+      "author" : "Donald Brown",
+      "difficulty" : "6",
+      "rating" : "3.8/4",
+      "serialNum" : "9"
+   },
+   "intro" : "",
+   "monsters" : [
+      {
+         "data" : [ 18, 17, 1, 200, 1, 0, 2, 1, 1, 8, 3, 0, 0 ],
+         "description" : "You see one of the rebel leaders, chosen to join you in your mission:  Natty of Nickleton!",
+         "name" : "Natty",
+         "number" : 1
+      },
+      {
+         "data" : [ 12, 12, 1, 200, 1, 0, 2, 2, 1, 8, 3, 0, 0 ],
+         "description" : "You see a second rebel going with you: Nevil the Gnasher.",
+         "name" : "Nevil",
+         "number" : 2
+      },
+      {
+         "data" : [ 10, 22, 1, 90, 1, 0, 2, 3, 1, 8, 3, 0, 0 ],
+         "description" : "You see the third rebel: Norwood the Nervous.",
+         "name" : "Norwood",
+         "number" : 3
+      },
+      {
+         "data" : [ 27, 12, 1, 75, 26, 0, 1, 0, 2, 8, 1, 0, 0 ],
+         "description" : "You see the Clone Master's pet: A beautiful lion.  He has not been declawed.",
+         "name" : "Lion",
+         "number" : 4
+      },
+      {
+         "data" : [ 3, 1, 2, 5, 9, 0, 0, -1, 1, 1, 150, 0, 0 ],
+         "description" : "You see two of the Clone Master's servants here.",
+         "name" : "Servant",
+         "number" : 5
+      },
+      {
+         "data" : [ 3, 1, 3, 100, 5, 0, 0, -1, 1, 1, 150, 0, 0 ],
+         "description" : "You see three of the Clone Master's servants here.  They seem very timid and humble.",
+         "name" : "Timid Servant",
+         "number" : 6
+      },
+      {
+         "data" : [ 3, 1, 1, 100, 18, 0, 0, -1, 1, 1, 150, 0, 0 ],
+         "description" : "You see one of the Clone Master's servants here.  He is rather large.",
+         "name" : "Large Servant",
+         "number" : 7
+      },
+      {
+         "data" : [ 3, 1, 1, 10, 14, 0, 0, -1, 1, 1, 150, 0, 0 ],
+         "description" : "You see one of the Clone Master's servants here.  He is a little fellow, about four feet tall.",
+         "name" : "Small Servant",
+         "number" : 8
+      },
+      {
+         "data" : [ 3, 1, 1, 25, 14, 0, 0, -1, 1, 1, 150, 0, 0 ],
+         "description" : "You see a tired, old servant of the Clone Master.",
+         "name" : "Old Servant",
+         "number" : 9
+      },
+      {
+         "data" : [ 3, 1, 2, 10, 26, 0, 0, -1, 1, 1, 150, 0, 0 ],
+         "description" : "You see two of the Clone Master's servants here.  One looks at you and says, \"Is that your face or did your neck throw up?\"",
+         "name" : "Sarcastic Servant",
+         "number" : 10
+      },
+      {
+         "data" : [ 2, 2, 3, 10, 28, 0, 0, -1, 1, 1, 110, 0, 0 ],
+         "description" : "You see several gorgeous harem girls, who all look exactly alike.",
+         "name" : "Harem Girl",
+         "number" : 11
+      },
+      {
+         "data" : [ 24, 5, 5, 50, 24, 0, 0, 4, 1, 6, 160, 0, 0 ],
+         "description" : "You see five dwarf miners.  Each one looks strong as an ox, but very mistreated.",
+         "name" : "Miner",
+         "number" : 12
+      },
+      {
+         "data" : [ 12, 7, 2, 200, 2, 0, 1, 0, 1, 8, 1, 0, 0 ],
+         "description" : "You see two of the Clone Master's loyal guard here.",
+         "name" : "Guard",
+         "number" : 13
+      },
+      {
+         "data" : [ 12, 7, 2, 200, 10, 0, 1, 0, 1, 8, 1, 0, 0 ],
+         "description" : "You see two of the Clone Master's loyal guard here.  They look really mean!",
+         "name" : "Mean Guard",
+         "number" : 14
+      },
+      {
+         "data" : [ 12, 7, 5, 200, 18, 0, 1, 0, 1, 8, 1, 0, 0 ],
+         "description" : "You see five of the Clone Master's loyal guard here.  They are ugly and battle-scarred.",
+         "name" : "Ugly Guard",
+         "number" : 15
+      },
+      {
+         "data" : [ 12, 7, 5, 200, 14, 0, 1, 0, 1, 8, 1, 0, 0 ],
+         "description" : "You see five of the Clone Master's loyal guard here.  They are lounging about and give you a look that says its going to be a big hassle to kill you.",
+         "name" : "Lazy Guard",
+         "number" : 16
+      },
+      {
+         "data" : [ 12, 7, 1, 200, 25, 0, 1, 0, 1, 8, 1, 0, 0 ],
+         "description" : "You see a member of the Clone Master's loyal guard here.  He sizes you up, thinking about how much fun it will be to torture you.",
+         "name" : "Sadistic Guard",
+         "number" : 17
+      },
+      {
+         "data" : [ 12, 7, 3, 200, 29, 0, 1, 0, 1, 8, 1, 0, 0 ],
+         "description" : "You see three of the Clone Master's loyal guard here.  They are shouting and cursing.  When you walk in they charge at you.",
+         "name" : "Angry Guard",
+         "number" : 18
+      },
+      {
+         "data" : [ 12, 7, 1, 200, 24, 0, 1, 0, 1, 8, 1, 0, 0 ],
+         "description" : "You see a member of the Clone Master's loyal guard here.  He has beady little eyes which scan your coin pouch.  He is a shady character.",
+         "name" : "Beady-Eyed Guard",
+         "number" : 19
+      },
+      {
+         "data" : [ 12, 7, 1, 200, 30, 0, 1, 0, 1, 8, 1, 0, 0 ],
+         "description" : "You see a member of the Clone Master's loyal guard here.  He has a distant look in his eyes.  He turns to you and says, \"I kill and I shout and all for what?  I'm so depressed!\"",
+         "name" : "Sad Guard",
+         "number" : 20
+      },
+      {
+         "data" : [ 10, 10, 1, 10, 26, 0, 2, 9, 3, 4, 1, 0, 0 ],
+         "description" : "You see a rather nebbish-looking man with horn-rimmed glasses.  This insignificant man is really-- The Clone Master!",
+         "name" : "Clone Master",
+         "number" : 21
+      }
+   ],
+   "name" : "Assault on the Clone Master",
+   "numDirections" : 6,
+   "rooms" : [
+      {
+         "data" : [ -999, 2, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "Rebel bowmen are standing in a solid line to the north.  A dark tunnel leads into the mountain to the south.",
+         "name" : "at the entrance. (N/S)",
+         "number" : 1
+      },
+      {
+         "data" : [ 1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a dark tunnel.  You can see light in both directions.",
+         "name" : "in a north/south tunnel.",
+         "number" : 2
+      },
+      {
+         "data" : [ 2, 8, 4, 6, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "Light is being provided here by a glowing box in the ceiling, tied to the wall.  Your companions tell you to ignore the boxes.",
+         "name" : "at a four-way intersection.",
+         "number" : 3
+      },
+      {
+         "data" : [ 0, 0, 5, 3, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a plain, well-lit tunnel.",
+         "name" : "in an east/west corridor.",
+         "number" : 4
+      },
+      {
+         "data" : [ 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a large but filthy room, with about a dozen crude cots anchored to the walls.",
+         "name" : "in the servant's quarters. (W)",
+         "number" : 5
+      },
+      {
+         "data" : [ 0, 0, 3, 7, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a plain, well-lit tunnel.",
+         "name" : "in an east/west corridor.",
+         "number" : 6
+      },
+      {
+         "data" : [ 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The stock room is mostly empty.  The only exit is east.",
+         "name" : "in the stock room. (E)",
+         "number" : 7
+      },
+      {
+         "data" : [ 3, 9, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a plain, well-lit corridor.",
+         "name" : "in a north/south corridor.",
+         "number" : 8
+      },
+      {
+         "data" : [ 8, 10, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a plain, well-lit corridor.",
+         "name" : "in a north/south corridor.",
+         "number" : 9
+      },
+      {
+         "data" : [ 9, 19, 11, 15, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "Light is being provided here by yet another glowing box in the ceiling.",
+         "name" : "at a four-way intersection.",
+         "number" : 10
+      },
+      {
+         "data" : [ 0, 0, 12, 10, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a plain, well-lit tunnel.",
+         "name" : "in an east/west corridor.",
+         "number" : 11
+      },
+      {
+         "data" : [ 13, 14, 0, 11, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The east/west corridor ends here, with corridors going north and south into some rooms.",
+         "name" : "at a T-intersection; N/S and west.",
+         "number" : 12
+      },
+      {
+         "data" : [ 0, 12, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a room designed to hold many weapons.  The only exit lies to the south.  A large \"1\" is painted on the floor.",
+         "name" : "in armoury #1. (S)",
+         "number" : 13
+      },
+      {
+         "data" : [ 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a room with many bunks and a glowing box in the ceiling.  A large \"1\" is painted on the floor and a sign says, \"Good guards are reborn\".",
+         "name" : "in guard room #1. (N)",
+         "number" : 14
+      },
+      {
+         "data" : [ 0, 0, 10, 16, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a plain, well-lit tunnel.",
+         "name" : "in an east/west corridor.",
+         "number" : 15
+      },
+      {
+         "data" : [ 17, 18, 15, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The east/west corridor ends here, with corridors going north and south into some rooms.",
+         "name" : "at a T-intersection; N/S and east.",
+         "number" : 16
+      },
+      {
+         "data" : [ 0, 16, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a room designed to hold many weapons.  The only exit lies to the south.  A large \"2\" is painted on the floor.",
+         "name" : "in armoury #2. (S)",
+         "number" : 17
+      },
+      {
+         "data" : [ 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a room with many bunks and a glowing box in the ceiling.  A large \"2\" is painted on the floor and a sign says, \"Guards who die in duty will return\".",
+         "name" : "in guard room #2. (N)",
+         "number" : 18
+      },
+      {
+         "data" : [ 10, 20, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a plain, well-lit corridor where, surprise of surprises, there is a glowing box in the ceiling.",
+         "name" : "in a north/south corridor.",
+         "number" : 19
+      },
+      {
+         "data" : [ 19, 21, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a plain, well-lit corridor where, you guessed it, there is a glowing box in the ceiling.",
+         "name" : "in a north/south corridor.",
+         "number" : 20
+      },
+      {
+         "data" : [ 20, 29, 25, 22, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "Light is being provided here by yet another glowing box in the ceiling.  The tunnel to the south seems wider than the others.",
+         "name" : "at a four-way intersection.",
+         "number" : 21
+      },
+      {
+         "data" : [ 0, 0, 21, 23, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "This tunnel is very rough and unpolished, particularly in contrast to the tunnels you have been going through.  Light is being provided by some burning torches.",
+         "name" : "in an east/west corridor.",
+         "number" : 22
+      },
+      {
+         "data" : [ 24, 0, 22, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The tunnels here are very rough and rugged, with light being provided by torches.",
+         "name" : "at a north/east bend in the corridor.",
+         "number" : 23
+      },
+      {
+         "data" : [ 0, 23, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The rough corridor stops abruptly here, so you can only go south.",
+         "name" : "at a dead end. (S)",
+         "number" : 24
+      },
+      {
+         "data" : [ 0, 0, 26, 21, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a plain, well-lit tunnel.  There appears to be a large room to the east.",
+         "name" : "in an east/west corridor.",
+         "number" : 25
+      },
+      {
+         "data" : [ 1025, 28, 0, 25, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a fabulous bedroom.  Large drapes cover the north wall.  A corridor leads west and there is a room south through a curtain.",
+         "name" : "in the Clone Master's quarters. (S/W)",
+         "number" : 26
+      },
+      {
+         "data" : [ 0, 26, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are inside the Clone Master's vault.  It is very dark and the only exit is the vault door to the south.",
+         "name" : "in the vault. (S)",
+         "number" : 27
+      },
+      {
+         "data" : [ 26, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a very plush room with the only exit through a curtain to the north.",
+         "name" : "in the harem. (N)",
+         "number" : 28
+      },
+      {
+         "data" : [ 21, 30, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "There is an open doorway to the south.  To the north you see a four-way intersection.",
+         "name" : "in the great hall. (N/S)",
+         "number" : 29
+      },
+      {
+         "data" : [ 29, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a room with the only exit lying to the north.  Tubes with bubbling green liquids are being piped in through the walls.  Strange humming noises fill the room.  You recognize this room from the rebel's description:  The clone room!",
+         "name" : "in the clone room. (N)",
+         "number" : 30
+      }
+   ]
+}

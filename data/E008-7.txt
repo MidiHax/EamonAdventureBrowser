@@ -1,0 +1,1473 @@
+{
+   "artifacts" : [
+      {
+         "data" : [ 0, 13, 200, 2, 0, 0, 0, 0 ],
+         "description" : "You see the last victim of the Black Knight: A strong (but dead) knight in plate mail with a two-handed sword poking into his helm through the visor and out the back.",
+         "name" : "dead body",
+         "number" : 1
+      },
+      {
+         "data" : [ 50, 2, 14, -3, 15, 5, 1, 12 ],
+         "description" : "You see a huge bronze-handled broad sword. It is razor sharp, deadly, and very heavy. If you want to carry it, you'll have a nasty weapon.",
+         "name" : "broad sword",
+         "number" : 2
+      },
+      {
+         "data" : [ 25, 2, 10, -4, 15, 5, 1, 10 ],
+         "description" : "Sir Bedivere's nasty broad sword is here.",
+         "name" : "broad sword#",
+         "number" : 3
+      },
+      {
+         "data" : [ 25, 2, 8, -5, 10, 5, 1, 8 ],
+         "description" : "You see a normal sword.",
+         "name" : "sword",
+         "number" : 4
+      },
+      {
+         "data" : [ 25, 2, 8, -6, 10, 5, 1, 8 ],
+         "description" : "You see a nondescript sword.",
+         "name" : "sword#",
+         "number" : 5
+      },
+      {
+         "data" : [ 25, 2, 10, -7, 15, 5, 1, 10 ],
+         "description" : "You see a lethal broad sword with a razor sharp edge.",
+         "name" : "broad sword##",
+         "number" : 6
+      },
+      {
+         "data" : [ 10, 1, 15, 6, 0, 0, 0, 0 ],
+         "description" : "You see a pile of assorted lumber.",
+         "name" : "lumber",
+         "number" : 7
+      },
+      {
+         "data" : [ 8, 1, 5, 6, 0, 0, 0, 0 ],
+         "description" : "You see a large piece of strong canvas.",
+         "name" : "canvas",
+         "number" : 8
+      },
+      {
+         "data" : [ 4, 1, 3, 6, 0, 0, 0, 0 ],
+         "description" : "You see a 50' length of rope.",
+         "name" : "rope",
+         "number" : 9
+      },
+      {
+         "data" : [ 0, 1, 999, 0, 0, 0, 0, 0 ],
+         "description" : "You see a large, wooden and canvas rabbit held together with pegs and rope.",
+         "name" : "Trojan rabbit",
+         "number" : 10
+      },
+      {
+         "data" : [ 500, 1, 5, -8, 0, 0, 0, 0 ],
+         "description" : "You see a small golden, pineapple-shaped object with a cross on top. This is the Holy Hand Grenade, used in thine mercy to blow thy enemy into tiny bits.",
+         "name" : "Holy Hand Grenade",
+         "number" : 11
+      },
+      {
+         "data" : [ 300, 7, 10, -8, 7, 1, 1, 0 ],
+         "description" : "You see the Sacred Book of Armaments, which God originally gave to the prophet Pershing.",
+         "name" : "Sacred Book of Armaments",
+         "number" : 12
+      },
+      {
+         "data" : [ 0, 8, -999, 9, 10, -1, 1, 0 ],
+         "description" : "A huge unbreakable door blocks the path to the castle.",
+         "name" : "huge unbreakable door",
+         "number" : 13
+      },
+      {
+         "data" : [ 0, 1, 999, 0, 0, 0, 0, 0 ],
+         "description" : "You see a quite stunned cow that doesn't feel like doing much but shaking.",
+         "name" : "cow",
+         "number" : 14
+      },
+      {
+         "data" : [ 0, 1, 50, 0, 0, 0, 0, 0 ],
+         "description" : "You see a pile of broken wood, ripped canvas and stray rope.",
+         "name" : "smashed rabbit",
+         "number" : 15
+      },
+      {
+         "data" : [ 0, 13, 180, 0, 0, 0, 0, 0 ],
+         "description" : "A man in a brown polyester suit lies on the ground all hacked up and bloody. He was the curator of the London History Museum and was obviously a victim of a brutal murder.",
+         "name" : "dead curator",
+         "number" : 16
+      },
+      {
+         "data" : [ 0, 1, -999, 14, 0, 0, 0, 0 ],
+         "description" : "Three knights are skewered on a long lance, in the manner of a shish-kabob. The lance itself is stuck through a tree.",
+         "name" : "shish-ka-knight",
+         "number" : 17
+      },
+      {
+         "data" : [ 0, 7, 0, 33, 26, 1, 1, 0 ],
+         "description" : "An arrow is stuck in a nearby tree. On it is a curious note.",
+         "name" : "note",
+         "number" : 18
+      },
+      {
+         "data" : [ 25, 2, 8, -14, 10, 5, 1, 8 ],
+         "description" : "You see a normal sword.",
+         "name" : "sword##",
+         "number" : 19
+      },
+      {
+         "data" : [ 25, 2, 9, -15, 25, 4, 1, 10 ],
+         "description" : "You see a fine halberd of English make.",
+         "name" : "halberd",
+         "number" : 20
+      },
+      {
+         "data" : [ 25, 2, 7, -17, 10, 4, 1, 6 ],
+         "description" : "You see a standard spear.",
+         "name" : "spear",
+         "number" : 21
+      },
+      {
+         "data" : [ 20, 2, 8, -18, 10, 5, 1, 8 ],
+         "description" : "You see a sword of non-extraordinary quality.",
+         "name" : "sword###",
+         "number" : 22
+      },
+      {
+         "data" : [ 2, 1, 3, 41, 0, 0, 0, 0 ],
+         "description" : "You see a piece of rope tied to the bed and leading out the window.",
+         "name" : "rope#",
+         "number" : 23
+      },
+      {
+         "data" : [ 0, 1, 10, 0, 0, 0, 0, 0 ],
+         "description" : "You see a nice little shrubbery just like the Knights of Ni asked for.",
+         "name" : "shrubbery",
+         "number" : 24
+      },
+      {
+         "data" : [ 100, 1, 6, -23, 0, 0, 0, 0 ],
+         "description" : "You see Tim's magic staff, completely unusable to you.",
+         "name" : "staff",
+         "number" : 25
+      },
+      {
+         "data" : [ 0, 1, -999, 50, 0, 0, 0, 0 ],
+         "description" : "You see a small scraggly bush common to dry harsh climates.",
+         "name" : "bush",
+         "number" : 26
+      },
+      {
+         "data" : [ 0, 1, -999, 50, 0, 0, 0, 0 ],
+         "description" : "You see a thin, half dead tree with brown, withering leaves.",
+         "name" : "tree",
+         "number" : 27
+      },
+      {
+         "data" : [ 0, 1, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see a bush quickly being consumed by a fierce blaze.",
+         "name" : "burning bush",
+         "number" : 28
+      },
+      {
+         "data" : [ 0, 1, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see a badly banged up, very charred stump sitting here.",
+         "name" : "charred stump",
+         "number" : 29
+      },
+      {
+         "data" : [ 0, 7, -999, 58, 50, 1, 1, 0 ],
+         "description" : "You see the inscription that you were looking for, it reveals the location of the Grail!",
+         "name" : "inscription",
+         "number" : 30
+      },
+      {
+         "data" : [ 0, 8, -999, 71, 74, -1, 1, 0 ],
+         "description" : "You see a large, unbreakable door blocking entrance to the castle.",
+         "name" : "door",
+         "number" : 31
+      },
+      {
+         "data" : [ 0, 1, -999, 73, 0, 0, 0, 0 ],
+         "description" : "You see a huge catapult, capable of hurling boulders or Greek fire over the highest castle walls.",
+         "name" : "catapult",
+         "number" : 32
+      },
+      {
+         "data" : [ 0, 1, -999, 73, 0, 0, 0, 0 ],
+         "description" : "A long log with an iron ram's head on the front of it is sitting on a set of wheels. This is a battering ram, capable of bashing down the toughest of doors.",
+         "name" : "battering ram",
+         "number" : 33
+      },
+      {
+         "data" : [ 0, 1, -999, 73, 0, 0, 0, 0 ],
+         "description" : "A huge ballista is being readied by the men. It is a type of giant cross bow that can strike down whole ranks of soldiers.",
+         "name" : "ballista",
+         "number" : 34
+      },
+      {
+         "data" : [ 5, 4, 1, 74, 0, 0, 3, 3 ],
+         "description" : "You see a nice little red, heart shaped candy box. On the front it reads \"Wipple candies, Ltd. Contents: Crunchy Frog, Caramel Goat's Bladder and Anthrax Ripple.\"",
+         "name" : "candy box",
+         "number" : 35
+      },
+      {
+         "data" : [ 0, 9, 0, 1035, 0, 0, 0, 0 ],
+         "description" : "You see a candy called Crunchy Frog. First, you take a baby frog and dehydrate it. Then you flush it out with spring water, glaze it with honey and cover it with double fudge chocolate. Simply splendid!",
+         "name" : "Crunchy-Frog candy",
+         "number" : 36
+      },
+      {
+         "data" : [ 0, 9, 0, 1035, 0, 0, 0, 0 ],
+         "description" : "You see a simply delicious Caramel Goat's Bladder candy. First, you get a fresh Mongolian ram's bladder, rinse it out with spring water and fill it with a caramel nougat. Then, you layer it with Swiss chocolate. Yum-yum good!",
+         "name" : "Caramel Goat's Bladder",
+         "number" : 37
+      },
+      {
+         "data" : [ 0, 9, 0, 1035, 0, 0, 0, 0 ],
+         "description" : "Oh-goody! Your favorite, an Anthrax Ripple! First they take... Well you really don't want to know how it's made!",
+         "name" : "Anthrax Ripple",
+         "number" : 38
+      },
+      {
+         "data" : [ 0, 1, -999, 0, 0, 0, 0, 0 ],
+         "description" : "Your freshly puked body fluids are here. It goes to show you that you shouldn't eat things like Crunchy Frogs or Goat Bladders!",
+         "name" : "puke",
+         "number" : 39
+      },
+      {
+         "data" : [ 0, 1, 5, 1041, 0, 0, 0, 0 ],
+         "description" : "Ah! The fruit of your labors, the end of your quest is here! It is the Holy Grail! You have found it at last! Sadly, it is covered with raw sewage. These Monty Python fellows ought to be shot!",
+         "name" : "Holy Grail",
+         "number" : 40
+      },
+      {
+         "data" : [ 100, 4, 15, 77, 0, 0, 1, 1 ],
+         "description" : "A silver chamber pot is in the corner, of course this isn't just any chamber pot, it is the chamber pot of Her Majesty, Queen Victoria! A shiny brass lid keeps it closed.",
+         "name" : "chamber pot",
+         "number" : 41
+      },
+      {
+         "data" : [ 0, 1, 10, 1041, 0, 0, 0, 0 ],
+         "description" : "A horrible, stinking sludge of raw sewage is here. You are completely appalled by its looks, smells, and...tastes?",
+         "name" : "raw sewage",
+         "number" : 42
+      },
+      {
+         "data" : [ 0, 4, 2, 77, 0, 0, 1, 0 ],
+         "description" : "A simple yet large Styrofoam cup is here. In it you can see about 10 cigarette butts and a 1/2 lb. of old coffee. Oh, yes you can also see a grail.",
+         "name" : "Styrofoam cup",
+         "number" : 43
+      },
+      {
+         "data" : [ 5, 1, 5, 1043, 0, 0, 0, 0 ],
+         "description" : "Egad! You have been deceived! You see a tin, brass plated cup reading, \"Old English Days, August 1-14, 926 Camelot\"",
+         "name" : "souvenir grail",
+         "number" : 44
+      },
+      {
+         "data" : [ 0, 13, 150, 0, 0, 0, 0, 0 ],
+         "description" : "Patsy has been disgustingly smeared all over the place in a pile resembling a tomato after a firecracker was set off in it.",
+         "name" : "splatsied Patsy",
+         "number" : 45
+      },
+      {
+         "data" : [ 0, 13, 150, 0, 0, 0, 0, 0 ],
+         "description" : "On the ground is a very annoyed Black Knight with no arms or legs. He is constantly wriggling about and challenging you to a fight. You have never seen such an odd sight before, but you have to admit that he's tough.",
+         "name" : "dismembered Black Knight",
+         "number" : 46
+      },
+      {
+         "data" : [ 0, 13, 150, 0, 0, 0, 0, 0 ],
+         "description" : "Sir Bedivere resembles one of those round, flat style dead bodies used in cartoons (such as when the boulder fell on Wile E. Coyote).",
+         "name" : "flat Bedivere",
+         "number" : 47
+      },
+      {
+         "data" : [ 0, 13, 150, 0, 0, 0, 0, 0 ],
+         "description" : "Lancelot falls to the ground quite dead.",
+         "name" : "Lancelot's body",
+         "number" : 48
+      },
+      {
+         "data" : [ 0, 13, 150, 0, 0, 0, 0, 0 ],
+         "description" : "Galahad received a nasty blow against the abdomen. And all of a sudden his intestines slither all over the floor.",
+         "name" : "disemboweled Galahad",
+         "number" : 49
+      },
+      {
+         "data" : [ 0, 13, 150, 0, 0, 0, 0, 0 ],
+         "description" : "Robin has: Had his liver removed, his butt burned off, his eyes gouged out, his elbows broken, his knee caps split in two, and his toe nails chipped. Oh yes, I forgot that he was dead!",
+         "name" : "extremely dead Robin",
+         "number" : 50
+      },
+      {
+         "data" : [ 0, 13, 150, 0, 0, 0, 0, 0 ],
+         "description" : "Saint Xavier moans and departs for the promised land.",
+         "name" : "Saint Xavier's corpse",
+         "number" : 51
+      },
+      {
+         "data" : [ 0, 13, 150, 0, 0, 0, 0, 0 ],
+         "description" : "All of Robin's minstrels lay dead in a heap all covered with blood.*042",
+         "name" : "heap of dead minstrels",
+         "number" : 52
+      },
+      {
+         "data" : [ 0, 1, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You have done the impossible. You killed the cops! You got in the program and cheated. You ungrateful, degenerate bastard!",
+         "name" : "impossibility",
+         "number" : 53
+      },
+      {
+         "data" : [ 0, 1, -999, 0, 0, 0, 0, 0 ],
+         "description" : "The three headed giant is now a mere pile of tri-colored guts and blood. The colors are: red, white, and mauve.",
+         "name" : "tri-colored gore",
+         "number" : 54
+      },
+      {
+         "data" : [ 0, 13, 150, 0, 0, 0, 0, 0 ],
+         "description" : "All of the incredibly gorgeous and sleazy have suffered a major setback to their sex appeal. Very few men are attracted to corpses! (Except possibly Mr. Roessler-- No, he's evil but not a gross perverted sicko. Maybe Dick Van Patten?",
+         "name" : "slain sluts",
+         "number" : 55
+      },
+      {
+         "data" : [ 3, 11, 3, 0, 0, 1, 0, 0 ],
+         "description" : "As the old man is struck down, his body fades away and insane laughter is heard. All that is left is his cloak.",
+         "name" : "cloak",
+         "number" : 56
+      },
+      {
+         "data" : [ 0, 13, 150, 0, 0, 0, 0, 0 ],
+         "description" : "The guard has been hacked up beyond recognition.",
+         "name" : "badly hacked up guard",
+         "number" : 57
+      },
+      {
+         "data" : [ 0, 13, 150, 0, 0, 0, 0, 0 ],
+         "description" : "You see a guard who has been killed in incredible violence.",
+         "name" : "croaked guard",
+         "number" : 58
+      },
+      {
+         "data" : [ 0, 13, 150, 0, 0, 0, 0, 0 ],
+         "description" : "The wedding guests have been sliced, diced, mangled, mutilated, mauled, masticated and hurt. Only a few survived to flee off into the hills screaming, \"The horror! The bride is a transvestite!\"",
+         "name" : "brutal slaughter victims",
+         "number" : 59
+      },
+      {
+         "data" : [ 0, 13, 150, 0, 0, 0, 0, 0 ],
+         "description" : "All that's left of the guard is a corpse. How odd.",
+         "name" : "corpse",
+         "number" : 60
+      },
+      {
+         "data" : [ 0, 13, 150, 0, 0, 0, 0, 0 ],
+         "description" : "The guard has been mangled beyond any possible recognition.",
+         "name" : "mangled guard",
+         "number" : 61
+      },
+      {
+         "data" : [ 0, 13, 150, 0, 0, 0, 0, 0 ],
+         "description" : "The Prince looks as if he has been squished between a rock and another rock of much greater weight.",
+         "name" : "pressed Prince",
+         "number" : 62
+      },
+      {
+         "data" : [ 0, 13, 150, 0, 0, 0, 0, 0 ],
+         "description" : "The old woman has been spindled badly.",
+         "name" : "spindled old woman",
+         "number" : 63
+      },
+      {
+         "data" : [ 0, 13, 150, 0, 0, 0, 0, 0 ],
+         "description" : "You foul fiend! Why would you kill an innocent shrubber? Alas, he has been shredded into little tiny pieces.",
+         "name" : "shredded shrubber",
+         "number" : 64
+      },
+      {
+         "data" : [ 0, 13, 150, 0, 0, 0, 0, 0 ],
+         "description" : "The Knights of Ni lay about in huge piles of corpses, guts, gore, and blood. You must be one real bad ************!",
+         "name" : "dead Knights of Ni",
+         "number" : 65
+      },
+      {
+         "data" : [ 2, 11, 2, 0, 0, 4, 0, 0 ],
+         "description" : "As Tim groans his final breath he mutters something. He is in perfect health! But of no avail for he says unto you, \"This place is too rough for me!\" and he disappears in a flash of fire. All that is left is a real neat hat.",
+         "name" : "real neat hat",
+         "number" : 66
+      },
+      {
+         "data" : [ 0, 13, 150, 0, 0, 0, 0, 0 ],
+         "description" : "All 'tis left of yon cute and fuzzy bunny that deals death is a disgusting pile of teeny-tiny bits of gore.",
+         "name" : "teeny-tiny bits of gore",
+         "number" : 67
+      },
+      {
+         "data" : [ 30, 1, 4, 0, 0, 0, 0, 0 ],
+         "description" : "The animated behemoth, alias the black beast, has been reduced to a single motionless frame.",
+         "name" : "single frame",
+         "number" : 68
+      },
+      {
+         "data" : [ 2, 11, 5, 0, 0, 2, 0, 0 ],
+         "description" : "The old man fades away, laughing hysterically. All that remains is an old battered pair of cowboy boots.",
+         "name" : "cowboy boots",
+         "number" : 69
+      },
+      {
+         "data" : [ 0, 13, 150, 0, 0, 0, 0, 0 ],
+         "description" : "The Pikemen all have been slain, with nasty holes through their heads, abdomens, and chests.",
+         "name" : "punctured Pikemen",
+         "number" : 70
+      },
+      {
+         "data" : [ 0, 13, 150, 0, 0, 0, 0, 0 ],
+         "description" : "The Black Knights have been mauled in a vicious and cruel manner.",
+         "name" : "mauled Black Knights",
+         "number" : 71
+      },
+      {
+         "data" : [ 0, 13, 150, 0, 0, 0, 0, 0 ],
+         "description" : "The Archers are dead. Arranged in neat piles of one score each.",
+         "name" : "annihilated Archers",
+         "number" : 72
+      },
+      {
+         "data" : [ 0, 13, 150, 0, 0, 0, 0, 0 ],
+         "description" : "The Cavalry has been cut into a million pieces.",
+         "name" : "cut-up Cavalry",
+         "number" : 73
+      },
+      {
+         "data" : [ 0, 13, 150, 0, 0, 0, 0, 0 ],
+         "description" : "You see a dead old mother.",
+         "name" : "dead old mother",
+         "number" : 74
+      },
+      {
+         "data" : [ 0, 13, 150, 0, 0, 0, 0, 0 ],
+         "description" : "You see a dead buxom woman.",
+         "name" : "dead buxom woman",
+         "number" : 75
+      },
+      {
+         "data" : [ 0, 13, 150, 0, 0, 0, 0, 0 ],
+         "description" : "You see a dead Bruce lying here.",
+         "name" : "Bruce's body",
+         "number" : 76
+      },
+      {
+         "data" : [ 0, 13, 150, 0, 0, 0, 0, 0 ],
+         "description" : "You see a dead Bruce lying here.",
+         "name" : "Bruce's body#",
+         "number" : 77
+      }
+   ],
+   "effects" : [
+      {
+         "description" : "The knight pushes you back forcefully and booms in a deep voice, \"None shall pass!\"",
+         "number" : 1
+      },
+      {
+         "description" : "The knight's left arm is neatly hacked off and blood gushes out of the wound. You say, \"You were a worthy opponent Sir Knight, now let me pass!\" The knight refuses to do so. You bellow, \"But your arm's off!\". He looks bewildered and**003",
+         "number" : 2
+      },
+      {
+         "description" : "says, \"No! You're lying!\". He then charges you.",
+         "number" : 3
+      },
+      {
+         "description" : "You have chopped off both of his arms and start to pack up your weapons. As you are doing so he kicks you in the side of the head. You scream, \"Are you insane? Both of your arms are off!\" He looks confused and says, \"It's just**005",
+         "number" : 4
+      },
+      {
+         "description" : "a flesh wound!\" He starts to kick you frantically.",
+         "number" : 5
+      },
+      {
+         "description" : "You finally have cut off both his arms and one leg. You try to push him aside, but he forces you back by bleeding on you.",
+         "number" : 6
+      },
+      {
+         "description" : "Explosives 9:17 To use the Holy Hand Grenade to, in thy mercy, blow thy enemy into tiny bits, one must first type 'USE HOLY HAND GRENADE'. After which thou shalt pull the pin, and count to 3. The number counted shalt be 3, the number**008",
+         "number" : 7
+      },
+      {
+         "description" : "of counting shalt be 3, and 3 shalt be counted. 1 and 2 shalt not be counted unless thoust continues to 3. 4 shalt not be counted. 5 is right out. The Holy Hand Grenade will only work against hogs, dogs, cats, rats, bats, bears,**009",
+         "number" : 8
+      },
+      {
+         "description" : "fish, humans, lions, orangutans, sheep, cows, donkeys, orcs, goblins, dragons, hobgoblins, earthworms, Godzilla, newts, the walking dead, figs, gnats, balrogs, insects, protozoa, fungi, and rabbits.",
+         "number" : 9
+      },
+      {
+         "description" : "A Frenchman calls from above and says, \"What do you want, you dirty English pig dogs?\" You yell back, \"I am on a quest for the Holy Grail, you may join me if you wish!\" He screams back, \"Why would I do that? We already have one!\"",
+         "number" : 10
+      },
+      {
+         "description" : "The Frenchman cries, \"Go away you dirty pig-dogs! I wave my private parts at your grandmother! Your mother was a hunster and your father smelled of eldeberries! I fart in your general direction you silly person! Now go!\"",
+         "number" : 11
+      },
+      {
+         "description" : "A cow is flung from the parapets and lands on top of Patsy!",
+         "number" : 12
+      },
+      {
+         "description" : "A cow is flung from the parapets, but lands 15' from anybody.",
+         "number" : 13
+      },
+      {
+         "description" : "\"I said go away you stinking English sillies! Now get out! I wouldn't give you the privilege of throwing my excrement on your face! Shoo-shoo-shoo!\"",
+         "number" : 14
+      },
+      {
+         "description" : "As you hide in the brush, the French take the rabbit inside their fortress!",
+         "number" : 15
+      },
+      {
+         "description" : "Sir Bedivere says, \"If we build a Trojan Rabbit, leave it at their door, and go hide somewhere while they take it inside, maybe we can take the fortress!\"",
+         "number" : 16
+      },
+      {
+         "description" : "Sir Bedivere says, \"Good, now Sir Lancelot, yourself, and I wait in the rabbit until nightfall...\" You hit him on the head. He says, \"Maybe if we build a large wooden badger...\" You bellow, \"Shut-up!\" and hit him on the head.",
+         "number" : 17
+      },
+      {
+         "description" : "Your rabbit is flung from the parapets! And it crushes Patsy!",
+         "number" : 18
+      },
+      {
+         "description" : "Your rabbit is flung from the parapet and smashes into a thousand pieces.",
+         "number" : 19
+      },
+      {
+         "description" : "The minstrels sing, \"Sir Robin is not afraid to die or be killed in nasty ways. To get a spear poked through his eye, or his knee-caps broken.\"",
+         "number" : 20
+      },
+      {
+         "description" : "The minstrels sing, \"To have his liver removed and his butt burned off. His pancreas sliced and his body all a' diced.\"",
+         "number" : 21
+      },
+      {
+         "description" : "The minstrels sing, \"When danger reared its ugly head, Sir Robin bravely turned tail and fled!\"",
+         "number" : 22
+      },
+      {
+         "description" : "Lancelot says, \"Good sir, this is dull. I shall go to the west and post guard.\" He walks west aways. Shortly after you hear a loud scream!",
+         "number" : 23
+      },
+      {
+         "description" : "The old man says, \"First ye must travel far north, past the Knights of Ni. There you will find an enchanter. Talk to him, he knows where you can find the last known location of the Grail. Then you must cross the Bridge of Doom.**025",
+         "number" : 24
+      },
+      {
+         "description" : "to pass you must answer three questions, ere be cast into the Pit of Eternal Peril. From there you look for the Grail. He, he, he.\" All of a sudden, the man is gone and you are in the middle of a forest!",
+         "number" : 25
+      },
+      {
+         "description" : "Help! My evil father has locked me in my tower and forced me to wed against my will! Please help me, I'm in Swamp Castle! (And please hurry, the wedding is this afternoon!)",
+         "number" : 26
+      },
+      {
+         "description" : "The Prince climbs down the rope and yells, \"Well please hurry up if you want to rescue me. I'll be in the main chamber!\"",
+         "number" : 27
+      },
+      {
+         "description" : "The Prince says, \"I think I shall sing a song!\" You had better get out soon if you want to live!",
+         "number" : 28
+      },
+      {
+         "description" : "The chorus is starting up, if you have any brains you will vacate this room immediately!",
+         "number" : 29
+      },
+      {
+         "description" : "Arrrgh! He starts to sing... You are at first in very great pain, then it numbs away, and then you lose consciousness. Before you know it, you are dead!",
+         "number" : 30
+      },
+      {
+         "description" : "Alex says, \"You may have the shrubbery I leave here if you let the old woman alone.\"",
+         "number" : 31
+      },
+      {
+         "description" : "The Knights of Ni stop you and say, \"We will let you pass IF you get us a piece of shrubbery! And make sure it looks good next to the road, isn't very expensive, and won't die in a week!\"",
+         "number" : 32
+      },
+      {
+         "description" : "The Knights of Ni chant, \"What are you waiting for? Get your hiney in gear and get that shrubbery!\"",
+         "number" : 33
+      },
+      {
+         "description" : "\"Thank-you for the shrubbery. But, we changed our minds. We want a second shrubbery! and make sure it-- Aggh! I said the one word the Knights of Ni may never hear. As I said, it-- Aggh! I said it again! I said it again! Don't**035",
+         "number" : 34
+      },
+      {
+         "description" : "say 'it'! Arrgh! You said it! Arrrg! I said it too! Aaayiee!\" The Knights of Ni are now completely hysterical and pose no threat to your safe passing.",
+         "number" : 35
+      },
+      {
+         "description" : "You are under arrest for conspiring in the murder of the curator of the London Museum of History (the guy in the brown suit that Lancelot hacked up). You receive a 5 year sentence, lose all your money, armor and weapons.",
+         "number" : 36
+      },
+      {
+         "description" : "A sudden blizzard caught you off guard, but you put up camp in time to ride it out. Unfortunately, you had to stay all winter. There was a shortage of food and you had to eat Sir Robin's minstrels. There was great rejoicing.",
+         "number" : 37
+      },
+      {
+         "description" : "To the north on top of a great pillar of rock you see an explosion! Similar explosions burst about you. Suddenly the smoke clears and a man is standing in front of you!",
+         "number" : 38
+      },
+      {
+         "description" : "The man blocks your path and says, \"Wait, we must talk!\"",
+         "number" : 39
+      },
+      {
+         "description" : "The mage says, \"I am an enchanter, but some know me as...\" [dramatic pause] \"Tim! You seek the Grail, do you not?\" You meekly say, \"Yes, sir.\" Tim then whips about and sends a searing torrent of flame from his staff!",
+         "number" : 40
+      },
+      {
+         "description" : "Tim says, \"Well then, you must seek to find out the whereabouts of the Grail?\" You murmur weakly, \"Yes.\" He says, \"Then follow me!\" He turns about, a surface-to-surface missile launches from his staff, and blows up the tree, \"Or else!\"",
+         "number" : 41
+      },
+      {
+         "description" : "Good Riddance!",
+         "number" : 42
+      },
+      {
+         "description" : "You pull the pin. Count 1, 2, 5, er 3. And hurl the grenade... But you miss however.",
+         "number" : 43
+      },
+      {
+         "description" : "You pull the pin. Count 1, 2, 5, er 3. And hurl the grenade. It lands and blows that darned rabbit into bunny pate.",
+         "number" : 44
+      },
+      {
+         "description" : "Saint Xavier says to you, \"Maybe these could help.\" He hands you the Holy Hand Grenade and the Sacred Book of Armaments.",
+         "number" : 45
+      },
+      {
+         "description" : "Tim says, \"And finally, you better be brave of heart, for the cave is guarded by a ferocious beast! And you could meet your doom with big, pointy teeth! Ha-ha-ha!\"",
+         "number" : 46
+      },
+      {
+         "description" : "You say to Tim, \"That? That is it? Ha!\" Tim says, \"Yes! Oh, definitely!\" You laugh, \"Old fool!\" He gets angry and says, \"Yes, he may be a rabbit but he has a mean streak a mile long!\"",
+         "number" : 47
+      },
+      {
+         "description" : "Tim laughs, \"Try it buddy!\" and walks away, far into the distance.",
+         "number" : 48
+      },
+      {
+         "description" : "The huge black beast snatches Xavier up from the shadows and devours him!",
+         "number" : 49
+      },
+      {
+         "description" : "It reads, \"The Holy Grail rests in the Castle Arrrgggh...\"",
+         "number" : 50
+      },
+      {
+         "description" : "The men grow restless and annoyed! Arrrgggh? What does that mean? Maybe he died. But he wouldn't spend the time to carve out \"Arrrgggh...\" Maybe he was dictating?",
+         "number" : 51
+      },
+      {
+         "description" : "All would look lost, but before the beast could leap upon you and devour you, the animator suffered a fatal heart attack, thus ending the assault of the animated juggernaut.",
+         "number" : 52
+      },
+      {
+         "description" : "Lancelot steps up to the bridge. The old man asks, \"You must answer these questions three, ere the other side you see. What is your name?\" \"Lancelot. \"Your quest?\" \"To find the Holy Grail.\" \"And your favorite color?\" \"Blue.\" \"All right, go on.\"",
+         "number" : 53
+      },
+      {
+         "description" : "Galahad steps forth. The old man asks him, \"What is your name?\" \"Sir Galahad.\" \"Your quest?\" \"To find the Holy Grail.\" \"And your favorite color?\" \"Blue -- No green! Arrggh!\" He is cast into the Pit of Eternal Peril.\"",
+         "number" : 54
+      },
+      {
+         "description" : "Sir Robin steps up. He is asked, \"What is your name?\" \"Sir Robin.\" \"Quest?\" \"To seek the Holy Grail.\" \"And the capital of Istidia?\" \"I don't know that!\" Whoosh! He is flung into the Pit of Eternal Peril!",
+         "number" : 55
+      },
+      {
+         "description" : "As Saint Xavier crosses, he trips and falls into the Pit of Eternal Peril!",
+         "number" : 56
+      },
+      {
+         "description" : "As Patsy crosses, he trips and falls head-first into the Pit of Eternal Peril.",
+         "number" : 57
+      },
+      {
+         "description" : "The old man says, \"You must answer these questions three; ere the other side you see!\" He asks you, \"What is your name?\"",
+         "number" : 58
+      },
+      {
+         "description" : "\"What is your quest?\"",
+         "number" : 59
+      },
+      {
+         "description" : "\"And what has 4 legs and barks like a dog?\"",
+         "number" : 60
+      },
+      {
+         "description" : "\"All right, you may pass.\"",
+         "number" : 61
+      },
+      {
+         "description" : "The old man waves his hand and you are flung into the Pit of Eternal Peril! You spend the rest of your life tormented by Larouchite Democrats!",
+         "number" : 62
+      },
+      {
+         "description" : "You notice that Sir Lancelot took it upon himself to go on ahead.",
+         "number" : 63
+      },
+      {
+         "description" : "Only to be arrested by the police for his brutal murder of the Curator of the London Museum of History.",
+         "number" : 64
+      },
+      {
+         "description" : "It's the French guys again! They sneer at you, \"Hey you English pig-dogs, go away! You smell worse than a pig fart! Shoo-shoo! You vile poopheads!\" They then pelt you with garbage.",
+         "number" : 65
+      },
+      {
+         "description" : "The French guys throw garbage at you and sneer at you, \"Arthur has chicken lips\" and \"You have more chins than a Chinese phone book\" and other more vulgar things.",
+         "number" : 66
+      },
+      {
+         "description" : "Your men easily storm the castle, as the door was unlocked. (Don't you feel dumb?)",
+         "number" : 67
+      },
+      {
+         "description" : "The young lady whines, \"Well I wasn't expecting the Spanish Inquisition!\" Just as she says that, three men in red outfits storm in and the leader says, \"No one expects the Spanish Inquisition! Our chief weapon being surprise!\"*072",
+         "number" : 68
+      },
+      {
+         "description" : "As soon as you eat the candy, you feel really sick and puke all over the place. What do expect from something like \"Crunchy Frog\" or \"Anthrax ripple?\"",
+         "number" : 69
+      },
+      {
+         "description" : "The Black Knight's last leg falls to the ground and so does he. He tries to somehow get at you and screams insanely, \"Come back you bloody bastard! I'll bite your knee-caps off!\" He whines, \"Come on! Us Black Knights are invincible!\"",
+         "number" : 70
+      },
+      {
+         "description" : "You have no idea how to use the Holy Hand Grenade, so you just pull the pin out and count to ten like most other grenades. 1, 2, 3, ka-booom! You should have read the Sacred Book of Armaments! Oh well, you are as dead as a door nail.",
+         "number" : 71
+      },
+      {
+         "description" : "An underling asks, \"What about fear?\". The leader says, \"Ah, yes! Our chief weapons being surprise and fear!\" The same underling asks, \"What about fanatical devotion to the Pope?\" The leader screeches, \"Our chief weapons**073",
+         "number" : 72
+      },
+      {
+         "description" : "being surprise, fear and a fanatical devotion to the Pope!\" Again, his lesser asks, \"How about our neat red outfits?\" The leader bellows, \"Forget it!\", and they rush out the nearest exit.",
+         "number" : 73
+      },
+      {
+         "description" : "The Bruces sing: \"Immanuel Kant was a real pissant, who was very rarely stable. Heidegger, was a boozy beggar who could drink you under a table...\" It rattles on in the same nature.",
+         "number" : 74
+      },
+      {
+         "description" : "As you leave, John Cleese (of Monty Python fame) approaches you and says, \"You didn't think you'd go away empty handed, did you?\"",
+         "number" : 75
+      },
+      {
+         "description" : "Congratulations! You have successfully retrieved the Holy Grail! This noble task deserves great reward! First, you will receive a 5000 gp bonus! Secondly, your name will go down in the Segerlind Hall of Heroes!",
+         "number" : 76
+      },
+      {
+         "description" : "You have built a large wooden rabbit in the spirit of the Trojan horse.",
+         "number" : 77
+      },
+      {
+         "description" : "You lose all self-control and indulge in delights of the flesh. Unfortunately you also die shortly from Syphilis!",
+         "number" : 78
+      },
+      {
+         "description" : "You feel an incredible surge of kinky lust burst through your body!",
+         "number" : 79
+      },
+      {
+         "description" : "As you try to leave the cute little bunny tears you into a thousand pieces!",
+         "number" : 80
+      },
+      {
+         "description" : "The old man says, \"You must explore this land a bit more before we can talk!\"",
+         "number" : 81
+      },
+      {
+         "description" : "The minstrels sing, \"So gallantly he chickened out...\"",
+         "number" : 82
+      },
+      {
+         "description" : "The minstrels sing, \"And how courageously he turned about!\"",
+         "number" : 83
+      }
+   ],
+   "info" : {
+      "author" : "Nathan Segerlind",
+      "difficulty" : "6",
+      "rating" : "7.0/2",
+      "serialNum" : "160"
+   },
+   "intro" : "",
+   "monsters" : [
+      {
+         "data" : [ 30, 10, 1, 200, 1, -2, 2, -1, 1, 8, 3, 0, 0 ],
+         "description" : "A rather humble, but strong, man is carrying a huge pack of supplies and banging two halves of a coconut together to resemble the sound of hoofbeats. He is your noble servant, Patsy.",
+         "name" : "Patsy",
+         "number" : 1
+      },
+      {
+         "data" : [ 24, 18, 1, 200, 2, 0, 4, 2, 1, 12, 1, 0, 0 ],
+         "description" : "A huge black knight in black chain mail with a huge sword stands defiantly and nobly on the far end of the bridge. He does not look like one to trespass.",
+         "name" : "Black Knight",
+         "number" : 2
+      },
+      {
+         "data" : [ 24, 16, 1, 200, 6, 0, 4, 3, 1, 10, 3, 0, 0 ],
+         "description" : "Your old buddy, Sir Bedivere the Wise, is here. He is clad in chain mail and a blue tunic. He smiles at you and tells you, \"Nothing has come of the Grail yet, my liege.\" What the hell is a \"liege\"?",
+         "name" : "Sir Bedivere",
+         "number" : 3
+      },
+      {
+         "data" : [ 24, 19, 1, 200, 6, 0, 5, 4, 1, 8, 3, 0, 0 ],
+         "description" : "Sir Lancelot the Brave, is here. He is a noble warrior clad in chain mail and shield.",
+         "name" : "Sir Lancelot",
+         "number" : 4
+      },
+      {
+         "data" : [ 24, 19, 1, 200, 6, 0, 5, 5, 1, 8, 3, 0, 0 ],
+         "description" : "Sir Galahad the Not-So-Pure, is guzzling down a fifth of scotch and fooling around with some ye olde whores.",
+         "name" : "Sir Galahad",
+         "number" : 5
+      },
+      {
+         "data" : [ 24, 22, 1, 0, 6, 0, 7, 6, 1, 10, 3, 0, 0 ],
+         "description" : "Alas, tis Sir Robin the Not as Brave as Sir Lancelot. He is a tall man with red hair, plate mail & shield, and a nasty sword.",
+         "name" : "Sir Robin",
+         "number" : 6
+      },
+      {
+         "data" : [ 24, 12, 1, 200, 6, -2, 2, -1, 1, 8, 3, 0, 0 ],
+         "description" : "A man in a brown clerical robe sits in the corner. He is Saint Xavier, and he will accompany you on your quest, to give your men spiritual guidance.",
+         "name" : "Saint Xavier",
+         "number" : 7
+      },
+      {
+         "data" : [ 25, 12, 4, 200, 0, -2, 2, -1, 1, 12, 3, 0, 0 ],
+         "description" : "Ah, lovely music! Sir Robins favorite minstrels have joined your quest! Listen to their lovely tunes as you valiantly search for the Grail.",
+         "name" : "Minstrel",
+         "number" : 8
+      },
+      {
+         "data" : [ 19, 21, 390, 200, 0, 0, 7, 0, 2, 50, 2, 0, 0 ],
+         "description" : "A large group of men in blue uniforms are here. They're cops! You count 64 normal cops, 235 Riot Control, a Homicide Investigator, 5 choppers, 16 squad cars, 6 vans (the ones they use for mass arrests), and the SWAT team.",
+         "name" : "Cop",
+         "number" : 9
+      },
+      {
+         "data" : [ 65, 14, 1, 200, 16, 0, 6, 0, 1, 12, 1, 0, 0 ],
+         "description" : "A huge three-headed giant lives here! Its first head says happily, \"Lets eat em!\". The third says, \"Naw, they look rotten!\" A second says, \"Well I say you both talk too much! Just kill em!\"",
+         "name" : "Three-Headed Giant",
+         "number" : 10
+      },
+      {
+         "data" : [ 14, 10, 160, 200, 23, 0, 0, -1, 1, 4, 300, 0, 0 ],
+         "description" : "About 8 score beautiful women in short skirts and low neck lines progress towards you. One coos, \"Welcome to Castle Anthrax. Where live all 160 of us very, very, bored but kinky young women...\"",
+         "name" : "Sexy Girl",
+         "number" : 11
+      },
+      {
+         "data" : [ 50, 24, 1, 200, 32, 0, 10, 0, 10, 50, 2, 0, 0 ],
+         "description" : "An old, wrinkled man with some scraggly gray hair and a walking stick is sitting on a chair. He only has one eye open.",
+         "name" : "Old Man",
+         "number" : 12
+      },
+      {
+         "data" : [ 16, 12, 1, 200, 35, 0, 4, 19, 1, 8, 1, 0, 0 ],
+         "description" : "A man in chain mail armor carrying a sword is guarding the gate. Obviously he is not doing a very good job, for he is lying down and watching the clouds roll by as he eats an apple.",
+         "name" : "Guard",
+         "number" : 13
+      },
+      {
+         "data" : [ 16, 16, 1, 200, 35, 0, 4, 20, 1, 10, 1, 0, 0 ],
+         "description" : "Another guard with chain mail and halberd gets to the ready. He is wearing pink holiday ribbons on his helmet and was asleep when you came in.",
+         "name" : "Guard",
+         "number" : 14
+      },
+      {
+         "data" : [ 15, 24, 75, 200, 0, 0, 0, 0, 1, 10, 1, 0, 0 ],
+         "description" : "A horrible, seething, blood-thirsty mob of wedding guests rush towards you at breakneck speed, seeming quite willing to dismember with insane savage blood-lust, gorily disembowel with ecstatic glee, and hurt you.",
+         "name" : "Wedding Guest",
+         "number" : 15
+      },
+      {
+         "data" : [ 20, 15, 1, 200, 41, 0, 2, 21, 1, 6, 1, 0, 0 ],
+         "description" : "A man in leather armor carrying a spear is guarding this room.",
+         "name" : "Guard",
+         "number" : 16
+      },
+      {
+         "data" : [ 16, 16, 1, 200, 41, 0, 3, 22, 1, 8, 1, 0, 0 ],
+         "description" : "Another guard, also in leather, but with a shield and sword, comes to the ready.",
+         "name" : "Guard",
+         "number" : 17
+      },
+      {
+         "data" : [ 16, 12, 1, 65, 41, 0, 0, -1, 1, 4, 2, 0, 0 ],
+         "description" : "A Prince in a white robe with blond hair is here. He is kind of dirty and hard to distinguish from a female.",
+         "name" : "Prince",
+         "number" : 18
+      },
+      {
+         "data" : [ 16, 12, 1, 200, 0, -2, 0, -1, 1, 4, 2, 0, 0 ],
+         "description" : "An old lady is sitting on her front porch. She says, \"I will never tell you, where our town shrubbery is, even if you say 'Ni' to me!\"",
+         "name" : "Old Woman",
+         "number" : 19
+      },
+      {
+         "data" : [ 16, 22, 1, 200, 0, 0, 2, 0, 1, 8, 2, 0, 0 ],
+         "description" : "A man sitting on a horse walks in and says, \"Tis a sad state the world is in when common ruffians can say 'Ni' to an old woman!\"",
+         "name" : "Alex the Shrubber",
+         "number" : 20
+      },
+      {
+         "data" : [ 200, 19, 37, 200, 47, 0, 7, 0, 3, 15, 2, 0, 0 ],
+         "description" : "The feared Knights of Ni are blocking the path north! They are about 15' tall; clad in plate mail and are wielding tridents and spears. They have, \"Don't screw around with us!\" written on their faces.",
+         "name" : "Knights of Ni",
+         "number" : 21
+      },
+      {
+         "data" : [ 30, 24, 1, 200, 0, 0, 7, 0, 3, 10, 3, 0, 0 ],
+         "description" : "You see a man clad in a black flowing robe with red highlights, a leather helmet with curly goat horns coming from it and a long, curly gray goatee beard. He must be a powerful magician!",
+         "name" : "Tim the Enchanter",
+         "number" : 22
+      },
+      {
+         "data" : [ 950, 24, 1, 200, 53, 0, 0, 0, 2, 8, 2, 0, 0 ],
+         "description" : "You small a small, cute, and fuzzy bunny rabbit!",
+         "name" : "White Rabbit",
+         "number" : 23
+      },
+      {
+         "data" : [ 250, 19, 1, 200, 0, 0, 8, 0, 2, 16, 1, 0, 0 ],
+         "description" : "A huge, terrible, animated black beast sneaks up on you from the shadows! This is the notorious black beast, and if you have any brains, you'll flee!",
+         "name" : "Black Beast",
+         "number" : 24
+      },
+      {
+         "data" : [ 2000, 24, 1, 200, 65, 0, 10, 0, 3, 50, 2, 0, 0 ],
+         "description" : "The old man from the cottage is standing at the front of the bridge and laughing insanely.",
+         "name" : "Old Man",
+         "number" : 25
+      },
+      {
+         "data" : [ 20, 24, 30, 200, 73, 0, 4, 0, 2, 20, 3, 0, 0 ],
+         "description" : "The 101st Pikemen (soldiers trained to use special long spears) are at the front of the siege train. They look like a mean bunch of dudes!",
+         "name" : "101st Pikemen",
+         "number" : 26
+      },
+      {
+         "data" : [ 28, 24, 25, 200, 73, 0, 7, 0, 2, 100, 3, 0, 0 ],
+         "description" : "The ultra elite unit, the 10th Black Knights, is following up the 101st Pikemen. These are the meanest S.O.B.s the world has ever seen!",
+         "name" : "10th Black Knight",
+         "number" : 27
+      },
+      {
+         "data" : [ 19, 24, 25, 200, 73, 0, 2, 0, 50, 6, 3, 0, 0 ],
+         "description" : "The 1st Archers have shown up for the fray. They are said to be able to hit a mosquito at 50 paces.",
+         "name" : "1st Archer",
+         "number" : 28
+      },
+      {
+         "data" : [ 24, 22, 50, 200, 73, 0, 7, 0, 10, 10, 3, 0, 0 ],
+         "description" : "And bringing up the rear is the 5th Cavalry. These guys can do circus tricks on horses while clad in plate mail and chopping up bad guys.",
+         "name" : "5th Cavalry Soldier",
+         "number" : 29
+      },
+      {
+         "data" : [ 16, 12, 1, 200, 75, 0, 0, 0, 1, 4, 2, 0, 0 ],
+         "description" : "A venerable old woman in her late seventies is here, looking quite disturbed by your presence.",
+         "name" : "Old Mother",
+         "number" : 30
+      },
+      {
+         "data" : [ 16, 12, 1, 200, 75, 0, 0, 0, 1, 4, 2, 0, 0 ],
+         "description" : "A buxom young lady is quite annoyed by the incessant questioning her mother is giving her.",
+         "name" : "Buxom Young Lady",
+         "number" : 31
+      },
+      {
+         "data" : [ 16, 12, 1, 200, 76, 0, 0, 0, 1, 4, 2, 0, 0 ],
+         "description" : "A man in fatigues and one of those lop-sided, funny-looking outback hats is here. His name is Bruce and he is the Chairman of Philosophy here at A-U.",
+         "name" : "Bruce",
+         "number" : 32
+      },
+      {
+         "data" : [ 16, 12, 1, 200, 76, 0, 0, 0, 1, 4, 2, 0, 0 ],
+         "description" : "Another man dressed like the previous one is here also. He is a noted Australian philosopher by the name of Bruce.",
+         "name" : "Bruce",
+         "number" : 33
+      }
+   ],
+   "name" : "Monty Python & the Holy Grail",
+   "numDirections" : 6,
+   "rooms" : [
+      {
+         "data" : [ 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on the grassy plains of Mercia, with the only path north, where your knights promised to meet you at Camelot. In the distance you see two European swallows in flight carrying a coconut.",
+         "name" : "You are on the plains of Mercia. (N)",
+         "number" : 1
+      },
+      {
+         "data" : [ 3, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on a narrow bridge spanning a deep river. The path leads north and south. There appears to be no other way to cross the river than over the bridge.",
+         "name" : "You are on a bridge. (N/S)",
+         "number" : 2
+      },
+      {
+         "data" : [ 4, 2, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in an open field with a path going north and south. Several acres of barley are being tilled here. You can see a few peasants holding strikes and labor rallies and the like.",
+         "name" : "You are in a field. (N/S)",
+         "number" : 3
+      },
+      {
+         "data" : [ 7, 3, 5, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at the base of a large, grassy hill. A huge, noble castle sits on the summit of the hill. It is Camelot! A trail winds east to Camelot and the path goes north and south.",
+         "name" : "You are at the base of a hill. (N/S/E)",
+         "number" : 4
+      },
+      {
+         "data" : [ 0, 0, 6, 4, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at the entrance to Camelot. You peer in the door and see colorful tapestries, merrymaking, and drunken orgies. The door is east and the path is west.",
+         "name" : "You are at Camelot. (E/W)",
+         "number" : 5
+      },
+      {
+         "data" : [ 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in the halls of Camelot! Long tables of food are arranged in the middle of this central chamber. The singing and drinking tell you this is your kind of place! A door is west.",
+         "name" : "You are in Camelot. (W)",
+         "number" : 6
+      },
+      {
+         "data" : [ 0, 4, 8, 11, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at a T-intersection of two paths. One leads south to Camelot, the other leads east to a clearing and west to a dense forest.",
+         "name" : "You are at a T-intersection. (S/E/W)",
+         "number" : 7
+      },
+      {
+         "data" : [ 0, 0, 9, 7, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are just outside a large clearing. A path is west and the clearing is east. Due to the trees and brush, the people inside the clearing could not possibly see you.",
+         "name" : "You are just outside of a clearing. (E/W)",
+         "number" : 8
+      },
+      {
+         "data" : [ 0, 0, 1013, 8, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a large wooded clearing. To north, south, and west is dense forest, although a hard to find path is west. To the east is a large castle of French design.",
+         "name" : "You are in a clearing. (E/W)",
+         "number" : 9
+      },
+      {
+         "data" : [ 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in the French castle, strangely no one is here but you and your friends. Maybe it is because you are a cheating fink! (You can't enter this room, dummy!)",
+         "name" : "You are in the castle. (W)",
+         "number" : 10
+      },
+      {
+         "data" : [ 18, 12, 7, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a deep, dark forest. A road is east, but paths go north and south.",
+         "name" : "You are in a dark forest. (N/S/E)",
+         "number" : 11
+      },
+      {
+         "data" : [ 11, 13, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on a southward bound path which also goes north. The surroundings are dark, grim, and fearsome. These are the Wicked Woods. (Or something dumb like that.)",
+         "name" : "You are on a southward bound path. (N/S)",
+         "number" : 12
+      },
+      {
+         "data" : [ 12, 14, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a dark and terrifying forest. The only path runs north and south.",
+         "name" : "You are in a dark forest. (N/S)",
+         "number" : 13
+      },
+      {
+         "data" : [ 13, 15, 0, 16, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "A path leads north, further into the wood. Another runs west, into a heath. To the south is a beach.",
+         "name" : "You are in a deep dark forest. (N/S/W)",
+         "number" : 14
+      },
+      {
+         "data" : [ 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on a bare, sandy beach with the only exit north.",
+         "name" : "You are on a beach. (N)",
+         "number" : 15
+      },
+      {
+         "data" : [ 0, 0, 14, 17, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a harsh wood with many pines, known as a \"heath\" or \"scrub\". A fire pit and garbage indicate the place is inhabited. A path leads east and west.",
+         "name" : "You are in the heath. (E/W)",
+         "number" : 16
+      },
+      {
+         "data" : [ 0, 0, 16, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The path ends in a dead-end of pines and scrub-oaks.",
+         "name" : "You are at a dead-end. (E)",
+         "number" : 17
+      },
+      {
+         "data" : [ 31, 11, 0, 19, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on a lonely path through a dark and dangerous forest. The path leads north and south, but also branches west.",
+         "name" : "You are on a lonely path. (N/S/W)",
+         "number" : 18
+      },
+      {
+         "data" : [ 0, 0, 18, 20, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are walking through the rain on a dark and perilous path. To the north and south is impenetrable forest. The path leads east and west.",
+         "name" : "You are on a path. (E/W)",
+         "number" : 19
+      },
+      {
+         "data" : [ 25, 21, 19, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The path leads north and east, but to the south is a rocky crag. In the distance you can hear a howl in the dark, stormy night.",
+         "name" : "You are at a twist in the path. (N/S/E)",
+         "number" : 20
+      },
+      {
+         "data" : [ 20, 0, 0, 0, 22, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on a rocky crag, with a trail north. The only vegetation here is some scrub oak and a few pines. You might be able to climb the cliff before you.",
+         "name" : "You are on a rocky crag. (N/U)",
+         "number" : 21
+      },
+      {
+         "data" : [ 0, 0, 0, 23, 0, 21, 0, 0, 0, 0, 1 ],
+         "description" : "You are at the top of a small, rocky crag. The only path back is down. But, to the west is a castle! And above the castle is a golden, shimmering image of the Holy Grail!",
+         "name" : "You are at a castle. (W/D)",
+         "number" : 22
+      },
+      {
+         "data" : [ 24, 0, 22, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a large beautiful castle, with the main gate east and another chamber north.",
+         "name" : "You are in Castle Anthrax. (N/E)",
+         "number" : 23
+      },
+      {
+         "data" : [ 0, 23, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in the northern part of Castle Anthrax, a hall is south. You can tell that this is the bed chamber.",
+         "name" : "You are in Castle Anthrax. (S)",
+         "number" : 24
+      },
+      {
+         "data" : [ 0, 20, 0, 26, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on a twisty path leading south and west through a dark, dense forest.",
+         "name" : "You are on a twisty path. (S/W)",
+         "number" : 25
+      },
+      {
+         "data" : [ 27, 0, 25, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on a twisty path that leads north and east through the forest.",
+         "name" : "You are on a twisty path. (N/E)",
+         "number" : 26
+      },
+      {
+         "data" : [ 33, 26, 28, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at an intersection of two paths. A well defined path runs east and south into forest, while a north path goes into a swamp.",
+         "name" : "You are at an intersection. (N/S/E)",
+         "number" : 27
+      },
+      {
+         "data" : [ 0, 0, 29, 27, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on an east/west path running through an evil forest.",
+         "name" : "You are on a trail. (E/W)",
+         "number" : 28
+      },
+      {
+         "data" : [ 0, 0, 30, 28, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on an east/west path running through a dark, scary forest.",
+         "name" : "You are on an east/west path. (E/W)",
+         "number" : 29
+      },
+      {
+         "data" : [ 0, 31, 0, 29, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The path lies west, in the forest. South of you is a clearing.",
+         "name" : "You are at the end of a long path. (S/W)",
+         "number" : 30
+      },
+      {
+         "data" : [ 30, 18, 32, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a nice grassy clearing with paths going north and south. To the east is a small shack.",
+         "name" : "You are in a clearing. (N/S/E)",
+         "number" : 31
+      },
+      {
+         "data" : [ 0, 0, 0, 31, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a run down old shack with a fire in the hearth, a table, and a few chairs. The door is to the west.",
+         "name" : "You are in an old shack. (W)",
+         "number" : 32
+      },
+      {
+         "data" : [ 0, 27, 0, 34, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a hot and soggy swamp. The air is about 90 degrees Fahrenheit with 112% humidity. More swamp lies west and a forest is south.",
+         "name" : "You are in the swamp. (S/W)",
+         "number" : 33
+      },
+      {
+         "data" : [ 35, 0, 33, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a marshy area with a few trees about. To the east is a swamp, and north is a fantastic castle in the swamp!",
+         "name" : "You are in a marsh. (N/E)",
+         "number" : 34
+      },
+      {
+         "data" : [ 36, 34, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The castle lies north and south is the swamp. Apparently some sort of festival is today for the gate is decorated with pretty pink ribbons!",
+         "name" : "You are at the castle gate. (N/S)",
+         "number" : 35
+      },
+      {
+         "data" : [ 0, 35, 37, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a large chamber. The area is nicely decorated and has rows of tables all set up for a wedding feast! Doors are south and east.",
+         "name" : "You are in the main chamber. (S/E)",
+         "number" : 36
+      },
+      {
+         "data" : [ 0, 0, 0, 36, 38, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a stairwell leading to higher levels of the tower. A door is west and a spiral stair leads up. You can't help but notice the nondescript nature of this place.",
+         "name" : "You are in the stairwell. (W/U)",
+         "number" : 37
+      },
+      {
+         "data" : [ 0, 0, 0, 39, 40, 37, 0, 0, 0, 0, 1 ],
+         "description" : "You are climbing up a spiral stair that reaches both above and below you. To the west is rope on which you can swing on down to the main chamber.",
+         "name" : "You are in the stairwell. (W/U/D)",
+         "number" : 38
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 0, 36, 0, 0, 0, 0, 1 ],
+         "description" : "You are dangling on a rope above the main chamber. You had better get down, or you might get hurt.",
+         "name" : "You are hanging around. (D)",
+         "number" : 39
+      },
+      {
+         "data" : [ 0, 0, 41, 0, 0, 38, 0, 0, 0, 0, 1 ],
+         "description" : "You are standing at the top of the stairs. A door is east, and above it is a neat carving of three water buffaloes.",
+         "name" : "You are at the top of the stair. (E/D)",
+         "number" : 40
+      },
+      {
+         "data" : [ 0, 0, 0, 40, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in the chamber of the Prince(?). A bed is on the north wall, along with a table and a few modest furnishings. The only door is west.",
+         "name" : "You are in the Prince's chamber. (W)",
+         "number" : 41
+      },
+      {
+         "data" : [ 43, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on a forested path that only runs north from here.",
+         "name" : "You are on a forest path. (N)",
+         "number" : 42
+      },
+      {
+         "data" : [ 46, 42, 44, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on a path passing through a nice maple and oak forest. To the east is a small village. To the north and the south lies the path.",
+         "name" : "You are on a forested path. (N/S/E)",
+         "number" : 43
+      },
+      {
+         "data" : [ 0, 0, 0, 43, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a small run-down village. A path is west, and a strange wall is east. Most of the brickwork here is of a late Saxon era.",
+         "name" : "You are in the village. (W)",
+         "number" : 44
+      },
+      {
+         "data" : [ 77, -999, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You find yourself on a freeway in modern day London. North is the prop room, while south is a gateway to the Main Hall.",
+         "name" : "You are on a road home. (N/S)",
+         "number" : 45
+      },
+      {
+         "data" : [ 47, 43, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on a north/south path which runs through a forest resembling the famous Black Forest of Germany.",
+         "name" : "You are on a forested path. (N/S)",
+         "number" : 46
+      },
+      {
+         "data" : [ 48, 46, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "To the north is a long road through a barren land. South is more forest.",
+         "name" : "You are on a path. (N/S)",
+         "number" : 47
+      },
+      {
+         "data" : [ 49, 47, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on a long road through a barren land. To the south is a forest, and north the road continues as far as you can see through the barren land.",
+         "name" : "You are on a long road. (N/S)",
+         "number" : 48
+      },
+      {
+         "data" : [ 50, 48, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on a very long road extending north and south as far as you can see.",
+         "name" : "You are on the road. (N/S)",
+         "number" : 49
+      },
+      {
+         "data" : [ 51, 49, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You have finally reached a barren plateau. To the north is a small mountain, while south is a long road.",
+         "name" : "You are on a barren plateau. (N/S)",
+         "number" : 50
+      },
+      {
+         "data" : [ 52, 50, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on a rocky, treacherous trail leading up into the mountains. To the north is the entrance to a cave, while south is a barren plateau.",
+         "name" : "You are on a rocky trail. (N/S)",
+         "number" : 51
+      },
+      {
+         "data" : [ 0, 51, 53, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You must first go east to a ledge to enter the cave. South of you is a mountain pass.",
+         "name" : "You are at the entrance to a large cave. (S/E)",
+         "number" : 52
+      },
+      {
+         "data" : [ 0, 0, 0, 52, 0, 54, 0, 0, 0, 0, 1 ],
+         "description" : "You are on a ledge above a large cave. You can see inside the cave (and it looks scary). West is the nominal entrance to the cave.",
+         "name" : "You are on a ledge. (W/D)",
+         "number" : 53
+      },
+      {
+         "data" : [ 55, 0, 0, 0, 53, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The ground is wet and rocky here and a tunnel leads north into darkness. The exit lies up.",
+         "name" : "You are in a large cave. (N/U)",
+         "number" : 54
+      },
+      {
+         "data" : [ 56, 54, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a long, dark, north/south cave. To the north is more cave, while south is the exit.",
+         "name" : "You are in a cave. (N/S)",
+         "number" : 55
+      },
+      {
+         "data" : [ 57, 55, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a long north/south cavern with very little light.",
+         "name" : "You are in the caverns. (N/S)",
+         "number" : 56
+      },
+      {
+         "data" : [ 58, 56, 59, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at T-intersection, with long tunnels east and south and a room north.",
+         "name" : "You are at T-intersection. (N/S/E)",
+         "number" : 57
+      },
+      {
+         "data" : [ 0, 57, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a small natural room that was carved out by water millions of years ago. The only exit is south.",
+         "name" : "You are in small room. (S)",
+         "number" : 58
+      },
+      {
+         "data" : [ 0, 0, 60, 57, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a dirty tunnel going from the east to the west.",
+         "name" : "You are in an east/west tunnel. (E/W)",
+         "number" : 59
+      },
+      {
+         "data" : [ 0, 61, 0, 59, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at a bend of the tunnel, as the tunnel now leads west and south.",
+         "name" : "You are at a bend. (S/W)",
+         "number" : 60
+      },
+      {
+         "data" : [ 60, 62, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a relatively short and bare tunnel leading north and south. To the south you can see light.",
+         "name" : "You are in a cave. (N/S)",
+         "number" : 61
+      },
+      {
+         "data" : [ 61, 0, 0, 0, 63, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at the exit to the cave, as you can go north back into the cave or up out of it.",
+         "name" : "You are at the exit. (N/U)",
+         "number" : 62
+      },
+      {
+         "data" : [ 0, 64, 0, 0, 0, 62, 0, 0, 0, 0, 1 ],
+         "description" : "You are above a dark and ominous cave. To get into the dark and ominous cave, you must go down. To the south is a path through some rough, craggy mountains.",
+         "name" : "You are above the cave. (S/D)",
+         "number" : 63
+      },
+      {
+         "data" : [ 63, 65, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on a mountainous trail leading north to south. To the right of you is a sheer cliff edge, 30 feet up. And left, well, just don't try to go down. (Don't worry there's a guard rail!)",
+         "name" : "You are on a mountainous trail. (N/S)",
+         "number" : 64
+      },
+      {
+         "data" : [ 64, 66, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at the end of the trail. To the north it goes on, while south is a dangerous rope bridge crossing over the Pit of Eternal Peril!",
+         "name" : "You are at a bridge. (N/S)",
+         "number" : 65
+      },
+      {
+         "data" : [ 65, 67, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are standing on a shaky rope bridge over the Pit of Eternal Peril. You may go north or south.",
+         "name" : "You are on the Bridge of Doom!. (N/S)",
+         "number" : 66
+      },
+      {
+         "data" : [ 66, 0, 68, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in the foothills of the mountain range. To the north is the Bridge of Doom, while east is a nice grassy beach.",
+         "name" : "You are in the foothills. (N/E)",
+         "number" : 67
+      },
+      {
+         "data" : [ 0, 69, 0, 67, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on a grassy beach. To the south is a small lake and west lies the foothills to a mountain. On the shore is a boat on which you can traverse the lake.",
+         "name" : "You are on a grassy beach. (S/W)",
+         "number" : 68
+      },
+      {
+         "data" : [ 68, 70, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a small longboat of Norse design. To the north is the beach. You can't see much south because of a huge, brilliant, shimmering golden image of the holy grail!",
+         "name" : "You are on the lake. (N/S)",
+         "number" : 69
+      },
+      {
+         "data" : [ 69, 71, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on a small island, a boat is north so you can return to the mainland. South is a path leading to a large castle. And above the castle is the image of the Holy Grail! You feel as if you should recognize this place...",
+         "name" : "You are on an island. (N/S)",
+         "number" : 70
+      },
+      {
+         "data" : [ 70, 0, 72, 1031, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on a small island. To the north is more island, east is a shallow part of the lake you can wade across, and west is the Castle Arrrgggh! You recognize this place. It is just west of your royal armies' main encampment.",
+         "name" : "You are outside Castle Arrrgggh. (N/E/W)",
+         "number" : 71
+      },
+      {
+         "data" : [ 0, 0, 73, 71, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are wading in a shallow part of the lake. East is the encampment of your Royal Army, (storm Castle Arrrgggh perhaps?) and west is the island.",
+         "name" : "You are all wet. (E/W)",
+         "number" : 72
+      },
+      {
+         "data" : [ 0, 0, 0, 72, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on a large battlefield with siege preparations. The only exit is west to the dread Castle Arrrgggh.",
+         "name" : "You are on a large battlefield. (W)",
+         "number" : 73
+      },
+      {
+         "data" : [ 0, 0, 71, 75, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You have progressed farther than the movie did (watch and see). You look about and find that the seemingly formidable castle wall is just a plywood model, and the surroundings are some kind of large studio. Exits are east and west.",
+         "name" : "You are in Castle Arrrgggh. (E/W)",
+         "number" : 74
+      },
+      {
+         "data" : [ 0, 76, 74, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You have entered a room in which the BBC films the Monty Python television series! This horrid shrine of strange humor has exits east and south. The general decor of the room is turn-of-the-century English.",
+         "name" : "You are in a small indoor studio. (S/E)",
+         "number" : 75
+      },
+      {
+         "data" : [ 75, 0, 77, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in another studio. Here there are doors north and east. The setting looks like some low-budget, ill-used classroom. On the wall is a sign reading, \"Australia University, School of Philosophy\".",
+         "name" : "You are in another BBC studio. (N/E)",
+         "number" : 76
+      },
+      {
+         "data" : [ 0, 45, 0, 76, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "It is here that the evil Monty Python crew guards the Holy Grail!",
+         "name" : "You are in the prop room. (S/W)",
+         "number" : 77
+      }
+   ]
+}

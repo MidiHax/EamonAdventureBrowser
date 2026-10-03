@@ -1,0 +1,829 @@
+{
+   "artifacts" : [
+      {
+         "data" : [ 0, 1, 30, 2041, 0, 0, 0, 0 ],
+         "description" : "It is very gross and smelly, nearly causing you to vomit.",
+         "name" : "animal carcass",
+         "number" : 1
+      },
+      {
+         "data" : [ 0, 6, 3, 2, 1, 8, 1, 0 ],
+         "description" : "You see a bottle containing a mysterious and unpredictable potion.",
+         "name" : "potion",
+         "number" : 2
+      },
+      {
+         "data" : [ 5, 1, 10, 8, 0, 0, 0, 0 ],
+         "description" : "You see a small shovel with a steel blade and wooden handle lying in the bushes.",
+         "name" : "shovel",
+         "number" : 3
+      },
+      {
+         "data" : [ 25, 1, 20, 13, 0, 0, 0, 0 ],
+         "description" : "You see an empty chest made out of mahogany and pure silver.",
+         "name" : "silver chest",
+         "number" : 4
+      },
+      {
+         "data" : [ 100, 1, 15, 23, 0, 0, 0, 0 ],
+         "description" : "You see a medium sized skillet made out of 1/8 inch silver.",
+         "name" : "silver skillet",
+         "number" : 5
+      },
+      {
+         "data" : [ 175, 1, 6, 27, 0, 0, 0, 0 ],
+         "description" : "You see a high quality hand-made redwood telescope with precision ground lenses.",
+         "name" : "telescope",
+         "number" : 6
+      },
+      {
+         "data" : [ 1000, 1, 50, 29, 0, 0, 0, 0 ],
+         "description" : "You see a hollow golden cannonball on one of the piles of cannonballs.",
+         "name" : "gold cannonball",
+         "number" : 7
+      },
+      {
+         "data" : [ 75, 1, 5, 33, 0, 0, 0, 0 ],
+         "description" : "You see yards of sheer silk in various colors.",
+         "name" : "silk",
+         "number" : 8
+      },
+      {
+         "data" : [ 0, 1, -999, 43, 0, 0, 0, 0 ],
+         "description" : "You see the dead rotting body of someone who was left here to starve.  On his hat, embroidered in gold thread, is:  \"ELP YEW KERI\".",
+         "name" : "dead rotting body",
+         "number" : 9
+      },
+      {
+         "data" : [ 375, 1, 7, 1017, 0, 0, 0, 0 ],
+         "description" : "You see a multitude of gold doubloons which were inside the chest.",
+         "name" : "doubloons",
+         "number" : 10
+      },
+      {
+         "data" : [ 50, 1, 15, 43, 0, 0, 0, 0 ],
+         "description" : "You see some gold and silver chains that were used to chain up prisoners (what a way to go!)",
+         "name" : "gold & silver chains",
+         "number" : 11
+      },
+      {
+         "data" : [ 300, 1, 5, 47, 0, 0, 0, 0 ],
+         "description" : "You see a pile of diamonds in the corner of the room.",
+         "name" : "diamonds",
+         "number" : 12
+      },
+      {
+         "data" : [ 250, 1, 5, 47, 0, 0, 0, 0 ],
+         "description" : "You see a stack of rubies next to the pile of diamonds.",
+         "name" : "rubies",
+         "number" : 13
+      },
+      {
+         "data" : [ 325, 1, 3, 2047, 0, 0, 0, 0 ],
+         "description" : "You find a large ocean blue sapphire that was hidden in a hole in the wall.",
+         "name" : "sapphire",
+         "number" : 14
+      },
+      {
+         "data" : [ 5, 7, 5, 0, 3, 1, 1, 0 ],
+         "description" : "You see an ordinary, plain, green book.  On the cover in gold leaf letters is the title, \"Houdini the Escape Artist\".",
+         "name" : "book",
+         "number" : 15
+      },
+      {
+         "data" : [ 5, 1, 1, -11, 0, 0, 0, 0 ],
+         "description" : "You find a gold plated, platinum filled, silver flashed replica of the key to the White House!  A tag on it says, \"If lost send $14.95 to Key, BOX 17M, Denver, CO 80217 for replacement\".",
+         "name" : "White House key",
+         "number" : 16
+      },
+      {
+         "data" : [ 375, 4, 999, 58, 16, 0, 2, 4 ],
+         "description" : "You see a chest engraved with oriental designs and decorated in sterling silver.  The lock on it is 28k gold with a reinforced shackle (made in Japan by Master Lock).",
+         "name" : "chest",
+         "number" : 17
+      },
+      {
+         "data" : [ 3, 1, 50, 1017, 0, 0, 0, 0 ],
+         "description" : "You see a beautiful magical harp.  ALL of the hundreds of strings seem to be out of tune on the stupid thing, however.",
+         "name" : "magic harp",
+         "number" : 18
+      },
+      {
+         "data" : [ 25, 2, 7, -4, -10, 5, 1, 8 ],
+         "description" : "You see a medium-quality Marcos sword.",
+         "name" : "sword",
+         "number" : 19
+      },
+      {
+         "data" : [ 100, 3, 3, -13, 15, 4, 2, 7 ],
+         "description" : "You see a 6-inch dagger with jewels embedded in the handle and a magical glow.",
+         "name" : "magic dagger",
+         "number" : 20
+      },
+      {
+         "data" : [ 100, 3, 8, -6, 10, 1, 1, 10 ],
+         "description" : "You see a normal hand axe with a mysterious magical glow.",
+         "name" : "magic axe",
+         "number" : 21
+      },
+      {
+         "data" : [ 25, 2, 6, -8, 10, 3, 1, 8 ],
+         "description" : "You see a normal mace that is in good condition.",
+         "name" : "mace",
+         "number" : 22
+      },
+      {
+         "data" : [ 75, 2, 5, -9, -10, 3, 1, 4 ],
+         "description" : "You see the whip that Brutus carried to torture people with.",
+         "name" : "whip",
+         "number" : 23
+      },
+      {
+         "data" : [ 5, 2, 2, -15, 5, 4, 1, 8 ],
+         "description" : "You see a yard-long serrated meat carving knife that can be used as a nasty weapon.",
+         "name" : "kitchen knife",
+         "number" : 24
+      },
+      {
+         "data" : [ 60, 2, 10, -7, 10, 2, 1, 8 ],
+         "description" : "You see a medium quality hardwood bow.",
+         "name" : "bow",
+         "number" : 25
+      },
+      {
+         "data" : [ 15, 2, 4, -2, 0, 4, 1, 6 ],
+         "description" : "You see a redwood spear with a sharpened point.",
+         "name" : "spear",
+         "number" : 26
+      },
+      {
+         "data" : [ 20, 2, 4, -3, 0, 4, 1, 8 ],
+         "description" : "You see a purple wood spear with a metal arrowhead.",
+         "name" : "spear#",
+         "number" : 27
+      },
+      {
+         "data" : [ 35, 2, 8, -5, 10, 1, 2, 6 ],
+         "description" : "You see a rather large but small axe.  [\"Rather large but small\"??  What the heck is that supposed to mean? -FK]",
+         "name" : "axe",
+         "number" : 28
+      },
+      {
+         "data" : [ 45, 2, 6, -14, 10, 5, 1, 8 ],
+         "description" : "You see a high quality, stainless steel alloy sword.",
+         "name" : "sword#",
+         "number" : 29
+      },
+      {
+         "data" : [ 100, 3, 8, -11, 20, 2, 8, 1 ],
+         "description" : "You see a top quality, high grained, ultra-powerful crossbow made of oak from the dangerous Carnivorous Forest in a remote part of Eamon.",
+         "name" : "crossbow",
+         "number" : 30
+      },
+      {
+         "data" : [ 5, 1, 1, -4, 0, 0, 0, 0 ],
+         "description" : "You see a flute that is made out of a mysterious material.",
+         "name" : "flute",
+         "number" : 31
+      },
+      {
+         "data" : [ 0, 10, 185, 43, 9, 0, 8, 0 ],
+         "description" : "You see a poor innocent sailor that has been chained to the wall and is being unceremoniously whipped.",
+         "name" : "bound man",
+         "number" : 32
+      },
+      {
+         "data" : [ 0, 10, 185, 46, 7, 0, 0, 0 ],
+         "description" : "You see a man chained to the wall.  He wears the colors of a Free Adventurer.",
+         "name" : "chained man",
+         "number" : 33
+      },
+      {
+         "data" : [ 0, 1, -999, 2005, 7, 0, 0, 0 ],
+         "description" : "The sign says, \"Beware of quicksand!\" and has an arrow that points east.",
+         "name" : "sign",
+         "number" : 34
+      },
+      {
+         "data" : [ 500, 1, 30, 2024, 0, 0, 0, 0 ],
+         "description" : "They are very old and you can't use them to fight with, you can however make some nice cash if you sell them to Sam Slicker.",
+         "name" : "muskets",
+         "number" : 35
+      },
+      {
+         "data" : [ 500, 1, 30, 2027, 0, 0, 0, 0 ],
+         "description" : "You gather up the various astrological paraphernalia into a neat pile.",
+         "name" : "tools",
+         "number" : 36
+      },
+      {
+         "data" : [ 2500, 1, 999, 2029, 0, 0, 0, 0 ],
+         "description" : "The cannons are pretty old, showing signs of much use.",
+         "name" : "cannons",
+         "number" : 37
+      },
+      {
+         "data" : [ 1000, 1, 999, 2029, 0, 0, 0, 0 ],
+         "description" : "They look just like any other piles of cannon balls.",
+         "name" : "piles of cannon balls",
+         "number" : 38
+      },
+      {
+         "data" : [ 1000, 1, 999, 2030, 0, 0, 0, 0 ],
+         "description" : "It says, \"BEWARE THE SPIRIT OF ETULF YALP!\"",
+         "name" : "sign#",
+         "number" : 39
+      },
+      {
+         "data" : [ 5, 5, 5, 2032, -1, 0, 0, 0 ],
+         "description" : "You can make out the words, \"Ever-Lite\" on the handle.  <Thanks to Roger & Nathan -FK>",
+         "name" : "torch",
+         "number" : 40
+      },
+      {
+         "data" : [ 500, 1, 30, 2036, 0, 0, 0, 0 ],
+         "description" : "You see nothing special about them.",
+         "name" : "chains",
+         "number" : 41
+      },
+      {
+         "data" : [ 0, 1, -999, 2037, 0, 0, 0, 0 ],
+         "description" : "It says, \"From way back when in the days of old/Many stories have been told/Some warn of what is near/The spirit of ETULF YALP dwells here!\"",
+         "name" : "inscription",
+         "number" : 42
+      },
+      {
+         "data" : [ 0, 1, -999, 2038, 0, 0, 0, 0 ],
+         "description" : "The body smells awful and you elect to leave it alone.",
+         "name" : "body",
+         "number" : 43
+      },
+      {
+         "data" : [ 0, 1, -999, 2045, 0, 0, 0, 0 ],
+         "description" : "It says, \"No key can help you through it, but enchanting music might just do it.\"",
+         "name" : "poem",
+         "number" : 44
+      },
+      {
+         "data" : [ 0, 1, -999, 2058, 0, 0, 0, 0 ],
+         "description" : "You see the ridiculously huge bathtub with the faucets are marked, \"Hot Lava\" and \"Burning Lava\".",
+         "name" : "bathtub",
+         "number" : 45
+      },
+      {
+         "data" : [ 45, 1, 25, 2040, 0, 0, 0, 0 ],
+         "description" : "You remove the gold plated skulls from the walls.",
+         "name" : "gold plated skulls",
+         "number" : 46
+      },
+      {
+         "data" : [ 0, 9, 20, 2040, 1, 16, 1, 0 ],
+         "description" : "You see a cold ham and some fried chicken legs, as well as various pineapples, tangerines, and mango.  (Yumm!)",
+         "name" : "food",
+         "number" : 47
+      },
+      {
+         "data" : [ 0, 1, -999, 2041, 0, 0, 0, 0 ],
+         "description" : "They're kind of cute!",
+         "name" : "glowing worms",
+         "number" : 48
+      },
+      {
+         "data" : [ 0, 8, -999, 30, 35, -1, 1, 0 ],
+         "description" : "To the east is a locked door without a keyhole.  There is a sign on it.",
+         "name" : "locked door",
+         "number" : 49
+      },
+      {
+         "data" : [ 0, 8, -999, 35, 30, -1, 1, 0 ],
+         "description" : "To the west is a locked door that has no keyhole.",
+         "name" : "locked door#",
+         "number" : 50
+      },
+      {
+         "data" : [ 0, 8, -999, 45, 46, -1, 1, 0 ],
+         "description" : "To the south is a locked door that has no keyhole.",
+         "name" : "locked door##",
+         "number" : 51
+      },
+      {
+         "data" : [ 0, 8, -999, 36, 37, -1, 1, 0 ],
+         "description" : "To the east you see locked door that has no keyhole.",
+         "name" : "locked door###",
+         "number" : 52
+      },
+      {
+         "data" : [ 0, 8, -999, 37, 36, -1, 1, 0 ],
+         "description" : "To the west is a locked door with an inscription carved on it.",
+         "name" : "locked door####",
+         "number" : 53
+      },
+      {
+         "data" : [ 0, 8, -999, 2014, 39, 0, 0, 1 ],
+         "description" : "You found a secret trap door under the dirt.  It opens to a set of stairs that lead down into darkness.",
+         "name" : "a secret trap door",
+         "number" : 54
+      },
+      {
+         "data" : [ 0, 2, 10, -17, 25, 3, 6, 1 ],
+         "description" : "You see an empty plastic gallon jug which once contained \"Five O-Clock Vodka\", or so the label says.  Terry apparently filled it with sand, making a club-like weapon.",
+         "name" : "jug of vodka",
+         "number" : 55
+      },
+      {
+         "data" : [ 0, 7, 15, -17, 5, 1, 1, 0 ],
+         "description" : "You see a large pile of birch bark that Terry the Pirate was carrying.  It is full of all kinds of mad writing and drawings, including a formula for lighting fires in the middle of a stream.",
+         "name" : "pile of birch bark",
+         "number" : 56
+      },
+      {
+         "data" : [ 0, 1, -999, 2023, 0, 0, 0, 0 ],
+         "description" : "You find the answer to the smell, this is the garbage can.",
+         "name" : "garbage can",
+         "number" : 57
+      }
+   ],
+   "effects" : [
+      {
+         "description" : "You see Captain Hook fall down and gasp his final breath.  (Good news for Peter Pan!)",
+         "number" : 1
+      },
+      {
+         "description" : "The hermit says he didn't dig up the ground here.",
+         "number" : 2
+      },
+      {
+         "description" : "As soon as you read the first word, you find yourself being swiftly teleported through space and time.",
+         "number" : 3
+      },
+      {
+         "description" : "As you reach for the doubloons, you hear a distant, bearded voice ring out:  \"UNDEFINED STATEMENT LINE 1150!\"",
+         "number" : 4
+      },
+      {
+         "description" : "CONGRATULATIONS, YOU HAVE FOUND THE SECRET MESSAGE FOR THIS ADVENTURE!",
+         "number" : 5
+      },
+      {
+         "description" : "When you return to the Main Hall, Genzenbraun immediately goes to see Shylock McFhenny and withdraws 1000 gold pieces which he gives to you for rescuing him.",
+         "number" : 6
+      }
+   ],
+   "info" : {
+      "author" : "Genz & Braun",
+      "difficulty" : "6",
+      "rating" : "4.5/6",
+      "serialNum" : "13"
+   },
+   "intro" : "",
+   "monsters" : [
+      {
+         "data" : [ 10, 8, 1, 80, 16, 0, 1, 26, 1, 0, 3, 0, 0 ],
+         "description" : "You see a fat cannibal with \"Consu\" written on his loincloth.",
+         "name" : "Consu",
+         "number" : 1
+      },
+      {
+         "data" : [ 10, 8, 1, 80, 16, 0, 1, 27, 1, 0, 3, 0, 0 ],
+         "description" : "You see a fatter cannibal with \"Magali\" written on his loincloth.",
+         "name" : "Magali",
+         "number" : 2
+      },
+      {
+         "data" : [ 17, 10, 1, 100, 12, 0, 2, 19, 1, 8, 1, 0, 0 ],
+         "description" : "You see a pirate with a patch on one eye and what appears to be a flute in his hand.",
+         "name" : "One-Eye",
+         "number" : 3
+      },
+      {
+         "data" : [ 15, 15, 1, 85, 14, 0, 5, 28, 2, 6, 3, 0, 0 ],
+         "description" : "You take a closer look at your rescuer.  He is rather dirty but has a friendly face.",
+         "name" : "Hermit",
+         "number" : 4
+      },
+      {
+         "data" : [ 22, 20, 1, 200, 40, 0, 7, 21, 1, 10, 1, 0, 0 ],
+         "description" : "You see a sleeping figure with a thick blue beard and an axe by his side.  He jumps up with a start and stands glaring at you.",
+         "name" : "Bluebeard",
+         "number" : 5
+      },
+      {
+         "data" : [ 22, 15, 1, 200, 50, 0, 4, 25, 1, 6, 1, 0, 0 ],
+         "description" : "You see a pirate (obviously a Commander) with a hook for his left hand.",
+         "name" : "Captain Hook",
+         "number" : 6
+      },
+      {
+         "data" : [ 15, 16, 1, 200, 0, 0, 4, 22, 1, 4, 3, 0, 0 ],
+         "description" : "As you release the young man, he says \"Are you from the Guild?  Many days has it been since I sent my message in a bottle!\"  He then withdraws a mace from under a stone.  He says his name is Genzenbraun.",
+         "name" : "Genzenbraun",
+         "number" : 7
+      },
+      {
+         "data" : [ 28, 12, 1, 200, 43, 0, 2, 23, 1, 4, 1, 0, 0 ],
+         "description" : "You see a large man whipping a captured sailor with a rawhide whip.",
+         "name" : "Brutus",
+         "number" : 8
+      },
+      {
+         "data" : [ 10, 14, 1, 100, 0, 0, 0, -1, 0, 0, 3, 0, 0 ],
+         "description" : "The man thanks you for freeing him.  He says he was a deckhand on a ship that was captured by a one-handed pirate.",
+         "name" : "George",
+         "number" : 9
+      },
+      {
+         "data" : [ 34, 18, 1, 200, 58, 0, 7, 30, 1, 10, 1, 0, 0 ],
+         "description" : "You see a huge red dragon with tough scales and long teeth lounging in a bathtub that is filled with molten rock.  A crossbow rests on the towel rack.",
+         "name" : "Dragon",
+         "number" : 10
+      },
+      {
+         "data" : [ 18, 15, 1, 200, 55, 0, 5, 0, 1, 6, 1, 0, 0 ],
+         "description" : "You see a red, dripping creature.  His arms are long and they flare up as he moves.  His natural defense system consists of him taking chunks of himself and throwing them at you.",
+         "name" : "Lava Monster",
+         "number" : 11
+      },
+      {
+         "data" : [ 12, 19, 1, 125, 36, 0, 6, 20, 1, 2, 195, 0, 0 ],
+         "description" : "You see an old man with a pointed hat and a robe with celestial pictures on it.  He carries a magic dagger.  He is a prisoner here.",
+         "name" : "Wizard",
+         "number" : 12
+      },
+      {
+         "data" : [ 15, 12, 1, 95, 29, 0, 3, 29, 1, 8, 1, 0, 0 ],
+         "description" : "You see a tall guard blocking you from going any further.  On his arm is a tattoo that says, \"Gunny\".  He carries a sword.",
+         "name" : "Gunny",
+         "number" : 13
+      },
+      {
+         "data" : [ 14, 12, 1, 200, 23, 0, 3, 24, 1, 8, 1, 0, 0 ],
+         "description" : "You see a fat man in a white cap with flour on his nose.  As he sees you, he instantly grabs for the nearest weapon (a long carving knife).",
+         "name" : "Cooky",
+         "number" : 14
+      },
+      {
+         "data" : [ 10, 8, 1, 75, 40, 0, 0, -1, 0, 0, 3, 0, 0 ],
+         "description" : "You see an attractive girl.  She says her name is Maria",
+         "name" : "Maria",
+         "number" : 15
+      },
+      {
+         "data" : [ 32, 16, 1, 200, 1, 0, 0, 55, 1, 4, 3, 0, 0 ],
+         "description" : "You see a slim man of average height.  He is wearing a paper pirate hat and munching on a bag of Combos.  He says, \"Ya-there, eh.  Whatcha doin'?\"",
+         "name" : "Terry the Pirate",
+         "number" : 16
+      }
+   ],
+   "name" : "The Caves of Treasure Island",
+   "numDirections" : 6,
+   "rooms" : [
+      {
+         "data" : [ 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You have just gotten off the ship and watched it sail away.  You are now on your own.  You are standing on a sand bar at the waters edge.  To the east is a sandy beach.  To the north, south, and west is ocean.",
+         "name" : "You are in a bay.  (E)",
+         "number" : 1
+      },
+      {
+         "data" : [ 0, 0, 6, 1, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on a sandy beach.  To the west is a the sand bar, north and south are sharp rocks (no hope of climbing them).  To the east you can see a clearing.",
+         "name" : "You are on the west beach.  (E/W)",
+         "number" : 2
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "Oops!  You stumble in on a band of pirates.  One cuts off your arm from behind and the others close in quickly.  You are dead!",
+         "name" : "You are in a pirate's lair!",
+         "number" : 3
+      },
+      {
+         "data" : [ 3, 5, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "To north you can hear whispering (pirates?) and you can sense danger.  To the south is a path, to the west is ocean, and east there appears to be a pit of quicksand.",
+         "name" : "You are on a north/south path.",
+         "number" : 4
+      },
+      {
+         "data" : [ 4, 6, 9, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "Here the path branches to the north and east.  To the west is the ocean and to the south is a large clearing.  There is a sign here.",
+         "name" : "You are at T-intersection; east by N/S.",
+         "number" : 5
+      },
+      {
+         "data" : [ 5, 7, 11, 2, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at a large, grassy clearing.  You are surrounded by dense vegetation on all sides.  You can make out a volcano in the distance to the east.  You see a sandy beach to the west.",
+         "name" : "You are at a clearing.  (N/S/E/W)",
+         "number" : 6
+      },
+      {
+         "data" : [ 6, 8, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The path is overgrown with vegetation, making it hard going.  To the north is a large clearing, to the south the jungle (hopefully) seems to thin out, to the west is the ocean and to the east the vegetation is too thick to get through.",
+         "name" : "You are on a north/south path in a jungle.",
+         "number" : 7
+      },
+      {
+         "data" : [ 7, 0, 13, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The path is pretty well worn here.  To the west and south is the bright blue ocean.  To the north the jungle seems to thicken somewhat.",
+         "name" : "You are in sharp bend.  (N/E)",
+         "number" : 8
+      },
+      {
+         "data" : [ 0, 0, -14, -5, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You have fallen in the quicksand!  You are slowly sinking under the surface!",
+         "name" : "You are in a pit of quicksand!",
+         "number" : 9
+      },
+      {
+         "data" : [ 0, 31, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at the bottom of a deep pit that appears to be the end of a lava tube.  The walls are very steep, making it is impossible to climb out.  The only opening is a dark tunnel to the south.",
+         "name" : "You are in a pit.  (S)",
+         "number" : 10
+      },
+      {
+         "data" : [ 10, 12, 15, 6, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "To the west is a large clearing, to the north the path seems to thin out, to the south trees block your vision, and to the east you can make out a large volcano.",
+         "name" : "You are on a well traveled path.  (N/S/E/W)",
+         "number" : 11
+      },
+      {
+         "data" : [ 11, 13, 16, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The vegetation is very thick here, and the jungle is impassable to the west.",
+         "name" : "You are at a T-intersection; east by N/S.",
+         "number" : 12
+      },
+      {
+         "data" : [ 12, 0, 0, 8, 0, 34, 0, 0, 0, 0, 1 ],
+         "description" : "The path turns sharply with exits to the north and west.  To the east is a bay.  A faded sign says, \"Whalers cove\".  You see a rope tied around a tree that goes down the cliff.",
+         "name" : "You are at a bend.  (N/W/D)",
+         "number" : 13
+      },
+      {
+         "data" : [ 0, 0, 17, 9, 0, 1054, 0, 0, 0, 0, 1 ],
+         "description" : "You are at a hermit's hut.  You see a patch of recently dug up ground.  To the north is ocean, south is a small lake, west you can see some quicksand, and the east path has a pile of leaves and sticks strewn across it.",
+         "name" : "You are by the hermit's hut.  (E/W)",
+         "number" : 14
+      },
+      {
+         "data" : [ 0, 16, 18, 11, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "As you reach the volcano, you see a cave to the east.  To the north is a small lake, and paths lies south and west.",
+         "name" : "You are at a T-intersection; south by E/W.",
+         "number" : 15
+      },
+      {
+         "data" : [ 15, 0, 19, 12, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The path seems to be well traveled.  To the south is a sandy bay.",
+         "name" : "You are at a T-intersection; north by E/W.",
+         "number" : 16
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You have fallen into pit that was covered with branches.  It had sharp spikes at the bottom.  You were skewered!",
+         "name" : "You are caught in a death trap!",
+         "number" : 17
+      },
+      {
+         "data" : [ 0, 0, 20, 15, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You have entered a cave in the side of the volcano.  The exit is west, and the cave continues to the east disappearing into darkness.",
+         "name" : "You are at a cave entrance.  (E/W)",
+         "number" : 18
+      },
+      {
+         "data" : [ 0, 0, 21, 16, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The path winds through thick jungle.  You can push through to the east and west.  To the south is ocean and to the north is the steep side of a volcano which you can't climb.",
+         "name" : "You are on an east/west path in a jungle.",
+         "number" : 19
+      },
+      {
+         "data" : [ 0, 0, 0, 18, 0, 48, 0, 0, 0, 0, 1 ],
+         "description" : "You are starting to have trouble seeing.  The only light comes from a red glow further down inside the volcano.  To the west is the cave opening and to the east is a steep down-slope.",
+         "name" : "You are at the top of a down-slope.  (W/D)",
+         "number" : 20
+      },
+      {
+         "data" : [ 0, 22, 0, 19, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on a sandy beach.  Your ship is anchored to the south (hurray!), to the west is a very thick jungle, and north is the steep side of a volcano (which you still can't climb).",
+         "name" : "You are on the south beach.  (S/W)",
+         "number" : 21
+      },
+      {
+         "data" : [ 21, -999, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on the gangplank of your ship.  You can go north, back to the beach, or go south to set sail for the Main Hall.",
+         "name" : "You are on gangplank to your ship.  (N/S)",
+         "number" : 22
+      },
+      {
+         "data" : [ 0, 0, 26, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a humble kitchen.  There are pots and pans spread all over the place and you see two large barrels.  One is split at the top and a foul smelling odor is coming from it.",
+         "name" : "You are in the kitchen.  (E)",
+         "number" : 23
+      },
+      {
+         "data" : [ 0, 25, 30, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a room that is loaded with barrels of gunpowder.  The tunnel turns sharply here, and exits are south and east.  There is a row of muskets along the wall.",
+         "name" : "You are in the powder room.  (S/E)",
+         "number" : 24
+      },
+      {
+         "data" : [ 24, 26, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "This seems to be your lucky day, the awful smell indicates that you just found the rest room!",
+         "name" : "You are in the rest room.  (N/S)",
+         "number" : 25
+      },
+      {
+         "data" : [ 25, 27, 0, 23, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a north/south corridor that branches to the west.  There is the smell of a very pungent food coming from someplace nearby (too bad, I was hungry).",
+         "name" : "You are at a T-intersection; west by N/S.",
+         "number" : 26
+      },
+      {
+         "data" : [ 26, 28, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a room with a bunch of celestial maps on the walls.  There are various tools laying around, such as sextants and compasses.",
+         "name" : "You are in the astronomy room.  (N/S)",
+         "number" : 27
+      },
+      {
+         "data" : [ 27, 0, 32, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a dark passage.  The walls are rough, and floor is dirt.",
+         "name" : "You are in the west passage.  (N/E)",
+         "number" : 28
+      },
+      {
+         "data" : [ 0, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a room with two old cannons and a couple of piles of cannon balls.  The only exit is to the south.",
+         "name" : "You are in the cannon room.  (S)",
+         "number" : 29
+      },
+      {
+         "data" : [ 29, 0, 1049, 24, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in an empty room with nothing much of interest.",
+         "name" : "You are at a T-intersection; north by E/W.",
+         "number" : 30
+      },
+      {
+         "data" : [ 10, 33, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a circular passage that appears to be a lava tube.  It is very dark, with only a faint light from the north.",
+         "name" : "You are in the north lava tube.  (N/S)",
+         "number" : 31
+      },
+      {
+         "data" : [ 0, 0, 33, 28, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a dark passage.  The walls are rough and floor is made of dirt.  You can feel a breeze coming from the east.  The only light comes from one small torch on the wall.",
+         "name" : "You are in an east/west passage.",
+         "number" : 32
+      },
+      {
+         "data" : [ 31, 34, 40, 32, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "To the south you can see sunlight and smell salt in the air.  The room has many torches that are permanently attached to the walls.  To the east is a door that says, \"KEEP OUT!\"",
+         "name" : "You are in large chamber.  (N/S/E/W)",
+         "number" : 33
+      },
+      {
+         "data" : [ 33, 0, 0, 0, 13, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a circular passage with smooth walls.  You can see a bay at the bottom of the cliff through an opening.  Outside the opening is a rope that is too short to climb down to the bay, but you can climb up it.",
+         "name" : "You are in the south lava tube.  (N/U)",
+         "number" : 34
+      },
+      {
+         "data" : [ 0, 0, 36, 1050, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in an empty detention room with nothing much of interest.",
+         "name" : "You are in the west detention room.  (E/W)",
+         "number" : 35
+      },
+      {
+         "data" : [ 0, 0, 1052, 35, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "There are some torches permanently attached to the wall, moderately lighting the room.  You see some chains hooked to the north wall.",
+         "name" : "You are in the east detention room.  (E/W)",
+         "number" : 36
+      },
+      {
+         "data" : [ 0, 0, 38, 1053, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in an empty corridor with nothing much of interest.",
+         "name" : "You are in an east/west corridor.",
+         "number" : 37
+      },
+      {
+         "data" : [ 0, 41, 0, 37, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a room with that has mutilated bodies scattered about the floor.  You can't make out what they were, but on a table is (gasp!) a partially mangled human body with a decomposing abdomen.",
+         "name" : "You are in the dissection room.  (S/W)",
+         "number" : 38
+      },
+      {
+         "data" : [ 0, 0, 42, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You found a flight of stairs leading into darkness (as in no light).  <No kidding? -FK>  As you start to descend, the door behind you slams shut and refuses to open.  You come to the bottom, a cold stone floor.  A dark doorway lies east.",
+         "name" : "You are at the bottom of a set of secret stairs.  (E)",
+         "number" : 39
+      },
+      {
+         "data" : [ 0, 0, 0, 33, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You have entered a lavishly decorated room.  The walls are adorned with gold plated skulls and you see a huge fancy waterbed.  In the center is a table with fresh meat and fruit.",
+         "name" : "You are in Bluebeard's room.  (W)",
+         "number" : 40
+      },
+      {
+         "data" : [ 38, 42, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "There are glowing worms on the roof that provide quite a bit of light.  You step around a half-eaten animal carcass that is lying on the floor.",
+         "name" : "You are in a north/south corridor.",
+         "number" : 41
+      },
+      {
+         "data" : [ 41, 0, 44, 39, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You hear faint human(?) screams coming from somewhere to the east.",
+         "name" : "You are in a dark hall.  (N/E/W)",
+         "number" : 42
+      },
+      {
+         "data" : [ 0, 44, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a room with a rack, bed of nails, iron maiden, and other nasty devices that are intended to create excruciating pain (ouch!).",
+         "name" : "You are in the torture room.  (S)",
+         "number" : 43
+      },
+      {
+         "data" : [ 43, 0, 47, 42, 0, 45, 0, 0, 0, 0, 1 ],
+         "description" : "This room it is brightly lit, partially by lanterns hung on the incredibly high ceiling and partially by an unseen source that radiates from the walls.  <Nuclear waste?  -FK>",
+         "name" : "You are in large chamber.  (N/E/W/D)",
+         "number" : 44
+      },
+      {
+         "data" : [ 0, 1051, 0, 0, 44, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small passageway with a set of steps leading up.  There is a poem carved on the wall.",
+         "name" : "You are at the bottom of an up-slope.  (S/U)",
+         "number" : 45
+      },
+      {
+         "data" : [ 0, 0, 49, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in what appears to be a detention room.  The walls are bare except for chains and you see a large bowl of stagnant water.  The door you just came through locked behind you and you can't get it open again.",
+         "name" : "You are in the prison.  (E)",
+         "number" : 46
+      },
+      {
+         "data" : [ 0, 50, 0, 44, 53, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a room loaded with goodies.  There is lots of rare silk, jewels, and gold stacked on shelves.  On the north side is a steep dirt trail that leads up to a light source.  Doors lie south and west.  You notice a small hole in one wall.",
+         "name" : "You are in the jewel room.  (W/S/U)",
+         "number" : 47
+      },
+      {
+         "data" : [ 0, 0, 50, 0, 20, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a bare corridor that looks like a cave and smells like one too.  To the east is an opening, and there is a sharp slope leading up.",
+         "name" : "You are at the bottom of an up-slope.  (E/U)",
+         "number" : 48
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 50, 0, 0, 0, 0, 0, 0 ],
+         "description" : "The floor is hard and rocky here, the only exit is a steep slope leading up.",
+         "name" : "You are at the bottom of an up-slope.",
+         "number" : 49
+      },
+      {
+         "data" : [ 47, 0, 51, 48, 0, 49, 0, 0, 0, 0, 1 ],
+         "description" : "East is a doorway with a sign that says, \"Dare you go through?\".  (Kinda makes you want go in, doesn't it?)",
+         "name" : "You are in a large dirty room.  (N/W/E/D)",
+         "number" : 50
+      },
+      {
+         "data" : [ 51, 51, 51, 51, 51, 52, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a large room with exits on all sides, a ladder going up, and a hole in the floor.  On the walls are weird, nerve wracking geometric shapes that seem to pulse and move.  Written in blood you see, \"You'll never get out with your sanity!!\"",
+         "name" : "You?are?in?the?mental?torture?room?",
+         "number" : 51
+      },
+      {
+         "data" : [ 43, 51, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a dark, hot cavern.  You can't seem to climb back up through the hole, but there are exits to the north and south.",
+         "name" : "You are at the core of the volcano.  (N/S)",
+         "number" : 52
+      },
+      {
+         "data" : [ 54, 0, 0, 0, 0, 47, 0, 0, 0, 0, 1 ],
+         "description" : "You are at the top of a down-slope adjacent to the volcano.  To the north is a path, and the down-slope (of course) leads down to the ground.",
+         "name" : "You are at the top of a down-slope.  (N/D)",
+         "number" : 53
+      },
+      {
+         "data" : [ 0, 53, 55, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on a sandy beach.  To the west is dense jungle (no passage), to the north is ocean, south is the entrance to the Pirates' caves, and east is more beach that you can continue to walk along.",
+         "name" : "You are on the north beach, west side.  (S/E)",
+         "number" : 54
+      },
+      {
+         "data" : [ 0, 56, 0, 54, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on a sandy beach.  To the north is ocean, south is a path, west is more beach, and east is a high cliff.",
+         "name" : "You are on the north beach, east side.  (S/W)",
+         "number" : 55
+      },
+      {
+         "data" : [ 55, 57, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You have just entered a cave in the side of the volcano.  The ground is rocky and there is a very hot wave of heat coming from the south.  To the north is the beach.",
+         "name" : "You are at the volcano entrance.  (N/S)",
+         "number" : 56
+      },
+      {
+         "data" : [ 56, 58, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The heat is very intense here, and growing hotter the farther south you go.  To the north is the opening.  (To the south...?)",
+         "name" : "You are in a north/south tunnel in the volcano.",
+         "number" : 57
+      },
+      {
+         "data" : [ 57, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a large room in the center of the volcano.  The heat is unbearable.  There is a giant bathtub with faucets marked \"Hot Lava\" and \"Burning Lava\".",
+         "name" : "You are in a dragon's lair.  (N)",
+         "number" : 58
+      }
+   ]
+}

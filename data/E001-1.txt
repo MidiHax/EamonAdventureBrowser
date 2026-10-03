@@ -1,0 +1,415 @@
+{
+   "artifacts" : [
+      {
+         "data" : [ 200, 1, 3, 3, 0, 0, 0, 0 ],
+         "description" : "You see a large pile of gleaming diamonds here!",
+         "name" : "diamonds",
+         "number" : 1
+      },
+      {
+         "data" : [ 20, 2, 8, -5, 0, 1, 1, 6 ],
+         "description" : "You see a standard Marcos axe here.",
+         "name" : "axe",
+         "number" : 2
+      },
+      {
+         "data" : [ 50, 6, 2, 5, 24, 1, 1, 0 ],
+         "description" : "There is a bottle with a strange potion inside of it here! It has a label stuck to it that you could READ.",
+         "name" : "bottle",
+         "number" : 3
+      },
+      {
+         "data" : [ 15, 2, 6, -7, -10, 5, 1, 8 ],
+         "description" : "There is a poor quality Marcos sword here.",
+         "name" : "sword",
+         "number" : 4
+      },
+      {
+         "data" : [ 50, 0, 5, 8, 0, 0, 0, 0 ],
+         "description" : "You find a sack with 50 gold coins inside!",
+         "name" : "sack of coins",
+         "number" : 5
+      },
+      {
+         "data" : [ 45, 11, 1, -8, 0, 5, 0, 0 ],
+         "description" : "As the Mimic dies, it rolls over and you find an unmarked gold ring!",
+         "name" : "ring",
+         "number" : 6
+      },
+      {
+         "data" : [ 25, 2, 6, -3, 10, 3, 1, 4 ],
+         "description" : "There is a high quality Marcos mace here.",
+         "name" : "mace",
+         "number" : 7
+      },
+      {
+         "data" : [ 30, 9, 3, 18, 0, 100, 1, 0 ],
+         "description" : "You find several spices. They are of a rare variety and quite valuable.",
+         "name" : "spices",
+         "number" : 8
+      },
+      {
+         "data" : [ 80, 7, 3, 19, 7, 1, 1, 0 ],
+         "description" : "There is an old book here. It glows in the darkness and is remarkably well preserved.",
+         "name" : "book",
+         "number" : 9
+      },
+      {
+         "data" : [ 40, 3, 7, -9, 25, 5, 2, 6 ],
+         "description" : "The Pirate was carrying a beautiful sword. Carved on the hilt, in intricate detail, is the sword's name, \"TrollsFire\".",
+         "name" : "TrollsFire",
+         "number" : 10
+      },
+      {
+         "data" : [ 168, 1, 5, 26, 0, 0, 0, 0 ],
+         "description" : "There is a large pile of jewels here!",
+         "name" : "jewels",
+         "number" : 11
+      },
+      {
+         "data" : [ 0, 12, -999, 14, 7, 1, 1, 0 ],
+         "description" : "There is a large chest in the center of the room.",
+         "name" : "chest",
+         "number" : 12
+      },
+      {
+         "data" : [ -100, 11, 1, 0, 0, 5, 0, 0 ],
+         "description" : "The healing potion is now empty. (This item never shows up in the Eamon Deluxe version).",
+         "name" : "empty bottle",
+         "number" : 13
+      },
+      {
+         "data" : [ 0, 8, -999, 2015, 16, 0, 0, 1 ],
+         "description" : "You've found a hidden tunnel going off to the east!",
+         "name" : "a secret passage east",
+         "number" : 14
+      },
+      {
+         "data" : [ 0, 6, -999, 2026, 0, 9999, 1, 0 ],
+         "description" : "The water tastes salty, but doesn't appear to be poisonous.",
+         "name" : "salt water",
+         "number" : 15
+      },
+      {
+         "data" : [ 0, 13, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see the hacked up body of what was once a huge rat.",
+         "name" : "dead rat",
+         "number" : 16
+      },
+      {
+         "data" : [ 0, 13, -999, 0, 0, 0, 0, 0 ],
+         "description" : "The Priest's corpse lies on the floor, his face frozen in a fanatic's sneer.",
+         "name" : "Priest's body",
+         "number" : 17
+      },
+      {
+         "data" : [ 0, 13, -999, 0, 0, 0, 0, 0 ],
+         "description" : "Cynthia's body lies sprawled here, a pitiful sight.",
+         "name" : "Cynthia's body",
+         "number" : 18
+      },
+      {
+         "data" : [ 0, 13, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see the hermit's smelly body lying crumpled on the floor.",
+         "name" : "Hermit's body",
+         "number" : 19
+      },
+      {
+         "data" : [ 0, 13, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see the shaggy corpse of a dead gorilla.",
+         "name" : "dead gorilla",
+         "number" : 20
+      },
+      {
+         "data" : [ 0, 13, -999, 0, 0, 0, 0, 0 ],
+         "description" : "Heinrich's broken body lies on the floor here. You can still picture that sticker saying, \"Hi, I'm Heinrich!\"",
+         "name" : "Heinrich's body",
+         "number" : 21
+      },
+      {
+         "data" : [ 0, 13, -999, 0, 0, 0, 0, 0 ],
+         "description" : "The dead Mimic lies in a formless blob on the floor.",
+         "name" : "dead Mimic",
+         "number" : 22
+      },
+      {
+         "data" : [ 0, 13, -999, 0, 0, 0, 0, 0 ],
+         "description" : "The body of the Pirate, his fine-looking clothing now slashed and bloody, lies here.",
+         "name" : "Pirate's body",
+         "number" : 23
+      },
+      {
+         "data" : [ 0, 1, 999, 2026, 0, 0, 0, 0 ],
+         "description" : "This must be the boat the pirate used to travel to and from the cove from his ship. It currently has a large hole in it and is quite useless.",
+         "name" : "boat",
+         "number" : 24
+      }
+   ],
+   "effects" : [
+      {
+         "description" : "As you approach the chest, it suddenly comes alive and two tentacles come out of the sides, holding you fast. Another tentacle rises from the top and attempts to hurt you.",
+         "number" : 1
+      },
+      {
+         "description" : "As the Pirate mutters a word you can't hear, bright green flames surround the blade of his sword.{02}",
+         "number" : 2
+      },
+      {
+         "description" : "As the Pirate chokes and dies, the flame on his sword also dies.",
+         "number" : 3
+      },
+      {
+         "description" : "As you say the sword's name, bright green flames appear around the blade.",
+         "number" : 4
+      },
+      {
+         "description" : "Since you were carrying the sword when it flamed on, you took some burn damage until the sword (hearing your cries of pain?) extinguished its flame.",
+         "number" : 5
+      },
+      {
+         "description" : "As you say the sword's name, the bright green flame disappears from it.",
+         "number" : 6
+      },
+      {
+         "description" : "As you read the book, you feel a weird sensation overtaking you. You are turning into a small fish!",
+         "number" : 7
+      },
+      {
+         "description" : "You have no trouble finding a horse that you, well, borrow to take you to the sight of your first adventure. You follow several signs which lead you to the Beginner's Cave.",
+         "number" : 8
+      },
+      {
+         "description" : "He shakes his head and says, \"You must have at least one weapon to enter the cave! Go back to the Main Hall.\"",
+         "number" : 9
+      },
+      {
+         "description" : "As you stand there, the local Knight Marshall comes out to inspect you.",
+         "number" : 10
+      },
+      {
+         "description" : "The Knight Marshall says, \"You aren't a beginner. You shouldn't be here.\"",
+         "number" : 11
+      },
+      {
+         "description" : "Eventually the Knight Marshall says, \"You may now proceed.\" He then walks away.",
+         "number" : 12
+      }
+   ],
+   "info" : {
+      "author" : "Donald Brown",
+      "difficulty" : "3",
+      "rating" : "4.3/6",
+      "serialNum" : "1"
+   },
+   "intro" : "<p>The Beginner's Cave has been set up by the Warlord as a service to all Free Adventurers, giving them a chance to try their skills in a not-too-dangerous setting. Let us all toast the Warlord for restocking the cave daily!</p> <p>Only beginner's are supposed to enter the cave (but any character can). Knight Marshall William Misslefire is on duty to prevent inexperienced adventurers from doing anything really foolish (like entering the cave with no weapon at all!).</p> <p>To return to the Main Hall, just leave the cave (by getting to the cave entrance and moving north). Once you have done so, Sam Slicker, the local dealer for treasures and booty, will pay you in gold for any items that you have collected (with the price adjusted slightly depending upon your charisma).</p>",
+   "monsters" : [
+      {
+         "data" : [ 2, 3, 3, 200, 3, 1, 0, 0, 1, 1, 1, 0, 0 ],
+         "description" : "You see three huge rats charging at you! One is black, one is brown, and one is tan. Each one has sharp white teeth.",
+         "name" : "Rat",
+         "number" : 1
+      },
+      {
+         "data" : [ 10, 6, 1, 100, 18, 0, 1, 7, 1, 4, 1, 0, 0 ],
+         "description" : "There is a huge man in religious garb with an insane look on his face here. In his right hand, he carries a mace.",
+         "name" : "Priest",
+         "number" : 2
+      },
+      {
+         "data" : [ 5, 5, 1, 50, 18, 0, 0, -1, 1, 1, 195, 0, 0 ],
+         "description" : "You see a beautiful girl in a flowing white dress. You recognize her as Cynthia Luxom, Duke Luxom's not-too-bright daughter.",
+         "name" : "Cynthia",
+         "number" : 3
+      },
+      {
+         "data" : [ 13, 12, 1, 85, 5, 0, 0, 2, 1, 6, 150, 0, 0 ],
+         "description" : "There is a grizzled old hermit (who smells as if he hasn't taken a bath in forty years) in the room.",
+         "name" : "Hermit",
+         "number" : 4
+      },
+      {
+         "data" : [ 12, 11, 1, 70, 8, 0, 0, 0, 1, 4, 1, 0, 0 ],
+         "description" : "There is a huge, hairy, strong and angry gorilla in the room with you!",
+         "name" : "Gorilla",
+         "number" : 5
+      },
+      {
+         "data" : [ 15, 7, 1, 105, 6, 0, 1, 4, 1, 8, 170, 0, 0 ],
+         "description" : "A human warrior stands before you, armed with a longsword and carrying a shield. On his shield is a sticker which says, \"Hi, I'm Heinrich!\"",
+         "name" : "Heinrich",
+         "number" : 6
+      },
+      {
+         "data" : [ 7, 12, 1, 200, 0, 1, 0, 0, 1, 3, 1, 0, 0 ],
+         "description" : "A chest-shaped monster is in the room, holding you with two tentacles and attempting to disassemble you with a third one.",
+         "name" : "Mimic",
+         "number" : 7
+      },
+      {
+         "data" : [ 5, 14, 1, 50, 26, -1, 0, 10, 1, 10, 1, 0, 0 ],
+         "description" : "You see a man with a beard and a brass ring in his ear. He is wearing clothes made out of silk and is wielding a very fancily engraved sword.*002",
+         "name" : "Pirate",
+         "number" : 8
+      }
+   ],
+   "name" : "The Beginner's Cave",
+   "numDirections" : 6,
+   "rooms" : [
+      {
+         "data" : [ -999, 2, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The entrance is to the south with a sign over it reading, \"Beginner's Only!\". To the north is the road back to town.",
+         "name" : "You are at the cave entrance. (N/S)",
+         "number" : 1
+      },
+      {
+         "data" : [ 1, 4, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "To the north you see bright light streaming in from the outside. To the south you see flickering torch light, but you cannot make out any details.",
+         "name" : "You are in a dark north/south tunnel.",
+         "number" : 2
+      },
+      {
+         "data" : [ 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "It is very cold here and the only light comes in dimly from the large chamber to the east.",
+         "name" : "You are in the west side chamber. (E)",
+         "number" : 3
+      },
+      {
+         "data" : [ 2, 7, 5, 3, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a huge chamber where the roof rises out of sight. Burning torches line the walls making it easy to see. Tunnels lead north and south, and there are small chambers to the east and west.",
+         "name" : "You are in a large chamber. (N/S/E/W)",
+         "number" : 4
+      },
+      {
+         "data" : [ 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "It is very cold here and the only light comes in dimly from the large chamber to the west.",
+         "name" : "You are in the east side chamber. (W)",
+         "number" : 5
+      },
+      {
+         "data" : [ 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a small stark cell with a door on the east side of the room.",
+         "name" : "You are in a west cell. (E)",
+         "number" : 6
+      },
+      {
+         "data" : [ 4, 10, 8, 6, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "A tunnel goes north and east and west are doors that are bolted shut. (Locking something in?). In the dim light you can see that the hall goes south but you cannot make out any details.",
+         "name" : "You are at the north end of a long passage. (N/S/E/W)",
+         "number" : 7
+      },
+      {
+         "data" : [ 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a small stark cell with a door on the west side of the room.",
+         "name" : "You are in an east cell. (W)",
+         "number" : 8
+      },
+      {
+         "data" : [ 0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a small stark cell with a door on the east side.",
+         "name" : "You are in a west cell. (E)",
+         "number" : 9
+      },
+      {
+         "data" : [ 7, 13, 11, 9, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "Doors are bolted on both sides of you (east and west). The hall extends north and south.",
+         "name" : "You are at the middle of a long passage. (N/S/E/W)",
+         "number" : 10
+      },
+      {
+         "data" : [ 0, 0, 0, 10, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a small stark cell with a door on the west side.",
+         "name" : "You are in an east cell. (W)",
+         "number" : 11
+      },
+      {
+         "data" : [ 0, 0, 13, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a small stark cell with a door on the east side.",
+         "name" : "You are in a west cell. (E)",
+         "number" : 12
+      },
+      {
+         "data" : [ 10, 15, 14, 12, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "To your great shock there are doors to the east and west. The hall goes north from here and a broken tunnel goes south.",
+         "name" : "You are at the south end of a long passage. (N/S/E/W)",
+         "number" : 13
+      },
+      {
+         "data" : [ 0, 0, 0, 13, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a small stark cell with a door on the west side.",
+         "name" : "You are in an east cell. (W)",
+         "number" : 14
+      },
+      {
+         "data" : [ 13, 20, 1014, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The sides of the tunnel are very broken and rough. You see torch light to the south. The east wall has a smooth shape in the center, about the size of a door.",
+         "name" : "You are in a broken north/south tunnel.",
+         "number" : 15
+      },
+      {
+         "data" : [ 0, 0, 17, 15, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a secret east/west passage. You hear a faint melody coming from the east.",
+         "name" : "You are in an east/west tunnel with faint music.",
+         "number" : 16
+      },
+      {
+         "data" : [ 0, 0, 18, 16, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You can very clearly hear religious music being played and can smell incense from the east.",
+         "name" : "You are in an east/west tunnel with loud music.",
+         "number" : 17
+      },
+      {
+         "data" : [ 0, 0, 0, 17, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a temple that has paintings of great deeds covering the walls. There are two altars here, one covered with gold paint and the other stained with blood. The only exit leads to the west.",
+         "name" : "You are at the temple. (W)",
+         "number" : 18
+      },
+      {
+         "data" : [ 0, 0, 20, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in what was obviously once a library. Most of the books have been destroyed, with the scraps left lying on the ground. A door, torn from its hinges, also lies on the floor. The exit is to the east.",
+         "name" : "You are in the library. (E)",
+         "number" : 19
+      },
+      {
+         "data" : [ 15, 0, 21, 19, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "A brightly burning torch is bolted to the south wall. Dark tunnels lead north and east. To the west is a place where once a door stood, but it has been torn from its hinges.",
+         "name" : "You are at a T-intersection; North by E/W.",
+         "number" : 20
+      },
+      {
+         "data" : [ 0, 0, 22, 20, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in an unremarkable tunnel. You can see torch light in both directions.",
+         "name" : "You are in an east/west tunnel.",
+         "number" : 21
+      },
+      {
+         "data" : [ 0, 0, 0, 21, 0, 23, 0, 0, 0, 0, 1 ],
+         "description" : "You are at an unremarkable stone landing at the top of a flight of stairs. A single torch is bolted to the wall. A tunnel heads back west. It looks very dark down there...",
+         "name" : "You are at the top of a stairway. (W/D)",
+         "number" : 22
+      },
+      {
+         "data" : [ 0, 0, 24, 0, 22, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at an unremarkable stone landing at the bottom of a flight of stairs. A light can be seen at the top and a very dim light can be seen down the tunnel to the east.",
+         "name" : "You are at the bottom of a stairway. (E/U)",
+         "number" : 23
+      },
+      {
+         "data" : [ 0, 0, 25, 23, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a very rough tunnel carved out of a series of natural caverns. Dim light can be seen in both directions.",
+         "name" : "You are in an east/west tunnel.",
+         "number" : 24
+      },
+      {
+         "data" : [ 0, 0, 26, 24, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You see light to the east, and feel a cool wind coming from there. In the wind you smell a hint of salt.",
+         "name" : "You are in an east/west tunnel smelling of salt.",
+         "number" : 25
+      },
+      {
+         "data" : [ 0, 0, -1, 25, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at a small bay. Cliffs rise on either side of you so that the only exit is back in the tunnel to the west. A broken old boat is resting on the bank of the rough and stormy sea. All around you is salt water, as far as the eye can see.",
+         "name" : "You are in the Pirate's Cove. (E/W)",
+         "number" : 26
+      }
+   ]
+}

@@ -1,0 +1,1041 @@
+{
+   "artifacts" : [
+      {
+         "data" : [ 50, 2, 8, -2, 0, 5, 1, 6 ],
+         "description" : "You see a sword made of bronze. It has the word \"Ryke\" engraved in the handle.",
+         "name" : "Ryke",
+         "number" : 1
+      },
+      {
+         "data" : [ 5, 2, 5, -3, 0, 4, 1, 4 ],
+         "description" : "You see a very short spear with a stone point on the end.",
+         "name" : "spear",
+         "number" : 2
+      },
+      {
+         "data" : [ 5, 2, 8, -8, -10, 1, 1, 3 ],
+         "description" : "You see Mxlar's pathetic weapon, a primitive axe. The awful savage craftsmanship makes you sick.",
+         "name" : "primitive axe",
+         "number" : 3
+      },
+      {
+         "data" : [ 10, 2, 4, -10, 5, 4, 1, 4 ],
+         "description" : "You see a small dagger with the Axom family crest. It appears to be made out of aluminum.",
+         "name" : "dagger",
+         "number" : 4
+      },
+      {
+         "data" : [ 25, 3, 7, -12, 32, 5, 2, 8 ],
+         "description" : "You see a sharp ebony sword. It has been well taken care of and polished regularly.",
+         "name" : "black sword",
+         "number" : 5
+      },
+      {
+         "data" : [ 15, 3, 6, -13, 0, 3, 2, 3 ],
+         "description" : "You see a ball and chain with the words \"Graymon Tribble II\" engraved on the handle. It has a bright red glow emitting from it.",
+         "name" : "Graymon Tribble II",
+         "number" : 6
+      },
+      {
+         "data" : [ 0, 12, -999, 58, 14, 1, 1, 0 ],
+         "description" : "You see an odd-shaped stone which resembles a large face. In what would be the mouth you see a small orange jewel. The jewel glows brightly.",
+         "name" : "odd-shaped stone",
+         "number" : 7
+      },
+      {
+         "data" : [ 10, 1, 3, 64, 0, 0, 0, 0 ],
+         "description" : "You see a bottle with a blue liquid inside. A label reads, \"HARDINESS\".",
+         "name" : "blue bottle",
+         "number" : 8
+      },
+      {
+         "data" : [ 10, 1, 3, 64, 0, 0, 0, 0 ],
+         "description" : "You see a bottle with a red liquid inside. A label reads, \"AGILITY\".",
+         "name" : "red bottle",
+         "number" : 9
+      },
+      {
+         "data" : [ 10, 1, 3, 66, 0, 0, 0, 0 ],
+         "description" : "You see a bottle with a clear liquid inside. A label reads, \"CHARISMA\".",
+         "name" : "clear bottle",
+         "number" : 10
+      },
+      {
+         "data" : [ 50, 1, 40, 47, 0, 0, 0, 0 ],
+         "description" : "You see a pile of dirty warrior's uniforms. They are old and moldy, but some still have gold medals attached to them.",
+         "name" : "uniforms",
+         "number" : 11
+      },
+      {
+         "data" : [ 0, 4, 200, 58, 0, 0, 1, 3 ],
+         "description" : "You see an old oak chest. On the chest is scrawled the words \"Neither a borrower nor a lender be.\"",
+         "name" : "oak chest",
+         "number" : 12
+      },
+      {
+         "data" : [ 500, 0, 100, 1012, 0, 0, 0, 0 ],
+         "description" : "You see a large quantity of ancient gold coins. Ingmar Hansen, a coin collector who frequents the bar at the Main Hall, would probably pay an arm and a leg for them.",
+         "name" : "ancient gold coins",
+         "number" : 13
+      },
+      {
+         "data" : [ 25, 5, 8, 70, -1, 0, 0, 0 ],
+         "description" : "You see a small silver lamp lying in the dust. It is tarnished, but still valuable. It also seems to be lightable.",
+         "name" : "silver lamp",
+         "number" : 14
+      },
+      {
+         "data" : [ 100, 11, 15, -1012, 1, 0, 0, 0 ],
+         "description" : "You see an enormous metal shield. It has been painted such a bright color of gold that it hurts your eyes to look at it.",
+         "name" : "gold shield",
+         "number" : 15
+      },
+      {
+         "data" : [ 5, 2, 8, -20, -5, 3, 1, 12 ],
+         "description" : "You see a large chain that the General was trying to bludgeon you with.",
+         "name" : "chain",
+         "number" : 16
+      },
+      {
+         "data" : [ 500, 9, 3, 61, 50, 1, 1, 0 ],
+         "description" : "You see a small clay bowl with a strange herb. You recognize the herb as the mystical \"shemlock\", which will heal whoever eats it.",
+         "name" : "shemlock",
+         "number" : 17
+      },
+      {
+         "data" : [ 50, 1, 30, 23, 0, 0, 0, 0 ],
+         "description" : "You see a bundle of silk robes.",
+         "name" : "silk robes",
+         "number" : 18
+      },
+      {
+         "data" : [ 13, 4, 2, 35, 0, 0, 1, 0 ],
+         "description" : "You see an old leather bag.",
+         "name" : "leather bag",
+         "number" : 19
+      },
+      {
+         "data" : [ 100, 11, 5, 1019, 0, 5, 0, 0 ],
+         "description" : "You see a beautiful gold chain with a large ruby necklace on it.",
+         "name" : "ruby necklace",
+         "number" : 20
+      },
+      {
+         "data" : [ 20, 5, 9, 21, 170, 0, 0, 0 ],
+         "description" : "You see a lantern made of tarnished brass. It looks as if it still works, but probably won't stay lit for very long.",
+         "name" : "lantern",
+         "number" : 21
+      },
+      {
+         "data" : [ 0, 1, 999, 1, 0, 0, 0, 0 ],
+         "description" : "You see an old boat. It is too heavy for you to carry, but you can use it to travel on the river.",
+         "name" : "boat",
+         "number" : 22
+      },
+      {
+         "data" : [ 0, 1, 4, -18, 0, 0, 0, 0 ],
+         "description" : "You see a weird mixture of plastic, chemicals, wires, tubes, and what appears to be a coconut. What kind of mad genius would construct such a thing?",
+         "name" : "coconut radio",
+         "number" : 23
+      },
+      {
+         "data" : [ 0, 8, -999, 2046, 60, 0, 0, 1 ],
+         "description" : "As you push on one of the shapes, it slides open!",
+         "name" : "a secret passage east",
+         "number" : 24
+      },
+      {
+         "data" : [ 50, 2, 6, -17, 25, 5, 10, 1 ],
+         "description" : "You see Doctor Benway's weapon. It is a razor sharp scalpel, the size of a sword.",
+         "name" : "three-foot scalpel",
+         "number" : 25
+      },
+      {
+         "data" : [ 15, 7, 3, -17, 3, 1, 1, 0 ],
+         "description" : "Doctor Benway was carrying a metal flask filled with moonshine. There appears to be something written on it.",
+         "name" : "flask",
+         "number" : 26
+      },
+      {
+         "data" : [ 0, 8, -999, 2063, 65, 28, 1, 0 ],
+         "description" : "The door is very sturdy, being made entirely of iron. A lone keyhole provides the means of opening it.",
+         "name" : "iron door",
+         "number" : 27
+      },
+      {
+         "data" : [ 1, 1, 1, -20, 0, 0, 0, 0 ],
+         "description" : "General Halftrak was carrying a lone iron key on a big ring. It must be a master key to the Black Warrior's complex!",
+         "name" : "iron key",
+         "number" : 28
+      },
+      {
+         "data" : [ 0, 1, 4, -12, 0, 0, 0, 0 ],
+         "description" : "The Black Warrior has dropped a strange electronic device. It is full of tempting buttons and switches.",
+         "name" : "strange device",
+         "number" : 29
+      },
+      {
+         "data" : [ 0, 8, -999, 73, 72, 28, 1, 0 ],
+         "description" : "A brand new iron door now bars access to the north cell.",
+         "name" : "cell door",
+         "number" : 30
+      },
+      {
+         "data" : [ 0, 8, -999, 73, 74, 28, 1, 0 ],
+         "description" : "Another brand new iron door bars access to the south cell.",
+         "name" : "cell door#",
+         "number" : 31
+      },
+      {
+         "data" : [ 1, 11, 3, 70, 0, 1, 0, 0 ],
+         "description" : "You see an old moth-eaten trench coat.",
+         "name" : "trench coat",
+         "number" : 32
+      },
+      {
+         "data" : [ 0, 0, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see Commander Klink's body. Blood runs from his head and over the monocle in his eye.",
+         "name" : "Commander Klink's body",
+         "number" : 33
+      },
+      {
+         "data" : [ 0, 0, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see the worshiper's dead body lying twisted and bent.",
+         "name" : "dead worshipper",
+         "number" : 34
+      },
+      {
+         "data" : [ 0, 0, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see one very dead aardvark. You get the sensation of a hundred thousand comic book subscriptions being canceled before your very eyes.",
+         "name" : "Cerebus's body",
+         "number" : 35
+      },
+      {
+         "data" : [ 0, 0, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see Cetus's body floating slowly downstream in a pool of red.",
+         "name" : "Cetus's body",
+         "number" : 36
+      },
+      {
+         "data" : [ 0, 0, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see some huge crab legs floating away. If only you had time to build a fire...Yumm!",
+         "name" : "crab legs",
+         "number" : 37
+      },
+      {
+         "data" : [ 0, 0, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see a huge lump of fresh dragon meat.",
+         "name" : "dead dragon",
+         "number" : 38
+      },
+      {
+         "data" : [ 0, 0, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see Mxlar's body lying cold and stiff.",
+         "name" : "Mxlar's body",
+         "number" : 39
+      },
+      {
+         "data" : [ 0, 0, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see a very dead roc floating downstream.",
+         "name" : "dead roc",
+         "number" : 40
+      },
+      {
+         "data" : [ 0, 0, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see Professor Axom's body. How will the SPS (Society for the Protection of Scientists) react to this turn of events?",
+         "name" : "Professor Axom's body",
+         "number" : 41
+      },
+      {
+         "data" : [ 0, 0, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see Prisoner #13 sprawled out in a gory heap. Looks like he never made it to freedom after all.",
+         "name" : "Prisoner #13's body",
+         "number" : 42
+      },
+      {
+         "data" : [ 0, 0, 20, 0, 0, 0, 0, 0 ],
+         "description" : "You are startled as you see the huge corpse of the Black Warrior burst into flames, leaving behind a smoking pile of ashes. Far in the distance you hear a creepy voice chuckling to itself...",
+         "name" : "pile of black ashes",
+         "number" : 43
+      },
+      {
+         "data" : [ 0, 0, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see the massive corpse of the Gold Warrior sprawled before you. His biceps are frozen in one last attempted flex.",
+         "name" : "Gold Warrior's body",
+         "number" : 44
+      },
+      {
+         "data" : [ 0, 0, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see the dead carcass of the Black Warrior's best friend.",
+         "name" : "dead dog",
+         "number" : 45
+      },
+      {
+         "data" : [ 0, 1, 100, 0, 0, 0, 0, 0 ],
+         "description" : "You see the rock monster, shattered into a million pieces.",
+         "name" : "pile of rubble",
+         "number" : 46
+      },
+      {
+         "data" : [ 0, 0, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see one very dead hobo lying before you with his limbs all bent in directions that they weren't meant to go.",
+         "name" : "Hobo's body",
+         "number" : 47
+      },
+      {
+         "data" : [ 0, 0, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see Doctor Benway lying peacefully on the ground. Personally, he doesn't look very dead to you...",
+         "name" : "Doctor Benway's body",
+         "number" : 48
+      },
+      {
+         "data" : [ 0, 0, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see remains of The Professor's. His pocket protector is crushed and red ink(?) runs down his shirt.",
+         "name" : "The Professor's body",
+         "number" : 49
+      },
+      {
+         "data" : [ 0, 0, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see a pile of dead guards.",
+         "name" : "dead guards",
+         "number" : 50
+      },
+      {
+         "data" : [ 0, 0, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see General Halftrak's body lying here all broken and bent.",
+         "name" : "General Halftrak's body",
+         "number" : 51
+      },
+      {
+         "data" : [ 0, 0, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see a pile of dead orcs, their football helmets are now cracked open like eggs and their brains leaking out like yolks.",
+         "name" : "dead orcs",
+         "number" : 52
+      },
+      {
+         "data" : [ 0, 0, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You are truly amazing if you can slay an entire army!",
+         "name" : "huge pile of soldiers",
+         "number" : 53
+      },
+      {
+         "data" : [ 0, 0, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see poor A.J., cut down in the prime of his life.",
+         "name" : "A.J.'s body",
+         "number" : 54
+      }
+   ],
+   "effects" : [
+      {
+         "description" : "As you reach for the jewel, the rock comes alive and attacks you!",
+         "number" : 1
+      },
+      {
+         "description" : "You also receive the promised reward of 2,000 gold pieces from the SPS (Society for the Preservation of Scientists). Upon returning, Professor Axom promptly retires to a quiet life of raising genetically enhanced geraniums.",
+         "number" : 2
+      },
+      {
+         "description" : "Congratulations! You found the secret message for this adventure!",
+         "number" : 3
+      },
+      {
+         "description" : "\"You are a fool, Professor!\" snaps Benway, \"If you show me the schematics for your coconut radio one more time I will be forced to amputate your immediate appendages!\"",
+         "number" : 4
+      },
+      {
+         "description" : "The Black Warrior picks up an enormous boulder and throws it at your boat. It smashes through the bottom and the boat sinks before your eyes. \"Ha, ha, ha!\" whoops the Black Warrior with glee, \"There is no escape!\"",
+         "number" : 5
+      },
+      {
+         "description" : "You give the device to him and he looks it over, scratching his head. \"Ah yes, yes! I understand. Of course, it all makes sense.\" he mumbles. Finally, he puts a few wires together and sparks shoot all over the place.*007",
+         "number" : 6
+      },
+      {
+         "description" : "You hear a grinding noise and see a large dark object float out of an opening in the rock wall.",
+         "number" : 7
+      },
+      {
+         "description" : "You see a large black boat float toward you. It is the Black Warrior's private vessel! A flag flies from it depicting a skull & crossbones with a black sword sticking out of the skull.",
+         "number" : 8
+      },
+      {
+         "description" : "You notice that A.J. isn't wearing any pants.",
+         "number" : 9
+      },
+      {
+         "description" : "A.J. shouts, \"I know you! You attacked me in the Cave of The Mind! Ahhhhhhhhhhhhhhhh! Help! Murderer! Help!\" he runs away, screaming and pantsless.",
+         "number" : 10
+      },
+      {
+         "description" : "Doctor Benway returns to the Main Hall with you and gets a temporary room there. Every night he comes down to the bar and drinks himself into a stupor beside you. You enjoy his company, but get sick of him slapping you on the*012",
+         "number" : 11
+      },
+      {
+         "description" : "back and recounting his so-called story of how 'he saved this poor kid and his egghead friends from the clutches of the sinister Black Warrior'.",
+         "number" : 12
+      },
+      {
+         "description" : "The man known only to you as 'Prisoner #13' returns to the Main Hall with you and joins the Free Adventurer's Guild as a professional thief. He goes on an adventure one day and never returns...",
+         "number" : 13
+      },
+      {
+         "description" : "A.J. suddenly recognizes you. \"Am I ever glad to see you!\" he exclaims, \"I was rafting down the Zyphur River when that jerk the Black Warrior abducted me and tried forcing me work for him, washing his soldiers' underwear!\"",
+         "number" : 14
+      },
+      {
+         "description" : "Everyone is disappointed in your failure to safely return Professor Axom, and your reputation suffers greatly.",
+         "number" : 15
+      },
+      {
+         "description" : "\"Hey!\" gurgles the hobo, \"That bag belonged to me! Them's my widdles! I'll show you, you ragamuffin!\"",
+         "number" : 16
+      },
+      {
+         "description" : "The Gold Warrior keeps good on his promise to 'whip you into shape' by subjecting you to a rigorous regime of mental and physical abuse. At the end you do feel you're in better shape and (as he says) you have \"developed big pipes\".",
+         "number" : 17
+      }
+   ],
+   "info" : {
+      "author" : "Jim Jacobson",
+      "difficulty" : "5",
+      "rating" : "5.7/7",
+      "serialNum" : "4"
+   },
+   "intro" : "",
+   "monsters" : [
+      {
+         "data" : [ 15, 12, 1, 90, 60, 0, 2, 1, 1, 9, 1, 0, 0 ],
+         "description" : "You see a man wearing an important looking uniform standing before you. He is Commander Klink, a former Colonel for the Royal Army of Molinar who was court marshaled for treason. He is now Commander in Chief of the Black Warrior's security.",
+         "name" : "Commander Klink",
+         "number" : 1
+      },
+      {
+         "data" : [ 10, 10, 1, 85, 23, 0, 0, 2, 1, 5, 2, 0, 0 ],
+         "description" : "You see a tall thin man clad flowing silk robes. He is holding his hands together and slowly bowing. He sees you smiles slyly. (He is a worshipper of the great wizard, Trezore. They are known to smile a lot, but are usually benign.)",
+         "name" : "Worshiper of Trezore",
+         "number" : 2
+      },
+      {
+         "data" : [ 55, 32, 1, 200, 41, -1, 1, 0, 20, 1, 2, 0, 0 ],
+         "description" : "Before you stands a strange little creature covered in gray fur. He is the famous Cerebus the Aardvark, and something tells you to leave him alone.",
+         "name" : "Cerebus",
+         "number" : 3
+      },
+      {
+         "data" : [ 20, 10, 1, 200, 18, 0, 0, 0, 2, 5, 1, 0, 0 ],
+         "description" : "You see what appears to be a dolphin with a forked tail and the head of a greyhound. It is swimming toward you frantically.",
+         "name" : "Cetus",
+         "number" : 4
+      },
+      {
+         "data" : [ 10, 12, 1, 200, 10, 0, 6, 0, 1, 7, 1, 0, 0 ],
+         "description" : "In the shallow water you see a 3-foot wide crab. It sees you and quickly scuttles towards you, its claws snapping nervously.",
+         "name" : "Crab",
+         "number" : 5
+      },
+      {
+         "data" : [ 32, 18, 1, 200, 43, 0, 6, 0, 2, 6, 1, 0, 0 ],
+         "description" : "Crouching in the back of the small cave is a large fire breathing creature. It has a spiked tail, huge sharp claws, and its body is covered with red plate-like scales. It raises its head and nearly roasts you with a blast of its fiery breath!",
+         "name" : "Dragon",
+         "number" : 6
+      },
+      {
+         "data" : [ 18, 15, 1, 65, 70, 0, 2, 3, 1, 5, 125, 0, 0 ],
+         "description" : "A small dwarfish creature is peering at you from the shadows. You recognize it to be an orc from its bowed legs. On its crude leather clothing is the word, \"MXLAR\".",
+         "name" : "Mxlar",
+         "number" : 7
+      },
+      {
+         "data" : [ 12, 15, 1, 200, 7, 0, 0, 0, 1, 6, 1, 0, 0 ],
+         "description" : "A large bird with extremely sharp talons swoops down at you. It is a roc, after its afternoon snack.",
+         "name" : "Roc",
+         "number" : 8
+      },
+      {
+         "data" : [ 15, 10, 1, 100, 65, 0, 0, 4, 1, 5, 3, 0, 0 ],
+         "description" : "A grey-haired man is sitting at a stone table. He is Professor Axom, the man you were sent to rescue from the clutches of the Black Warrior.",
+         "name" : "Professor Axom",
+         "number" : 9
+      },
+      {
+         "data" : [ 12, 10, 1, 100, 74, 0, 0, 0, 1, 3, 3, 0, 0 ],
+         "description" : "You see a frail thin man is lying on the floor. He sees you and slowly gets to his feet. You see a patch on his orange jumpsuit that says, \"#13\".",
+         "name" : "Prisoner #13",
+         "number" : 10
+      },
+      {
+         "data" : [ 34, 18, 1, 200, 0, 0, 4, 5, 2, 5, 1, 0, 0 ],
+         "description" : "You see a huge warrior clad in black plate mail. He raises his sword and shouts, \"Foolish adventurer, did you really expect me to let you get away with my scientists! I will destroy your Guild! Say goodbye to all of this and hello to oblivion!\"",
+         "name" : "Black Warrior",
+         "number" : 11
+      },
+      {
+         "data" : [ 32, 22, 1, 200, 80, 0, 6, 6, 2, 4, 3, 0, 0 ],
+         "description" : "A large warrior suddenly appears in the shadows. His plate armor is a shiny gold color, hurting your eyes. He flexes his muscles, says something rude about your physical condition and offers to become your personal trainer for 6,000 gold pieces.",
+         "name" : "Gold Warrior",
+         "number" : 12
+      },
+      {
+         "data" : [ 15, 12, 1, 100, 52, 0, 0, 0, 1, 8, 1, 0, 0 ],
+         "description" : "A medium-sized attack dog runs at you from the shadows. It looks dirty and hungry. At first you thought he was bringing you a paper, but you see it was actually a human skull!",
+         "name" : "Black Dog",
+         "number" : 13
+      },
+      {
+         "data" : [ 25, 12, 1, 200, 0, 0, 0, 0, 1, 7, 1, 0, 0 ],
+         "description" : "You see medium-sized creature which appears to be comprised of solid rock. It swings at you with a solid, stoney arm and nearly crushes your head!",
+         "name" : "Rock Monster",
+         "number" : 14
+      },
+      {
+         "data" : [ 10, 10, 1, 100, 35, 0, 0, 0, 1, 5, 2, 0, 0 ],
+         "description" : "You see a thin man in ragged clothing sleeping on the bare floor. He wakes up with a start and grins at you, revealing a mouth of rotten yellow teeth.",
+         "name" : "Hobo",
+         "number" : 15
+      },
+      {
+         "data" : [ 32, 18, 1, 200, 65, 0, 1, 25, 1, 4, 3, 0, 0 ],
+         "description" : "You see another scientist who was kidnapped by the Black Warrior for his Think Tank. He is the infamous Doctor Benway of Interzone. He is busy arguing with another man, and doesn't seem to even notice you.",
+         "name" : "Doctor Benway",
+         "number" : 16
+      },
+      {
+         "data" : [ 16, 12, 1, 110, 65, -2, 0, 0, 1, 4, 3, 0, 0 ],
+         "description" : "You see a medium-sized man in khakis and a white button down shirt with a pocket protector. He is yet another scientist kidnapped by the fiendish Black Warrior. But wait! This is no ordinary professor, it's The Professor, from Gilligan's Island!",
+         "name" : "Professor",
+         "number" : 17
+      },
+      {
+         "data" : [ 12, 16, 3, 200, 63, 0, 1, 0, 1, 6, 1, 0, 0 ],
+         "description" : "Some of the Black Warrior's finest, hand-picked lackeys are standing guard before a strong iron door. A sign above the door reads, \"Laboratory\".",
+         "name" : "Guard",
+         "number" : 18
+      },
+      {
+         "data" : [ 24, 20, 1, 200, 59, 0, 3, 16, 1, 4, 1, 0, 0 ],
+         "description" : "You see the man in charge of planning and strategy for the Black Warrior's army, the notorious General Halftrak! He is grumbling, \"Bunch of worthless ingrates. Nothing like this ever happened when I was a soldier.\"",
+         "name" : "General Halftrak",
+         "number" : 19
+      },
+      {
+         "data" : [ 16, 16, 4, 100, 27, 0, 1, 0, 1, 6, 1, 0, 0 ],
+         "description" : "You see a group of average, smelly orcs here. They are wearing crude football helmets and were throwing a flat soccer ball back and forth. They see you and charge!",
+         "name" : "Orc",
+         "number" : 20
+      },
+      {
+         "data" : [ 16, 16, 173, 200, 56, 0, 3, 0, 2, 8, 2, 0, 0 ],
+         "description" : "You see a large group of the Black Warriors soldiers. Instead of swords they are carrying signs which say, \"SOLDIER'S RIGHTS!\" and \"BLACK WARRIOR UNFAIR\". They don't seem too concerned with you.",
+         "name" : "Striking Soldier",
+         "number" : 21
+      },
+      {
+         "data" : [ 25, 18, 1, 200, 72, -1, 1, 0, 1, 4, 3, 0, 0 ],
+         "description" : "You see a friendly, dark haired fellow here. He is looking around, apparently confused about where he is.",
+         "name" : "A.J.",
+         "number" : 22
+      }
+   ],
+   "name" : "The Zyphur Riverventure",
+   "numDirections" : 6,
+   "rooms" : [
+      {
+         "data" : [ 0, 0, 2, -999, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are standing on rickety wooden docks with the mighty Zyphur River rushing by to the east. There is a boat tied here which you can use to sail the river. To the west is a road leading back to the Main Hall.",
+         "name" : "You are on the docks. (E/W)",
+         "number" : 1
+      },
+      {
+         "data" : [ 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 2 ],
+         "description" : "You are on the swiftly flowing Zyphur River. The current is strong, preventing you from travelling any direction except south. Steep cliffs loom to the east and west.",
+         "name" : "You are sailing the Zyphur River. (S)",
+         "number" : 2
+      },
+      {
+         "data" : [ 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 2 ],
+         "description" : "You are on the swiftly flowing Zyphur River. The river is bending to the east. The current prevents you from going any other direction.",
+         "name" : "You are sailing the Zyphur River. (E)",
+         "number" : 3
+      },
+      {
+         "data" : [ 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 2 ],
+         "description" : "The river has smoothed out somewhat. To the north and south are impassable rocks. To the east the river appears to widen a bit.",
+         "name" : "You are sailing the Zyphur River. (E)",
+         "number" : 4
+      },
+      {
+         "data" : [ 21, 22, 6, 0, 0, 0, 0, 0, 0, 0, 2 ],
+         "description" : "The current has slowed down quite a bit here. To the north and south are clearings on the river bank where you can land.",
+         "name" : "You are at a widening of the river. (N/S/E)",
+         "number" : 5
+      },
+      {
+         "data" : [ 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 2 ],
+         "description" : "As the current begins to sweep you along faster, you take notice of the river beginning to narrow. The current is strong, preventing you from travelling any direction except east.",
+         "name" : "You are sailing the Zyphur River. (E)",
+         "number" : 6
+      },
+      {
+         "data" : [ 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 2 ],
+         "description" : "The river now bends to the south. You can feel rocks scraping the bottom of the boat, but you don't notice any damage.",
+         "name" : "You are sailing the Zyphur River. (S)",
+         "number" : 7
+      },
+      {
+         "data" : [ 0, 9, 23, 0, 0, 0, 0, 0, 0, 0, 2 ],
+         "description" : "As you make the bend, you notice a small clearing which faces a large cliff (east). Strange paintings adorn the cliff walls. To the west is a dense forest with nowhere for you to land.",
+         "name" : "You are sailing the Zyphur River. (S/E)",
+         "number" : 8
+      },
+      {
+         "data" : [ 8, 10, 0, 0, 0, 0, 0, 0, 0, 0, 2 ],
+         "description" : "The river is narrowing into a small stream with barely enough water for you to continue. East and west are huge, steep cliffs which prevent you from landing.",
+         "name" : "You are sailing the Zyphur River. (N/S)",
+         "number" : 9
+      },
+      {
+         "data" : [ 9, 11, 0, 0, 0, 0, 0, 0, 0, 0, 2 ],
+         "description" : "The river is almost dry here and your boat can barely float. You see steep cliffs both east and west.",
+         "name" : "You are at a very narrow part of the river. (N/S)",
+         "number" : 10
+      },
+      {
+         "data" : [ 10, 12, 17, 0, 0, 0, 0, 0, 0, 0, 2 ],
+         "description" : "The river forks here, going both south and east. The water is about waist deep and in the distance to the east you see the river disappearing into a tunnel. To the south the river continues between two large cliffs.",
+         "name" : "You are at a 'Y' section on the river. (N/S/E)",
+         "number" : 11
+      },
+      {
+         "data" : [ 0, 13, 0, 0, 0, 0, 0, 0, 0, 0, 2 ],
+         "description" : "The current has started to pick up slightly. You see very high cliffs with small caverns carved into them to the east and west. The river continues flowing to the south.",
+         "name" : "You are sailing the Zyphur River. (S)",
+         "number" : 12
+      },
+      {
+         "data" : [ 0, 14, 0, 0, 0, 0, 0, 0, 0, 0, 2 ],
+         "description" : "The current is growing gradually stronger. East and west are huge, steep cliffs which prevent you from landing. The river continues flowing to the south.",
+         "name" : "You are sailing the Zyphur River. (S)",
+         "number" : 13
+      },
+      {
+         "data" : [ 0, 15, 0, 24, 0, 0, 0, 0, 0, 0, 2 ],
+         "description" : "You are on the river. To the west you see a small landing area with a path leading through the cliffs. East is a huge steep cliff which prevents you from landing. The river continues flowing to the south.",
+         "name" : "You are sailing the Zyphur River. (S/W)",
+         "number" : 14
+      },
+      {
+         "data" : [ 0, 16, 0, 0, 0, 0, 0, 0, 0, 0, 2 ],
+         "description" : "Ahead the river suddenly drops off the edge of a cliff... A waterfall! You can't land east or west, and the current is too strong for you to go back north!",
+         "name" : "You are sailing the Zyphur River. (S)",
+         "number" : 15
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "AHHHHHHHHHH!!!! You have fallen over the waterfall and have been killed!",
+         "name" : "You are on the waterfall",
+         "number" : 16
+      },
+      {
+         "data" : [ 0, 0, 18, 11, 0, 0, 0, 0, 0, 0, 2 ],
+         "description" : "The current is almost non existent here, and you can sail either east or west. To the north and south are tall cliffs, east is an entrance to a tunnel.",
+         "name" : "You are sailing the Zyphur River. (E/W)",
+         "number" : 17
+      },
+      {
+         "data" : [ 0, 0, 19, 17, 0, 0, 0, 0, 0, 0, 2 ],
+         "description" : "To the east is darkness, to the west you see daylight.",
+         "name" : "You are at the entrance to a tunnel. (E/W)",
+         "number" : 18
+      },
+      {
+         "data" : [ 0, 0, 20, 18, 0, 0, 0, 0, 0, 0, 2 ],
+         "description" : "You are in a tunnel with dark green walls. There is no current here, and the tunnel seems to open into a chamber of some sort to the east.",
+         "name" : "You are in a dark tunnel. (E/W)",
+         "number" : 19
+      },
+      {
+         "data" : [ 25, 26, 0, 19, 0, 0, 0, 0, 0, 0, 2 ],
+         "description" : "You float peacefully into a large pool. To the north and south are small landing areas, to the west is a dark tunnel, and east a solid wall.",
+         "name" : "You are in a large pool. (N/S/W)",
+         "number" : 20
+      },
+      {
+         "data" : [ 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 3 ],
+         "description" : "You are at what appears to be an abandoned military camp. You find the remains of several campfires and much scattered debris. Thick, impassable woods lie in all directions except south.",
+         "name" : "You are at an old army camp. (S)",
+         "number" : 21
+      },
+      {
+         "data" : [ 5, 27, 0, 0, 0, 0, 0, 0, 0, 0, 3 ],
+         "description" : "You are at a small clearing just south of the swiftly flowing Zyphur River. You see a small path which runs south into a dense forest.",
+         "name" : "You are at a clearing by the river. (N/S)",
+         "number" : 22
+      },
+      {
+         "data" : [ 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 3 ],
+         "description" : "You are on a small beach near the river. Surrounding you are smooth, steep walls of stone with ancient paintings on them.",
+         "name" : "You are at an old temple on the beach. (W)",
+         "number" : 23
+      },
+      {
+         "data" : [ 0, 0, 14, 28, 0, 0, 0, 0, 0, 0, 3 ],
+         "description" : "You are on a narrow path between unscaleable stone cliffs. To the east you hear water rushing, west is a bend in the path.",
+         "name" : "You are on a path near the river. (E/W)",
+         "number" : 24
+      },
+      {
+         "data" : [ 29, 20, 0, 0, 0, 0, 0, 0, 0, 0, 3 ],
+         "description" : "You float into a small landing bay. South is a large pool, north you see an entrance to a small tunnel (looks dark in there). Jagged rocks prevent travel in any other direction.",
+         "name" : "You are on the north side of a large pool. (N/S)",
+         "number" : 25
+      },
+      {
+         "data" : [ 20, 30, 0, 0, 0, 0, 0, 0, 0, 0, 3 ],
+         "description" : "You float into a small landing bay. North is a large pool, south a dark cavern.",
+         "name" : "You are on a landing near a large pool. (N/S)",
+         "number" : 26
+      },
+      {
+         "data" : [ 22, 38, 0, 31, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You have arrived at a large clearing. Several fires and large amounts of bones and litter suggest that a small group has been camping out here. You also notice a crude baseball diamond and mini-golf course.",
+         "name" : "You are on a path. (N/S/W)",
+         "number" : 27
+      },
+      {
+         "data" : [ 45, 0, 24, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The path turns sharply up to the north. To the east it starts to get very narrow and you can hear water flowing.",
+         "name" : "You are at a bend in a path. (N/E)",
+         "number" : 28
+      },
+      {
+         "data" : [ 0, 25, 46, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "To the south you see a large pool of water, east is darkness.",
+         "name" : "You are at a tunnel entrance. (S/E)",
+         "number" : 29
+      },
+      {
+         "data" : [ 26, 67, 68, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "The floor is made of marble and the walls have a very finished look about them. To the east and south you see small corridors.",
+         "name" : "You are in a large cavern. (N/S/E)",
+         "number" : 30
+      },
+      {
+         "data" : [ 0, 0, 27, 33, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are travelling on a rough path through the woods.",
+         "name" : "You are on a rough path. (E/W)",
+         "number" : 31
+      },
+      {
+         "data" : [ 0, 83, 0, 41, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a dark tunnel with sunlight coming from the west.",
+         "name" : "You are in a dark tunnel. (S/W)",
+         "number" : 32
+      },
+      {
+         "data" : [ 0, 0, 31, 34, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You see footprints in the mud which resemble those of a bear. You also notice the rotting bones of an animal.",
+         "name" : "You are on a path going E/W.",
+         "number" : 33
+      },
+      {
+         "data" : [ 36, 35, 33, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "To the north the woods clear and you see can an open field. To the south is a small brick house. To the east the path continues.",
+         "name" : "You are at a T-intersection; N/S by E.",
+         "number" : 34
+      },
+      {
+         "data" : [ 34, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are inside the small brick house. The floors and walls are bare, and there is a fireplace against the south wall.",
+         "name" : "You are in a small house. (N)",
+         "number" : 35
+      },
+      {
+         "data" : [ 37, 34, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "To the east and west you see dense forest, to the south is a path into the woods, and to the north you can see a road with a sign that says, \"Main Hall!\"",
+         "name" : "You are in a large clearing. (N/S)",
+         "number" : 36
+      },
+      {
+         "data" : [ -999, 36, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You have made it back! North will take you to the Main Hall.",
+         "name" : "You on a road to the Main Hall. (N/S)",
+         "number" : 37
+      },
+      {
+         "data" : [ 27, 39, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The path runs north and south. To the east (over the edge of the cliff) you can see the Zyphur River. The path slopes sharply down to the north.",
+         "name" : "You are on a path atop a cliff. (N/S)",
+         "number" : 38
+      },
+      {
+         "data" : [ 38, 40, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "To the east (over the edge of the cliff) you can see the Zyphur River. To the south the path slopes down sharply.",
+         "name" : "You are on a path atop a cliff. (N/S)",
+         "number" : 39
+      },
+      {
+         "data" : [ 39, 45, 41, 42, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "To the north and south the path continues. To the east and west you see entrances into the side of the cliff.",
+         "name" : "You are at an intersection atop a cliff. (N/S/E/W)",
+         "number" : 40
+      },
+      {
+         "data" : [ 0, 0, 32, 40, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The tunnel is very dark, lit only by the sunlight that comes in from the west.",
+         "name" : "You are at the entrance to a small tunnel. (E/W)",
+         "number" : 41
+      },
+      {
+         "data" : [ 0, 0, 40, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The cave is dimly lit by sunlight coming from the east. The walls and ground are covered with dense vegetation.",
+         "name" : "You are in a small cave. (E)",
+         "number" : 42
+      },
+      {
+         "data" : [ 0, 0, 45, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The cave is dimly lit by sunlight coming from the east. Dust fills the air.",
+         "name" : "You are in a small cave. (E)",
+         "number" : 43
+      },
+      {
+         "data" : [ 0, 0, 0, 45, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You find evidence which suggests that this was once a guard post. You can see the Zyphur River rushing by and spilling over a beautiful waterfall to the southeast.",
+         "name" : "You are on a small clearing atop a cliff. (W)",
+         "number" : 44
+      },
+      {
+         "data" : [ 40, 28, 44, 43, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The path slopes down to the south and continues out of sight to the north. To the west you see a cave entrance, to the east a clearing atop the cliff.",
+         "name" : "You are on a stone path. (N/S/E/W)",
+         "number" : 45
+      },
+      {
+         "data" : [ 48, 47, 1024, 29, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a rather well built corridor. The walls have large rectangular shapes in them, imbedded with odd flecks of gold and silver.",
+         "name" : "You are in a corridor. (N/S/W)",
+         "number" : 46
+      },
+      {
+         "data" : [ 46, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a room with small recesses in the walls. You see several smashed and emptied wooden crates.",
+         "name" : "You are in the uniform room. (N)",
+         "number" : 47
+      },
+      {
+         "data" : [ 49, 46, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a rather well built corridor. The walls have large rectangular shapes in them.",
+         "name" : "You are in a N/S corridor.",
+         "number" : 48
+      },
+      {
+         "data" : [ 50, 48, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "To the north you can make out a T-intersection, to the south the corridor continues out of sight. You notice strange rectangular designs on the walls.",
+         "name" : "You are in a N/S corridor.",
+         "number" : 49
+      },
+      {
+         "data" : [ 0, 49, 52, 51, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "To the east you see a long corridor, west the corridor ends abruptly, and south is a corridor with odd designs on the walls.",
+         "name" : "You are at a T-intersection; E/W by south.",
+         "number" : 50
+      },
+      {
+         "data" : [ 0, 0, 50, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "Here the hallway ends abruptly. Marks on the wall and rubble indicate that the hallway is still under construction.",
+         "name" : "You are at the end of an hallway. (E)",
+         "number" : 51
+      },
+      {
+         "data" : [ 0, 0, 53, 50, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a plain, bare hallway.",
+         "name" : "You are in an E/W hallway.",
+         "number" : 52
+      },
+      {
+         "data" : [ 0, 0, 54, 52, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "To the east you can see a turn in the hallway.",
+         "name" : "You are in an E/W hallway.",
+         "number" : 53
+      },
+      {
+         "data" : [ 0, 57, 0, 53, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "To the west the hallway continues out of sight, south you can see it take another jog.",
+         "name" : "You are at a bend in the hallway. (S/W)",
+         "number" : 54
+      },
+      {
+         "data" : [ 56, 58, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "Sunlight streams in from the north through a jagged opening in the wall. To the south the tunnel continues out of sight.",
+         "name" : "You are in a broken tunnel. (N/S)",
+         "number" : 55
+      },
+      {
+         "data" : [ 0, 55, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at a giant look-out post for an army, atop a large mountain. From here you can see for miles and miles over a range of fields and mountains. You see a large valley of tents and stables.",
+         "name" : "You are at a look-out post. (S)",
+         "number" : 56
+      },
+      {
+         "data" : [ 54, 0, 58, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "To the north you see a well constructed hallway, east is a T-intersection.",
+         "name" : "You are in a broken tunnel. (N/E)",
+         "number" : 57
+      },
+      {
+         "data" : [ 55, 59, 0, 57, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "To the north and south are small openings where you can see vague sunlight, to the west is a broken tunnel.",
+         "name" : "You are at a T-intersection; N/S by west.",
+         "number" : 58
+      },
+      {
+         "data" : [ 58, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at a giant look-out post for an army, atop a large mountain. From here you can see for miles and miles over a range of fields and mountains. Strange, the place appears completely deserted.",
+         "name" : "You are at a look-out post. (N)",
+         "number" : 59
+      },
+      {
+         "data" : [ 0, 0, 62, 46, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a narrow hallway which is dark and covered with dirt.",
+         "name" : "You are in a secret E/W hallway.",
+         "number" : 60
+      },
+      {
+         "data" : [ 0, 62, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small room off of the main corridor. You see many rotten crates that have been smashed and emptied.",
+         "name" : "You are in a small storage room. (S)",
+         "number" : 61
+      },
+      {
+         "data" : [ 61, 0, 63, 60, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a narrow hallway that runs E/W. To the north is a small room with a rotten wooden door laying on the floor in front of it.",
+         "name" : "You are in a secret hallway. (N/E/W)",
+         "number" : 62
+      },
+      {
+         "data" : [ 0, 1027, 0, 62, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "The hallway continues back to the west. A large heavy door lies south.",
+         "name" : "You are at the end of a secret hallway. (S/W)",
+         "number" : 63
+      },
+      {
+         "data" : [ 0, 0, 65, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a storage room with wooden shelves lining the walls. The floor is comprised of smooth rock and the walls are very well designed.",
+         "name" : "You are in a storage room. (E)",
+         "number" : 64
+      },
+      {
+         "data" : [ 63, 66, 0, 64, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in what appears to be a very old laboratory. Shattered glass lies scattered about, and odd broken instruments litter the room. You see small rooms to the west and south.",
+         "name" : "You are in a laboratory. (N/S/W)",
+         "number" : 65
+      },
+      {
+         "data" : [ 65, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small storage room with wooden shelves lining the walls.",
+         "name" : "You are in a storage room. (N)",
+         "number" : 66
+      },
+      {
+         "data" : [ 30, 75, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "The walls are bare rock, and appear to have been hastily constructed.",
+         "name" : "You are in a N/S corridor.",
+         "number" : 67
+      },
+      {
+         "data" : [ 0, 0, 69, 30, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "To the east is a T-intersection, west is a large room.",
+         "name" : "You are in a small E/W corridor.",
+         "number" : 68
+      },
+      {
+         "data" : [ 0, 71, 0, 68, 70, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a room that has many racks for storing weapons. You see a ladder which leads up into a hole in the ceiling. To the south is a small closet. A doorway is to the west.",
+         "name" : "You are in a weapons room. (S/W/U)",
+         "number" : 69
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 0, 69, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small room with a low ceiling. The air is very dusty and the only exit is down a ladder through a hole in the floor.",
+         "name" : "You are in a small storage loft. (D)",
+         "number" : 70
+      },
+      {
+         "data" : [ 69, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "The floor is covered with a white fungus, and the air is very stale here.",
+         "name" : "You are in a large closet. (N)",
+         "number" : 71
+      },
+      {
+         "data" : [ 0, 73, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a barren cell. The only exit is to the south.",
+         "name" : "You are in the north cell. (S)",
+         "number" : 72
+      },
+      {
+         "data" : [ 1030, 1031, 0, 75, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a room with small cells to the north and south. The old iron cell doors appear to have rusted away years ago.",
+         "name" : "You are in a makeshift jail. (N/S/W)",
+         "number" : 73
+      },
+      {
+         "data" : [ 73, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a barren cell. The only exit is to the north.",
+         "name" : "You are in the south cell. (N)",
+         "number" : 74
+      },
+      {
+         "data" : [ 67, 0, 73, 76, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a place where a rough E/W tunnel intersects with a northbound one.",
+         "name" : "You are at a T-intersection; E/W by north.",
+         "number" : 75
+      },
+      {
+         "data" : [ 0, 77, 75, 81, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a E/W tunnel with walls that comprised of bare rock. To the south is another small passage.",
+         "name" : "You are in a rough tunnel. (S/E/W)",
+         "number" : 76
+      },
+      {
+         "data" : [ 76, 78, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You see doors to the south, and a broken tunnel lies to the north.",
+         "name" : "You are in a small passage. (N/S)",
+         "number" : 77
+      },
+      {
+         "data" : [ 77, 0, 79, 80, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "Heavy doors lie to the east and west of you.",
+         "name" : "You are at the end of a passage. (N/E/W)",
+         "number" : 78
+      },
+      {
+         "data" : [ 0, 0, 0, 78, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a huge room with several animal skin hammocks strung up on the walls.",
+         "name" : "You are in the east barracks. (W)",
+         "number" : 79
+      },
+      {
+         "data" : [ 0, 0, 78, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a huge room with several animal skin hammocks strung up on the walls.",
+         "name" : "You are in the west barracks. (E)",
+         "number" : 80
+      },
+      {
+         "data" : [ 0, 0, 76, 82, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a tunnel that slopes up to the west and down to the east.",
+         "name" : "You are in an E/W tunnel.",
+         "number" : 81
+      },
+      {
+         "data" : [ 0, 0, 81, 83, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "The tunnel slopes sharply down to the east. You can see vague light coming from the west.",
+         "name" : "You are in an E/W tunnel.",
+         "number" : 82
+      },
+      {
+         "data" : [ 32, 0, 82, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a tunnel that slopes sharply down to the east. To the north you see vague sunlight.",
+         "name" : "You are in a N/E tunnel.",
+         "number" : 83
+      }
+   ]
+}

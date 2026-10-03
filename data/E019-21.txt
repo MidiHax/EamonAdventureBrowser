@@ -1,0 +1,769 @@
+{
+   "artifacts" : [
+      {
+         "data" : [ 0, 1, 10, 4, 0, 0, 0, 0 ],
+         "description" : "The stench from the rancid sheets is overpowering.  Obviously they have been laying here for a long time.",
+         "name" : "old sheets",
+         "number" : 1
+      },
+      {
+         "data" : [ 600, 0, 60, 0, 0, 0, 0, 0 ],
+         "description" : "Where the nasty bed sheets were is now a pile of solid gold ben-wa balls.",
+         "name" : "ben-wa balls",
+         "number" : 2
+      },
+      {
+         "data" : [ 0, 1, 1, -2, 0, 0, 0, 0 ],
+         "description" : "On the floor is a crusty old condom.  Obviously a souvenir of days gone by.",
+         "name" : "used rubber",
+         "number" : 3
+      },
+      {
+         "data" : [ 0, 1, 1, 0, 0, 0, 0, 0 ],
+         "description" : "On the floor you see the fag's amputated penis.",
+         "name" : "penis",
+         "number" : 4
+      },
+      {
+         "data" : [ 100, 1, 20, 8, 0, 0, 0, 0 ],
+         "description" : "On the wall is a rusty old rubber machine.  It looks as if it's about to fall down.",
+         "name" : "rubber machine",
+         "number" : 5
+      },
+      {
+         "data" : [ 250, 1, 3, -4, 0, 0, 0, 0 ],
+         "description" : "You see a jewel-studded vibrator lying on the ground.",
+         "name" : "jeweled vibrator",
+         "number" : 6
+      },
+      {
+         "data" : [ 200, 3, 6, -5, 50, 2, 3, 3 ],
+         "description" : "You see an automatic sub-machine gun that was carried by the pimp.",
+         "name" : "sub-machine gun",
+         "number" : 7
+      },
+      {
+         "data" : [ 20, 2, 8, -6, 10, 3, 1, 5 ],
+         "description" : "You see a good quality club.",
+         "name" : "club",
+         "number" : 8
+      },
+      {
+         "data" : [ 0, 1, 3, -8, 0, 0, 0, 0 ],
+         "description" : "You see a disgusting diaper full of runny yellow baby shit.",
+         "name" : "shitty diaper",
+         "number" : 9
+      },
+      {
+         "data" : [ 30, 3, 6, -11, 15, 4, 2, 3 ],
+         "description" : "You see an old pair of sheep shears.",
+         "name" : "sheep shears",
+         "number" : 10
+      },
+      {
+         "data" : [ 10, 2, 6, -12, 5, 4, 1, 6 ],
+         "description" : "You see an old Bar X branding iron.",
+         "name" : "branding iron",
+         "number" : 11
+      },
+      {
+         "data" : [ 20, 2, 5, -13, 10, 1, 1, 6 ],
+         "description" : "You see the fireman's axe lying on the floor.",
+         "name" : "fire axe",
+         "number" : 12
+      },
+      {
+         "data" : [ 5, 2, 2, -16, 5, 4, 1, 5 ],
+         "description" : "You see a shiny straight razor stuck in the floor.",
+         "name" : "razor",
+         "number" : 13
+      },
+      {
+         "data" : [ 10, 2, 4, -17, 40, 3, 1, 6 ],
+         "description" : "You see the policeman's black club on the floor.  It is used to legally beat the crap out of peaceful demonstrators and black motorists.",
+         "name" : "billy club",
+         "number" : 14
+      },
+      {
+         "data" : [ 10, 2, 8, -18, -10, 3, 5, 3 ],
+         "description" : "You see a dirt encrusted shovel.",
+         "name" : "shovel",
+         "number" : 15
+      },
+      {
+         "data" : [ 20, 2, 5, -19, 23, 3, 1, 8 ],
+         "description" : "You see a blood stained hammer with little pieces of toad still hanging from it.",
+         "name" : "toad hammer",
+         "number" : 16
+      },
+      {
+         "data" : [ 100, 0, 10, 4, 0, 0, 0, 0 ],
+         "description" : "You see some gold balls lying next to the sheets.  (I wonder if there are more underneath the sheets?)",
+         "name" : "gold balls",
+         "number" : 17
+      },
+      {
+         "data" : [ 300, 1, 900, 5, 0, 0, 0, 0 ],
+         "description" : "In the center of the room is an ancient four-poster bed.  Its dirty sheets have stains which resemble big bulls-eyes on them.",
+         "name" : "four-poster bed",
+         "number" : 18
+      },
+      {
+         "data" : [ 50, 1, 600, 1, 0, 0, 0, 0 ],
+         "description" : "You see an old, beat up wooden desk here.",
+         "name" : "old desk",
+         "number" : 19
+      },
+      {
+         "data" : [ 50, 0, 10, 16, 0, 0, 0, 0 ],
+         "description" : "Lying under one of the cribs is a gold pacifier.  It must have cost at least two tricks.",
+         "name" : "gold pacifier",
+         "number" : 20
+      },
+      {
+         "data" : [ 5, 1, 2, 8, 0, 0, 0, 0 ],
+         "description" : "A thick magazine lies almost hidden beside one of the porcelain fixtures.",
+         "name" : "magazine",
+         "number" : 21
+      },
+      {
+         "data" : [ 20, 2, 3, -24, 15, 3, 3, 2 ],
+         "description" : "You see a whip that looks as though it's pleasured many men and women.",
+         "name" : "whip",
+         "number" : 22
+      },
+      {
+         "data" : [ 35, 1, 2, 30, 0, 0, 0, 0 ],
+         "description" : "You see a silk rope lying on the floor next to your feet.",
+         "name" : "bondage rope",
+         "number" : 23
+      },
+      {
+         "data" : [ 100, 0, 10, 19, 0, 0, 0, 0 ],
+         "description" : "You see a small gold statue that looks a little beat up.  It was probably stolen and then traded for an evening in the house.",
+         "name" : "gold statue",
+         "number" : 24
+      },
+      {
+         "data" : [ 0, 1, -999, 2006, 0, 0, 0, 0 ],
+         "description" : "You'll have to use the READ command.",
+         "name" : "sign",
+         "number" : 25
+      },
+      {
+         "data" : [ 50, 1, 70, 31, 0, 0, 0, 0 ],
+         "description" : "You see a battered tampon dispenser.  Somebody has broken into it and stolen all the tampons and change.",
+         "name" : "tampon machine",
+         "number" : 26
+      },
+      {
+         "data" : [ 0, 11, 0, 2031, 0, 6, 0, 0 ],
+         "description" : "The panties are soft, silky, and still hold the sex odor of their previous owner.",
+         "name" : "panties",
+         "number" : 27
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You see artifact #28",
+         "name" : "Artifact #28",
+         "number" : 28
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You see artifact #29",
+         "name" : "Artifact #29",
+         "number" : 29
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You see artifact #30",
+         "name" : "Artifact #30",
+         "number" : 30
+      },
+      {
+         "data" : [ 0, 0, -999, 0, 0, 0, 0, 0 ],
+         "description" : "The dead old whore's scabby cunt lets out one last fart of fuming yellow vapors!  Yech!",
+         "name" : "Old Whore's body",
+         "number" : 31
+      },
+      {
+         "data" : [ 0, 0, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see the fag's body (minus his penis).",
+         "name" : "Fag's body",
+         "number" : 32
+      },
+      {
+         "data" : [ 0, 0, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see the no longer beautiful dead blonde lying crumpled on the floor.",
+         "name" : "Beautiful Blonde's body",
+         "number" : 33
+      },
+      {
+         "data" : [ 0, 0, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see the pimp's lifeless body.",
+         "name" : "Pimp's body",
+         "number" : 34
+      },
+      {
+         "data" : [ 0, 0, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see troll's smelly dead body.",
+         "name" : "dead troll",
+         "number" : 35
+      },
+      {
+         "data" : [ 0, 0, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see the very limp dead Peter.  (Ha!)",
+         "name" : "Peter Piker's body",
+         "number" : 36
+      },
+      {
+         "data" : [ 0, 0, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see the dead body of Adam A. Ducommun. He still clutches the corn dog to which he had a large, albiet still unexplained, attachment in his cold grubby little hands. Good riddance!",
+         "name" : "Adam Ducommun's body",
+         "number" : 37
+      },
+      {
+         "data" : [ 0, 0, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see the body of the giant female hamster crumpled up on the floor with dried cum all over her face and whiskers.",
+         "name" : "Giant Hamster's body",
+         "number" : 38
+      },
+      {
+         "data" : [ 0, 0, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see a woolly lump of sheep meat that will never again pleasure the redneck population.",
+         "name" : "dead sheep",
+         "number" : 39
+      },
+      {
+         "data" : [ 0, 0, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see the Shepherd's body.",
+         "name" : "Shepherd's body",
+         "number" : 40
+      },
+      {
+         "data" : [ 0, 0, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see the cattleman's body.",
+         "name" : "Cattleman's body",
+         "number" : 41
+      },
+      {
+         "data" : [ 0, 0, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see a fireman covered with red--  And it's not his suspenders!",
+         "name" : "Fireman's body",
+         "number" : 42
+      },
+      {
+         "data" : [ 0, 0, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see the violated body of the young whore.",
+         "name" : "Black Whore's body",
+         "number" : 43
+      },
+      {
+         "data" : [ 0, 0, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see your dead sister, cut down in the prime of her life.",
+         "name" : "your sister's body",
+         "number" : 44
+      },
+      {
+         "data" : [ 0, 0, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see a dead man with your sister's lipstick still on his dick.",
+         "name" : "Tyrone's body",
+         "number" : 45
+      },
+      {
+         "data" : [ 0, 0, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see a blue and red lump on the ground.  (The only good copper is a dead copper, you dirty rat!)",
+         "name" : "Policeman's body",
+         "number" : 46
+      },
+      {
+         "data" : [ 0, 0, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see a multi-colored mess which resembles a thrown up oil paint set.",
+         "name" : "Harold Marooner's body",
+         "number" : 47
+      },
+      {
+         "data" : [ 0, 0, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see the body of the Mad Toad Smasher.",
+         "name" : "Jody Body's corpse",
+         "number" : 48
+      },
+      {
+         "data" : [ 0, 0, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see the body of a little dead toad.",
+         "name" : "dead toad",
+         "number" : 49
+      },
+      {
+         "data" : [ 0, 0, -999, 0, 0, 0, 0, 0 ],
+         "description" : "Why did you kill the attendant?  He was only doing his job.",
+         "name" : "Attendant's body",
+         "number" : 50
+      },
+      {
+         "data" : [ 0, 0, -999, 0, 0, 0, 0, 0 ],
+         "description" : "The transvestite lies cold and dead at your feet.",
+         "name" : "dead transvestite",
+         "number" : 51
+      },
+      {
+         "data" : [ 0, 0, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see the dead baby lying squashed on the floor.  (At least it's stopped crying...)",
+         "name" : "dead baby",
+         "number" : 52
+      },
+      {
+         "data" : [ 0, 0, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You cry as you see Ms. Feel lying dead.  What a terrible loss...",
+         "name" : "Ms. Feel's body",
+         "number" : 53
+      },
+      {
+         "data" : [ 0, 0, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see the hacked up bodies of the dead lesbians.",
+         "name" : "dead lesbians",
+         "number" : 54
+      }
+   ],
+   "effects" : [
+      {
+         "description" : "Oh my God!  You must be blind, deaf, and dumb!  You had to do it, you fool!  You just caught gonorrhea, syphilis, crabs, and the black plague.  You are certainly dead, and deserve to be-- Idiot!",
+         "number" : 1
+      },
+      {
+         "description" : "You drive the fag crazy with delight at the sight of your schlong.  He has an orgasm and runs away.",
+         "number" : 2
+      },
+      {
+         "description" : "OOOOOHHHH!!!!  OHHHHHHH!!!!  AHHHHHH!!!!  THUMP...  SQUISH...  SLOP...  SPLUCK...   AHHHHHHHHH!!!  The beautiful blonde kisses you passionately and says she'll be thinking of you the next time she touches herself.",
+         "number" : 3
+      },
+      {
+         "description" : "The pimp says, \"I normally wouldn't let you do this, but since you paid me off...  What the hell, you stupid jerk-- Let's go for it!\"",
+         "number" : 4
+      },
+      {
+         "description" : "You're really into bestiality, aren't you?",
+         "number" : 5
+      },
+      {
+         "description" : "Peter whines for help and runs away.",
+         "number" : 6
+      },
+      {
+         "description" : "You must really be desperate if you want to fuck this scum-sucking loser.",
+         "number" : 7
+      },
+      {
+         "description" : "AAAHHHHHH!!!!  She is such a sweet and tight little lay that...",
+         "number" : 8
+      },
+      {
+         "description" : "You really are sick!  Who do you think you are anyway, a shepherd or something?  You've made the sheep angry, I don't think it can take any more!",
+         "number" : 9
+      },
+      {
+         "description" : "There must be a lot of mental illness in your family if you want to screw this jerk.",
+         "number" : 10
+      },
+      {
+         "description" : "Hmm...  Perhaps cattlemen DO make better lovers than shepherds!",
+         "number" : 11
+      },
+      {
+         "description" : "Firemen aren't the sort who enjoy being molested, especially from someone like you.",
+         "number" : 12
+      },
+      {
+         "description" : "This is absolutely wonderful!  OHHHH!!!  AHHH!!!  Once you go black, you never go back.  Too bad you failed to notice her brother walk in on you two screwing.  \"You didn't pay, sucka!\" he yells as he stabs you through the heart!",
+         "number" : 13
+      },
+      {
+         "description" : "Incest is best, and your sister does you proud.  Where did she learn all that stuff?  Has she been working here or what?",
+         "number" : 14
+      },
+      {
+         "description" : "All you did was make him really mad at you...",
+         "number" : 15
+      },
+      {
+         "description" : "Policeman usually aren't too friendly, but I think you just made a pal for life...",
+         "number" : 16
+      },
+      {
+         "description" : "He sees your schlong and gets really mad.  \"Anything that looks like a hot dog has got to be destroyed!\" he shouts.",
+         "number" : 17
+      },
+      {
+         "description" : "I may be sick for writing this adventure, but you take the cake, frog-face.",
+         "number" : 18
+      },
+      {
+         "description" : "You must be kidding.  Just how are you going to screw a toad?  You try anyway and just end up killing the poor thing.  You also contract a terrible case of genital warts!",
+         "number" : 19
+      },
+      {
+         "description" : "The attendant doesn't take kindly to that sort of thing!",
+         "number" : 20
+      },
+      {
+         "description" : "Oh no!  This isn't what you bargained for!  As you go down her pants, you realize that this isn't a woman...It's some jerk dressed up as one!",
+         "number" : 21
+      },
+      {
+         "description" : "I just can't tolerate this sort of thing and can't believe you even tried it. BANG! You're dead, you sick fuck!",
+         "number" : 22
+      },
+      {
+         "description" : "This must be your lucky day!  You have never felt such pleasure in your life!  ...nor such exquisite pain.  But it was definitely worth every lash, bite, and scream.",
+         "number" : 23
+      },
+      {
+         "description" : "\"I'm not interested in your stupid old wiener, I prefer to feel the pleasure of a woman's tongue!\"",
+         "number" : 24
+      }
+   ],
+   "info" : {
+      "author" : "Anonymous",
+      "difficulty" : "1.7/3",
+      "rating" : "4",
+      "serialNum" : "32"
+   },
+   "intro" : "",
+   "monsters" : [
+      {
+         "data" : [ 8, 18, 1, 50, 5, 0, 0, 0, 1, 2, 3, 0, 0 ],
+         "description" : "Lying on the bed is an equally ancient whore.  She cackles with glee as you enter the room, and spreads her legs.  You can see the crust of a thousand chancres running up and down her flabby thighs.",
+         "name" : "Old Whore",
+         "number" : 1
+      },
+      {
+         "data" : [ 20, 17, 1, 200, 8, 0, 3, 0, 1, 6, 3, 0, 0 ],
+         "description" : "Standing in the room with you is a pale young man.  As you enter he says to you in a lisping voice, \"Hi there, sailor.  Mind if I make like a Hoover on your wing-wang?\"",
+         "name" : "Fag",
+         "number" : 2
+      },
+      {
+         "data" : [ 7, 20, 1, 200, 10, 0, 0, 0, 1, 4, 3, 0, 0 ],
+         "description" : "On the bed is a beautiful blonde woman.  She is pumping her hips up and down and moaning as she fondles herself with a small jeweled vibrator.",
+         "name" : "Beautiful Blonde",
+         "number" : 3
+      },
+      {
+         "data" : [ 15, 15, 1, 90, 6, -1, 1, 7, 1, 6, 2, 0, 0 ],
+         "description" : "You see a tall black man dressed in a cheap leisure suit with a black gangster hat that has a purple feather stuck in it.  A gold bracelet says, \"Shorty\".  He says, \"If you wants to get any, you gots to pay me, fool.\"",
+         "name" : "Pimp",
+         "number" : 4
+      },
+      {
+         "data" : [ 18, 15, 1, 200, 12, -1, 2, 8, 1, 8, 1, 0, 0 ],
+         "description" : "Standing on the stairs is a squat, ugly creature.  By the way he grins and bars your path, you can tell he means to keep you from going any further.",
+         "name" : "Troll",
+         "number" : 5
+      },
+      {
+         "data" : [ 8, 10, 1, 30, 14, 0, 0, 0, 1, 2, 2, 0, 0 ],
+         "description" : "Standing in the corner is a tall, thin, nervous fellow who is looking at the dirty pictures on the wall.  He seems confused, as if he's not sure what he's doing here, and he rubs his upper thigh as if to reassure himself.",
+         "name" : "Peter Piker",
+         "number" : 6
+      },
+      {
+         "data" : [ 16, 3, 1, 30, 16, 0, 1, 0, 1, 6, 2, 0, 0 ],
+         "description" : "You see a short, somewhat effeminate man in a dirty rain coat. He grins like a weasel at you and obnoxiously yells \"CORN DOG!\" in a grating nasal whine for no apparent reason. He then attempts to make a stupid joke about you, but finds no one is laughing.",
+         "name" : "Adam Ducommun",
+         "number" : 7
+      },
+      {
+         "data" : [ 19, 20, 1, 50, 17, 0, 0, 0, 1, 6, 3, 0, 0 ],
+         "description" : "A giant female hamster comes running to you from out of the shadows. She looks lost and frightened. You are surprised as she shouts, \"Daddy! Daddy!\" in a squeaky humanlike voice. Little hamster hands pull out your schlong and she proceeds to suck on it.",
+         "name" : "Giant Hamster",
+         "number" : 8
+      },
+      {
+         "data" : [ 10, 8, 1, 70, 18, 0, 0, 0, 1, 4, 150, 0, 0 ],
+         "description" : "Huddled in a corner is a tired old sheep.  She looks as if every redneck in the land has been through here at least once.",
+         "name" : "Sheep",
+         "number" : 9
+      },
+      {
+         "data" : [ 17, 18, 1, 80, 18, 0, 0, 10, 1, 4, 125, 0, 0 ],
+         "description" : "Screwing the sheep is a short bald man who is wearing nothing but chaps.  He is ignoring a tall, thin man who is busy squaking in a loud voice about why \"cattlemen make better lovers than shepherds\".",
+         "name" : "Shepherd",
+         "number" : 10
+      },
+      {
+         "data" : [ 18, 14, 1, 80, 18, 0, 2, 11, 1, 4, 125, 0, 0 ],
+         "description" : "The cattleman is wearing a T-shirt that says \"Borned an razed in Tennessee\".",
+         "name" : "Cattleman",
+         "number" : 11
+      },
+      {
+         "data" : [ 15, 12, 1, 200, 20, 0, 2, 12, 1, 6, 1, 0, 0 ],
+         "description" : "Standing in the intersection is a fireman wearing red suspenders.  He is holding a large fire axe and offers to \"hose you down\".",
+         "name" : "Fireman",
+         "number" : 12
+      },
+      {
+         "data" : [ 10, 11, 1, 40, 21, 0, 0, 0, 1, 4, 2, 0, 0 ],
+         "description" : "Lying on a dirty mattress is a cute 16 year old black girl.  As you enter the room she is peeling dried cum off of her legs.  She spreads her legs and says she wants you to give her a saliva douche.",
+         "name" : "Black Whore",
+         "number" : 13
+      },
+      {
+         "data" : [ 12, 8, 1, 40, 22, 0, 0, 0, 1, 4, 3, 0, 0 ],
+         "description" : "Your sister is here, sucking some guy's dick!",
+         "name" : "Sister",
+         "number" : 14
+      },
+      {
+         "data" : [ 20, 14, 1, 100, 22, 0, 0, 13, 1, 7, 110, 0, 0 ],
+         "description" : "You see a sweaty nude black man pumping his groin into your sister's mouth.",
+         "name" : "Tyrone",
+         "number" : 15
+      },
+      {
+         "data" : [ 15, 12, 1, 100, 23, 0, 2, 14, 1, 6, 2, 0, 0 ],
+         "description" : "Standing on the stairs is an average cop with a big pot belly and short mustache.  His brass badge gleams in the light as he tells you to \"move along\".",
+         "name" : "Policeman",
+         "number" : 16
+      },
+      {
+         "data" : [ 15, 11, 1, 200, 24, 0, 1, 15, 1, 4, 120, 0, 0 ],
+         "description" : "Digging in the dirt is a clown with a white face and red hair. His yellow suit is covered with mud and clumps of clay. He is singing a familiar sounding song to himself, but you can't make out the words.",
+         "name" : "Harold Marooner",
+         "number" : 17
+      },
+      {
+         "data" : [ 18, 8, 1, 200, 27, 0, 2, 16, 1, 4, 130, 0, 0 ],
+         "description" : "Sitting cross-legged in the middle of the room is a little fellow with beady eyes. All around him are the squashed bodies of thousands of toads. In his right hand he holds a blood-caked hammer.",
+         "name" : "Jody Body",
+         "number" : 18
+      },
+      {
+         "data" : [ 5, 24, 1, 0, 27, -2, 0, 0, 1, 1, 2, 0, 0 ],
+         "description" : "An injured toad lies here with his tongue hanging out.",
+         "name" : "Toad",
+         "number" : 19
+      },
+      {
+         "data" : [ 10, 10, 1, 200, 1, 0, 1, 0, 1, 4, 2, 0, 0 ],
+         "description" : "Sitting behind a desk is a greasy, unshaven man. He is smoking a smelly cigar and has his hand out, gesturing for money. He tells you that if you GIVE 150 gold pieces to him, you can have your way with anyone in the house. (FUCK [name of person])",
+         "name" : "Attendant",
+         "number" : 20
+      },
+      {
+         "data" : [ 10, 12, 1, 50, 9, 0, 0, 0, 1, 5, 3, 0, 0 ],
+         "description" : "A very husky broad with big tits eyes you luringly and runs her hands up and down her thighs.",
+         "name" : "Brunette",
+         "number" : 21
+      },
+      {
+         "data" : [ 1, 1, 1, 200, 16, -2, 0, 0, 1, 1, 3, 0, 0 ],
+         "description" : "You see a crying baby that looks very unhappy.",
+         "name" : "Baby",
+         "number" : 22
+      },
+      {
+         "data" : [ 20, 19, 1, 200, 30, -1, 1, 22, 1, 6, 3, 0, 0 ],
+         "description" : "You see a woman breathing heavily before you. She is wearing a black leather outfit and torn fishnet stockings. The outfit is crotchless and you can see her creaming herself as she sweats with passion, her body screaming to be let out.",
+         "name" : "Ms. Feel",
+         "number" : 23
+      },
+      {
+         "data" : [ 15, 15, 2, 80, 31, 0, 1, 0, 1, 4, 2, 0, 0 ],
+         "description" : "You interrupt two half naked women who were making out in one of the stalls.  They quickly put their clothes back on and one says, \"Get out of here, you pervert!\"",
+         "name" : "Lesbian",
+         "number" : 24
+      }
+   ],
+   "name" : "House of Ill Repute",
+   "numDirections" : 6,
+   "rooms" : [
+      {
+         "data" : [ 29, 2, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a large oak paneled room that is hung in burgundy drapes.  To the south is a long hall, and a door lies north.",
+         "name" : "Front desk.  (N/S)",
+         "number" : 1
+      },
+      {
+         "data" : [ 1, 6, 0, 3, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "To the north is the front desk, to the south you hear low moans, and to the west a long hall winds out of sight.",
+         "name" : "A T-intersection; N/S by west.",
+         "number" : 2
+      },
+      {
+         "data" : [ 4, 5, 2, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "To the east is a long hall, to the south is a door with unintelligible markings, and an absolutely putrid smell is drifting from a room to the north.",
+         "name" : "A T-intersection; N/S by east.",
+         "number" : 3
+      },
+      {
+         "data" : [ 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in what appears to be a depository for used bed sheets, which explains the huge pile that is heaped in a huge mound in the center of the room.",
+         "name" : "The old sheet room.  (S)",
+         "number" : 4
+      },
+      {
+         "data" : [ 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a large and musty room that is filled with cobwebs and rotted wall hangings.  The sickening smell of stale cum is in the air.",
+         "name" : "The Old Whore's room.  (N)",
+         "number" : 5
+      },
+      {
+         "data" : [ 2, 9, 7, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "To the south you see a bend in the hallway.  There is a side passage to the east with an arrow painted on the wall and a sign below it.",
+         "name" : "A long hallway.  (N/S/E)",
+         "number" : 6
+      },
+      {
+         "data" : [ 8, 31, 0, 6, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "To the west lies the long hallway.  To the north is a door with a sign reading \"MEN\", to the south a door with a sign reading \"WOMEN\".",
+         "name" : "A bend in the hallway.  (N/S/W)",
+         "number" : 7
+      },
+      {
+         "data" : [ 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a small room that reaks of piss.  Most of the facilities have been vandalized by those types of folks who get their kicks wrecking public rest rooms.",
+         "name" : "Men's room.  (S)",
+         "number" : 8
+      },
+      {
+         "data" : [ 6, 11, 0, 10, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "To the north is the main hallway, and to the south is a stairwell.  To the west is a room with a low moaning coming from behind the door.  As you stand here, the moaning grows louder and louder.",
+         "name" : "The end of the hallway.  (N/S/W)",
+         "number" : 9
+      },
+      {
+         "data" : [ 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a small, shabby room.  The only exit is east.",
+         "name" : "Bed chamber.  (E)",
+         "number" : 10
+      },
+      {
+         "data" : [ 9, 30, 0, 0, 12, 23, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a small, dimly lit stairwell with ugly wallpaper peeling off of the walls.  You can go up to the second floor, down to the cellar, or through a door to the south.",
+         "name" : "Stairwell.  (N/S/U/D)",
+         "number" : 11
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 13, 11, 0, 0, 0, 0, 1 ],
+         "description" : "You are on the stairway which leads up to the second floor of the House of Ill Repute.  It gets darker and smellier as you ascend.",
+         "name" : "On the stairs.  (U/D)",
+         "number" : 12
+      },
+      {
+         "data" : [ 14, 0, 0, 0, 0, 12, 0, 0, 0, 0, 1 ],
+         "description" : "You are at the end of a long corridor which extends out of sight to the north.  Smutty pictures decorate the walls.  This is obviously a part of the house that most people never see.",
+         "name" : "South end of a corridor.  (N/D)",
+         "number" : 13
+      },
+      {
+         "data" : [ 15, 13, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You air here is pungent, as if somebody has been whacking off a lot.",
+         "name" : "A north/south corridor.",
+         "number" : 14
+      },
+      {
+         "data" : [ 17, 14, 16, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "To the east is a large, bright red door.",
+         "name" : "A long corridor.  (N/S/E)",
+         "number" : 15
+      },
+      {
+         "data" : [ 0, 0, 0, 15, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a room with row after row of cribs filled with squalling infants.  This must be a maternity room for the prostitutes' \"mistakes\".",
+         "name" : "Maternity ward.  (W)",
+         "number" : 16
+      },
+      {
+         "data" : [ 19, 15, 0, 18, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "A large, ornately carved door is set in the west wall.  It bears the inscription, \"No shoes, no shirt, no service!\"",
+         "name" : "A long corridor.  (N/S/W)",
+         "number" : 17
+      },
+      {
+         "data" : [ 0, 0, 17, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a large room with cum-stained padding on all the walls, floor, and ceiling.  The only light enters from a small barred window set high in the west wall.",
+         "name" : "Padded cell.  (E)",
+         "number" : 18
+      },
+      {
+         "data" : [ 0, 17, 20, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "Here the corridor takes a sharp turn to the east.",
+         "name" : "A bend in the corridor.  (S/E)",
+         "number" : 19
+      },
+      {
+         "data" : [ 21, 22, 0, 19, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "There are plain doors to the north and south.  Oddly enough, the north door says \"South room\" and the south door says \"North room\".",
+         "name" : "East end of a long corridor.  (N/S/W)",
+         "number" : 20
+      },
+      {
+         "data" : [ 22, 20, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a threadbare room with big chunks of plaster falling off of the walls and ceiling.  The bodies of dead cockroaches crunch underfoot.",
+         "name" : "South room.  (N/S)",
+         "number" : 21
+      },
+      {
+         "data" : [ 20, 21, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a room painted in the most awful shade of chartreuse you've ever seen.  Posters of Shawn Cassidy adorn the walls and a strobe light is flashing in the ceiling.",
+         "name" : "North room.  (N/S)",
+         "number" : 22
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 11, 24, 0, 0, 0, 0, 1 ],
+         "description" : "You are on a dimly lit stairwell, descending into the cellar.  The musty smell of wet earth fills the air.",
+         "name" : "On the stairs.  (U/D)",
+         "number" : 23
+      },
+      {
+         "data" : [ 25, 0, 0, 0, 23, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at the southern end of a long, narrow tunnel.  The floor is hard-packed dirt.  In the gloom you can make out what appear to be 23-24 freshly turned graves.",
+         "name" : "The cellar.  (N/U)",
+         "number" : 24
+      },
+      {
+         "data" : [ 26, 24, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "To the north, the tunnel begins to slope downward, deeper into the cellar.",
+         "name" : "A narrow north/south tunnel.",
+         "number" : 25
+      },
+      {
+         "data" : [ 27, 25, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are going even deeper into the cellar.  To the north you can make out a faint glimmer of light.",
+         "name" : "A narrow north/south tunnel.",
+         "number" : 26
+      },
+      {
+         "data" : [ 28, 26, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The tunnel suddenly widens into a large hall.  Flickering torches provide light which casts an eerie, blood red glow.",
+         "name" : "Toad hall.  (N/S)",
+         "number" : 27
+      },
+      {
+         "data" : [ -999, 27, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a small tunnel which leads out of the cellar and into bright sunlight.",
+         "name" : "Small tunnel.  (N/S)",
+         "number" : 28
+      },
+      {
+         "data" : [ 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "This should be the way in and out of the house, however the door has been walled over.  You'll just have to find another way out...",
+         "name" : "House entrance.  (S)",
+         "number" : 29
+      },
+      {
+         "data" : [ 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "Along the walls are shackles and chains and the floor is covered with various mats, cushions, silk ropes, and assorted other goodies.  This room was obviously built for fun!",
+         "name" : "Fetish chamber.  (N)",
+         "number" : 30
+      },
+      {
+         "data" : [ 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a fairly clean rest room.  A large mirror adorns the wall and a pair of shredded black panties lie in the corner.  Above them is written, \"I ate Sharon Stone's pussy here -- Ms. Feel\".",
+         "name" : "Ladies' room.  (N)",
+         "number" : 31
+      }
+   ]
+}

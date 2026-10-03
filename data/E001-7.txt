@@ -1,0 +1,685 @@
+{
+   "artifacts" : [
+      {
+         "data" : [ 0, 1, -999, 2001, 0, 0, 0, 0 ],
+         "description" : "It is an average insulated door except that it is splintered and broken where the hinges once were. Through it all, a small sign has remained nailed to it.",
+         "name" : "broken door",
+         "number" : 1
+      },
+      {
+         "data" : [ 0, 7, -999, 2001, 1, 1, 1, 0 ],
+         "description" : "A sign has been hastily attached to the broken door with rusty nails. The message on it is faded but you could still READ it.",
+         "name" : "sign",
+         "number" : 2
+      },
+      {
+         "data" : [ 0, 4, -999, 2001, 0, 0, 1, 1 ],
+         "description" : "The mailbox is a small, black aluminum receptacle mounted to the side of the building. It has almost rusted shut from lack of use, but will still OPEN.",
+         "name" : "mailbox",
+         "number" : 3
+      },
+      {
+         "data" : [ 0, 7, 1, 1003, 2, 8, 1, 0 ],
+         "description" : "You see a piece of paper that has been folded neatly in half. You unfold it and see that it has some writing on it...",
+         "name" : "piece of paper",
+         "number" : 4
+      },
+      {
+         "data" : [ 0, 8, -999, 2002, 4, 6, 1, 0 ],
+         "description" : "The door is made of a solid oak and reinforced by steel bands. It has a brass knob with a small keyhole under it.",
+         "name" : "door",
+         "number" : 5
+      },
+      {
+         "data" : [ 1, 1, 2, -2, 0, 0, 0, 0 ],
+         "description" : "You see a small old fashioned key made of brass. It has a little smiley face tag attached to it which reads, \"Office\".",
+         "name" : "brass key",
+         "number" : 6
+      },
+      {
+         "data" : [ 0, 4, 999, 2003, 0, 1, 1, 3 ],
+         "description" : "The toilet is a dirty white color and the porcelain is a bit chipped. It appears to be functional and you notice nothing special or unusual about it.",
+         "name" : "toilet",
+         "number" : 7
+      },
+      {
+         "data" : [ 0, 1, -999, 2003, 0, 0, 0, 0 ],
+         "description" : "The sink is made of stainless steel and has a cabinet below it.",
+         "name" : "sink",
+         "number" : 8
+      },
+      {
+         "data" : [ 0, 4, -999, 2003, 0, 0, 2, 2 ],
+         "description" : "You see a cabinet which has been crudely constructed from old crooked boards. It looks as though it hasn't been opened in ages.",
+         "name" : "cabinet",
+         "number" : 9
+      },
+      {
+         "data" : [ 5, 2, 6, 1009, 15, 3, 1, 6 ],
+         "description" : "You see a rusty pipe wrench which could also be used as a weapon. Eamon Deluxe monsters are \"smart\", GIVE WRENCH TO EDDIE, then REQUEST his mace and he will READY the wrench (or a better weapon) if he is carrying one.",
+         "name" : "wrench",
+         "number" : 10
+      },
+      {
+         "data" : [ 2, 2, 2, 7, -15, 4, 1, 4 ],
+         "description" : "You see a kitchen knife that someone has left sitting out. It has a long, although rather dull, blade and would not make a very good weapon until sharpened.",
+         "name" : "kitchen knife",
+         "number" : 11
+      },
+      {
+         "data" : [ 0, 9, 2, 7, 0, 4, 1, 0 ],
+         "description" : "Someone has left a fresh ham and cheese sitting here. It has one large bite taken out of it and looks like it was just made.",
+         "name" : "sandwich",
+         "number" : 12
+      },
+      {
+         "data" : [ 0, 4, -999, 4, 6, 0, 1, 1 ],
+         "description" : "You see an expensive, well-crafted oak desk in the center of the room. It has a single drawer (OPEN DESK) and an old typewriter sits on top of it. You are suddenly alarmed by what appears to be freshly spattered blood on one corner of it.",
+         "name" : "desk",
+         "number" : 13
+      },
+      {
+         "data" : [ 300, 1, 20, 2004, 0, 0, 0, 0 ],
+         "description" : "You see a very old Smith-Corona, possibly an antique. Sam Slicker would probably pay a decent price for this relic.",
+         "name" : "typewriter",
+         "number" : 14
+      },
+      {
+         "data" : [ 0, 1, -999, 4, 0, 0, 0, 0 ],
+         "description" : "The shelves have dust marks which give the impression that not so long ago they were filled with books. Only one book remains now. Odd, that book appears to be connected to the back of the shelves. (EXAMINE BOOK)",
+         "name" : "shelves",
+         "number" : 15
+      },
+      {
+         "data" : [ 0, 1, -999, 2004, 0, 0, 0, 0 ],
+         "description" : "The pile of ashes is still warm and appears to have been made from a large amount of paper. Unfortunatly, everything has been burnt beyond recognition.",
+         "name" : "pile of ashes",
+         "number" : 16
+      },
+      {
+         "data" : [ 0, 8, -999, 2004, 5, 0, 0, 1 ],
+         "description" : "By pulling on the book, you cause the set of shelves on the north wall to swing open, revealing a secret door!",
+         "name" : "book (a secret door north)",
+         "number" : 17
+      },
+      {
+         "data" : [ 0, 7, 3, 1013, 12, 4, 1, 0 ],
+         "description" : "The only thing inside the desk is a small diary. It is leather bound and full of writing.",
+         "name" : "diary",
+         "number" : 18
+      },
+      {
+         "data" : [ 1, 2, 10, -2, -10, 3, 2, 4 ],
+         "description" : "The ogre's weapon is a giant hunk of wood with nails in the end.",
+         "name" : "giant club",
+         "number" : 19
+      },
+      {
+         "data" : [ 0, 8, -999, 2008, 9, 0, 0, 1 ],
+         "description" : "You press a loose brick and the south wall swings open, revealing a hidden passage.",
+         "name" : "a secret door in the south wall",
+         "number" : 20
+      },
+      {
+         "data" : [ 10, 5, 7, 1009, 200, 0, 0, 0 ],
+         "description" : "You see a tarnished old lantern. The glass is cracked and it has a few dents in it but it still looks like it will light.",
+         "name" : "lantern",
+         "number" : 21
+      },
+      {
+         "data" : [ 5, 2, 4, -3, -10, 4, 1, 3 ],
+         "description" : "You see a very poor quality spear. The shaft is made from a crooked stick and the tip is loosely fashioned at the end of it. It would make a terrible weapon.",
+         "name" : "spear",
+         "number" : 22
+      },
+      {
+         "data" : [ 35, 3, 2, -3, 25, 1, 2, 6 ],
+         "description" : "One of the Ogres dropped a large axe. For its size, it seems extremely light and the blade is razor sharp. A faint green glow seems to indicate that it is a magic weapon!",
+         "name" : "Headchopper",
+         "number" : 23
+      },
+      {
+         "data" : [ 0, 2, 4, 2014, -30, 4, 1, 1 ],
+         "description" : "The sword was a poor Marcos style generic model. It is now covered with fresh blood and the blade has been broken off at the hilt.",
+         "name" : "broken sword",
+         "number" : 24
+      },
+      {
+         "data" : [ 15, 2, 4, -4, 10, 4, 1, 8 ],
+         "description" : "One of the giants dropped a wicked looking spear. Its razor sharp tip gleams menacingly.",
+         "name" : "spear",
+         "number" : 25
+      },
+      {
+         "data" : [ 25, 2, 8, -4, 5, 1, 1, 6 ],
+         "description" : "You see an axe that one of the giants dropped. It is a plain, standard Marcos type with a chipped blade.",
+         "name" : "battle axe",
+         "number" : 26
+      },
+      {
+         "data" : [ 0, 2, 3, -4, -15, 4, 1, 4 ],
+         "description" : "One of the giants dropped a long stick with a sharp point carved into the end.",
+         "name" : "pointed stick",
+         "number" : 27
+      },
+      {
+         "data" : [ 10, 2, 3, -5, -10, 2, 1, 8 ],
+         "description" : "Black Bob was using a sling shot as a weapon. It is well crafted and has a good supply of stones to go with it.",
+         "name" : "slingshot",
+         "number" : 28
+      },
+      {
+         "data" : [ 25, 2, 5, -6, 25, 3, 2, 4 ],
+         "description" : "You see Nice Guy Eddie's weapon, a wicked spiked club. The spikes are well sharpened and the weapon is very well balanced.",
+         "name" : "mace",
+         "number" : 29
+      },
+      {
+         "data" : [ 50, 11, 8, -1005, 1, 0, 0, 0 ],
+         "description" : "Nice Guy Eddie was carrying a sturdy shield with a large goose painted on the front of it.",
+         "name" : "goose shield",
+         "number" : 30
+      },
+      {
+         "data" : [ 0, 7, 1, -6, 16, 1, 1, 0 ],
+         "description" : "Nice Guy Eddie was carrying a folded piece of paper with your name on it!",
+         "name" : "secret message",
+         "number" : 31
+      },
+      {
+         "data" : [ 10, 2, 3, -7, -15, 4, 1, 8 ],
+         "description" : "You see a sharp knife with a 12-inch blade that belonged to Newt Traal.",
+         "name" : "hunting knife",
+         "number" : 32
+      },
+      {
+         "data" : [ 20, 2, 6, -8, 10, 5, 1, 4 ],
+         "description" : "You see Andy's weapon, an average Marcos style long sword.",
+         "name" : "long sword",
+         "number" : 33
+      },
+      {
+         "data" : [ 0, 8, -999, 2016, 17, 35, 1, 0 ],
+         "description" : "The cell door is made out of roughly forged metals but looks pretty sturdy.",
+         "name" : "cell door",
+         "number" : 34
+      },
+      {
+         "data" : [ 0, 1, 1, -9, 0, 0, 0, 0 ],
+         "description" : "The guard was carrying a small skeleton key which obviously opens the cell.",
+         "name" : "skeleton key",
+         "number" : 35
+      },
+      {
+         "data" : [ 0, 1, -999, 2017, 0, 0, 0, 0 ],
+         "description" : "The rack is a horrible torture device used to stretch victims far beyond their limits.",
+         "name" : "rack",
+         "number" : 36
+      },
+      {
+         "data" : [ 0, 1, -999, 2017, 0, 0, 0, 0 ],
+         "description" : "You see nothing special about the pile of straw except for maybe the rare species of flea which inhabit it.",
+         "name" : "pile of straw",
+         "number" : 37
+      },
+      {
+         "data" : [ 0, 10, -999, 17, 10, 0, 9, 0 ],
+         "description" : "You see a poor man with cuts and bruises all over his body. He is shackled to the wall and pleads with you to release him.",
+         "name" : "prisoner",
+         "number" : 38
+      },
+      {
+         "data" : [ 5, 2, 3, -10, -25, 3, 1, 3 ],
+         "description" : "The Interrogator has dropped a small black whip. It looks like it would make a poor quality weapon.",
+         "name" : "whip",
+         "number" : 39
+      },
+      {
+         "data" : [ 1, 1, 1, -10, 0, 0, 0, 0 ],
+         "description" : "You see an array of bamboo shoots for putting under people's fingernails.",
+         "name" : "bamboo shoots",
+         "number" : 40
+      },
+      {
+         "data" : [ 0, 7, 1, -11, 17, 1, 1, 0 ],
+         "description" : "The prisoner seems to have been carrying a card with your name on it.",
+         "name" : "card",
+         "number" : 41
+      },
+      {
+         "data" : [ 25, 1, 3, 2019, 0, 0, 0, 0 ],
+         "description" : "You see a large assortment of pretty shells of all different colors. You could probably sell them to craft workers back at the Main Hall for a decent amount.",
+         "name" : "sea shells",
+         "number" : 42
+      },
+      {
+         "data" : [ 0, 4, -999, 10, 0, 1010, 1, 0 ],
+         "description" : "You see a large wooden trunk with leather and steel bands keeping it closed and secure.",
+         "name" : "wooden trunk",
+         "number" : 43
+      },
+      {
+         "data" : [ 0, 12, -999, 11, 11, 18, 1, 0 ],
+         "description" : "You see an old chest with leather and steel bands keeping it closed and secure.",
+         "name" : "old chest",
+         "number" : 44
+      },
+      {
+         "data" : [ 35, 11, 1, 1043, 0, 5, 0, 0 ],
+         "description" : "You find a solid gold \"decoder\" ring which must have come from some young prince's breakfast cereal. This is an example of clothing type #5 (jewelry) and, of course, you can WEAR it.",
+         "name" : "ring",
+         "number" : 45
+      },
+      {
+         "data" : [ 0, 8, -999, 13, 14, 0, 120, 0 ],
+         "description" : "A plain wooden door blocks your passage to the south. It has no keyhole but it doesn't look very sturdy and could easily be forced open. (Note: Just as you can ATTACK doors and containers, you can also BLAST them as well.)",
+         "name" : "wooden door",
+         "number" : 46
+      },
+      {
+         "data" : [ 50, 6, 3, 10, 10, 4, 0, 0 ],
+         "description" : "You see a white bottle with a black label that reads, \"HEALING POTION\".",
+         "name" : "healing potion",
+         "number" : 47
+      },
+      {
+         "data" : [ 0, 7, 0, 3, 9000, 1, 1, 0 ],
+         "description" : "You see a message tacked over the sink. It says, \"Try to READ me, I have been put here to deliberately generate a game error.\"",
+         "name" : "message#1",
+         "number" : 48
+      },
+      {
+         "data" : [ 0, 7, 0, 3, 20, 1, 1, 0 ],
+         "description" : "You see a second message, also tacked over the sink. It says, \"Try to READ me too, as I have also been put here to deliberately generate a game error.\"",
+         "name" : "message#2",
+         "number" : 49
+      },
+      {
+         "data" : [ 0, 13, 5, 1007, 1, 0, 0, 0 ],
+         "description" : "You see a dead rat that was floating in the toilet. This is an example of (yech!!) a dead body that can be picked up.",
+         "name" : "dead rat",
+         "number" : 50
+      },
+      {
+         "data" : [ 0, 13, 220, 8, 0, 0, 0, 0 ],
+         "description" : "You see a poor dead wumpus all shriveled up in the corner. This is an example of a normal dead body artifact. It can't be picked up and will be totally ignored by GET ALL, but note that you can ATTACK bodies...",
+         "name" : "dead wumpus",
+         "number" : 51
+      },
+      {
+         "data" : [ 3, 2, 5, -13, -5, 3, 1, 4 ],
+         "description" : "You see a rubber chicken, commonly used as a joke gift or as a prop by comedians and other entertainers. Charles was carrying it as a crude form of defense.",
+         "name" : "rubber chicken",
+         "number" : 52
+      },
+      {
+         "data" : [ 8, 11, 0, 18, 0, 4, 0, 0 ],
+         "description" : "It appears some careless buccaneer has dropped his headwear here. It is in very good condition and a tag sewn onto the inside simply reads, \"ROBERTS\".",
+         "name" : "pirate hat",
+         "number" : 53
+      },
+      {
+         "data" : [ 2, 11, 0, -12, 0, 5, 0, 0 ],
+         "description" : "You see a black eye patch with a skull and cross bones insignia on it.",
+         "name" : "eye patch",
+         "number" : 54
+      },
+      {
+         "data" : [ 0, 1, 999, 2006, 0, 0, 0, 0 ],
+         "description" : "You see what was once an elegant bed with silk sheets. The box spring is broken in the center, the mattress and sheets have been shredded chaotically and there is a big greasy stain where the ogre was sleeping.",
+         "name" : "bed",
+         "number" : 55
+      },
+      {
+         "data" : [ 20, 4, 400, 2006, 6, 1010, 1, 4 ],
+         "description" : "You see an average bedside table with a single drawer that has a brass keyhole. This an example of a container artifact that can either be opened with the proper key or forced open by using ATTACK or BLAST.",
+         "name" : "table",
+         "number" : 56
+      },
+      {
+         "data" : [ 0, 7, 0, 1056, 24, 1, 1, 0 ],
+         "description" : "There was a small postcard inside the drawer. It appears to have suffered greatly during the mailing process, being folded multiple times, splattered with what looks like blood and... is that a lightning bolt burn on one edge?!?**023",
+         "name" : "postcard",
+         "number" : 57
+      },
+      {
+         "data" : [ 9000, 1, -999, 2007, 0, 0, 0, 0 ],
+         "description" : "You see a cast iron wood stove used for both cooking and heat. Too bad it is much too heavy to move or you could get a hefty price for it back at the Main Hall.",
+         "name" : "wood stove",
+         "number" : 58
+      },
+      {
+         "data" : [ 60, 1, 999, 2007, 0, 0, 0, 0 ],
+         "description" : "The kitchen table is old and has suffered much abuse. The legs wobble, a large crack runs through the center and someone has carved \"ROCKY THE ROCK WAS HERE\" across the top of it.",
+         "name" : "kitchen table",
+         "number" : 59
+      },
+      {
+         "data" : [ 250, 4, 999, 2007, 0, 0, 0, 10 ],
+         "description" : "The cupboards have been carved out of a soft pine and seem much newer than the rest of the kitchen. They are completely bare however and don't look like they have seen much use.",
+         "name" : "cupboards",
+         "number" : 60
+      },
+      {
+         "data" : [ 0, 1, -999, 2015, 0, 0, 0, 0 ],
+         "description" : "The table is made of heavy wood and appears to have suffered much abuse. Stale wads of chewing gum cover the bottom of it, while a mixture of crude sexual drawings and unintelligible scribbling adorn the top.",
+         "name" : "large table",
+         "number" : 61
+      },
+      {
+         "data" : [ 0, 1, -999, 2015, 0, 0, 0, 0 ],
+         "description" : "The chalk board is dusty but otherwise in decent shape. Someone has hastily erased the latest diagrams and scribbling, however, leaving nothing behind for you to read.",
+         "name" : "chalk board",
+         "number" : 62
+      }
+   ],
+   "effects" : [
+      {
+         "description" : "The sign says, in block letters, \"CONGRATULATIONS, YOU ARE AN EXPERIENCED AND ALERT ADVENTURER. YOU SHOULD DO VERY WELL.\"",
+         "number" : 1
+      },
+      {
+         "description" : "The note is written in neat handwriting with a black pen. It says:{03}",
+         "number" : 2
+      },
+      {
+         "description" : "WELCOME TO THE EAMON DELUXE 5.0 DEMO ADVENTURE!{15}",
+         "number" : 3
+      },
+      {
+         "description" : "The Demo Adventure attempts to show off every basic feature of the Eamon Deluxe 5.0 system. It has a large amount of embedded artifacts, at least one of every type of artifact, and a small assortment of monsters of both weak and strong varieties.{02}",
+         "number" : 4
+      },
+      {
+         "description" : "You will be roaming through a small and simple map with no odd connections or teleportation. The quest is simply to investigate the screams for help which brought you here while defeating enemies and taking as much loot as you can carry along the way.{02}",
+         "number" : 5
+      },
+      {
+         "description" : "Because this adventure was also written to test Eamon Deluxe during development stages and upgrades, no modifications were made to the standard adventure program nor was any special programming added.{02}",
+         "number" : 6
+      },
+      {
+         "description" : "All of the events that happen in this demo are generated by routines already written into the standard adventure program. Anyone who would like to write their own adventure can easily do so using the options available on the Adventure Design Menu.{02}",
+         "number" : 7
+      },
+      {
+         "description" : "I hope you enjoy this simple lighthearted demo and the Eamon Deluxe 5.0 gaming system as well. You will now be returned to your regularly scheduled adventure (already in progress)...{02}",
+         "number" : 8
+      },
+      {
+         "description" : "Frank Black{15}**010",
+         "number" : 9
+      },
+      {
+         "description" : "January, 1997{15}**011",
+         "number" : 10
+      },
+      {
+         "description" : "Honolulu, Hawaii{15}",
+         "number" : 11
+      },
+      {
+         "description" : "It seems to be the diary of a man who made a career out of buying stolen items and reselling them on the black market for a large profit. Most of it is a bit dull, but the last entry may clear up a few things...",
+         "number" : 12
+      },
+      {
+         "description" : "It says, \"I knew I shouldn't have done it! I'm a fool! Mr. X has discovered that I have been selling magic weapons which were stolen from his private collection. He said I must return them immediately or he will send his ogres and giants to kill me!",
+         "number" : 13
+      },
+      {
+         "description" : "\"But his reputation is well known, I am certain he will kill me whether I return them or not. I have no choice but to clear out my secret storage rooms and hide out in Interzone until things...\"",
+         "number" : 14
+      },
+      {
+         "description" : "And with that the entry stops. It seems whoever was writing the entry never got a chance to finish it...",
+         "number" : 15
+      },
+      {
+         "description" : "Congratulations, you have found the secret message for this adventure! Give yourself a big pat on the back.",
+         "number" : 16
+      },
+      {
+         "description" : "Congratulations, good and kind adventurer: You have freed the kidnapped owner of the house above these caverns. Even though he is a petty crook and a fence for stolen treasure, is still a good gesture on your part!",
+         "number" : 17
+      },
+      {
+         "description" : "Congratulations, you have just discovered artifact type #12: A disguised monster! Note that the mimic also has a Combat Code of 1 so its battle verb will always be \"attacks\" instead of the standard battle verbs which don't apply to it.",
+         "number" : 18
+      },
+      {
+         "description" : "(The next effect is intentionally blank, its purpose being to generate a test error in the Eamon Deluxe Demo Adventure)",
+         "number" : 19
+      },
+      {
+         "description" : "",
+         "number" : 20
+      },
+      {
+         "description" : "entire Clonatorium during his scandalous career. He swears that is all behind him now and he wants to join the Guild Protection Program. (Demo note: Combat code of -2: He will never fight in a battle.)",
+         "number" : 21
+      },
+      {
+         "description" : "be eaten by a grue for sure!\" As you come to your senses, you recognize him as Charles, a cheap scam artist who is always trying to get people to pay his tab at the Main Hall by claiming he is Donald Brown's cousin.",
+         "number" : 22
+      },
+      {
+         "description" : "Nonetheless it still had some legible words for you to READ.",
+         "number" : 23
+      },
+      {
+         "description" : "It is postmarked \"Rick's Cafe, Interzone\" and reads:*025",
+         "number" : 24
+      },
+      {
+         "description" : "To: Red Fingers*026",
+         "number" : 25
+      },
+      {
+         "description" : "From: Benway Rx*027",
+         "number" : 26
+      },
+      {
+         "description" : "Quite innarested in taking your money (and your other kidney) at the next annual Underground Poker Tournament. Also, an associate of mine is willing to pay for any swords named \"Eccentric\" you come across. Contact me for details.",
+         "number" : 27
+      }
+   ],
+   "info" : {
+      "author" : "Frank Black",
+      "difficulty" : "",
+      "rating" : "",
+      "serialNum" : "162"
+   },
+   "intro" : "",
+   "monsters" : [
+      {
+         "data" : [ 20, 12, 1, 200, 6, -1, 0, 19, 1, 4, 1, 0, 0 ],
+         "description" : "Snoring loudly on the bed was a mean and smelly ogre. The second you walked in he stopped snoring, his nose twitched and he leapt to his feet! He grabs a club and grunts at you in a vulgar fashion.",
+         "name" : "Ogre",
+         "number" : 1
+      },
+      {
+         "data" : [ 10, 10, 2, 200, 15, -1, 0, 22, 1, 4, 1, 0, 0 ],
+         "description" : "Two mean looking ogres are lounging about here, throwing darts at each other's foreheads. They see you enter and, of course, are not in the mood to exchange poetry!",
+         "name" : "Ogre",
+         "number" : 2
+      },
+      {
+         "data" : [ 8, 10, 3, 100, 15, 0, 1, 25, 1, 6, 1, 0, 0 ],
+         "description" : "Three hill giants are mulling about with bored expressions. They see you and beam happily at each other. \"We will kill you slowly!\" they say cheerfully, \"Take much time, play all day!\"",
+         "name" : "Hill Giant",
+         "number" : 3
+      },
+      {
+         "data" : [ 7, 10, 1, 35, 15, 0, 2, 28, 1, 8, 1, 0, 0 ],
+         "description" : "You see Black Bob, a notorious crook and swindler who was banned from the Main Hall several years ago. He looks rather frightened at the sight of a Free Adventurer and his eyes quickly scan the closest path to the exit.",
+         "name" : "Black Bob",
+         "number" : 4
+      },
+      {
+         "data" : [ 25, 20, 1, 200, 1, -1, 3, 29, 1, 8, 3, 0, 0 ],
+         "description" : "You see a friendly member of the Free Adventurer's Guild. He shakes your hand and says, \"Hi, I'm Nice Guy Eddie. I was thinking about exploring this old building. Want to come with?\" (Combat Code of -1: He will use both standard weapons and his fists.)",
+         "name" : "Nice Guy Eddie",
+         "number" : 5
+      },
+      {
+         "data" : [ 18, 12, 1, 200, 19, 0, 0, 32, 1, 8, 2, 0, 0 ],
+         "description" : "You see a beachcomber here, roaming about and looking for shells. You recognize him as Newt Traal, a regular at the Main Hall and a drinking buddy of the Burly Irishman.",
+         "name" : "Newt Traal",
+         "number" : 6
+      },
+      {
+         "data" : [ 15, 12, 1, 90, 2, 0, 2, 33, 1, 8, 150, 0, 0 ],
+         "description" : "A scowling Free Adventurer is standing here surveying the broken doorway. He hears you come in and immediately starts to size you up, trying to decide whether he likes you or not. (50% chance of friendliness.)",
+         "name" : "Andy Sysive",
+         "number" : 7
+      },
+      {
+         "data" : [ 16, 5, 1, 200, 16, 0, 1, 0, 1, 4, 1, 0, 0 ],
+         "description" : "You see a fat slobbish man with a big wart on his nose. He is keeping guard of the cell to the north.",
+         "name" : "Guard",
+         "number" : 8
+      },
+      {
+         "data" : [ 18, 14, 1, 200, 17, -1, 2, 39, 1, 4, 1, 0, 0 ],
+         "description" : "You see an evil looking man armed with a whip. He is torturing a prisoner and yelling, \"Tell me! Tell me! Who is A.J. and where is the sacred cup!?!\"",
+         "name" : "Interrogator",
+         "number" : 9
+      },
+      {
+         "data" : [ 10, 14, 1, 50, 0, -2, 0, -1, 1, 4, 3, 0, 0 ],
+         "description" : "The prisoner offers you undying gratitude for rescuing him. He is the infamous Red Fingers, former (as of today) fence for the black market. Rumor has it he has moved everything from vintage copies of the Burly Irishman's book to an**021",
+         "name" : "Red Fingers",
+         "number" : 10
+      },
+      {
+         "data" : [ 20, 5, 1, 200, 0, 1, 0, 0, 1, 6, 1, 0, 0 ],
+         "description" : "The chest melted into the form of a hideous drooling mimic. Tentacles lunge out at you, holding you fast and attempting to hurt you! For some strange reason this mimic is wearing an eye patch.",
+         "name" : "Mimic",
+         "number" : 11
+      },
+      {
+         "data" : [ 12, 18, 1, 80, 8, 0, 2, 52, 1, 6, 3, 0, 0 ],
+         "description" : "You suddenly jump in shock as you notice that a pudgy bald man with a gaping smile is staring you straight in the eyes. \"Golly, I'm sure glad you came along when you did!\" he exclaims. \"I got lost in the dark and started to think I would**022",
+         "name" : "Charlie Brown",
+         "number" : 12
+      }
+   ],
+   "name" : "Eamon Deluxe 5.0 Demo Adventure",
+   "numDirections" : 6,
+   "rooms" : [
+      {
+         "data" : [ 2, -999, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "A dilapidated old building lies to the north of you. The windows have all been boarded up and a sign says, \"Keep out! Condemned!\". The door has been torn off and is lying on the ground next to a rusted mailbox. The road to the Main Hall lies south.",
+         "name" : "Outside a small building. (N/S)",
+         "number" : 1
+      },
+      {
+         "data" : [ 7, 1, 1005, 3, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "Despite the outer appearance of the building, the inside is rather nice. Aside from the splinters and broken wood from the broken front door, you are standing in a neat and tidy, albeit very empty, room. To the east is a sturdy looking door.",
+         "name" : "Inside the building. (N/S/E/W)",
+         "number" : 2
+      },
+      {
+         "data" : [ 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The bathroom is rather small and average looking. A toilet is in the corner, next to a metal sink.",
+         "name" : "Bathroom. (E)",
+         "number" : 3
+      },
+      {
+         "data" : [ 1017, 0, 0, 2, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a tidy office with polished wood floors and fine oak paneling. Empty shelves line the walls and a fresh pile of ashes on the floor seems to indicate that they were emptied very recently.",
+         "name" : "Office. (W)",
+         "number" : 4
+      },
+      {
+         "data" : [ 0, 4, 0, 0, 0, 8, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a secret closet. It looks like a large amount of goods would normally be stored here, but it has recently been emptied out. Likewise, a once hidden trap door in the floor has been pried open, revealing a metal ladder leading down into darkness.",
+         "name" : "In the closet. (S/D)",
+         "number" : 5
+      },
+      {
+         "data" : [ 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a small, sparsely furnished bedroom. A bed is against the wall with a small table next to it.",
+         "name" : "Bedroom. (E)",
+         "number" : 6
+      },
+      {
+         "data" : [ 0, 2, 0, 6, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You stand in a plain kitchen with sparse furnishings. You see a small wood stove, a rickety kitchen table and a set of empty cupboards.",
+         "name" : "Kitchen. (S/W)",
+         "number" : 7
+      },
+      {
+         "data" : [ 0, 1020, 0, 0, 5, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a damp and musty cellar with algae growing all over the walls. That's odd, the south wall seems cleaner than the rest... (EXAMINE WALL)",
+         "name" : "Cellar. (U)",
+         "number" : 8
+      },
+      {
+         "data" : [ 8, 12, 11, 10, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "To the north lies the cellar, to the east and west are rooms labeled \"Storage\", and to the south is a passage leading into darkness.",
+         "name" : "Intersection of secret underground passages. (N/S/E/W)",
+         "number" : 9
+      },
+      {
+         "data" : [ 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a room which was once used to hide stolen treasures until they could be sold on the black market. It appears to have been recently and hastily emptied, with almost nothing left behind.",
+         "name" : "Storage room. (E)",
+         "number" : 10
+      },
+      {
+         "data" : [ 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a room which was once used to hide stolen treasures until they could be sold on the black market. It appears to have been recently and hastily emptied, with almost nothing left behind.",
+         "name" : "Storage room. (W)",
+         "number" : 11
+      },
+      {
+         "data" : [ 9, 13, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "The walls here have been well constructed out of smooth brick and seem to be fairly new.",
+         "name" : "Smooth north/south tunnel.",
+         "number" : 12
+      },
+      {
+         "data" : [ 12, 1046, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "The nice brick work ends here but the tunnel continues south, apparently part of a series of natural caverns.",
+         "name" : "Rough north/south tunnel.",
+         "number" : 13
+      },
+      {
+         "data" : [ 13, 0, 16, 15, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You stand in the center of a huge cavern with smaller chambers branching off to the east and west. You notice fresh blood spatters on the floor next to a broken sword, giving the impression that a recent struggle has taken place here.",
+         "name" : "Large cavern. (N/E/W)",
+         "number" : 14
+      },
+      {
+         "data" : [ 0, 0, 14, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You see a large table in the center of the room and there is a dusty chalk board propped against one wall. This is obviously a room used to hold secret underground meetings!",
+         "name" : "Underground meeting room. (E)",
+         "number" : 15
+      },
+      {
+         "data" : [ 1034, 18, 0, 14, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a crudely constructed jail. A single cell lies to the north, the large cavern is to the west and you can see faint light accompanied by the smell of fresh ocean air to the south.",
+         "name" : "Underground Jail. (N/S/W)",
+         "number" : 16
+      },
+      {
+         "data" : [ 0, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a crowded cell that is populated with a variety of bugs and small rodents. A pile of straw is on the ground for the purpose of sleeping and a rack is in the corner for the purpose of torture.",
+         "name" : "Small jail cell. (S)",
+         "number" : 17
+      },
+      {
+         "data" : [ 16, 19, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at the entrance to the caverns beneath the old building. Bright light streams in and, once your eyes adjust to it, you can see a clean sandy beach with rolling waves and smell salt water in the air.",
+         "name" : "Cave entrance. (N/S)",
+         "number" : 18
+      },
+      {
+         "data" : [ 18, -999, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are standing on one of the great beaches near the Main Hall. The pure blue water crashes hypnotically against the white sandy shore. To the south is a docked ferry which will take you home. You see some neat looking sea shells strewn about the beach.",
+         "name" : "On a sandy beach. (N/S)",
+         "number" : 19
+      }
+   ]
+}

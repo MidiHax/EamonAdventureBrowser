@@ -1,0 +1,543 @@
+{
+   "artifacts" : [
+      {
+         "data" : [ 1, 1, 1, 0, 0, 0, 0, 0 ],
+         "description" : "As you pick up the rock, you discover an iron key that was hidden beneath it!",
+         "name" : "key",
+         "number" : 1
+      },
+      {
+         "data" : [ 0, 2, 30, 13, -5, 3, 1, 6 ],
+         "description" : "There is a large rock here.",
+         "name" : "rock",
+         "number" : 2
+      },
+      {
+         "data" : [ 1, 0, 1, 4, 0, 0, 0, 0 ],
+         "description" : "There is an old gold coin here. It has dirt all over it for some reason...",
+         "name" : "gold coin",
+         "number" : 3
+      },
+      {
+         "data" : [ 80, 0, 35, 0, 0, 0, 0, 0 ],
+         "description" : "There are several gold coins here!",
+         "name" : "gold coins",
+         "number" : 4
+      },
+      {
+         "data" : [ 4, 1, 4, 1, 0, 0, 0, 0 ],
+         "description" : "There is a good quality shovel here.",
+         "name" : "shovel",
+         "number" : 5
+      },
+      {
+         "data" : [ 180, 1, 75, 0, 0, 0, 0, 0 ],
+         "description" : "There is a chest of jewels here!",
+         "name" : "chest of jewels",
+         "number" : 6
+      },
+      {
+         "data" : [ 18, 1, 5, 10, 0, 0, 0, 0 ],
+         "description" : "There is a large silver nugget here!",
+         "name" : "silver nugget",
+         "number" : 7
+      },
+      {
+         "data" : [ 6, 5, 10, 6, 50, 0, 0, 0 ],
+         "description" : "Thee is an old oil lamp here!",
+         "name" : "lamp",
+         "number" : 8
+      },
+      {
+         "data" : [ 65, 3, 5, -9, 25, 5, 2, 4 ],
+         "description" : "There is a magic sword here that has had a lucky charm placed on it!",
+         "name" : "lucky charmed sword",
+         "number" : 9
+      },
+      {
+         "data" : [ 7, 1, 5, 32, 0, 0, 0, 0 ],
+         "description" : "There is an old wooden idol here.",
+         "name" : "wooden idol",
+         "number" : 10
+      },
+      {
+         "data" : [ 0, 7, -999, 1, 1, 1, 1, 0 ],
+         "description" : "There is a sign here.",
+         "name" : "sign",
+         "number" : 11
+      },
+      {
+         "data" : [ 0, 7, -999, 16, 2, 1, 1, 0 ],
+         "description" : "There is a road sign here.",
+         "name" : "road sign",
+         "number" : 12
+      },
+      {
+         "data" : [ 25, 2, 15, -3, 5, 5, 1, 8 ],
+         "description" : "There is a standard Marcos sword here.",
+         "name" : "plain sword",
+         "number" : 13
+      },
+      {
+         "data" : [ 3, 2, 8, -4, 10, 3, 1, 6 ],
+         "description" : "There is an old wooden broom here.",
+         "name" : "broom",
+         "number" : 14
+      },
+      {
+         "data" : [ 2, 2, 15, 26, -3, 3, 1, 7 ],
+         "description" : "There is an old, rusty chain here.",
+         "name" : "chain",
+         "number" : 15
+      },
+      {
+         "data" : [ 0, 9, 5, -5, 3, 8, 1, 0 ],
+         "description" : "There are a bunch of cookies here in the shape of different houses.",
+         "name" : "Troll House Cookies",
+         "number" : 16
+      },
+      {
+         "data" : [ 0, 7, -999, 38, 3, 1, 1, 0 ],
+         "description" : "There is a yellow ribbon here with the words \"DO NOT PULL!\" on it.",
+         "name" : "yellow ribbon",
+         "number" : 17
+      },
+      {
+         "data" : [ 0, 8, -999, 2001, 6, 1, 1, 0 ],
+         "description" : "To the north, you see the door to your cabin.",
+         "name" : "cabin door",
+         "number" : 18
+      },
+      {
+         "data" : [ 0, 10, -999, 0, 7, 0, 0, 0 ],
+         "description" : "You girlfriend, Lovely Lil, is here, bound tightly by a yellow ribbon.",
+         "name" : "captive Lovely Lil",
+         "number" : 19
+      },
+      {
+         "data" : [ 0, 10, -999, 0, 8, 0, 0, 0 ],
+         "description" : "Here is your boyfriend, Gorgeous George, bound by a yellow ribbon atop the tree.",
+         "name" : "captive Gorgeous George",
+         "number" : 20
+      },
+      {
+         "data" : [ 0, 8, -999, 2031, 32, 0, 0, 1 ],
+         "description" : "You discover a hole in the wall large enough to permit you to pass. Beyond it you find a small tunnel leading to the east!",
+         "name" : "hole in the east wall",
+         "number" : 21
+      },
+      {
+         "data" : [ 0, 1, -999, 0, 0, 0, 0, 0 ],
+         "description" : "The gnome's body disappears in a puff of smoke!",
+         "name" : "small smoke cloud",
+         "number" : 22
+      },
+      {
+         "data" : [ 0, 13, -999, 0, 0, 0, 0, 0 ],
+         "description" : "The dead elf lies here.",
+         "name" : "elf's body",
+         "number" : 23
+      },
+      {
+         "data" : [ 0, 13, -999, 0, 0, 0, 0, 0 ],
+         "description" : "The witch lies here.",
+         "name" : "witch's body",
+         "number" : 24
+      },
+      {
+         "data" : [ 0, 13, -999, 0, 0, 0, 0, 0 ],
+         "description" : "The dead troll is here.",
+         "name" : "troll's body",
+         "number" : 25
+      },
+      {
+         "data" : [ 0, 13, -999, 0, 0, 0, 0, 0 ],
+         "description" : "The dead bear lies here.",
+         "name" : "bear's body",
+         "number" : 26
+      },
+      {
+         "data" : [ 0, 13, -999, 0, 0, 0, 0, 0 ],
+         "description" : "The dead wolf is here.",
+         "name" : "wolf's body",
+         "number" : 27
+      },
+      {
+         "data" : [ 0, 13, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see the sad crumpled remains of Lovely Lil's body.",
+         "name" : "Lovely Lil's body",
+         "number" : 28
+      },
+      {
+         "data" : [ 0, 13, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see Gorgeous George's mangled body.",
+         "name" : "Gorgeous George's body",
+         "number" : 29
+      }
+   ],
+   "effects" : [
+      {
+         "description" : "The sign says...*004",
+         "number" : 1
+      },
+      {
+         "description" : "The sign says: [ICE CAVE NEXT RIGHT]",
+         "number" : 2
+      },
+      {
+         "description" : "Letters on the yellow ribbon read: \"DO NOT PULL!\"",
+         "number" : 3
+      },
+      {
+         "description" : "Don't forget to get the newest Eamon Adventure**005",
+         "number" : 4
+      },
+      {
+         "description" : "by Wisconsin Software Systems!*006",
+         "number" : 5
+      },
+      {
+         "description" : "* * ASSAULT ON THE CLONE MASTER * * **007",
+         "number" : 6
+      },
+      {
+         "description" : "Now available!!!!!*008",
+         "number" : 7
+      },
+      {
+         "description" : "Warning: The Clone Master adventure is hazardous to**009",
+         "number" : 8
+      },
+      {
+         "description" : "a player's health!",
+         "number" : 9
+      },
+      {
+         "description" : "A voice booms out and says, \"NO SWIMMING PLEASE!\"",
+         "number" : 10
+      },
+      {
+         "description" : "You unsuccessfully ride off into the sunset leaving your poor friend to the mercy of the witch.",
+         "number" : 11
+      },
+      {
+         "description" : "You successfully ride off into the sunset with your significant other! To celebrate, you decide to temporarily leave your cabin in the woods and go have some fun at the Main Hall.",
+         "number" : 12
+      },
+      {
+         "description" : "As you pull the ribbon from the tree, you hear a loud crashing sound as your sweetheart falls from high above and dies at your feet. You sadly bury the body and return to the Main Hall to forget your defeat...",
+         "number" : 13
+      },
+      {
+         "description" : "You cry out in despair as you watch your sweetheart fall dead to the ground. You sadly bury the body and go to the Main Hall to forget your sorrows...",
+         "number" : 14
+      }
+   ],
+   "info" : {
+      "author" : "Jon Walker",
+      "difficulty" : "",
+      "rating" : "",
+      "serialNum" : "DX#23-01"
+   },
+   "intro" : "",
+   "monsters" : [
+      {
+         "data" : [ 25, 12, 1, 200, 4, 1, 2, 0, 1, 12, 2, 0, 0 ],
+         "description" : "Before you stands a small human-like creature who swings a little hammer.",
+         "name" : "Gnome",
+         "number" : 1
+      },
+      {
+         "data" : [ 30, 22, 1, 200, 3, -1, 3, 13, 2, 6, 3, 0, 0 ],
+         "description" : "A friendly elf stands before you, clad in leather armor.",
+         "name" : "Elf",
+         "number" : 2
+      },
+      {
+         "data" : [ 20, 12, 1, 110, 8, -1, 1, 14, 1, 8, 1, 0, 0 ],
+         "description" : "You see before you an ugly old woman who wears an old black shawl and pointy hat. It's your old enemy and kidnapper of your sweetheart, Broomhandle The Witch!",
+         "name" : "Broomhandle The Witch",
+         "number" : 3
+      },
+      {
+         "data" : [ 24, 8, 1, 200, 17, 0, 2, 0, 1, 10, 1, 0, 0 ],
+         "description" : "There is a large troll standing here! He smiles and says, \"You lookum goodum!\"",
+         "name" : "Troll",
+         "number" : 4
+      },
+      {
+         "data" : [ 30, 6, 1, 200, 33, 0, 0, 0, 1, 12, 1, 0, 0 ],
+         "description" : "You see a ginormous and severely agitated bear here. It looks very hungry!",
+         "name" : "Bear",
+         "number" : 5
+      },
+      {
+         "data" : [ 15, 10, 1, 75, 36, 0, 0, 0, 2, 4, 1, 0, 0 ],
+         "description" : "There is a large wolf here licking his chops as if sizing you up for a meal.",
+         "name" : "Wolf",
+         "number" : 6
+      },
+      {
+         "data" : [ 28, 20, 1, 200, 0, -1, 2, 9, 1, 10, 3, 0, 0 ],
+         "description" : "Before you stands your beautiful girlfriend, Lovely Lil. She is overjoyed at your rescue.",
+         "name" : "Lovely Lil",
+         "number" : 7
+      },
+      {
+         "data" : [ 28, 18, 1, 200, 0, -1, 2, 9, 1, 10, 3, 0, 0 ],
+         "description" : "Before you stands your dashing boyfriend, Gorgeous George. He pauses for a second and checks his hair in a hand mirror.",
+         "name" : "Gorgeous George",
+         "number" : 8
+      }
+   ],
+   "name" : "The Ice Caves Deluxe",
+   "numDirections" : 6,
+   "rooms" : [
+      {
+         "data" : [ 1018, 2, 0, -999, 40, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You stand in the front yard of your cabin in the woods. To the south lies a path through the trees. The Main Hall is to the west. There are some tall yet climbable trees here. The door to your cabin is to the north.",
+         "name" : "You are in the front yard of your cabin. (N/S/W/U)",
+         "number" : 1
+      },
+      {
+         "data" : [ 1, 5, 3, 4, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in the unremarkable woods, the path going in all directions.",
+         "name" : "You are in the woods. (N/S/E/W)",
+         "number" : 2
+      },
+      {
+         "data" : [ 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in the unremarkable woods. The path leads west.",
+         "name" : "You are in the woods. (W)",
+         "number" : 3
+      },
+      {
+         "data" : [ 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in the unremarkable woods. The path leads east.",
+         "name" : "You are in the woods. (E)",
+         "number" : 4
+      },
+      {
+         "data" : [ 2, 12, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in the unremarkable woods. The path leads north and south.",
+         "name" : "You are in the woods. (N/S)",
+         "number" : 5
+      },
+      {
+         "data" : [ 7, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You stand proudly in your unremarkable cabin. There are doors on the north and south walls.",
+         "name" : "You are in your cabin. (N/S)",
+         "number" : 6
+      },
+      {
+         "data" : [ 8, 6, 0, -999, 41, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You stand in the back yard of your cabin in the woods. To the north there is a small road heading in that direction. To the west is the road to the Main Hall. Towering above you is a great pine, perfect for climbing.",
+         "name" : "You are in the back yard of your cabin. (N/S/W/U)",
+         "number" : 7
+      },
+      {
+         "data" : [ 11, 7, 9, 10, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The trail goes in all directions. Trees surround you everywhere.",
+         "name" : "You are in the woods. (N/S/E/W)",
+         "number" : 8
+      },
+      {
+         "data" : [ 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in the unremarkable woods. The past goes to the west.",
+         "name" : "You are in the woods. (W)",
+         "number" : 9
+      },
+      {
+         "data" : [ 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in the unremarkable woods. The path goes east.",
+         "name" : "You are in the woods. (E)",
+         "number" : 10
+      },
+      {
+         "data" : [ 16, 8, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are near the edge of the forest. To the north, you can see a clearing. The trail goes back to the south.",
+         "name" : "You are in the woods. (N/S)",
+         "number" : 11
+      },
+      {
+         "data" : [ 5, 13, 14, 15, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You stand at the edge of the forest along the southern fields. Wheat sways in the wind to the south, nearly ready for the harvest. Dense forest extends to the east and west.",
+         "name" : "You are in the southern fields. (N/S/E/W)",
+         "number" : 12
+      },
+      {
+         "data" : [ 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You stand in the middle of the unremarkable fields. There is a large area of grass and weeds here.",
+         "name" : "You are in the middle of the fields. (N)",
+         "number" : 13
+      },
+      {
+         "data" : [ 0, 0, 14, 12, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You stand at the unremarkable edge of the forest. The path goes both east and west from here.",
+         "name" : "You are at the edge of the forest. (E/W)",
+         "number" : 14
+      },
+      {
+         "data" : [ 0, 0, 12, 15, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You stand at the unremarkable edge of the forest; the path leads to the east and the west.",
+         "name" : "You are at the edge of the forest. (E/W)",
+         "number" : 15
+      },
+      {
+         "data" : [ 17, 11, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You stand quietly at the edge of the forest. The road leads north into a great clearing. To the east are hills. You may go north or south.",
+         "name" : "You are at the edge of the forest. (N/S)",
+         "number" : 16
+      },
+      {
+         "data" : [ 19, 16, 20, 18, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The road leads in all directions, but the paths leading south and east seem particularly well used.",
+         "name" : "You are at the crossroads. (N/S/E/W)",
+         "number" : 17
+      },
+      {
+         "data" : [ 0, 0, 17, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You now stand at the old mill pond. Only ruins remain here, where a huge saw mill once stood. The road leads back to the east.",
+         "name" : "You are at the mill pond. (E)",
+         "number" : 18
+      },
+      {
+         "data" : [ 0, 17, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You stand in the middle of huge fields untouched by man for many years.",
+         "name" : "You are in the fields. (S)",
+         "number" : 19
+      },
+      {
+         "data" : [ 0, 0, 21, 17, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You stand outside of the Ice Cave entrance. The road goes back to the west and leads east into the tunnel. A huge gate that once would have blocked your way lies in disrepair.",
+         "name" : "You are in a clearing outside the Ice Cave. (E/W)",
+         "number" : 20
+      },
+      {
+         "data" : [ 0, 0, 22, 20, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are now in the Ice Cave. The tunnel extends into darkness to the east. The walls are full of ice.",
+         "name" : "You are at the west entrance to the Ice Cave. (E/W)",
+         "number" : 21
+      },
+      {
+         "data" : [ 0, 0, 23, 21, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in an unremarkable east/west tunnel in the Ice Cave.",
+         "name" : "You are in an east/west tunnel. (E/W)",
+         "number" : 22
+      },
+      {
+         "data" : [ 24, 0, 0, 22, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You stand at a corner. The tunnel goes north and west. The ice is much thicker here.",
+         "name" : "You are at a north/west turn in the Ice Cave tunnel. (N/W)",
+         "number" : 23
+      },
+      {
+         "data" : [ 25, 23, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are deep in the ice cave and the road goes north and south. You feel a breeze blowing through the cave.",
+         "name" : "You are in a north/south tunnel. (N/S)",
+         "number" : 24
+      },
+      {
+         "data" : [ 27, 24, 28, 26, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "The tunnel here goes in all directions, but only the west and north passages are open enough to allow anything more than foot traffic.",
+         "name" : "You are at the tunnel crossroads. (N/S/E/W)",
+         "number" : 25
+      },
+      {
+         "data" : [ 0, 0, 25, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in what used to be a meat locker. There are still old rusty pieces of metal stuck deep in the ice.",
+         "name" : "You are in an old meat locker. (E)",
+         "number" : 26
+      },
+      {
+         "data" : [ 0, 25, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "The tunnel here is completely frozen shut. Your only way out is back to the south.",
+         "name" : "You are at a dead end. (S)",
+         "number" : 27
+      },
+      {
+         "data" : [ 0, 0, 29, 25, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "The ice is very thick. You can see something is frozen in the ice, but it is too far in to see it clearly.",
+         "name" : "You are in an east/west tunnel. (E/W)",
+         "number" : 28
+      },
+      {
+         "data" : [ 0, 30, 0, 28, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are at a corner in the cave. The road leads to the south and west.",
+         "name" : "You are at a south/west corner. (S/W)",
+         "number" : 29
+      },
+      {
+         "data" : [ 29, 31, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in an unremarkable north/south tunnel.",
+         "name" : "You are in a north/south tunnel. (N/S)",
+         "number" : 30
+      },
+      {
+         "data" : [ 30, 33, 1021, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "A chilling breeze seems to seep from the east wall.",
+         "name" : "You are in a north/south tunnel. (N/S)",
+         "number" : 31
+      },
+      {
+         "data" : [ 0, 0, 0, 31, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small room. The ice has almost completely closed this room off. The only way out is back through the little hole on the west wall.",
+         "name" : "You are in the ice room. (W)",
+         "number" : 32
+      },
+      {
+         "data" : [ 31, 35, 36, 34, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "The road once again goes in all directions. To the east you can see light. On the ground, dirt is frozen into the ice.",
+         "name" : "You are at the four corners. (N/S/E/W)",
+         "number" : 33
+      },
+      {
+         "data" : [ 0, 0, 33, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You find that the ice has completely frozen the road shut. Wherever this road once led, it no longer is passable. You'll have to go east to leave.",
+         "name" : "You are at a dead end. (E)",
+         "number" : 34
+      },
+      {
+         "data" : [ 33, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "Here the ice completely shuts the road off. You can see a sign in the ice, but it is unreadable. The exit is to the north.",
+         "name" : "You are at a dead end. (N)",
+         "number" : 35
+      },
+      {
+         "data" : [ 0, 0, 37, 33, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "The light to the east is quite bright. A wind blows from the east back into the tunnel. The ice here ends and the ground is very damp. The water from the melting ice quickly soaks into the ground.",
+         "name" : "You are in an east/west tunnel. (E/W)",
+         "number" : 36
+      },
+      {
+         "data" : [ 0, 0, 38, 36, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "There is bright light everywhere. The road leaves the tunnel to the east, and goes back deeper into the tunnel to the west.",
+         "name" : "You are at the east entrance to the Ice Cave. (E/W)",
+         "number" : 37
+      },
+      {
+         "data" : [ 0, 0, 0, 37, 39, 0, 0, 0, 0, 0, 1 ],
+         "description" : "There are large, climbable trees here and the grass is very green and lush. The road leads west to the cave entrance but the forest is impenetrable in all other directions.",
+         "name" : "You are in the woods east of the Ice Cave. (W/U)",
+         "number" : 38
+      },
+      {
+         "data" : [ 0, 40, 0, 0, 0, 38, 0, 0, 0, 0, 1 ],
+         "description" : "The wind gently rustles the leaves. A magical branch that will return you to your cabin is glowing brightly to the south.",
+         "name" : "You are up a large tree. (S/D)",
+         "number" : 39
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1 ],
+         "description" : "Below is your cabin and from this height you can see a large clearing lying to the south.",
+         "name" : "You are at the top of a large pine tree. (D)",
+         "number" : 40
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 0, 7, 0, 0, 0, 0, 1 ],
+         "description" : "Below is your cabin. To the north you see a large clearing. To the northeast is a range of tall hills and bluffs.",
+         "name" : "You are at the top of a tree. (D)",
+         "number" : 41
+      }
+   ]
+}

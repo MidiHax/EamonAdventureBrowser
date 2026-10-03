@@ -1,0 +1,1061 @@
+{
+   "artifacts" : [
+      {
+         "data" : [ 0, 2, 60, -4, -20, 3, 2, 8 ],
+         "description" : "You see a small 6-foot palm tree that was being wielded by the hill giant.",
+         "name" : "palm tree",
+         "number" : 1
+      },
+      {
+         "data" : [ 200, 3, 5, -5, -25, 2, 2, 10 ],
+         "description" : "You see a scepter of great magical power. It is glowing ominously.",
+         "name" : "magic scepter",
+         "number" : 2
+      },
+      {
+         "data" : [ 200, 11, 0, 13, 0, 5, 0, 0 ],
+         "description" : "You see a large green glowing ring. The band is gold with a green and black stone set on it. It also has a dragon carving on the inside.",
+         "name" : "magic ring",
+         "number" : 3
+      },
+      {
+         "data" : [ 104, 3, 6, -7, 35, 5, 2, 12 ],
+         "description" : "You see a beautiful Dwarf-made sword. It has intricate carvings on the handle and notches filed into the blade which cause it to \"sing\" in battle.",
+         "name" : "Singing Sword",
+         "number" : 4
+      },
+      {
+         "data" : [ 2, 1, 5, 35, 0, 0, 0, 0 ],
+         "description" : "You see a ordinary old shovel here. It appears to be fairly new.",
+         "name" : "shovel",
+         "number" : 5
+      },
+      {
+         "data" : [ 1, 1, 5, 1, 0, 0, 0, 0 ],
+         "description" : "You see a coil of rope hanging on an out crop of rock. You could probably USE it if you had to.",
+         "name" : "rope",
+         "number" : 6
+      },
+      {
+         "data" : [ 0, 4, 7, 9036, 0, 0, 1, 1 ],
+         "description" : "You see a dirty old box here.",
+         "name" : "box",
+         "number" : 7
+      },
+      {
+         "data" : [ 100, 1, 5, 9037, 0, 0, 0, 0 ],
+         "description" : "You have found an old skull. The Museum of Unnatural History would pay a decent amount for it.",
+         "name" : "skull",
+         "number" : 8
+      },
+      {
+         "data" : [ 78, 1, 1, 1007, 0, 0, 0, 0 ],
+         "description" : "There is a large bright 30 karat diamond here.",
+         "name" : "diamond",
+         "number" : 9
+      },
+      {
+         "data" : [ 50, 3, 5, -12, -20, 2, 10, 1 ],
+         "description" : "You see a strange looking weapon. It is called a \"pistol\". (\"Strange\"? Ha! You can find conventional firearms in about 40% of Eamon adventures. -FK)",
+         "name" : "pistol",
+         "number" : 10
+      },
+      {
+         "data" : [ 95, 1, 3, 49, 0, 0, 0, 0 ],
+         "description" : "You see a large emerald glittering in the darkness. It almost seems to glow. (So which is it, \"glittering\" or \"glowing\"? Make up your mind, John. -FK)",
+         "name" : "emerald",
+         "number" : 11
+      },
+      {
+         "data" : [ 120, 0, 10, 55, 0, 0, 0, 0 ],
+         "description" : "You see a large gold nugget. It is about 12 inches in diameter.",
+         "name" : "gold nugget",
+         "number" : 12
+      },
+      {
+         "data" : [ 10, 11, 1, 32, 0, 4, 0, 0 ],
+         "description" : "You see a beat up old helmet.",
+         "name" : "helmet",
+         "number" : 13
+      },
+      {
+         "data" : [ 1017, 3, 5, 21, 40, 4, 4, 12 ],
+         "description" : "You see a spear-like weapon with an odd blade on the end. The staff seems to radiate sheer power. This is the legendary \"Gungnir\" the weapon of Odin, father of the Norse gods, slayer of frost giants, and big cheese of Iceland.",
+         "name" : "Gungnir",
+         "number" : 14
+      },
+      {
+         "data" : [ 17, 2, 12, 22, 10, 4, 1, 8 ],
+         "description" : "You see a golden lance with no remarkable features. Closer examination reveals the \"gold\" to be spray paint.",
+         "name" : "golden lance",
+         "number" : 15
+      },
+      {
+         "data" : [ 60, 0, 8, 38, 0, 0, 0, 0 ],
+         "description" : "You see a platinum rod an inch thick and 14 inches long.",
+         "name" : "platinum rod",
+         "number" : 16
+      },
+      {
+         "data" : [ 150, 3, 10, -22, 30, 5, 2, 10 ],
+         "description" : "You see a very beautiful black sword with the name \"Ebony\" engraved on the handle. It closely resembles \"Seersucker\", a weapon used by Elrod (an albino from a land called \"Melvinbone\").",
+         "name" : "Ebony",
+         "number" : 17
+      },
+      {
+         "data" : [ 3, 2, 5, -19, -15, 3, 2, 4 ],
+         "description" : "You see a very large club.",
+         "name" : "club",
+         "number" : 18
+      },
+      {
+         "data" : [ 0, 9, 0, 39, 0, 1, 1, 0 ],
+         "description" : "You see a small white pill. It has a small \"RX\" symbol on it.",
+         "name" : "white pill",
+         "number" : 19
+      },
+      {
+         "data" : [ 75, 1, 90, 34, 0, 0, 0, 0 ],
+         "description" : "You see an old Spanish cannon here. It has not been used for a long time, but it looks like it is still functional.",
+         "name" : "cannon",
+         "number" : 20
+      },
+      {
+         "data" : [ 82, 11, 10, 26, 0, 5, 0, 0 ],
+         "description" : "You see a gold chain, bigger than any other gold chain you've ever seen. It has links on it as big as your fist. (Maybe it belongs to Mr. T. -FK)",
+         "name" : "gold chain",
+         "number" : 21
+      },
+      {
+         "data" : [ 25, 2, 6, -32, 15, 5, 1, 10 ],
+         "description" : "You see a sword which once belonged to a Norse warrior.",
+         "name" : "sword#",
+         "number" : 22
+      },
+      {
+         "data" : [ 10, 2, 4, -34, 15, 1, 1, 6 ],
+         "description" : "You see a heavy duty hand scythe that was used as a weapon. It says, \"Made in U.S.S.R.\" on it.",
+         "name" : "hand scythe",
+         "number" : 23
+      },
+      {
+         "data" : [ 42, 12, 5, 61, 7, 10, 1, 0 ],
+         "description" : "You see a brown leather-bound book. The cover of the book reads: BOOK OF EVIL. It seems to be sealed shut.",
+         "name" : "book",
+         "number" : 24
+      },
+      {
+         "data" : [ 0, 1, 2, 0, 0, 0, 0, 0 ],
+         "description" : "You see a large piece of the broken mirror (and 7 years bad luck for the superstitious).",
+         "name" : "broken mirror",
+         "number" : 25
+      },
+      {
+         "data" : [ 36, 11, 1, -1005, 0, 5, 0, 0 ],
+         "description" : "You see a gold medallion lying in the dust. It used to hang around the neck of the werewolf, like some sort of dog collar.",
+         "name" : "gold medallion",
+         "number" : 26
+      },
+      {
+         "data" : [ 0, 2, 1, 20, 10, 4, 1, 2 ],
+         "description" : "You see a plain wooden stake.",
+         "name" : "wooden stake",
+         "number" : 27
+      },
+      {
+         "data" : [ 0, 1, 999, 64, 0, 0, 0, 0 ],
+         "description" : "You see an extremely life-like full size statue of an adventurer here. It has an incredibly horrible expression on its face which, in turn, is staring toward the door to the south.",
+         "name" : "statue",
+         "number" : 28
+      },
+      {
+         "data" : [ 75, 3, 12, -38, 25, 2, 2, 8 ],
+         "description" : "You see the beautiful bow of the Medusa. A faint lime green magical glow surrounds it.",
+         "name" : "magic bow",
+         "number" : 29
+      },
+      {
+         "data" : [ 150, 0, 14, 71, 0, 0, 0, 0 ],
+         "description" : "You see a small sack of precious jewels.",
+         "name" : "jewels",
+         "number" : 30
+      },
+      {
+         "data" : [ 0, 11, 4, 68, 0, 0, 0, 0 ],
+         "description" : "You see some old and worn clothing.",
+         "name" : "clothing",
+         "number" : 31
+      },
+      {
+         "data" : [ 20, 11, 4, -35, 0, 1, 0, 0 ],
+         "description" : "You see an empty cloak fall to the floor. The Grim Reaper can never be truly killed, since he is not truly alive. (Ah, there's nothing wrong with a little paradox here and there. -FK)",
+         "name" : "cloak",
+         "number" : 32
+      },
+      {
+         "data" : [ 0, 12, 999, 62, 38, 6, 1, 0 ],
+         "description" : "You see a pile of shiny gold coins.",
+         "name" : "gold coins",
+         "number" : 33
+      },
+      {
+         "data" : [ 250, 3, 5, -40, 50, 5, 2, 12 ],
+         "description" : "You see a beautiful sword that looks like it was made by the gods. In fact, it was; it is the Vorpal blade of Perseus.",
+         "name" : "Vorpal Blade",
+         "number" : 34
+      },
+      {
+         "data" : [ 0, 13, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see the dead body of a Viking. You had better hope Thor doesn't find out!",
+         "name" : "Viking's body",
+         "number" : 35
+      },
+      {
+         "data" : [ 0, 1, -999, 0, 0, 0, 0, 0 ],
+         "description" : "The demon, Xanzig, vanished in a puff of smoke to avoid the embarrassment of being defeated by a mere mortal. All he left behind was a charred mark on the floor.",
+         "name" : "charred spot",
+         "number" : 36
+      },
+      {
+         "data" : [ 0, 13, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see the dead body of Lomar the mass murderer. It's good to know that he will never kill another victim!",
+         "name" : "Lomar's body",
+         "number" : 37
+      },
+      {
+         "data" : [ 400, 1, 5, 65, 0, 0, 0, 0 ],
+         "description" : "You see an intricately crafted brass bottle. It has strange, Arabic writing on it.",
+         "name" : "bottle",
+         "number" : 38
+      },
+      {
+         "data" : [ 0, 13, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see the hideous dead body of Medusa.",
+         "name" : "Medusa's body",
+         "number" : 39
+      },
+      {
+         "data" : [ 10, 0, 5, 0, 0, 0, 0, 0 ],
+         "description" : "You see the dead husk of the gold bug. It appears to be made of real gold.",
+         "name" : "squashed gold bug",
+         "number" : 40
+      },
+      {
+         "data" : [ 0, 8, -999, 2026, 52, 0, 0, 1 ],
+         "description" : "You discover a secret passage to the east!",
+         "name" : "a secret passage east",
+         "number" : 41
+      },
+      {
+         "data" : [ 0, 8, -999, 60, 61, 0, 1, 0 ],
+         "description" : "To the north you see a large oak door",
+         "name" : "oak door",
+         "number" : 42
+      },
+      {
+         "data" : [ 0, 8, -999, 60, 62, 0, 1, 0 ],
+         "description" : "To the east you see a large hickory door.",
+         "name" : "hickory door",
+         "number" : 43
+      },
+      {
+         "data" : [ 0, 8, -999, 2064, 66, 0, 1, 0 ],
+         "description" : "You see a massive steel door with a WARNING (which you can READ) scratched over it.",
+         "name" : "steel door",
+         "number" : 44
+      },
+      {
+         "data" : [ 0, 7, -999, 2064, 3, 1, 1, 0 ],
+         "description" : "Try READing it.",
+         "name" : "warning",
+         "number" : 45
+      },
+      {
+         "data" : [ 0, 1, -999, 10, 0, 0, 0, 0 ],
+         "description" : "The entrance has shrunk. You may now only go south.",
+         "name" : "shrunken entrance",
+         "number" : 46
+      },
+      {
+         "data" : [ 0, 8, -999, 2031, 43, 0, 0, 1 ],
+         "description" : "The paper covers a secret passage to the east!",
+         "name" : "a secret passage east#",
+         "number" : 47
+      },
+      {
+         "data" : [ 0, 7, -999, 2053, 11, 1, 1, 0 ],
+         "description" : "Try READing them.",
+         "name" : "hieroglyphics",
+         "number" : 48
+      },
+      {
+         "data" : [ 0, 1, 999, 42, 0, 0, 0, 0 ],
+         "description" : "When you entered the room you were greeted by a reflection of yourself (Ahhhhhhhhh! -FK).",
+         "name" : "mirror",
+         "number" : 49
+      },
+      {
+         "data" : [ 0, 1, -999, 9051, 0, 0, 0, 0 ],
+         "description" : "You have broken out to daylight!",
+         "name" : "a hole to the west",
+         "number" : 50
+      },
+      {
+         "data" : [ 0, 8, -999, 2066, 9, 0, 0, 1 ],
+         "description" : "The strange mist parts to reveal a secret door to the south!",
+         "name" : "a secret passage south",
+         "number" : 51
+      },
+      {
+         "data" : [ 0, 8, -999, 2038, 39, 0, 0, 1 ],
+         "description" : "You easily remove the flimsy panel, which reveals a secret door to the south!",
+         "name" : "a secret passage south#",
+         "number" : 52
+      }
+   ],
+   "effects" : [
+      {
+         "description" : "You see Baalzebul vanish, leaving only a puff of foul smoke. He has returned to his own place in hell. (A nice little place really, with central air conditioning and a PC with all the Eamon Deluxe adventures on his hard drive. -FK)",
+         "number" : 1
+      },
+      {
+         "description" : "You see the mummy crumble into dust.",
+         "number" : 2
+      },
+      {
+         "description" : "It says, \"BEFRUAU AUN VAUN MEDUSA NIC GEH\"",
+         "number" : 3
+      },
+      {
+         "description" : "You did not explore the cave thoroughly enough, therefore you did not win the 9,000 gold pieces.",
+         "number" : 4
+      },
+      {
+         "description" : "Some of your friends helped you collect your 9,000 gold piece bet, since Black Bart was somewhat reluctant to pay.",
+         "number" : 5
+      },
+      {
+         "description" : "One of the gold coins jumps up and bites you!",
+         "number" : 6
+      },
+      {
+         "description" : "Your body radiates a sudden flash of intense energy! The energy strikes everything in the room!",
+         "number" : 7
+      },
+      {
+         "description" : "You can not be blamed, many of the hardiest warriors cannot make it through this cave.",
+         "number" : 8
+      },
+      {
+         "description" : "You have lost your grip on the rope which was supporting your body, and plunged to your untimely death!",
+         "number" : 9
+      },
+      {
+         "description" : "As you open the book, a colorful illustration of a pack of monsters greets your eyes. Much to your astonishment, the monsters in the picture grow until they reach full size and they then step out of the book!",
+         "number" : 10
+      },
+      {
+         "description" : "They say something like, \"??????? ?????????? ???????????? {and cheese dip!}\"",
+         "number" : 11
+      },
+      {
+         "description" : "As you open the bottle, a puff of smoke rises from it and forms into a powerful genie!",
+         "number" : 12
+      },
+      {
+         "description" : "The reflection in the mirror calmly steps out of the mirror. It is an exact duplicate of you!",
+         "number" : 13
+      },
+      {
+         "description" : "You hear a crackle of energy and see a flash of light! Lockjaw has transported you somewhere!",
+         "number" : 14
+      },
+      {
+         "description" : "You hear a low growl, followed by a loud snarl as the werewolf comes back to life!",
+         "number" : 15
+      },
+      {
+         "description" : "The magic ring on your finger vanished! The force field is gone!",
+         "number" : 16
+      }
+   ],
+   "info" : {
+      "author" : "John Nelson",
+      "difficulty" : "9",
+      "rating" : "7.5/4",
+      "serialNum" : "19"
+   },
+   "intro" : "",
+   "monsters" : [
+      {
+         "data" : [ 65, 18, 1, 200, 34, 1, 6, 0, 2, 5, 1, 0, 0 ],
+         "description" : "You see a large black dragon here. He was snoozing when you entered and, judging from his reaction, you just woke him from a very pleasant dream!",
+         "name" : "Black Dragon",
+         "number" : 1
+      },
+      {
+         "data" : [ 90, 20, 1, 200, 13, 1, 8, 0, 3, 8, 1, 0, 0 ],
+         "description" : "You see a huge blue dragon here. He was just finishing a few leftovers (apparently the remains of elephants). He snarls a nasty flame at you.",
+         "name" : "Blue Dragon",
+         "number" : 2
+      },
+      {
+         "data" : [ 30, 20, 1, 100, 35, 0, 3, 1, 2, 5, 1, 0, 0 ],
+         "description" : "You see a small hill giant (can't be more than 10 feet or so). He is carrying a palm tree for a weapon.",
+         "name" : "Hill Giant",
+         "number" : 3
+      },
+      {
+         "data" : [ 35, 20, 1, 95, 40, 0, 1, 2, 3, 6, 130, 0, 0 ],
+         "description" : "You see a man wearing a blue satin robe and wearing a black silk turban. He is carrying a scepter in his hand. He must be powerful wizard.",
+         "name" : "Wizard",
+         "number" : 4
+      },
+      {
+         "data" : [ 25, 22, 1, 200, 23, 0, 0, 0, 1, 8, 1, 0, 0 ],
+         "description" : "You see a man who needs a shave very badly. In fact, his entire body is covered with coarse hair. Wait ... it's because he is a werewolf!",
+         "name" : "Werewolf",
+         "number" : 5
+      },
+      {
+         "data" : [ 24, 22, 1, 100, 37, -1, 5, 4, 1, 8, 140, 0, 0 ],
+         "description" : "You see a very large man clad in plate armor and a shield. He is carrying a very large sword.",
+         "name" : "Warrior",
+         "number" : 6
+      },
+      {
+         "data" : [ 40, 5, 1, 95, -2, 0, 1, 0, 3, 4, 120, 0, 0 ],
+         "description" : "You see a large, hideous, and artificial man. He is the handiwork of a certain Doctor Frankenstein.",
+         "name" : "Frankenstein's Monster",
+         "number" : 7
+      },
+      {
+         "data" : [ 90, 18, 1, 200, 31, 0, 50, 0, 1, 6, 135, 0, 0 ],
+         "description" : "You see a man with golden skin. You have heard of this man before, when you were small. His name is Unus and he is supposed to be indestructible! (He's actually an old character from Marvel Comics -FK)",
+         "name" : "Unus",
+         "number" : 8
+      },
+      {
+         "data" : [ 10, 10, 1, 65, 46, 0, 2, 0, 1, 6, 155, 0, 0 ],
+         "description" : "You see a man in a light blue suit with silver hair. He has a large \"V\" on his chest. He says his name is \"The Vanisher\" and claims he has the ability to vanish & reappear when attacked. (He's actually an old character from Marvel Comics -FK)",
+         "name" : "Vanisher",
+         "number" : 9
+      },
+      {
+         "data" : [ 366, 20, 1, 200, 48, 1, 10, 0, 3, 12, 1, 0, 0 ],
+         "description" : "You see a devilish looking being. Matter-of-fact, his name is Baalzebul, the arch-devil of the sixth and seventh planes of Hell. He is much too tough to fight!",
+         "name" : "Baalzebul",
+         "number" : 10
+      },
+      {
+         "data" : [ 24, 22, 1, 200, 26, -1, 3, 10, 1, 8, 3, 0, 0 ],
+         "description" : "You see a man wearing a light blue shirt and a white hat, with a black mask covering his face.",
+         "name" : "Lone Ranger",
+         "number" : 11
+      },
+      {
+         "data" : [ 30, 10, 1, 200, -2, 1, 0, 0, 2, 5, 1, 0, 0 ],
+         "description" : "You see a strange amphibious creature with heavy scales covering his entire body. He walks upright on two legs like a man, although he is obviously not.",
+         "name" : "Creature",
+         "number" : 12
+      },
+      {
+         "data" : [ 30, 20, 1, 200, -2, 0, 2, 0, 1, 8, 1, 0, 0 ],
+         "description" : "You see a man in a black tuxedo with long fangs. He has a trace of blood running down from the corner of his lethal overbite. He is the Prince of Evil himself, Count Dracula!",
+         "name" : "Count Dracula",
+         "number" : 13
+      },
+      {
+         "data" : [ 30, 10, 1, 100, -1, 0, 4, 0, 1, 5, 1, 0, 0 ],
+         "description" : "You see a vicious, snarling stone creature with large leathery wings. He is carrying a ball and chain for a weapon.",
+         "name" : "Gargoyle",
+         "number" : 14
+      },
+      {
+         "data" : [ 190, 15, 1, 200, -1, 1, 10, 0, 3, 8, 1, 0, 0 ],
+         "description" : "You see a rare white dragon (few of these have ever been seen). Aside from being rare, it is also a very vicious breed of dragon.",
+         "name" : "White Dragon",
+         "number" : 15
+      },
+      {
+         "data" : [ 80, 12, 1, 90, 43, 1, 0, 0, 3, 6, 3, 0, 0 ],
+         "description" : "You see an extremely large animal with an antenna sticking from its forehead. He looks like a giant bulldog, but is more the size of a rhinoceros ... a very large rhinoceros! (He's actually an old character from Marvel Comics -FK)",
+         "name" : "Lockjaw",
+         "number" : 16
+      },
+      {
+         "data" : [ 300, 15, 1, 200, 0, 0, 8, 0, 4, 8, 3, 0, 0 ],
+         "description" : "You see a large emerald-green man covered from head to toe in muscles. In fact, he appears to have muscles in places where other men don't have places. (He's actually an old character from Marvel Comics, but I'm sure you knew that! -FK)",
+         "name" : "Incredible Hulk",
+         "number" : 17
+      },
+      {
+         "data" : [ 23, 15, 1, 65, 53, 0, 0, 18, 2, 4, 135, 0, 0 ],
+         "description" : "You see a Neanderthal type loosely clad in an animal skin and carrying a very large club. He grunts and mumbles his way toward you.",
+         "name" : "Caveman",
+         "number" : 18
+      },
+      {
+         "data" : [ 50, 5, 1, 85, 57, 1, 2, 0, 2, 10, 1, 0, 0 ],
+         "description" : "You see a very large furry elephant with long tusks. It's so large it might as well be called a mammoth.",
+         "name" : "Mammoth",
+         "number" : 19
+      },
+      {
+         "data" : [ 17, 22, 1, 75, -1, 0, 0, 0, 1, 5, 1, 0, 0 ],
+         "description" : "You see a large striped cat with short stubby tail. It is so large, you thought it was a lynx or lion at first, but it is only an oversized bobcat.",
+         "name" : "Bobcat",
+         "number" : 20
+      },
+      {
+         "data" : [ 24, 20, 1, 100, -1, -1, 5, 17, 1, 8, 1, 0, 0 ],
+         "description" : "You see a man in black plate armor who holds a nasty looking sword. You recognize him as the lost Black Knight of Camphor.",
+         "name" : "Black Knight",
+         "number" : 21
+      },
+      {
+         "data" : [ 30, 5, 1, 65, -1, 1, 5, 0, 1, 8, 150, 0, 0 ],
+         "description" : "You see a small dragon with a bluish tint to its scales. It must be just a baby, since it can't weigh more than about 600 pounds.",
+         "name" : "Baby Dragon",
+         "number" : 22
+      },
+      {
+         "data" : [ 14, 15, 1, 100, -1, 0, 0, 0, 1, 4, 1, 0, 0 ],
+         "description" : "You see a fuzzy grey wolf.",
+         "name" : "Wolf1",
+         "number" : 23
+      },
+      {
+         "data" : [ 14, 15, 1, 100, -1, 0, 0, 0, 1, 4, 1, 0, 0 ],
+         "description" : "You see a furry grey wolf.",
+         "name" : "Wolf2",
+         "number" : 24
+      },
+      {
+         "data" : [ 14, 15, 1, 100, -1, 0, 0, 0, 1, 4, 1, 0, 0 ],
+         "description" : "You see a hairy grey wolf.",
+         "name" : "Wolf3",
+         "number" : 25
+      },
+      {
+         "data" : [ 14, 15, 1, 100, -1, 0, 0, 0, 1, 4, 1, 0, 0 ],
+         "description" : "You see a scary grey wolf.",
+         "name" : "Wolf4",
+         "number" : 26
+      },
+      {
+         "data" : [ 14, 15, 1, 100, -1, 0, 0, 0, 1, 4, 1, 0, 0 ],
+         "description" : "You see a hungry grey wolf.",
+         "name" : "Wolf5",
+         "number" : 27
+      },
+      {
+         "data" : [ 14, 15, 1, 100, -1, 0, 0, 0, 1, 4, 1, 0, 0 ],
+         "description" : "You see a snarling grey wolf.",
+         "name" : "Wolf6",
+         "number" : 28
+      },
+      {
+         "data" : [ 40, 15, 1, 75, -1, 1, 6, 0, 2, 8, 1, 0, 0 ],
+         "description" : "You see a stone golem here. He is about 18 feet tall and made out of what appears to be solid granite.",
+         "name" : "Golem",
+         "number" : 29
+      },
+      {
+         "data" : [ 5, 18, 1, 200, -1, 1, 0, 0, 1, 4, 1, 0, 0 ],
+         "description" : "You see a large diamondback rattlesnake. It is rattling its tail furiously and coiled and ready to strike.",
+         "name" : "Rattlesnake",
+         "number" : 30
+      },
+      {
+         "data" : [ 30, 20, 1, 200, 21, -1, 6, 22, 1, 8, 2, 0, 0 ],
+         "description" : "You see a large six-foot tall Norse warrior in fur padded armor. He is guarding the magic spear Gungnir. If you try to take it he will surely attack you.",
+         "name" : "Viking",
+         "number" : 31
+      },
+      {
+         "data" : [ 40, 20, 1, 15, -1, 1, 5, 0, 1, 8, 1, 0, 0 ],
+         "description" : "You see a horrible three headed man with scales covering his entire body. He has long sharp claws on each of his hands. He is Xanzig, a demon of forgotten lore. (Not to be confused with \"Danzig\" a fat rock singer who wishes he were a demon. -FK)",
+         "name" : "Xanzig",
+         "number" : 32
+      },
+      {
+         "data" : [ 19, 15, 1, 80, -1, -1, 2, 23, 1, 6, 1, 0, 0 ],
+         "description" : "You see a scarred man wearing black mail armour. He is carrying a sharp, heavy duty, curved weapon that was intended to be used to cut grass and crops. You recognize him as Lomar, a mass murderer.",
+         "name" : "Lomar",
+         "number" : 33
+      },
+      {
+         "data" : [ 100, 20, 1, 200, -1, 1, 4, 0, 3, 4, 1, 0, 0 ],
+         "description" : "You see a dark shrouded being. He wears a dark cloak and has a skeletal face that would scare the be-Jesus out of even the bravest warrior. He is the Grim Reaper and this is his cave!",
+         "name" : "Grim Reaper",
+         "number" : 34
+      },
+      {
+         "data" : [ 25, 16, 1, 200, -2, 1, 2, 0, 1, 6, 1, 0, 0 ],
+         "description" : "You see a decrepit looking old mummy. (As opposed to all those healthy, freshly bandaged mummies you find in adventure games! -FK)",
+         "name" : "Mummy",
+         "number" : 35
+      },
+      {
+         "data" : [ 300, 20, 1, 200, -2, 1, 4, 0, 2, 5, 3, 0, 0 ],
+         "description" : "You see a powerful genie form from the smoke.",
+         "name" : "Genie",
+         "number" : 36
+      },
+      {
+         "data" : [ 24, 16, 1, 200, 66, 1, 5, 29, 2, 8, 1, 0, 0 ],
+         "description" : "You see the legendary Medusa, one of the Gorgons. Her hideous appearance can turn men to stone. (Sounds like my last girlfriend! -FK)",
+         "name" : "Medusa",
+         "number" : 37
+      },
+      {
+         "data" : [ 13, 20, 1, 200, 0, 1, 4, 0, 1, 4, 1, 0, 0 ],
+         "description" : "One of the coins is really a poisonous bug with a hard golden shell. As you observe the golden bug, the rest of the pile vanishes!",
+         "name" : "Gold Bug",
+         "number" : 38
+      },
+      {
+         "data" : [ 25, 22, 1, 200, 0, -1, 4, 34, 1, 8, 3, 0, 0 ],
+         "description" : "You see a foolish young warrior who says he is looking for a monster.",
+         "name" : "Perseus",
+         "number" : 39
+      },
+      {
+         "data" : [ 24, 16, 1, 200, 42, -1, 3, 0, 1, 12, 1, 0, 0 ],
+         "description" : "The reflection in the mirror steps out of the mirror. It is an exact duplicate of you!\"",
+         "name" : "Clone",
+         "number" : 40
+      }
+   ],
+   "name" : "DEATH TRAP",
+   "numDirections" : 10,
+   "rooms" : [
+      {
+         "data" : [ 0, 0, 0, 0, 2, -999, 0, 0, 0, 0, 1 ],
+         "description" : "You are hanging onto a sheer cliff face 600 feet above the nearest rock ledge. You may pull yourself up or go down (and back to the Main Hall).",
+         "name" : "You are hanging on a sheer cliff face. (U/D)",
+         "number" : 1
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 3, 1, 0, 0, 0, 0, 1 ],
+         "description" : "You are on the face of a cliff. You are now about 700 feet above the rock ledge below. You may continue to climb up or slide down your rope.",
+         "name" : "You are on the face of a cliff. (U/D)",
+         "number" : 2
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 4, 2, 0, 0, 0, 0, 1 ],
+         "description" : "You are on the face of a sheer cliff. The rock ledge below is now about 850 feet below you. There is a rock above you that you must throw a rope around to continue your climb up. You must be very careful if you do, though.",
+         "name" : "You are on the face of a sheer cliff. (U/D)",
+         "number" : 3
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 5, 3, 0, 0, 0, 0, 1 ],
+         "description" : "You are on a very steep rock surface. The rock ledge below you is now over a thousand feet below. You can get a foot hold here, so you can climb without using a rope.",
+         "name" : "You are on a very steep rock. (U/D)",
+         "number" : 4
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 0, 4, 0, 0, 6, 0, 1 ],
+         "description" : "You are on a rock ledge that goes in a southeast direction. There is also the long climb back down.",
+         "name" : "You are on a rock ledge. (D/SE)",
+         "number" : 5
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 0, 0, 0, 5, 7, 0, 1 ],
+         "description" : "You are on a narrow rock ledge. You may go northwest or southeast from here.",
+         "name" : "You are on a rock ledge. (NW/SE)",
+         "number" : 6
+      },
+      {
+         "data" : [ 0, 0, 8, 0, 0, 0, 0, 6, 0, 0, 1 ],
+         "description" : "You are at a slight bend on the rock ledge. You may go northwest or east.",
+         "name" : "You are at a slight bend on the ledge. (E/NW)",
+         "number" : 7
+      },
+      {
+         "data" : [ 0, 0, 9, 7, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "To the east you see a cave entrance.",
+         "name" : "You are on an east/west ledge.",
+         "number" : 8
+      },
+      {
+         "data" : [ 0, 10, 51, 8, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The ledge goes west and the cave entrance goes into the side of the mountain to the south.",
+         "name" : "You are at the cave entrance. (S/W)",
+         "number" : 9
+      },
+      {
+         "data" : [ 0, 11, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The roof of the tunnel seems a bit higher than it was at the entrance. In fact, the entrance seems too small to get through from this side. In fact, the entrance has shrunk!",
+         "name" : "You are at the shrunken cave entrance. (S)",
+         "number" : 10
+      },
+      {
+         "data" : [ 10, 14, 12, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "It is very dark here, since the entrance to the north shrank so much.",
+         "name" : "You are at a T-intersection; east by N/S.",
+         "number" : 11
+      },
+      {
+         "data" : [ 0, 0, 13, 11, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "To the east you make out a large chamber, but you cannot see into it.",
+         "name" : "You are in an east/west tunnel.",
+         "number" : 12
+      },
+      {
+         "data" : [ 0, 38, 0, 12, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "There is a lot of smoke and ash in here and you see a very small opening in the roof that acts as a chimney. However, it is too high to reach & too small to climb through if you could reach it. You also notice a dark hole to the south.",
+         "name" : "You are in a large chamber. (S/W)",
+         "number" : 13
+      },
+      {
+         "data" : [ 11, 15, 0, 35, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a north/south tunnel with a small chamber to the west.",
+         "name" : "You are in a north/south tunnel. (N/S/W)",
+         "number" : 14
+      },
+      {
+         "data" : [ 14, 16, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "To the south you see the tunnel bend slightly.",
+         "name" : "You are in a north/south tunnel.",
+         "number" : 15
+      },
+      {
+         "data" : [ 15, 0, 0, 0, 0, 0, 0, 0, 0, 17, 1 ],
+         "description" : "The tunnel leads southwest and north here.",
+         "name" : "You are at a slight bend in the tunnel. (N/SW)",
+         "number" : 16
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 0, 0, 16, 36, 37, 18, 1 ],
+         "description" : "You are in a northeast/southwest tunnel. There are adjoining chambers to the northwest and southeast.",
+         "name" : "You are in a tunnel. (NE/NW/SE/SW)",
+         "number" : 17
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 0, 0, 17, 22, 24, 19, 1 ],
+         "description" : "You are at a four-way diagonal intersection.",
+         "name" : "You are at an intersection. (NW/NE/SE/SW)",
+         "number" : 18
+      },
+      {
+         "data" : [ 0, 0, 0, 20, 0, 0, 18, 0, 0, 0, 1 ],
+         "description" : "You are at a slight bend in the tunnel. The tunnel goes northeast and west.",
+         "name" : "You are at a bend in the tunnel. (W/NE)",
+         "number" : 19
+      },
+      {
+         "data" : [ 0, 21, 19, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "To the south you see a chamber.",
+         "name" : "You are at a bend in the tunnel. (S/E)",
+         "number" : 20
+      },
+      {
+         "data" : [ 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a large chamber with the only exit to the north.",
+         "name" : "You are in a large south chamber. (N)",
+         "number" : 21
+      },
+      {
+         "data" : [ 23, 0, 0, 0, 0, 0, 0, 0, 18, 0, 1 ],
+         "description" : "The tunnel bends from the southeast to the north, where it goes into a chamber.",
+         "name" : "You are at a bend in the tunnel. (N/SE)",
+         "number" : 22
+      },
+      {
+         "data" : [ 0, 22, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a small north chamber with the only exit to the south.",
+         "name" : "You are in a small north chamber. (S)",
+         "number" : 23
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 0, 0, 0, 18, 25, 0, 1 ],
+         "description" : "You are in a short northwest by southeast tunnel. You can see intersections in both directions.",
+         "name" : "You are in a short tunnel. (NW/SE)",
+         "number" : 24
+      },
+      {
+         "data" : [ 0, 0, 26, 0, 0, 0, 27, 24, 0, 32, 1 ],
+         "description" : "You are at a very strange intersection. (What's so strange about it? I guess only John could tell you. -FK)",
+         "name" : "You are at an intersection. (E/NE/NW/SW)",
+         "number" : 25
+      },
+      {
+         "data" : [ 0, 0, 1041, 25, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a completely unremarkable room. The east wall has a strange, door-sized indention in it.",
+         "name" : "You are in a small east chamber. (W)",
+         "number" : 26
+      },
+      {
+         "data" : [ 0, 0, 28, 0, 0, 0, 0, 0, 0, 25, 1 ],
+         "description" : "You are in a completely unremarkable room. To the east you see a small chamber.",
+         "name" : "You are at a slight bend in the tunnel. (E/SW)",
+         "number" : 27
+      },
+      {
+         "data" : [ 0, 0, 29, 27, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "There is water leaking in from the walls and mold and fungus is growing in abundance here.",
+         "name" : "You are in a small damp chamber. (E/W)",
+         "number" : 28
+      },
+      {
+         "data" : [ 0, 0, 30, 28, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "To the east you see a bend in the tunnel. To the west is a small chamber.",
+         "name" : "You are in an east/west tunnel.",
+         "number" : 29
+      },
+      {
+         "data" : [ 31, 0, 0, 29, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a completely unremarkable room.",
+         "name" : "You are at a bend in the tunnel. (N/W)",
+         "number" : 30
+      },
+      {
+         "data" : [ 0, 30, 1047, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a small chamber with funny looking walls. The east wall is covered with a strange paper saying, \"Shell Armor Performance\".",
+         "name" : "You are in a small chamber with funny walls. (S)",
+         "number" : 31
+      },
+      {
+         "data" : [ 0, 33, 0, 0, 0, 0, 25, 0, 0, 0, 1 ],
+         "description" : "Here the tunnel bends from northeast to south. To the south you can see another bend.",
+         "name" : "You are at a slight bend in the tunnel. (S/NE)",
+         "number" : 32
+      },
+      {
+         "data" : [ 32, 0, 34, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at a completely unremarkable bend in the tunnel.",
+         "name" : "You are at a bend in the tunnel. (N/E)",
+         "number" : 33
+      },
+      {
+         "data" : [ 0, 0, 0, 33, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a completely unremarkable room.",
+         "name" : "You are in a small east chamber. (W)",
+         "number" : 34
+      },
+      {
+         "data" : [ 0, 0, 14, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a completely unremarkable room.",
+         "name" : "You are in a small west chamber. (E)",
+         "number" : 35
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 17, 0, 1 ],
+         "description" : "You are in a small chamber with the only exit to the southeast. The room is sitting at a diagonal angle. The ground is remarkably soft here.",
+         "name" : "You are in a small chamber. (SE)",
+         "number" : 36
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 0, 0, 0, 17, 0, 0, 1 ],
+         "description" : "You are in a small chamber with the only exit to the northwest. The room is sitting at a diagonal angle. The ground is remarkably soft here.",
+         "name" : "You are in a very small chamber. (NW)",
+         "number" : 37
+      },
+      {
+         "data" : [ 13, 1052, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in some kind of small secret closet. The panel in the south wall doesn't seem very sturdy.",
+         "name" : "You are in a small secret closet. (N)",
+         "number" : 38
+      },
+      {
+         "data" : [ 38, 40, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a completely unremarkable secret tunnel.",
+         "name" : "You are in a short secret tunnel. (N/S)",
+         "number" : 39
+      },
+      {
+         "data" : [ 39, 0, 41, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The walls here are made of smooth granite. This is quite a change from the rough rock walls in the rest of the tunnels and caves around here. To the east you see a tunnel.",
+         "name" : "You are in a large rectangular room. (N/E)",
+         "number" : 40
+      },
+      {
+         "data" : [ 0, 0, 42, 40, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a short east/west tunnel. The walls are made of smooth granite.",
+         "name" : "You are in a short granite corridor. (E/W)",
+         "number" : 41
+      },
+      {
+         "data" : [ 0, 0, 0, 41, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a medium sized room with a huge mirror hanging on the east wall.",
+         "name" : "You are in the mirror room. (W)",
+         "number" : 42
+      },
+      {
+         "data" : [ 0, 0, 44, 31, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a secret east/west tunnel which is very narrow and dark.",
+         "name" : "You are in a secret east/west tunnel.",
+         "number" : 43
+      },
+      {
+         "data" : [ 45, 0, 0, 43, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at a bend in a completely unremarkable secret tunnel.",
+         "name" : "You are at a bend in the secret tunnel. (N/W)",
+         "number" : 44
+      },
+      {
+         "data" : [ 46, 44, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a dark and narrow tunnel. The walls of the tunnel are a lighter color here.",
+         "name" : "You are in a dark and narrow north/south tunnel.",
+         "number" : 45
+      },
+      {
+         "data" : [ 47, 45, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a large chamber with a high domed ceiling. There are exits to the north and south.",
+         "name" : "You are in a large domed chamber. (N/S)",
+         "number" : 46
+      },
+      {
+         "data" : [ 48, 46, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a completely unremarkable north/south tunnel.",
+         "name" : "You are in a short north/south tunnel.",
+         "number" : 47
+      },
+      {
+         "data" : [ 49, 47, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a small room with limestone walls. There are exits to the north and south.",
+         "name" : "You are in a small limestone room. (N/S)",
+         "number" : 48
+      },
+      {
+         "data" : [ 0, 48, 0, 50, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at a completely unremarkable bend in the tunnel.",
+         "name" : "You are at a bend in the tunnel. (S/W)",
+         "number" : 49
+      },
+      {
+         "data" : [ 0, 0, 49, 51, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The walls are made of hard stone here.",
+         "name" : "You are in a narrow east/west tunnel.",
+         "number" : 50
+      },
+      {
+         "data" : [ 0, 0, 50, 9, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The walls seem to be softer here, like they were made of some kind of sandstone.",
+         "name" : "You are at the west end of a narrow tunnel. (E)",
+         "number" : 51
+      },
+      {
+         "data" : [ 0, 0, 53, 26, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "It is cold, dark, and damp in here. Through the darkness you can manage to make out a chamber to the east.",
+         "name" : "You are in a secret east/west tunnel.",
+         "number" : 52
+      },
+      {
+         "data" : [ 0, 54, 0, 52, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "There are strange hieroglyphics inscribed on the walls here.",
+         "name" : "You are in an abandoned tomb. (S/W)",
+         "number" : 53
+      },
+      {
+         "data" : [ 53, 55, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a completely unremarkable north/south tunnel.",
+         "name" : "You are in a short north/south tunnel.",
+         "number" : 54
+      },
+      {
+         "data" : [ 54, 0, 56, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "This room once served to hold trophies that belonged to powerful figure some time ago.",
+         "name" : "You are in the trophy room. (N/E)",
+         "number" : 55
+      },
+      {
+         "data" : [ 58, 57, 0, 55, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a completely unremarkable room.",
+         "name" : "You are at a T-intersection; west by N/S.",
+         "number" : 56
+      },
+      {
+         "data" : [ 56, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a large chamber that is roughly shaped like an oval.",
+         "name" : "You are You are in a large chamber. (N)",
+         "number" : 57
+      },
+      {
+         "data" : [ 0, 56, 59, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at a completely unremarkable bend in the tunnel.",
+         "name" : "You are at a bend in the tunnel. (S/E)",
+         "number" : 58
+      },
+      {
+         "data" : [ 60, 67, 63, 58, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at a completely unremarkable four-way intersection.",
+         "name" : "You are at a four-way intersection. (N/S/E/W)",
+         "number" : 59
+      },
+      {
+         "data" : [ 1042, 59, 1043, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a completely unremarkable north/south tunnel.",
+         "name" : "You are in a north/south tunnel. (N/S/E)",
+         "number" : 60
+      },
+      {
+         "data" : [ 0, 60, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a completely unremarkable room.",
+         "name" : "You are in a small dirty chamber. (S)",
+         "number" : 61
+      },
+      {
+         "data" : [ 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a completely unremarkable cell.",
+         "name" : "You are in a grubby little cell. (W)",
+         "number" : 62
+      },
+      {
+         "data" : [ 0, 0, 64, 59, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "To the west you see a four-way intersection. To the east you see a T-intersection.",
+         "name" : "You are in an east/west tunnel.",
+         "number" : 63
+      },
+      {
+         "data" : [ 65, 1044, 0, 63, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at the east end of an unremarkable east/west tunnel. There is a chamber to the north, while south is a massive steel door with a warning scratched over it.",
+         "name" : "You are at the east end of a tunnel. (N/S/W)",
+         "number" : 64
+      },
+      {
+         "data" : [ 0, 64, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a completely unremarkable room.",
+         "name" : "You are in a small north chamber. (S)",
+         "number" : 65
+      },
+      {
+         "data" : [ 64, 1051, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a completely unremarkable room. You see a strange mist to the south.",
+         "name" : "You are in a small south chamber. (N)",
+         "number" : 66
+      },
+      {
+         "data" : [ 59, 69, 68, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a completely unremarkable room. To the east is a chamber.",
+         "name" : "You are at a T-intersection; east by N/S.",
+         "number" : 67
+      },
+      {
+         "data" : [ 0, 0, 0, 67, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a completely unremarkable room.",
+         "name" : "You are in a medium-sized dirt chamber. (W)",
+         "number" : 68
+      },
+      {
+         "data" : [ 67, 0, 70, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at a completely unremarkable bend in the tunnel.",
+         "name" : "You are at a bend in the tunnel. (N/E)",
+         "number" : 69
+      },
+      {
+         "data" : [ 0, 71, 0, 69, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at a completely unremarkable bend in the tunnel.",
+         "name" : "You are at a bend in the tunnel. (S/W)",
+         "number" : 70
+      },
+      {
+         "data" : [ 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a completely unremarkable room.",
+         "name" : "You are in a medium-sized dirt chamber. (N)",
+         "number" : 71
+      }
+   ]
+}

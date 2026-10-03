@@ -1,0 +1,697 @@
+{
+   "artifacts" : [
+      {
+         "data" : [ 0, 4, 5, 10, 0, 0, 0, 0 ],
+         "description" : "Sitting in the northeastern corner you see a glass aquarium.  It has a screen top on it.  The glass doesn't appear to be cracked and it is in fine condition.",
+         "name" : "aquarium",
+         "number" : 1
+      },
+      {
+         "data" : [ 0, 5, 4, 12, -1, 0, 0, 0 ],
+         "description" : "Laying on the ceiling you see a torch.  How in the hell did they get a torch to remain on the ceiling, you think, as you can see nothing holding it up.",
+         "name" : "torch",
+         "number" : 2
+      },
+      {
+         "data" : [ 0, 1, 0, 15, 0, 0, 0, 0 ],
+         "description" : "You spy the tip of a saber, about 23 or so inches long.  It is badly rusted, but might be worth something if you can find the hilt.",
+         "name" : "saber tip",
+         "number" : 3
+      },
+      {
+         "data" : [ 0, 1, 0, 26, 0, 0, 0, 0 ],
+         "description" : "You see the hilt of a saber.  It is about 20 inches long.  The portion of the blade that remains is badly rusted, and the leather guard on the hilt itself is cracked from age.",
+         "name" : "saber hilt",
+         "number" : 4
+      },
+      {
+         "data" : [ 500, 3, 6, 0, 15, 5, 4, 7 ],
+         "description" : "As you join the two pieces, a blue glow covers them.  When the glow fades, you see a silver saber with a fine leather hilt guard.  It appears to be a very fragile type of weapon.",
+         "name" : "saber",
+         "number" : 5
+      },
+      {
+         "data" : [ 75, 7, 5, 6, 4, 1, 1, 0 ],
+         "description" : "You see a book floating about 3 feet off the ground.  It has a blue leather cover on it with gold edging on the pages.",
+         "name" : "book1",
+         "number" : 6
+      },
+      {
+         "data" : [ 22, 3, 15, -6, 9, 5, 5, 5 ],
+         "description" : "Lying upon the cold floor is the sword the Guardian was swinging at you.  From tip of blade to end of hilt, it's about 4 1/2 feet long.  It has \"Made in Taiwan.\" inscribed on the handle.",
+         "name" : "sword",
+         "number" : 7
+      },
+      {
+         "data" : [ 0, 8, -999, 5, 6, 0, 150, 0 ],
+         "description" : "The door to the north appears to be made out of brass.  Except for the doorknob, there is nothing else on it.",
+         "name" : "door",
+         "number" : 8
+      },
+      {
+         "data" : [ 170, 7, 3, 44, 10, 1, 1, 0 ],
+         "description" : "You see a book lying on the damp ground.  There is a thirteen-pointed star and the words \"Eamonomicon, as translated by Ab-dull 'Ticked-Off Arab' Mahouseizred\" on the cover.  Oooh, this is a very scary book.",
+         "name" : "book2",
+         "number" : 9
+      },
+      {
+         "data" : [ 0, 4, 1, 42, 0, 0, 1, 0 ],
+         "description" : "Sitting on top of the pedestal, you spy a can.  It is unopened and has no markings on it.",
+         "name" : "can",
+         "number" : 10
+      },
+      {
+         "data" : [ 0, 9, 0, 1010, 0, 1, 1, 0 ],
+         "description" : "Inside the can, you find green leaves soaking in natural (yeah, right) juices.",
+         "name" : "spinach",
+         "number" : 11
+      },
+      {
+         "data" : [ 0, 6, 1, 53, 0, 1, 0, 0 ],
+         "description" : "Resting on the cold floor is a small, glass vial.  Writing on the side says, \"Mineral water: Good for you.\"",
+         "name" : "vial",
+         "number" : 12
+      },
+      {
+         "data" : [ 300, 3, 20, -8, 15, 2, 4, 7 ],
+         "description" : "You see the bazooka that General Sleepy was blasting everything with.  It's a wonder that he didn't kill you or himself with it!",
+         "name" : "bazooka",
+         "number" : 13
+      },
+      {
+         "data" : [ 3500, 1, 10, 51, 5, 2, 4, 7 ],
+         "description" : "You see a glass bottle, about a gallon and a half sized.  Writing on the side shows that it holds the compressed words from all the books that had been blanked out!  You found the words!",
+         "name" : "bottle of words",
+         "number" : 14
+      },
+      {
+         "data" : [ 0, 7, 0, -8, 43, 1, 1, 0 ],
+         "description" : "You see a folded piece of paper labeled, \"Robert Parker's Acknowledgments.\"",
+         "name" : "note",
+         "number" : 15
+      }
+   ],
+   "effects" : [
+      {
+         "description" : "========>  C  L  A  N  G  ! ! !  <========== The door slams shut.  You spin about, seeing if it is really a one-way door.  Your heart sinks as you realize that it is.  You have no choice now but to forge ahead...",
+         "number" : 1
+      },
+      {
+         "description" : "No matter how much you try, the hole in the ceiling is just beyond your reach.  Your only other choices you have, you realize, are north, south, east, west, and down.",
+         "number" : 2
+      },
+      {
+         "description" : "Cautiously you search the entrance-way, but you do not find anything to use as a torch.  You suddenly understand that the first test is to brave the darkness of the unknown...",
+         "number" : 3
+      },
+      {
+         "description" : "Htob deen uoy sa ylluferac gnidrow eht lla daer.  Dlot era uoy nehw ylno hcrot eht thgil.  Elohw a ekam sevlah owt, flowerew eht taefed ot.                      ----                                                 Arlec the Wise.      ----",
+         "number" : 4
+      },
+      {
+         "description" : ".....H.....O......W.....L.....",
+         "number" : 5
+      },
+      {
+         "description" : "\"Going somewhere, foolish warrior?  To get to the Bookworm, you shall have to defeat me first.  I am the Guardian of the Aquarium Room, and you shall die here and nowhere near the Bookworm!\"",
+         "number" : 6
+      },
+      {
+         "description" : "The light soothes your aching muscles.  You feel a warmth like that of a mother holding her new-born child.  All of the wounds you have taken are healed, even some old ones that have always acted up are gone.",
+         "number" : 7
+      },
+      {
+         "description" : "Arlec speaks:  \"I think ye shall find this quite handy.\"  In his hands he holds the saber tip that you had passed by earlier.",
+         "number" : 8
+      },
+      {
+         "description" : "Suddenly, a bright blue flash flashes in front of you.  When your eyes adjust back to normal, you see the saber tip you had earlier passed up.",
+         "number" : 9
+      },
+      {
+         "description" : "Witch's Brew, second version:  1.)  Preheat cauldron over 10 flaming logs for 10 minutes; 2.) Add tongue of newt, well sliced.  Simmer for 3 minutes; 3.) add toe of frog, 1 & 1/2 cups for every three servings; 4.) Add 3 drops of**011",
+         "number" : 10
+      },
+      {
+         "description" : "blood of bat per 10 gallons of water; 5.) Lock of hair from an honest politician (good luck!); 6.) Nose of virgin (optional).  Stir for ten minutes.  Allow to simmer over 4 flaming logs for one-half hour.  Serve steaming.",
+         "number" : 11
+      },
+      {
+         "description" : "With one quick swoop, you knock the Bookworm into the aquarium!  You place the screen back on top, preventing him from escaping.",
+         "number" : 12
+      },
+      {
+         "description" : "As if from nowhere, a voice (it sounds like Rick Moranis, so picture him when you read this) speaks.  \"You can, like, light the torch now if you wish, eh?  Or you won't see where your going in the dark, you hoser!\"",
+         "number" : 13
+      },
+      {
+         "description" : "You hear a scream from the east.  It gets louder.  Out of the darkness, a young man wearing white sneakers, blue jeans, a Rude Dog T-shirt and a black leather vest comes running from the east.  He has his hands over his ears and**015",
+         "number" : 14
+      },
+      {
+         "description" : "is screaming.  Ten feet or so behind him is another young man.  This one wearing white slacks, leather Italian loafers and a San Francisco 49er's T-shirt.  In one hand is a stack of papers, and a slide rule in the other.  He**016",
+         "number" : 15
+      },
+      {
+         "description" : "is shouting stuff like:  \"The measurements are all wrong!\" and \"The weight of everything must be exact!\" and \"So far, I'd rate it a 2.7, but only because I made a minor appearance.  If there was more of me, I'd rate it a strong 9.7!\"*017",
+         "number" : 16
+      },
+      {
+         "description" : "They disappear into the room to the west.  These damn designers, you think.  Always bickering amongst themselves and never agreeing on anything.  Why in the Hell don't they get real jobs and get rid of all thoughts of ever making**018",
+         "number" : 17
+      },
+      {
+         "description" : "another adventure game in their worthless lives?",
+         "number" : 18
+      },
+      {
+         "description" : "As you drink the mineral water, you see words printed on the inside of the bottom of the vial.  They read, \"100% pure doggie drool.\"  Yech!  You think you're going to be sick!",
+         "number" : 19
+      },
+      {
+         "description" : "A mysterious voice fills the room (this one sounds like Robin Williams):  \"What's in the can isn't poison, and that's all I'm saying about it.  Na-Noo, Na-Noo!\"",
+         "number" : 20
+      },
+      {
+         "description" : "Suddenly, you remember something.  Did you turn off your coffee maker before you began this adventure?  If not, did you remember to mail in your Mutual of Eamon insurance premiums?  Oh well, there is nothing you can do about it now...",
+         "number" : 21
+      },
+      {
+         "description" : "Suddenly, you catch the sight of something going through a secret door on the west wall!  The door remains open for you to follow.",
+         "number" : 22
+      },
+      {
+         "description" : "General Sleepy looks at his wrist watch.  \"Oops!  Gotta go!\" he says.  \"I've got a dentist appointment.  Maybe we'll meet again if Robert makes an adventure based upon some of my earlier exploits, pending law suits against me.  Ta ta!\"",
+         "number" : 23
+      },
+      {
+         "description" : "Suddenly, as if from nowhere, a creature runs out of the north hallway and takes a swing at you.  A hit!  It flees back to the north before you can counterattack.  A werewolf!",
+         "number" : 24
+      },
+      {
+         "description" : "Piles upon piles of hole-ridden corpses rest on the ground.  You fear for your safety as you think to yourself that you might be next...",
+         "number" : 25
+      },
+      {
+         "description" : "O.K.  Chew--Chew--Chew*027",
+         "number" : 26
+      },
+      {
+         "description" : "You suddenly begin to feel weird.  Your right eye closes up and you begin to squint through your left eye.  Your forearms balloon up, and anchor tattoos appear on them.  A sailor hat appears on your head.  All of your attributes**028",
+         "number" : 27
+      },
+      {
+         "description" : "begin to change!  Your hardiness doubles!  Your agility doubles!  Your charisma becomes a 3!  Your name changes to (gasp!), \"Popeye\"!!",
+         "number" : 28
+      },
+      {
+         "description" : "You are in a tesserect.  You can only go up, down, or east on the floor.  The rest is the same room.",
+         "number" : 29
+      },
+      {
+         "description" : "Drop one of the two, go west, drop the other.  Return for the first.",
+         "number" : 30
+      },
+      {
+         "description" : "If you go north from here, you can't return.  That may be very disturbing, seeing as how you have to go north.",
+         "number" : 31
+      },
+      {
+         "description" : "Don't light the torch here!  Moisture in the next room will put it out.",
+         "number" : 32
+      },
+      {
+         "description" : "As you enter the Main Hall, you spy Hokas walking towards you.*034",
+         "number" : 33
+      },
+      {
+         "description" : "\"Good job\", he says.  \"The library has asked me to give this to you.\"  He then hands you a pouch with \"5,000 GP\" stamped on the side.*035",
+         "number" : 34
+      },
+      {
+         "description" : "\"No problem.\" you reply.  \"Now then,\" Hokas says, placing his arm over your shoulder, \"We have had some problems with the Aarakocra, or 'bird-men', up north.  Something about the egg of their King missing or something.  I'll send**036",
+         "number" : 35
+      },
+      {
+         "description" : "their Ambassador to you as soon as you rest up, say tomorrow at the bar at noon.\"*037",
+         "number" : 36
+      },
+      {
+         "description" : "You walk away with Hokas, listening to him explain everything.  Same as always you think to yourself.  You smile at that thought, as if Hokas was capable of changing his ways...",
+         "number" : 37
+      },
+      {
+         "description" : "You discover that Hokas gave you the POWER spell ability of 200%!",
+         "number" : 38
+      },
+      {
+         "description" : "You let the Bookworm out!  A terrible mistake on your part, dummy!",
+         "number" : 39
+      },
+      {
+         "description" : "You suddenly get an image of a young man wearing a Mad Dog T-shirt sitting at a strange machine typing something.",
+         "number" : 40
+      },
+      {
+         "description" : "The saber parts begin to glow!  You drop them in astonishment!",
+         "number" : 41
+      },
+      {
+         "description" : "You find a mysterious force blocks your way.  You also notice the saber tip on the floor has started to glow...",
+         "number" : 42
+      },
+      {
+         "description" : "Special thanks to:*044",
+         "number" : 43
+      },
+      {
+         "description" : "Tom Zuchowski, for guiding me along with help, hints, and other stuff.*045",
+         "number" : 44
+      },
+      {
+         "description" : "Nathan Segerlind, for the same, plus for having an imagination and mind as**046",
+         "number" : 45
+      },
+      {
+         "description" : "sick as mine!*047",
+         "number" : 46
+      },
+      {
+         "description" : "Sam Ruby, for replying to my letter and for making a guest appearance in**048",
+         "number" : 47
+      },
+      {
+         "description" : "this adventure.*049",
+         "number" : 48
+      },
+      {
+         "description" : "Kiss, Black Sabbath, Anthrax, Aerosmith, Pink Floyd, and countless other**050",
+         "number" : 49
+      },
+      {
+         "description" : "groups whose music kept my adrenaline going.*051",
+         "number" : 50
+      },
+      {
+         "description" : "Extra-special thanks to H.P. Lovecraft, for being able to do what no other**052",
+         "number" : 51
+      },
+      {
+         "description" : "writer could do (scare me).*053",
+         "number" : 52
+      },
+      {
+         "description" : "And of course, how can I possibly go without giving a special thanks to everyone who has this adventure.",
+         "number" : 53
+      },
+      {
+         "description" : "Shivers run down your spine as you hear a wolf howl, or is it a werewolf?",
+         "number" : 54
+      }
+   ],
+   "info" : {
+      "author" : "Robert Parker",
+      "difficulty" : "6.5/4",
+      "rating" : "7",
+      "serialNum" : "188"
+   },
+   "intro" : "",
+   "monsters" : [
+      {
+         "data" : [ 12, 14, 1, 200, 12, 0, 0, 0, 2, 4, 1, 0, 0 ],
+         "description" : "Bounding across the ceiling towards you, a draug leaps and misses.  He lands and turns again toward you, his long, sharp teeth bared.  You have not seen a draug, or wolf, in ages.",
+         "name" : "Draug",
+         "number" : 1
+      },
+      {
+         "data" : [ 20, 12, 1, 200, 39, 0, 1, 0, 2, 6, 1, 0, 0 ],
+         "description" : "In the dim light of your torch you see a hairy man.  No, wait!  It's a werewolf, a creature that can only be killed with a silver weapon.  It advances toward you.",
+         "name" : "Werewolf",
+         "number" : 2
+      },
+      {
+         "data" : [ 100, 50, 1, 200, 22, -2, 0, -1, 0, 0, 3, 0, 0 ],
+         "description" : "You see a man in white robes.  He walks toward you.  You suddenly realize that he is blind.  He speaks, \"Mrowkoob eht hctac ot muirauqa eht ESU.\"",
+         "name" : "Arlec the Wise",
+         "number" : 3
+      },
+      {
+         "data" : [ 15, 5, 1, 200, 0, 1, 2, 0, 1, 10, 1, 0, 0 ],
+         "description" : "You see a long worm, about 3-inches thick.  You suddenly realize that the Bookworm is just that; a worm.  He has a tiny pair of glasses on, as if he/it can read.  What a disgusting opponent to battle...",
+         "name" : "Bookworm",
+         "number" : 4
+      },
+      {
+         "data" : [ 15, 10, 1, 200, 0, -1, 0, 7, 1, 2, 1, 0, 0 ],
+         "description" : "From the shadows of the tunnel to the south steps forth a tall, broad-chested man.  He pulls a long, thin sword out of a sheath and advances upon you.",
+         "name" : "Guardian",
+         "number" : 5
+      },
+      {
+         "data" : [ 8, 8, 1, 90, 16, 0, 0, 0, 1, 2, 1, 0, 0 ],
+         "description" : "Out of the darkness of the corners of the corner of the room, a creature runs at you.  It is a short and hairy orc!",
+         "name" : "Orc",
+         "number" : 6
+      },
+      {
+         "data" : [ 20, 4, 1, 200, 54, -1, 1, 13, 1, 5, 3, 0, 0 ],
+         "description" : "A man is resting on the floor.  He sees you and speaks:  \"I'm General Sleepy.  The game designer, Robert, thought that you might need some help against some of the monsters, so he sent me, although I do have to leave soon...\"",
+         "name" : "General Sleepy",
+         "number" : 7
+      },
+      {
+         "data" : [ 4, 23, 4, 200, 46, 1, 0, 0, 1, 5, 1, 0, 0 ],
+         "description" : "Rising up from the ground are four king cobras!  They begin to weave themselves toward you in a hypnotic manner...",
+         "name" : "Cobra",
+         "number" : 8
+      }
+   ],
+   "name" : "Encounter: The Bookworm",
+   "numDirections" : 6,
+   "rooms" : [
+      {
+         "data" : [ 2, -999, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a short, plain hallway.  South is the path to the Main Hall.  To the north, a blackness.  No amount of gazing allows you to see into the inky darkness of the passage to the north.",
+         "name" : "You are at the entrance.  (N/S)",
+         "number" : 1
+      },
+      {
+         "data" : [ 3, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a north/south passage.  The walls are lined with random daggers that junt out.  It's a wonder you didn't bump into one.  They are welded tightly in place and will not come loose.",
+         "name" : "You are in a north/south passage.",
+         "number" : 2
+      },
+      {
+         "data" : [ 4, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "The walls of the passage are lined with randomly placed fragile vials containing various acids.  It's a wonder you didn't break one early on.  They cannot be removed.",
+         "name" : "You are in a north/south passage.",
+         "number" : 3
+      },
+      {
+         "data" : [ 5, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "Hanging from the walls of the passage in spots are giant leeches.  One bump into these and you would have been sucked dry.  The torchlight drives them away, thankfully.",
+         "name" : "You are in a north/south passage.",
+         "number" : 4
+      },
+      {
+         "data" : [ 1008, 4, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a 30' by 30' by 10' room.  To the north is a door.  On the door is a sign which reads, \"ONE WAY DOOR!  Point of no return!\".  The walls, floor and ceiling are plain in appearance.",
+         "name" : "You are at the second entrance.  (N/S)",
+         "number" : 5
+      },
+      {
+         "data" : [ 0, -5, 13, 7, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at an intersection which runs to the east and west.  To the south is the frame of a door.",
+         "name" : "You are at an intersection.  (S/E/W)",
+         "number" : 6
+      },
+      {
+         "data" : [ 0, 8, 6, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The passage turns here, allowing for southern and eastern movement.",
+         "name" : "You are at a bend.  (S/E)",
+         "number" : 7
+      },
+      {
+         "data" : [ 7, 0, 0, 9, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at a north/west bend.  North is an eastern bend.  West is an intersection.",
+         "name" : "You are at a bend.  (N/W)",
+         "number" : 8
+      },
+      {
+         "data" : [ 10, 0, 8, 11, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You arrive at a 3-way intersection.  To the north you spy a small chamber.  East is a northern bend.  West is a strange looking room.",
+         "name" : "You are at a 3-way intersection.  (N/E/W)",
+         "number" : 9
+      },
+      {
+         "data" : [ 0, -9, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a small, dusty chamber whose use you realize was probably as a storage room.  As in all the other rooms you have come across so far, it is naturally lit by some magical source.  There is a 3-way intersection to the south.",
+         "name" : "You are in a small chamber.  (S)",
+         "number" : 10
+      },
+      {
+         "data" : [ 11, 11, 9, 11, -11, 12, 0, 0, 0, 0, 1 ],
+         "description" : "The bizarre room is 20' by 20' by 20' in the exact center of each wall, ceiling and floor is a 10' by 10' hole.  You can see a room just beyond each.  For some reason, the light in this room is very dim, but see-able.",
+         "name" : "You are in a bizarre room.  (N/S/E/W/U/D)",
+         "number" : 11
+      },
+      {
+         "data" : [ 12, 12, 12, 12, 0, 11, 0, 0, 0, 0, 1 ],
+         "description" : "You find yourself on the ceiling.  You realize this is a tesseract.  There are exits in the center of each wall, floor, and ceiling, though the exit on the ceiling is out of reach.",
+         "name" : "You are on the ceiling.  (N/S/E/W/D)",
+         "number" : 12
+      },
+      {
+         "data" : [ -14, 0, 0, 6, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a well lit chamber.  The walls are a pale-blue, and appear to be the reason for the light.  West and north are passageways.",
+         "name" : "You are in a chamber.  (N/W)",
+         "number" : 13
+      },
+      {
+         "data" : [ 15, 13, 54, 53, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The light is beginning to go dimmer as you move to the north.  To the south is a well lit room.  East and west are small rooms.",
+         "name" : "You are at a 4-way intersection.  (N/S/E/W)",
+         "number" : 14
+      },
+      {
+         "data" : [ 16, 14, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a dim north/south passage.  The only light available is coming from the south.  Dampness can be felt in the air, and some drops of moisture can be seen upon the bricks in the wall.",
+         "name" : "You are in a north/south passage.",
+         "number" : 15
+      },
+      {
+         "data" : [ 0, 15, 0, 17, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The light is brighter here than to the south.  You see moisture upon the walls.  West you see a south bend.",
+         "name" : "You are at a south/west bend.",
+         "number" : 16
+      },
+      {
+         "data" : [ 0, 18, 16, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "South is well lit room.  East is an intersection.",
+         "name" : "You are at a south/east bend.",
+         "number" : 17
+      },
+      {
+         "data" : [ 17, 0, 0, -19, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The light is coming from the ceiling (which is 50 feet up), allowing sunlight to enter.  North and west are passageways.",
+         "name" : "You are in a well-lit room.  (N/W)",
+         "number" : 18
+      },
+      {
+         "data" : [ 0, 0, 18, 20, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "To the east is a well-lit room.  West is a 3-way intersection.",
+         "name" : "You are in an east/west hallway.",
+         "number" : 19
+      },
+      {
+         "data" : [ 21, 0, 19, 22, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "To the north, a very bright, yet soft glowing light is visible.  To the east, a room is visible, though not as bright.  To the west is a northern bend.",
+         "name" : "You are at a 3-way intersection.  (N/E/W)",
+         "number" : 20
+      },
+      {
+         "data" : [ 0, 20, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a bright, yet soft, light.  You cannot see the walls, ceiling, or indeed floor, yet you sense that the only exit is to the south.",
+         "name" : "You are in a soft bright light.  (S)",
+         "number" : 21
+      },
+      {
+         "data" : [ 23, 0, 20, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at an unremarkable north/east bend.",
+         "name" : "You are at a north/east bend.  (N/E)",
+         "number" : 22
+      },
+      {
+         "data" : [ -24, 22, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a dimly lit, damp north/south passage.  South is an eastern bend.  To the north, a room.",
+         "name" : "You are in a north/south passage.",
+         "number" : 23
+      },
+      {
+         "data" : [ 0, 25, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The only exit is to the south, the way you entered.  However, looking south, you now see a western bend.",
+         "name" : "You are in a small room.  (S)",
+         "number" : 24
+      },
+      {
+         "data" : [ 24, 0, 0, 26, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at an unremarkable north/west bend.  Rooms can be seen in both directions.",
+         "name" : "You are at a north/west bend.",
+         "number" : 25
+      },
+      {
+         "data" : [ 0, 0, 27, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a very weird room.  The walls are covered with different colors of paint, as though someone started an inch of painting, then switched colors.  To the east is another room.",
+         "name" : "You are in a weird room.  (E)",
+         "number" : 26
+      },
+      {
+         "data" : [ 0, 0, 28, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at the third entrance to the Bookworm's lair.  East is a dark room which no light can penetrate.  A sign here reads, \"NOT YET!\"",
+         "name" : "You are at the third entrance.  (E)",
+         "number" : 27
+      },
+      {
+         "data" : [ 0, 0, 29, 27, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a simple room.  Exits are east and west.  A sign here reads, \"Extinguish your torch before it's too late!\"",
+         "name" : "You are in a room.  (E/W)",
+         "number" : 28
+      },
+      {
+         "data" : [ 0, 0, 30, 28, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "Exits are to the east and west.  Oh no!  Now you know why you weren't supposed to light the torch!  Moisture is being drawn to it as if by magic!",
+         "name" : "You are in a very wet room.  (E/W)",
+         "number" : 29
+      },
+      {
+         "data" : [ 0, 31, 33, 29, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at the fourth entrance to the Bookworm's lair.  To the west is a very dark room with the feel of moisture in it.  East and south are dark passages.",
+         "name" : "You are at the fourth entrance.  (S/E/W)",
+         "number" : 30
+      },
+      {
+         "data" : [ 30, 0, 32, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "To the north you see a lit room, and to the east you can only see more dark.",
+         "name" : "You are at a dark north/east bend.",
+         "number" : 31
+      },
+      {
+         "data" : [ 0, 37, 0, 31, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "The air here is particularly musty, and is very hard for you to breath it without puking.  The passage turns here, allowing you to go either south or west.",
+         "name" : "You are at a dark south/west bend.",
+         "number" : 32
+      },
+      {
+         "data" : [ 0, 0, 34, 30, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "West is a lit room.  The passage continues into inky darkness east.  The air in this part of the passage is very clean, for some weird reason.",
+         "name" : "You are at an east/west passage.",
+         "number" : 33
+      },
+      {
+         "data" : [ 0, 35, 0, 33, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "Darkness is in either direction.  Dust here on the floor is thick and undisturbed, except for the footprints of the two designers who ran through earlier.",
+         "name" : "You are at a south/west bend.",
+         "number" : 34
+      },
+      {
+         "data" : [ 34, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small, musty dark room.  A passages lies north.  Nothing is available which would convey the use of this room, past or present.",
+         "name" : "You are in a small ante-room.  (N)",
+         "number" : 35
+      },
+      {
+         "data" : [ 0, 38, 0, 37, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are at a dark bend in the passage.  The main passage runs south, with a side passage going to the west.  Dampness is visible upon the walls, but it isn't strong enough to make the torch go out.",
+         "name" : "You are at a bend.  (S/W)",
+         "number" : 36
+      },
+      {
+         "data" : [ 32, 0, 36, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are at an unremarkable north/east bend.  Darkness is in either direction.",
+         "name" : "You are at a north/east bend.",
+         "number" : 37
+      },
+      {
+         "data" : [ 36, 0, 39, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small dark chamber.  Exits are to the north and east.  The walls are very wet as if water was forced through this chamber recently, though you see no entrance or exit for it.",
+         "name" : "You are in a small chamber.  (N/E)",
+         "number" : 38
+      },
+      {
+         "data" : [ 40, -43, 0, 38, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a well-sized chamber.  To the north, south, and west are passageways.  All are dark.  North, you think you see a light flickering, but it could just be your imagination.",
+         "name" : "You are at the fifth entrance.  (N/S/W)",
+         "number" : 39
+      },
+      {
+         "data" : [ 41, 39, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a dark north/south tunnel.  To the south the tunnel is dark, but you can make out a faint light to the north.",
+         "name" : "You are in a north/south tunnel.",
+         "number" : 40
+      },
+      {
+         "data" : [ 42, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a dim north/south tunnel.  To the south, darkness abounds.  However, to the north is a room with a flickering light in it.",
+         "name" : "You are in a north/south tunnel.",
+         "number" : 41
+      },
+      {
+         "data" : [ 0, 41, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a well-sized chamber.  South is the only exit.  There is a pedestal on the north wall, with 2 large braziers, with fires burning in each, on either side of it.",
+         "name" : "You are in a chamber.  (S)",
+         "number" : 42
+      },
+      {
+         "data" : [ 39, 45, 0, 44, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a dark, stuffy north/south passage.  To the west, you can make out a room.",
+         "name" : "You are in a north/south passage.  (N/S/W)",
+         "number" : 43
+      },
+      {
+         "data" : [ 0, 0, 43, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small room, about 20 ft by 20 feet.  Even in your torchlight, this room carries a sense of utter darkness, as though evil is here.  The only exit is to the east.",
+         "name" : "You are in a small room.  (E)",
+         "number" : 44
+      },
+      {
+         "data" : [ 43, 46, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a dark and stuffy north/south passage.  The passage continues to the north, while a room is barely visible to the south.",
+         "name" : "You are in a north/south passage.",
+         "number" : 45
+      },
+      {
+         "data" : [ 45, 0, 0, 47, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a somber room.  Exits are to the north and west.  An evilness fills the room as though an elephant is on sitting on your back.",
+         "name" : "You are in a dark room.  (N/W)",
+         "number" : 46
+      },
+      {
+         "data" : [ 0, 48, 46, 52, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are at a murky 3-way intersection, going to the east, west, and south.  A room is to the west, while a west bend is visible to the south.",
+         "name" : "You are at a 3-way intersection.  (S/E/W)",
+         "number" : 47
+      },
+      {
+         "data" : [ 47, 0, 0, 49, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The light is bright enough here to see without the aid of the torch, though a passage west leads into utter darkness.  A passageway also leads to the north.",
+         "name" : "You are in a dimly lit room.  (N/W)",
+         "number" : 48
+      },
+      {
+         "data" : [ 0, 0, 48, 50, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "The darkness clings to you like a very wet heavy blanket.  The torch does little to reveal much about this room.",
+         "name" : "You are in a dark east/west passage.",
+         "number" : 49
+      },
+      {
+         "data" : [ 51, 0, 49, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are at a dark north/east bend in the passage.",
+         "name" : "You are at a north/east bend.",
+         "number" : 50
+      },
+      {
+         "data" : [ 0, 50, 0, 5, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "A dim light is visible high overhead, casting a dim flickering light around you.  An exit is to the south.",
+         "name" : "You are in a large chamber.  (S/W)",
+         "number" : 51
+      },
+      {
+         "data" : [ 0, 0, 47, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are at a dead-end in the passage.  It returns to the east.  A sign here reads, \"Don't bother searching, as there are no hidden or secret doors.  Would I lie to you?\"",
+         "name" : "You are at a dead-end.  (E)",
+         "number" : 52
+      },
+      {
+         "data" : [ 0, 0, 14, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "An exit is to the east.  The side-chamber is dimly lit, but you can still see in it.",
+         "name" : "You are in a small side-chamber.  (E)",
+         "number" : 53
+      },
+      {
+         "data" : [ 0, 0, 0, 14, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "An exit is west.  It is very dim here, but you can still see.  The walls have holes in them, as though someone has been doing bazooka practice here.",
+         "name" : "You are in a small side-chamber.  (W)",
+         "number" : 54
+      }
+   ]
+}

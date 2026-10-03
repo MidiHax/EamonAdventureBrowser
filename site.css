@@ -1,0 +1,44 @@
+﻿body {
+    font-family: arial;
+    background-color: beige;
+}
+
+th {
+    text-align: left;
+    padding: 6px;
+    background-color: lightsalmon;
+}
+
+.consoleDisplay
+{
+	color:#c1daca;
+	background-color:black;
+	font-family:Terminal;
+	font-size:10pt;
+	font-weight:bold;
+    padding: 5px;
+}
+.commandBox
+{
+	color:#c1daca;
+	background-color:black;
+	font-family:Terminal;
+	font-size:10pt;
+	font-weight:bold;
+	border-width:0;
+	border-style:solid;
+	border-color:#cccccc;
+}
+
+.footer {
+    font-family: verdana, arial;
+    font-style: italic;
+    font-size: 8pt;
+
+}
+
+.debug {
+    font-style: italic;
+    font-size: 8pt;
+    color: lightcoral;
+}

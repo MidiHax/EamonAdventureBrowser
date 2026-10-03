@@ -1,0 +1,1137 @@
+{
+   "artifacts" : [
+      {
+         "data" : [ 0, 8, -999, 2039, 45, 0, 0, 1 ],
+         "description" : "As you examine the painting, there is a loud groaning noise as a secret door grinds open!",
+         "name" : "a secret passage south",
+         "number" : 1
+      },
+      {
+         "data" : [ 15, 2, 5, -35, 10, 4, 1, 8 ],
+         "description" : "You see the satyr's spear.",
+         "name" : "spear",
+         "number" : 2
+      },
+      {
+         "data" : [ 15, 2, 3, -36, -5, 4, 1, 6 ],
+         "description" : "You see a nasty-looking stiletto.",
+         "name" : "stiletto",
+         "number" : 3
+      },
+      {
+         "data" : [ 20, 2, 5, -37, 10, 5, 1, 6 ],
+         "description" : "You see a short sword lying where the orc dropped it.",
+         "name" : "short sword",
+         "number" : 4
+      },
+      {
+         "data" : [ 20, 2, 5, -38, 10, 4, 1, 6 ],
+         "description" : "You see a spear of orc manufacture.",
+         "name" : "spear",
+         "number" : 5
+      },
+      {
+         "data" : [ 20, 2, 8, -39, 10, 1, 1, 6 ],
+         "description" : "You see the orc's axe.",
+         "name" : "axe",
+         "number" : 6
+      },
+      {
+         "data" : [ 20, 2, 6, -41, 15, 5, 1, 10 ],
+         "description" : "You see a good-quality sword.",
+         "name" : "sword",
+         "number" : 7
+      },
+      {
+         "data" : [ 5, 2, 3, -42, 5, 3, 1, 4 ],
+         "description" : "You see the robber's dagger.",
+         "name" : "dagger",
+         "number" : 8
+      },
+      {
+         "data" : [ 20, 2, 6, -43, 10, 5, 1, 8 ],
+         "description" : "There is a fair-quality sword here.",
+         "name" : "sword",
+         "number" : 9
+      },
+      {
+         "data" : [ 30, 3, 7, -44, 20, 5, 2, 7 ],
+         "description" : "The evil knight's once-respected broadsword lies at your feet.",
+         "name" : "broadsword",
+         "number" : 10
+      },
+      {
+         "data" : [ 100, 6, 2, 0, 10, 0, 1, 0 ],
+         "description" : "You see your bottle of healing potion that you bought.",
+         "name" : "healing potion",
+         "number" : 11
+      },
+      {
+         "data" : [ 945, 1, 5, 4, 0, 0, 0, 0 ],
+         "description" : "You see an ancient-looking book with a well-worn cover of red leather.",
+         "name" : "red book",
+         "number" : 12
+      },
+      {
+         "data" : [ 954, 1, 5, 19, 0, 0, 0, 0 ],
+         "description" : "You see a battered old book with a dark blue cover of finely tooled leather.",
+         "name" : "blue book",
+         "number" : 13
+      },
+      {
+         "data" : [ 700, 3, 5, 0, 50, 5, 4, 5 ],
+         "description" : "You see the magic sword that you were given by the Kophinos family.",
+         "name" : "gift sword",
+         "number" : 14
+      },
+      {
+         "data" : [ 10, 5, 5, 5, -1, 0, 0, 0 ],
+         "description" : "On the floor you notice a lantern.  It is battered and rusty, but appears to be usable!",
+         "name" : "lantern",
+         "number" : 15
+      },
+      {
+         "data" : [ 100, 1, 10, 0, 0, 0, 0, 0 ],
+         "description" : "You see your Holy Hand grenade lying at your feet.  Once you pick it up, DROP it to make the timer start.",
+         "name" : "Holy Hand Grenade",
+         "number" : 16
+      },
+      {
+         "data" : [ 1200, 11, 1, 0, 0, 5, 0, 0 ],
+         "description" : "You see your magic ring, glowing brightly in the dust.",
+         "name" : "magic ring",
+         "number" : 17
+      },
+      {
+         "data" : [ 200, 1, 50, 17, 0, 0, 0, 0 ],
+         "description" : "You see an expensive-looking Persian rug lying rolled up on the floor.",
+         "name" : "Persian rug",
+         "number" : 18
+      },
+      {
+         "data" : [ 40, 1, 10, 20, 0, 0, 0, 0 ],
+         "description" : "You see a slightly dusty, solid gold candlestick lying on its side on the floor.",
+         "name" : "candlestick",
+         "number" : 19
+      },
+      {
+         "data" : [ 100, 0, 10, 6, 0, 0, 0, 0 ],
+         "description" : "You see a bag of 100 gold coins here!",
+         "name" : "gold coins",
+         "number" : 20
+      },
+      {
+         "data" : [ 110, 1, 3, 18, 0, 0, 0, 0 ],
+         "description" : "You see a delicately carved ivory wand, such as a high-priced sorcerer would use.",
+         "name" : "ivory wand",
+         "number" : 21
+      },
+      {
+         "data" : [ 45, 2, 5, 25, 10, 4, 1, 4 ],
+         "description" : "You see a bright silver dagger lying on the dusty floor.",
+         "name" : "silver dagger",
+         "number" : 22
+      },
+      {
+         "data" : [ 60, 0, 12, 50, 0, 0, 0, 0 ],
+         "description" : "There is a small sack of silver coins here.",
+         "name" : "silver coins",
+         "number" : 23
+      },
+      {
+         "data" : [ 0, 1, -999, 61, 0, 0, 0, 0 ],
+         "description" : "On the north wall someone has written a giant \"X\".",
+         "name" : "a giant X on the wall",
+         "number" : 24
+      }
+   ],
+   "effects" : [
+      {
+         "description" : "You come upon a bearded man in a grey cloak, sitting on a bench at the side of the road.  He mutters, \"Another damn fool from the Guild, I see.  And not carrying anything but standard weapons!  No wonder no one has come back alive**002",
+         "number" : 1
+      },
+      {
+         "description" : "from the castle, with gear like that!*003",
+         "number" : 2
+      },
+      {
+         "description" : "\"If you ever want to come back along this road, kid, you'll wise up and get some of the artillery they won't sell you at the Main Hall!\"  He then winks, and motions toward an odd-looking carrying case.  Clearly he wants to sell you something.",
+         "number" : 3
+      },
+      {
+         "description" : "\"What do you take me for, kid?  If you haven't got the money then you shouldn't touch the merchandise!\"",
+         "number" : 4
+      },
+      {
+         "description" : "\"I have this invisibility ring which can get you out of some pretty hairy situations, let me tell you.  But you can't wear it very long without getting into big trouble.  'Nuff said.  PRICE: 100 gold pieces\"",
+         "number" : 5
+      },
+      {
+         "description" : "\"Here's a little number that's good in a pinch, but it's dangerous as hell.  Just DROP it and run.  You're usually safe if you get to the next room, but two rooms away is better.  What do you say?\"  PRICE: 100 gold pieces",
+         "number" : 6
+      },
+      {
+         "description" : "\"I also have some healing potion for sale.  Take one drink and watch your wounds heal before your eyes.  I can sell you up to five swallows, at 50 gold pieces per swallow.\"",
+         "number" : 7
+      },
+      {
+         "description" : "It says: \"This book is a collection of hints from other adventurers who have tried to claim the Kophinos reward.\"  You realize after a moment's thought that none of them must have lived to carry the book back to the Main Hall!",
+         "number" : 8
+      },
+      {
+         "description" : "It says: \"Not every race is to the swift...\"",
+         "number" : 9
+      },
+      {
+         "description" : "It says: \"Try to: EXAMINE PAINTING\"",
+         "number" : 10
+      },
+      {
+         "description" : "It says: \"If you find yourself in darkness try the tool in the far northeast chamber.\"",
+         "number" : 11
+      },
+      {
+         "description" : "It says: \"It would be unwise to proceed eastward after you see the \"X\" unless you have a Holy Hand Grenade.\"",
+         "number" : 12
+      },
+      {
+         "description" : "It says: \"The invisibility ring should not be used in this passage.\"",
+         "number" : 13
+      },
+      {
+         "description" : "It says: \"I Strongly advise against using the boat!\"",
+         "number" : 14
+      },
+      {
+         "description" : "It says: \"DROP HOLY HAND GRENADE now and head for the altar room.\"",
+         "number" : 15
+      },
+      {
+         "description" : "It says: \"Better make sure your wounds are all healed up before you climb that rope!\"",
+         "number" : 16
+      },
+      {
+         "description" : "The book doesn't have anything written down concerning this particular room.",
+         "number" : 17
+      },
+      {
+         "description" : "It says: \"This is a collection of advice from adventurers who have tried to collect the Kophinos reward.\"",
+         "number" : 18
+      },
+      {
+         "description" : "It says: \"If you are carrying an invisibility ring you should put it on now.\"",
+         "number" : 19
+      },
+      {
+         "description" : "It says: \"There is a dangerous trap down this passage.\"",
+         "number" : 20
+      },
+      {
+         "description" : "It says: \"If you are carrying an invisibility ring you should put it on now.\"",
+         "number" : 21
+      },
+      {
+         "description" : "It says: \"The last of the malevolent beings is to be found in a grotto downstream.\"",
+         "number" : 22
+      },
+      {
+         "description" : "It says: \"The mark on the wall means that under no circumstances should you go further east.\"",
+         "number" : 23
+      },
+      {
+         "description" : "It says: \"Drop the Holy Hand Grenade here.\"",
+         "number" : 24
+      },
+      {
+         "description" : "It says: \"There's an important treasure on the roof.\"",
+         "number" : 25
+      },
+      {
+         "description" : "You hear the rustling of many tiny feet...",
+         "number" : 26
+      },
+      {
+         "description" : "You suddenly hear the sound of a hundred angel voices, which is fitting, because the holy hand grenade explodes and you are blown to bits!",
+         "number" : 27
+      },
+      {
+         "description" : "You hear an enormous explosion in the distance!",
+         "number" : 28
+      },
+      {
+         "description" : "The blast of super-heated air rounds the bend in the corridor and scorches you to death!",
+         "number" : 29
+      },
+      {
+         "description" : "As the roar of the explosion subsides, you hear something.  It might just be your ears ringing, but it sure sounds like an angel choir!",
+         "number" : 30
+      },
+      {
+         "description" : "As you walk toward the Main Hall, you hear hoofbeats behind you.  You turn to see a rider wearing the insignia of the Kophinos family.",
+         "number" : 31
+      },
+      {
+         "description" : "He says, \"I see that you helped yourself to some stolen property.  Thank you for recovering it for the Kophinos family.\"  As you stand there embarrassed, he takes the treasures you got from the castle.*033",
+         "number" : 32
+      },
+      {
+         "description" : "He clears his throat and says, \"Now then, concerning the matter of the evil beings in the castle...\"",
+         "number" : 33
+      },
+      {
+         "description" : "He says, \"The Castle Kophinos is still occupied by malevolent beings.  I am sorry to inform you that you may not claim the reward.\"  He turns and rides away in the direction from which he came.",
+         "number" : 34
+      },
+      {
+         "description" : "He smiles broadly as he announces, \"The Castle Kophinos is free!  Our family's reputation is regained!  Long have we awaited this day!  Here is the gift that has been saved for this great occasion.\"*036",
+         "number" : 35
+      },
+      {
+         "description" : "He pulls from a velvet case the most beautiful sword you've ever seen.  The bright blade is made of a metal that is warm and yellow as gold, but hard and sharp as steel.  It is engraved with intricate patterns that seem to grow more**037",
+         "number" : 36
+      },
+      {
+         "description" : "complex the more closely you look at them.  The pommel is jewel-studded gold.  He hands you the sword, saying, \"Give it a name worthy of its bearer!\"",
+         "number" : 37
+      },
+      {
+         "description" : "You see a man wearing expensive armor with a \"five-o'clock shadow\" mustache.  He looks directly at you but doesn't see you.  Good thing, too.*039",
+         "number" : 38
+      },
+      {
+         "description" : "You see another man who looks even meaner than the first.  He has a desperate look about him.*040",
+         "number" : 39
+      },
+      {
+         "description" : "A third robber has a sword that is stained and nicked.  He says, \"You guys hear something?\"",
+         "number" : 40
+      },
+      {
+         "description" : "You feel yourself being magically transported to another place...",
+         "number" : 41
+      },
+      {
+         "description" : "You've worn your invisibility ring too long!  It has killed you!",
+         "number" : 42
+      },
+      {
+         "description" : "You are completely surprised by the robbers and don't have time to defend yourself!  The nearest robber cuts off your gold pouch and escapes along with**044",
+         "number" : 43
+      },
+      {
+         "description" : "the others.  You soon hear hoofbeats outside the castle---they must have left by a secret exit.  All of your gold has been stolen!",
+         "number" : 44
+      }
+   ],
+   "info" : {
+      "author" : "D. Doumakes",
+      "difficulty" : "7",
+      "rating" : "7.0/2",
+      "serialNum" : "49"
+   },
+   "intro" : "",
+   "monsters" : [
+      {
+         "data" : [ 2, 10, 1, 200, 0, 0, 0, 0, 1, 1, 1, 0, 0 ],
+         "description" : "There is a dangerous-looking rat here!",
+         "name" : "Rat",
+         "number" : 1
+      },
+      {
+         "data" : [ 2, 10, 1, 200, 0, 0, 0, 0, 1, 1, 1, 0, 0 ],
+         "description" : "You see another rat here!",
+         "name" : "Rat",
+         "number" : 2
+      },
+      {
+         "data" : [ 2, 10, 1, 200, 0, 0, 0, 0, 1, 1, 1, 0, 0 ],
+         "description" : "You see another rat here!",
+         "name" : "Rat",
+         "number" : 3
+      },
+      {
+         "data" : [ 2, 10, 1, 200, 0, 0, 0, 0, 1, 1, 1, 0, 0 ],
+         "description" : "You see another rat here!",
+         "name" : "Rat",
+         "number" : 4
+      },
+      {
+         "data" : [ 2, 10, 1, 200, 0, 0, 0, 0, 1, 1, 1, 0, 0 ],
+         "description" : "You see another rat here!",
+         "name" : "Rat",
+         "number" : 5
+      },
+      {
+         "data" : [ 2, 10, 1, 200, 0, 0, 0, 0, 1, 1, 1, 0, 0 ],
+         "description" : "You see another rat here!",
+         "name" : "Rat",
+         "number" : 6
+      },
+      {
+         "data" : [ 2, 10, 1, 200, 0, 0, 0, 0, 1, 1, 1, 0, 0 ],
+         "description" : "You see another rat here!",
+         "name" : "Rat",
+         "number" : 7
+      },
+      {
+         "data" : [ 2, 10, 1, 200, 0, 0, 0, 0, 1, 1, 1, 0, 0 ],
+         "description" : "You see another rat here!",
+         "name" : "Rat",
+         "number" : 8
+      },
+      {
+         "data" : [ 2, 10, 1, 200, 0, 0, 0, 0, 1, 1, 1, 0, 0 ],
+         "description" : "You see another rat here!",
+         "name" : "Rat",
+         "number" : 9
+      },
+      {
+         "data" : [ 2, 10, 1, 200, 0, 0, 0, 0, 1, 1, 1, 0, 0 ],
+         "description" : "You see another rat here!",
+         "name" : "Rat",
+         "number" : 10
+      },
+      {
+         "data" : [ 3, 9, 1, 200, 0, 0, 0, 0, 1, 1, 1, 0, 0 ],
+         "description" : "You see another rat here!",
+         "name" : "Rat",
+         "number" : 11
+      },
+      {
+         "data" : [ 3, 9, 1, 200, 0, 0, 0, 0, 1, 1, 1, 0, 0 ],
+         "description" : "You see another rat here!",
+         "name" : "Rat",
+         "number" : 12
+      },
+      {
+         "data" : [ 3, 9, 1, 200, 0, 0, 0, 0, 1, 1, 1, 0, 0 ],
+         "description" : "You see another rat here!",
+         "name" : "Rat",
+         "number" : 13
+      },
+      {
+         "data" : [ 3, 9, 1, 200, 0, 0, 0, 0, 1, 1, 1, 0, 0 ],
+         "description" : "You see another rat here!",
+         "name" : "Rat",
+         "number" : 14
+      },
+      {
+         "data" : [ 3, 9, 1, 200, 0, 0, 0, 0, 1, 1, 1, 0, 0 ],
+         "description" : "You see another rat here!",
+         "name" : "Rat",
+         "number" : 15
+      },
+      {
+         "data" : [ 3, 9, 1, 200, 0, 0, 0, 0, 1, 1, 1, 0, 0 ],
+         "description" : "You see another rat here!",
+         "name" : "Rat",
+         "number" : 16
+      },
+      {
+         "data" : [ 3, 9, 1, 200, 0, 0, 0, 0, 1, 1, 1, 0, 0 ],
+         "description" : "You see another rat here!",
+         "name" : "Rat",
+         "number" : 17
+      },
+      {
+         "data" : [ 3, 9, 1, 200, 0, 0, 0, 0, 1, 1, 1, 0, 0 ],
+         "description" : "You see another rat here!",
+         "name" : "Rat",
+         "number" : 18
+      },
+      {
+         "data" : [ 3, 9, 1, 200, 0, 0, 0, 0, 1, 1, 1, 0, 0 ],
+         "description" : "You see another rat here!",
+         "name" : "Rat",
+         "number" : 19
+      },
+      {
+         "data" : [ 3, 9, 1, 200, 0, 0, 0, 0, 1, 1, 1, 0, 0 ],
+         "description" : "You see another rat here!",
+         "name" : "Rat",
+         "number" : 20
+      },
+      {
+         "data" : [ 2, 10, 1, 200, 0, 0, 0, 0, 1, 1, 1, 0, 0 ],
+         "description" : "You see another rat here!",
+         "name" : "Rat",
+         "number" : 21
+      },
+      {
+         "data" : [ 2, 10, 1, 200, 0, 0, 0, 0, 1, 1, 1, 0, 0 ],
+         "description" : "You see another rat here!",
+         "name" : "Rat",
+         "number" : 22
+      },
+      {
+         "data" : [ 2, 10, 1, 200, 0, 0, 0, 0, 1, 1, 1, 0, 0 ],
+         "description" : "You see another rat here!",
+         "name" : "Rat",
+         "number" : 23
+      },
+      {
+         "data" : [ 2, 10, 1, 200, 0, 0, 0, 0, 1, 1, 1, 0, 0 ],
+         "description" : "You see another rat here!",
+         "name" : "Rat",
+         "number" : 24
+      },
+      {
+         "data" : [ 2, 10, 1, 200, 0, 0, 0, 0, 1, 1, 1, 0, 0 ],
+         "description" : "You see another rat here!",
+         "name" : "Rat",
+         "number" : 25
+      },
+      {
+         "data" : [ 2, 10, 1, 200, 0, 0, 0, 0, 1, 1, 1, 0, 0 ],
+         "description" : "You see another rat here!",
+         "name" : "Rat",
+         "number" : 26
+      },
+      {
+         "data" : [ 2, 10, 1, 200, 0, 0, 0, 0, 1, 1, 1, 0, 0 ],
+         "description" : "You see another rat here!",
+         "name" : "Rat",
+         "number" : 27
+      },
+      {
+         "data" : [ 2, 10, 1, 200, 0, 0, 0, 0, 1, 1, 1, 0, 0 ],
+         "description" : "You see another rat here!",
+         "name" : "Rat",
+         "number" : 28
+      },
+      {
+         "data" : [ 2, 10, 1, 95, 0, 0, 0, 0, 1, 1, 1, 0, 0 ],
+         "description" : "You see another rat here!",
+         "name" : "Rat",
+         "number" : 29
+      },
+      {
+         "data" : [ 2, 10, 1, 15, 0, 0, 0, 0, 1, 1, 1, 0, 0 ],
+         "description" : "You see another rat here!",
+         "name" : "Rat",
+         "number" : 30
+      },
+      {
+         "data" : [ 20, 8, 1, 200, 79, 0, 0, 0, 1, 5, 1, 0, 0 ],
+         "description" : "You see a creature here with red leathery skin, a wide toothy mouth, claws for feet, and a barbed tail.  It appears to be a demon!",
+         "name" : "Demon",
+         "number" : 31
+      },
+      {
+         "data" : [ 12, 8, 1, 200, 79, 0, 0, 0, 1, 5, 1, 0, 0 ],
+         "description" : "You see another demon here!",
+         "name" : "Demon",
+         "number" : 32
+      },
+      {
+         "data" : [ 9, 8, 1, 100, 79, 0, 0, 0, 1, 5, 1, 0, 0 ],
+         "description" : "You see another demon here!",
+         "name" : "Demon",
+         "number" : 33
+      },
+      {
+         "data" : [ 20, 15, 1, 100, 74, 0, 1, 2, 1, 6, 1, 0, 0 ],
+         "description" : "You see a rather cruel-looking creature with the torso of a man attached to the body of a horse.  Horns grow from his temples.  It is a satyr!",
+         "name" : "Satyr",
+         "number" : 34
+      },
+      {
+         "data" : [ 10, 18, 1, 90, 16, -1, 1, 3, 1, 4, 1, 0, 0 ],
+         "description" : "You see a man in a black cloak.  He has a hungry look in his eyes.  In one hand he holds a stiletto.  He looks as if he has used it before, without hesitation at that.",
+         "name" : "Assassin",
+         "number" : 35
+      },
+      {
+         "data" : [ 10, 10, 1, 200, 66, 0, 3, 4, 1, 6, 1, 0, 0 ],
+         "description" : "There is an ugly orc here!",
+         "name" : "Orc",
+         "number" : 36
+      },
+      {
+         "data" : [ 5, 10, 1, 100, 66, 0, 3, 5, 1, 6, 1, 0, 0 ],
+         "description" : "There is another ugly and disgusting orc here!",
+         "name" : "Orc",
+         "number" : 37
+      },
+      {
+         "data" : [ 8, 9, 1, 95, 66, 0, 3, 6, 1, 6, 1, 0, 0 ],
+         "description" : "There is a third ugly, disgusting, and smelly orc here!",
+         "name" : "Orc",
+         "number" : 38
+      },
+      {
+         "data" : [ 10, 12, 1, 200, 55, 1, 5, 0, 1, 4, 1, 0, 0 ],
+         "description" : "You see a long, flat creature with many tiny feet underneath its broad armored back.  It has dangerous tentacles on the front, and it senses your body heat as you approach.  Behind the rockworm you can see what looks like a skeleton.",
+         "name" : "Rockworm",
+         "number" : 39
+      },
+      {
+         "data" : [ 20, 20, 1, 200, 39, 0, 5, 7, 1, 6, 1, 0, 0 ],
+         "description" : "You see a man wearing expensive armor with a five-o'clock shadow.  He looks you over carefully as he draws his sword from its sheath.",
+         "name" : "Robber",
+         "number" : 40
+      },
+      {
+         "data" : [ 20, 15, 1, 200, 39, 0, 2, 8, 1, 6, 1, 0, 0 ],
+         "description" : "You see another man, who appears to be even meaner than the first.  He has a desperate expression.",
+         "name" : "Robber",
+         "number" : 41
+      },
+      {
+         "data" : [ 15, 15, 1, 200, 39, 0, 3, 9, 1, 6, 1, 0, 0 ],
+         "description" : "The third robber draws his sword also and says, \"Drop the coin purse and nobody gets hurt.\"  His sword is stained and nicked, and his grip is rock-steady.",
+         "name" : "Robber",
+         "number" : 42
+      },
+      {
+         "data" : [ 30, 15, 1, 200, 48, 0, 5, 10, 1, 8, 105, 0, 0 ],
+         "description" : "You see a man who wears rusted armor with its former decorations in tatters.  Even so, you recognize the livery of the House of Kophinos.  He was counting a pile of coins when you walked in.  On his belt hangs what looks like a scalp!",
+         "name" : "Evil Knight",
+         "number" : 43
+      },
+      {
+         "data" : [ 10, 20, 1, 95, 28, 1, 3, 0, 1, 4, 1, 0, 0 ],
+         "description" : "You see a man dressed in a dirty black cape.  He was performing some arcane ritual when you entered the room, and he is indignant at being interrupted.  As he turns your way you see blue sparks at his fingertips!",
+         "name" : "Sorcerer",
+         "number" : 44
+      },
+      {
+         "data" : [ 10, 22, 1, 200, 13, 1, 0, 0, 1, 1, 1, 0, 0 ],
+         "description" : "You see a wavering form before you: a ghost!  It casts no shadow, but it is nevertheless clearly dangerous.",
+         "name" : "Ghost",
+         "number" : 45
+      },
+      {
+         "data" : [ 8, 20, 1, 200, 13, 1, 0, 0, 1, 1, 1, 0, 0 ],
+         "description" : "You see another ghost here!",
+         "name" : "Ghost",
+         "number" : 46
+      },
+      {
+         "data" : [ 5, 10, 1, 200, 13, 1, 0, 0, 1, 1, 1, 0, 0 ],
+         "description" : "You see another ghost here!",
+         "name" : "Ghost",
+         "number" : 47
+      },
+      {
+         "data" : [ 15, 10, 1, 200, 13, 1, 0, 0, 1, 1, 1, 0, 0 ],
+         "description" : "You see another ghost here!",
+         "name" : "Ghost",
+         "number" : 48
+      },
+      {
+         "data" : [ 12, 8, 1, 200, 20, 1, 0, 0, 1, 5, 1, 0, 0 ],
+         "description" : "You see before you a black nothingness in the shape of a man.  The shadow raises its 'arm' to strike!",
+         "name" : "Shadow",
+         "number" : 49
+      },
+      {
+         "data" : [ 22, 1, 1, 200, 25, 1, 0, 0, 1, 5, 1, 0, 0 ],
+         "description" : "You see a shimmering green mass on the floor.  It has no features that you can discern, but you can feel its primitive thoughts.  And the thought it has now, as it advances on you, is \"EAT!\".",
+         "name" : "Blob",
+         "number" : 50
+      },
+      {
+         "data" : [ 2, 8, 1, 65, 6, 1, 0, 0, 1, 5, 1, 0, 0 ],
+         "description" : "There is a pale blue ghost here, with blood-red angry-looking eyes.",
+         "name" : "Ghost",
+         "number" : 51
+      },
+      {
+         "data" : [ 2, 8, 1, 200, 18, 1, 0, 0, 1, 3, 120, 0, 0 ],
+         "description" : "You see a pale green ghost here.  It shimmers in the half-light.  You cannot tell whether it is dangerous or not.",
+         "name" : "Ghost",
+         "number" : 52
+      },
+      {
+         "data" : [ 10, 10, 1, 200, 26, 1, 0, 0, 1, 5, 1, 0, 0 ],
+         "description" : "There is a ghost here!",
+         "name" : "Ghost",
+         "number" : 53
+      }
+   ],
+   "name" : "The Castle Kophinos",
+   "numDirections" : 6,
+   "rooms" : [
+      {
+         "data" : [ -999, 2, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in the entrance hall of the castle Kophinos.  There are several sets of footprints in the dust at your feet.  Some of the footprints are definitely not human.  The hallway goes south from here.  The castle exit is to the north.",
+         "name" : "You are in the entryway.  (N/S)",
+         "number" : 1
+      },
+      {
+         "data" : [ 1, 7, 3, 19, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at an unremarkable four-way intersection.",
+         "name" : "You are at a four-way intersection.",
+         "number" : 2
+      },
+      {
+         "data" : [ 0, 0, 4, 2, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in an unremarkable east/west hallway.",
+         "name" : "You are in a hallway.  (E/W)",
+         "number" : 3
+      },
+      {
+         "data" : [ 5, 6, 0, 3, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in an unremarkable north/south hallway which also exits west.",
+         "name" : "You are at a T-intersection.  (N/S/W)",
+         "number" : 4
+      },
+      {
+         "data" : [ 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a small bare chamber with a tiny dirty window.  The wood of the window frame seems to have fingernail scratches on the inner side.  The only exit is south.",
+         "name" : "You are in a small chamber.  (S)",
+         "number" : 5
+      },
+      {
+         "data" : [ 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a large rectangular room with an oblong table in the center.  The only exit is to the north.  Along the top of one wall there are nails with tiny bits of cloth hanging from them, as if a grand tapestry had been ripped down.",
+         "name" : "You are in the meeting room.  (N)",
+         "number" : 6
+      },
+      {
+         "data" : [ 2, 8, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in an unremarkable north/south hallway.",
+         "name" : "You are in a hallway.  (N/S)",
+         "number" : 7
+      },
+      {
+         "data" : [ 7, 0, 9, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The hallway bends here, with exits going north and east.",
+         "name" : "You are at a bend in the corridor.  (N/E)",
+         "number" : 8
+      },
+      {
+         "data" : [ 0, 0, 10, 8, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in an unremarkable east/west hallway.",
+         "name" : "You are in a hallway.  (E/W)",
+         "number" : 9
+      },
+      {
+         "data" : [ 0, 11, 0, 9, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "An impressive oaken door is to the south.",
+         "name" : "You are at a bend in the corridor.  (S/W)",
+         "number" : 10
+      },
+      {
+         "data" : [ 10, 12, 14, 15, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a huge chamber that was once splendid.  A dining table dominates the room.  A skeleton lies on the table, pinned there by a stout spear which you cannot remove.  Exits go in all directions.",
+         "name" : "You are in the dining hall.  (N/S/E/W)",
+         "number" : 11
+      },
+      {
+         "data" : [ 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a tiny room with its only exit leading north, to the dining hall.",
+         "name" : "You are in a small chamber.  (N)",
+         "number" : 12
+      },
+      {
+         "data" : [ 0, 0, 0, 14, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You see cutting boards, counter tops, and shelves here.  Several wall hooks are visible, but nothing hangs from them.  A butcher's block to one side of the room is littered with bits of gristle and...hair.  The exit is to the west.",
+         "name" : "You are in the kitchen.  (W)",
+         "number" : 13
+      },
+      {
+         "data" : [ 0, 0, 13, 11, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in an unremarkable east/west hallway.",
+         "name" : "You are in a hallway.  (E/W)",
+         "number" : 14
+      },
+      {
+         "data" : [ 0, 16, 11, 17, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in an unremarkable east/west hallway.  A small door is in the south wall.",
+         "name" : "You are in an east/west hallway with door to the south.",
+         "number" : 15
+      },
+      {
+         "data" : [ 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a closet-sized room.  The only exit is to the north.",
+         "name" : "You are in a small chamber.  (N)",
+         "number" : 16
+      },
+      {
+         "data" : [ 18, 0, 15, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at the west end of an east/west hallway.  You see a door to the north.",
+         "name" : "You are at the end of an east/west hallway.  (N/E)",
+         "number" : 17
+      },
+      {
+         "data" : [ 0, 17, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a small room with the only exit to the south.",
+         "name" : "You are in a small room.  (S)",
+         "number" : 18
+      },
+      {
+         "data" : [ 36, 20, 2, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a north/south hallway that also exits east.  To the north you see a bend in the passage.  The hall extends out of sight to the south.",
+         "name" : "You are at a T-intersection.  (N/S/E)",
+         "number" : 19
+      },
+      {
+         "data" : [ 19, 21, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in an unremarkable north/south hallway.",
+         "name" : "You are in a hallway.  (N/S)",
+         "number" : 20
+      },
+      {
+         "data" : [ 20, 22, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in an unremarkable long hallway that extends out of sight to the north and south.",
+         "name" : "You are in a long hallway.  (N/S)",
+         "number" : 21
+      },
+      {
+         "data" : [ 21, 23, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in an unremarkable long north/south hallway.",
+         "name" : "You are in a long hallway.  (N/S)",
+         "number" : 22
+      },
+      {
+         "data" : [ 22, 24, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "There is an intersection to the south.",
+         "name" : "You are at the south end of a long north/south hallway.  (N/S)",
+         "number" : 23
+      },
+      {
+         "data" : [ 23, 25, 29, 27, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a cross of two corridors.  Exits go in all four directions.",
+         "name" : "You are at a four-way intersection.",
+         "number" : 24
+      },
+      {
+         "data" : [ 24, 26, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "There is an intersection to the north and a room to the south.",
+         "name" : "You are in a hallway.  (N/S)",
+         "number" : 25
+      },
+      {
+         "data" : [ 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You see bed frames against one wall, but no mattresses.  A broken mirror adorns one wall.  There is a rank smell.  A tiny bell is suspended on a knotted cord that disappears into the ceiling.",
+         "name" : "You are in the servant's quarters.  (N)",
+         "number" : 26
+      },
+      {
+         "data" : [ 0, 0, 24, 28, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at the west end of an east/west hallway.  A closed door is to the west, and an intersection is to the east.",
+         "name" : "You are in a hallway.  (E/W)",
+         "number" : 27
+      },
+      {
+         "data" : [ 0, 0, 27, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You see shelves lining the walls of this room.  Large bins rest on the floor.  Some of them are overturned and empty.",
+         "name" : "You are in the store room.  (E)",
+         "number" : 28
+      },
+      {
+         "data" : [ 0, 30, 0, 24, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The hall turns here, heading west and south.",
+         "name" : "You are at a bend in the corridor.  (S/W)",
+         "number" : 29
+      },
+      {
+         "data" : [ 29, 0, 31, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The corridor turns here, heading north and east.",
+         "name" : "You are at a bend in the corridor.  (N/E)",
+         "number" : 30
+      },
+      {
+         "data" : [ 32, 33, 34, 30, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in an unremarkable east/west hallway.  Doors can be seen to the north and south.",
+         "name" : "You are in an east/west hallway.  (N/S/E/W)",
+         "number" : 31
+      },
+      {
+         "data" : [ 0, 31, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a small bare room with blank stone walls.  The only exit is south.",
+         "name" : "You are in a small room.  (S)",
+         "number" : 32
+      },
+      {
+         "data" : [ 31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a small bare room with blank stone walls.  The only exit is north.",
+         "name" : "You are in a small room.  (N)",
+         "number" : 33
+      },
+      {
+         "data" : [ 0, 0, 35, 31, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in an unremarkable east/west hallway.",
+         "name" : "You are in a hallway.  (E/W)",
+         "number" : 34
+      },
+      {
+         "data" : [ 0, 0, 0, 34, 73, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at the foot of a stairway that rises out of sight.  A hallway extends west from here.  There are several suspicious-looking shadows on the stairs.",
+         "name" : "You are at the bottom of the stairs.  (W/U)",
+         "number" : 35
+      },
+      {
+         "data" : [ 0, 19, 0, 37, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The hallway turns sharply here, with exits to the west and south.",
+         "name" : "You are at a bend in the corridor.  (S/W)",
+         "number" : 36
+      },
+      {
+         "data" : [ 0, 0, 36, 38, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in an unremarkable east/west hallway.",
+         "name" : "You are in a hallway.  (E/W)",
+         "number" : 37
+      },
+      {
+         "data" : [ 0, 39, 37, 40, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You see a wooden door to the south.  To the west there appear to be similar doors.",
+         "name" : "You are in an east/west hallway with door to south.  (S/E/W)",
+         "number" : 38
+      },
+      {
+         "data" : [ 38, 1001, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "In this room is a canopied bed in surprisingly good condition.  There is a painting on the south wall that has been crudely (and lewdly) edited by some vandal.  The only exit is to the north.",
+         "name" : "You are in the master bedroom.  (N)",
+         "number" : 39
+      },
+      {
+         "data" : [ 0, 41, 38, 42, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "In the south wall there is a wooden door.  Similar doors are visible in either direction.",
+         "name" : "You are in an east/west hallway with a door to the south.  (S/E/W)",
+         "number" : 40
+      },
+      {
+         "data" : [ 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "This room contains a four-poster bed that has odd markings about halfway up the posts---almost as if a chain had been wrapped around each one.  There are scars on the wall where a painting once hung.  The exit is to the north.",
+         "name" : "You are in a bedroom.  (N)",
+         "number" : 41
+      },
+      {
+         "data" : [ 0, 43, 40, 44, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "A closed wooden door is to the south, and similar doors can be seen down the hall to the east.",
+         "name" : "You are in an east/west hallway with a door to the south.  (S/E/W)",
+         "number" : 42
+      },
+      {
+         "data" : [ 42, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a room with an exit to the north.  A broken bed frame lies in the corner.",
+         "name" : "You are in a bedroom.  (N)",
+         "number" : 43
+      },
+      {
+         "data" : [ 0, 0, 42, 0, 0, 51, 0, 0, 0, 0, 1 ],
+         "description" : "The east/west hallway ends here with a staircase that descends into darkness.  You can go east, or go down.",
+         "name" : "You are at the head of the stairs.  (E/D)",
+         "number" : 44
+      },
+      {
+         "data" : [ 39, 0, 0, 46, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a secret passage!  This is the east end of a short east/west hallway.  The hidden door to the master bedroom is to the north.  The walls are made of a cool, musty-smelling stone.",
+         "name" : "You are at the east end of a hallway.  (N/W)",
+         "number" : 45
+      },
+      {
+         "data" : [ 0, 47, 45, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The corridor bends here, exiting south and east.",
+         "name" : "You are at a bend in the corridor.  (S/E)",
+         "number" : 46
+      },
+      {
+         "data" : [ 46, 49, 48, 50, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The hall ends here.  There are closed doors to the west, east, and south.",
+         "name" : "You are at a four-way intersection.",
+         "number" : 47
+      },
+      {
+         "data" : [ 0, 0, 0, 47, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a cool, dark, dry chamber with stone walls.  The exit is to the west.",
+         "name" : "You are in the east side chamber.  (W)",
+         "number" : 48
+      },
+      {
+         "data" : [ 47, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a musty-smelling stone-walled room with an exit to the north.",
+         "name" : "You are in the south side chamber.  (N)",
+         "number" : 49
+      },
+      {
+         "data" : [ 0, 0, 47, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a small bare room with solid stone walls and floor.  The only exit is to the east.  The floor is marred, as if some desperate person tried to dig a way out!",
+         "name" : "You are in the west side chamber.  (E)",
+         "number" : 50
+      },
+      {
+         "data" : [ 0, 0, 52, 0, 44, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in the dungeon at the foot of the stairs.  A hallway extends to the east.",
+         "name" : "You are at the bottom of the stairs.  (E/U)",
+         "number" : 51
+      },
+      {
+         "data" : [ 0, 0, 53, 51, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a dank east/west passageway.",
+         "name" : "You are in a hallway.  (E/W)",
+         "number" : 52
+      },
+      {
+         "data" : [ 0, 54, 60, 52, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "A passageway leads south from here but you can't see very far in that direction.",
+         "name" : "You are in an east/west hallway.  (S/E/W)",
+         "number" : 53
+      },
+      {
+         "data" : [ 53, 55, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a very dark north/south tunnel.  The air is quite damp.",
+         "name" : "You are in a north/south hallway.",
+         "number" : 54
+      },
+      {
+         "data" : [ 54, 0, 0, 56, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "The corridor turns sharply here, leading north and west.  You can hear running water to the west.",
+         "name" : "You are at a bend in the corridor.  (N/W)",
+         "number" : 55
+      },
+      {
+         "data" : [ 0, 57, 55, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "The corridor bends again here, this time exiting south and east.  The sound of running water is much louder now.",
+         "name" : "You are at a bend in the corridor.  (S/E)",
+         "number" : 56
+      },
+      {
+         "data" : [ 56, 58, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "Apparently the castle Kophinos was built directly over a river!  You are on a dock (to which a rowboat is tied) before a wide black stream.  It's too dark to see upstream or downstream.  You can go south (into the boat) or north.",
+         "name" : "You are on the dock by the river.  (N/S)",
+         "number" : 57
+      },
+      {
+         "data" : [ 57, 0, 0, 59, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "To the south is a smooth vertical stone wall.  The current is too swift for you to move upstream (east).  You can only go north (to the dock) or west (downstream).  It is too dark to see very far.",
+         "name" : "You are in a boat on the river.  (N/W)",
+         "number" : 58
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "Some unknown memory tugs at your brain, but your intuition warns you too late---There is a grate blocking the river here, which your boat smashes against.  You drown in the darkness.",
+         "name" : "You are dead!",
+         "number" : 59
+      },
+      {
+         "data" : [ 0, 0, 61, 53, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a dark east/west hallway.",
+         "name" : "You are in a hallway.  (E/W)",
+         "number" : 60
+      },
+      {
+         "data" : [ 0, 62, 67, 60, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a dark east/west corridor, with another tunnel branching south.",
+         "name" : "You are at a T-intersection.  (S/E/W)",
+         "number" : 61
+      },
+      {
+         "data" : [ 61, 63, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a dank, moldy-smelling north/south tunnel.",
+         "name" : "You are in a hallway.  (N/S)",
+         "number" : 62
+      },
+      {
+         "data" : [ 62, 65, 64, 66, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "The hall ends here.  There are closed doors to the east, west, and south.  The air is cool and humid.",
+         "name" : "You are at a four-way intersection.",
+         "number" : 63
+      },
+      {
+         "data" : [ 0, 0, 0, 63, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small, dark cell with the only exit to the west.  The stone walls are cool and damp.",
+         "name" : "You are in an east side chamber.  (W)",
+         "number" : 64
+      },
+      {
+         "data" : [ 63, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a tiny room with the exit to the north.  Water drips from the south wall onto the stone floor.  There is a rank odor.",
+         "name" : "You are in a south side chamber.  (N)",
+         "number" : 65
+      },
+      {
+         "data" : [ 0, 0, 63, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small, dark cell with the exit to the east.  The walls are cool and damp.",
+         "name" : "You are in a west side chamber.  (E)",
+         "number" : 66
+      },
+      {
+         "data" : [ 0, 68, 0, 61, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "The corridor takes a sharp turn here, with exits leading west and south.",
+         "name" : "You are at a bend in the corridor.  (S/W)",
+         "number" : 67
+      },
+      {
+         "data" : [ 67, 0, 69, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "The corridor bends here, exiting north and east.  There is a faint smell that you can't identify.",
+         "name" : "You are at a bend in the corridor.  (N/E)",
+         "number" : 68
+      },
+      {
+         "data" : [ 0, 0, 70, 68, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "There is an odor of some kind of animal here.",
+         "name" : "You are in an east/west corridor.",
+         "number" : 69
+      },
+      {
+         "data" : [ 71, 0, 0, 69, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "The smell of some kind of animal is strong here, and disgusting.  There seem to be small irregularly-spaced openings in the wall, down at floor level.",
+         "name" : "You are at a bend in the corridor.  (N/W)",
+         "number" : 70
+      },
+      {
+         "data" : [ 0, 70, 72, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "The passage turns here, with exits leading south and east.  There is a faint animal smell here.",
+         "name" : "You are at a bend in the corridor.  (S/E)",
+         "number" : 71
+      },
+      {
+         "data" : [ 0, 0, 0, 71, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You see before you a crude stone altar, stained with blood.  There are insane designs on the wall.  Written in large letters in red-brown paint (?) is the legend, \"NOBODY GETS OUT OF HERE ALIVE.\"",
+         "name" : "You are in the altar room.  (W)",
+         "number" : 72
+      },
+      {
+         "data" : [ 74, 76, 75, 77, 78, 35, 0, 0, 0, 0, 1 ],
+         "description" : "You are in the tower of the Castle Kophinos, situated on the stairs at the first level.  You can take the stairs down or up from here.  There are rooms on this level in all directions.",
+         "name" : "You are in the stairwell of the tower.  (N/S/E/W/U/D)",
+         "number" : 73
+      },
+      {
+         "data" : [ 0, 73, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a wedge-shaped tower room with the south exit at its point.",
+         "name" : "You are in a north side chamber.  (S)",
+         "number" : 74
+      },
+      {
+         "data" : [ 0, 0, 0, 73, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a wedge-shaped tower room with the west exit at its point.",
+         "name" : "You are in an east side chamber.  (W)",
+         "number" : 75
+      },
+      {
+         "data" : [ 73, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a wedge-shaped tower room with the north exit at its point.",
+         "name" : "You are in a south side chamber.  (N)",
+         "number" : 76
+      },
+      {
+         "data" : [ 0, 0, 73, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a wedge-shaped tower room with the east exit at its point.",
+         "name" : "You are in a west side chamber.  (E)",
+         "number" : 77
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 79, 73, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a circular room.  Stairs lead downward.  There is also a stout-looking rope leading up through the ceiling.  You cannot climb that rope and keep a weapon ready at the same time.",
+         "name" : "You are in the attic.  (U/D)",
+         "number" : 78
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 0, 78, 0, 0, 0, 0, 1 ],
+         "description" : "A rope leads below.  There is no way to climb down the outside of the tower, and it's too far to jump.",
+         "name" : "You are on the roof of the tower.  (D)",
+         "number" : 79
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "It is pitch dark.  You are on your back in what feels like a very small space.  Above and to the sides you feel soft satin.  The air is stuffy and is getting worse by the minute.  You are trapped inside a coffin!",
+         "name" : "You are locked in a coffin!",
+         "number" : 80
+      }
+   ]
+}

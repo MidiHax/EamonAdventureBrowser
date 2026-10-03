@@ -1,0 +1,371 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta property="og:site_name" content="Eamon Adventure Browser"/>
+        <meta property="og:title" content="Eamon Adventure Browser"/>
+        <meta property="og:url" content="https://midihax.github.io/EamonAdventureBrowser/"/>
+        <meta property="og:description" content="Easily browse all of the classic Eamon Deluxe adventures. All of your favorite Eamon rooms, monsters, weapons and artifacts are here!"/>
+        <meta property="og:image" content="https://midihax.github.io/EamonAdventureBrowser/eamondragon.gif"/>
+        <meta property="og:type" content="website"/>
+        <title>Eamon Adventure Browser</title>
+        <link rel="stylesheet" type="text/css" href="site.css"/>
+        <script type="text/javascript" src="lib/jquery-1.8.2.min.js"></script>
+        <script type="text/javascript" src="lib/underscore-min.js"></script>
+        <script type="text/javascript" src="lib/sammy-latest.min.js"></script>
+        <script type="text/javascript" src="lib/knockout-3.1.0.js"></script>
+        <script type="text/javascript" src="main.js"></script>
+    </head>
+    <body>
+        <table style="width:100%">
+            <tr>
+                <td>
+                    <h1>Eamon Adventure Browser</h1>
+                    <a href="#">Master List</a>
+                    &nbsp;|&nbsp;
+                    <a href="#/search">Search</a>
+                    &nbsp;|&nbsp;
+                    <a href="http://eamononline.com/wiki/Main_Page" target="_blank">The Wonderful Wiki of Eamon</a>
+                    &nbsp;|&nbsp;
+                    <a href="http://www.eamonag.org/" target="_blank">Eamon Adventurer's Guild Online</a>
+                </td>
+                <td align="right">
+                    <img src="eamondragon.gif" alt="Eamon Dragon Logo" style="width:80px; height: 73px"/>
+                </td>
+            </tr>
+        </table>
+        <hr>
+        <div id="main">
+            <div id="divMainList">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>
+                                Name
+                            </th>
+                            <th>
+                                # Rooms
+                            </th>
+                            <th>
+                                # Artifacts
+                            </th>
+                            <th>
+                                # Monsters
+                            </th>
+                            <th>
+                                # Effects
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody data-bind="foreach: headers">
+                        <tr>
+                            <td><a data-bind="text: header.Name, attr: { href: '#/adv/' + id }"></a></td>
+                            <td data-bind="text: header.NumRooms"></td>
+                            <td data-bind="text: header.NumArtifacts"></td>
+                            <td data-bind="text: header.NumMonsters"></td>
+                            <td data-bind="text: header.NumEffects"></td>
+                        </tr>
+                    </tbody>
+                </table>    
+            </div>
+            
+            <div id="divAdventure" data-bind="with: adventure">
+                
+                <h2><a data-bind="text: name, attr: { href: '#/adv/' + $root.currentId() }"></a></h2>
+                
+                <div id="divAdvSummary" style="width:100%">
+                    <b>Rooms</b>
+                    <ul data-bind="foreach: rooms">
+                        <li><a data-bind="text: number, attr: { href: '#/adv/' + $root.currentId() + '/room/' + number }"></a> - <span data-bind="text: name"></span></li>
+                    </ul>
+                
+                    <b>Artifacts</b>
+                    <ul data-bind="foreach: artifacts">
+                        <li><a data-bind="text: number, attr: { href: '#/adv/' + $root.currentId() + '/artifact/' + number }"></a> - <span data-bind="text: name"></span></li>
+                    </ul>
+                
+                    <b>Monsters</b>
+                    <ul data-bind="foreach: monsters">
+                        <li><a data-bind="text: number, attr: { href: '#/adv/' + $root.currentId() + '/monster/' + number }"></a> - <span data-bind="text: name"></span></li>
+                    </ul>
+                
+                    <b>Effects</b>
+                    <ul data-bind="foreach: effects">
+                        <li><a data-bind="text: number"></a> - <span data-bind="text: description"></span></li>
+                    </ul>
+                    
+                    <b>Intro Text</b>
+                    <div data-bind="html: intro">
+
+                    </div>
+                </div>
+                
+                <div id="divRoom" data-bind="with: $root.room">
+                    <h3>Room #<span data-bind="text: number"></span></h3>
+                    <table>
+                        <tr>
+                            <td>Name:</td><td data-bind="text: name"></td>
+                        </tr> 
+                        <tr>
+                            <td>Description:</td><td data-bind="text: description"></td>
+                        </tr>    
+                        <tr>
+                            <td>Connection North:</td><td><a data-bind="text: data[0], visible: data[0] > 0 && data[0] < 999, attr: { href: '#/adv/' + $root.currentId() + '/room/' + data[0] }"></a></td>
+                        </tr>  
+                        <tr>
+                            <td>Connection South:</td><td><a data-bind="text: data[1], visible: data[1] > 0 && data[1] < 999, attr: { href: '#/adv/' + $root.currentId() + '/room/' + data[1] }"></a></td>
+                        </tr> 
+                        <tr>
+                            <td>Connection East:</td><td><a data-bind="text: data[2], visible: data[2] > 0 && data[2] < 999, attr: { href: '#/adv/' + $root.currentId() + '/room/' + data[2] }"></a></td>
+                        </tr> 
+                        <tr>
+                            <td>Connection West:</td><td><a data-bind="text: data[3], visible: data[3] > 0 && data[3] < 999, attr: { href: '#/adv/' + $root.currentId() + '/room/' + data[3] }"></a></td>
+                        </tr>   
+                        <tr>
+                            <td>Connection Up:</td><td><a data-bind="text: data[4], visible: data[4] > 0 && data[4] < 999, attr: { href: '#/adv/' + $root.currentId() + '/room/' + data[4] }"></a></td>
+                        </tr>   
+                        <tr>
+                            <td>Connection Down:</td><td><a data-bind="text: data[5], visible: data[5] > 0 && data[5] < 999, attr: { href: '#/adv/' + $root.currentId() + '/room/' + data[5] }"></a></td>
+                        </tr>  
+                        <tr>
+                            <td>Connection NorthEast:</td><td><a data-bind="text: data[6], visible: data[6] > 0 && data[6] < 999, attr: { href: '#/adv/' + $root.currentId() + '/room/' + data[6] }"></a></td>
+                        </tr>  
+                        <tr>
+                            <td>Connection NorthWest:</td><td><a data-bind="text: data[7], visible: data[7] > 0 && data[7] < 999, attr: { href: '#/adv/' + $root.currentId() + '/room/' + data[7] }"></a></td>
+                        </tr>     
+                        <tr>
+                            <td>Connection SouthEast:</td><td><a data-bind="text: data[8], visible: data[8] > 0 && data[8] < 999, attr: { href: '#/adv/' + $root.currentId() + '/room/' + data[8] }"></a></td>
+                        </tr> 
+                        <tr>
+                            <td>Connection SouthWest:</td><td><a data-bind="text: data[9], visible: data[9] > 0 && data[9] < 999, attr: { href: '#/adv/' + $root.currentId() + '/room/' + data[9] }"></a></td>
+                        </tr> 
+                        <tr>
+                            <td>Light:</td><td data-bind="text: data[10]"></td>
+                        </tr> 
+                    </table>
+                </div>
+                
+                <div id="divArtifact" data-bind="with: $root.artifact">
+                    <h3>Artifact #<span data-bind="text: number"></span></h3>
+                    <table>
+                        <tr>
+                            <td>Name:</td><td data-bind="text: name"></td>
+                        </tr> 
+                        <tr>
+                            <td>Description:</td><td data-bind="text: description"></td>
+                        </tr>    
+                        <tr>
+                            <td>Value:</td><td data-bind="text: data[0]"></td>
+                        </tr> 
+                        <tr>
+                            <td>Type:</td><td><span data-bind="text: data[1]"></span>
+                                              <span data-bind="visible: data[1] == 0">- Gold</span>
+                                              <span data-bind="visible: data[1] == 1">- Treasure</span>
+                                              <span data-bind="visible: data[1] == 2">- Weapon</span>
+                                              <span data-bind="visible: data[1] == 3">- Magic Weapon</span>
+                                              <span data-bind="visible: data[1] == 4">- Container</span>
+                                              <span data-bind="visible: data[1] == 5">- Lightable</span>
+                                              <span data-bind="visible: data[1] == 6">- Drinkable</span>
+                                              <span data-bind="visible: data[1] == 7">- Readable</span>
+                                              <span data-bind="visible: data[1] == 8">- Door/Gate</span>
+                                              <span data-bind="visible: data[1] == 9">- Edible</span>
+                                              <span data-bind="visible: data[1] == 10">- Bound Monster</span>
+                                              <span data-bind="visible: data[1] == 11">- Wearable</span>
+                                              <span data-bind="visible: data[1] == 12">- Disguised Monster</span>
+                                              <span data-bind="visible: data[1] == 13">- Dead body</span>
+                                          </td>
+                        </tr> 
+                        <tr>
+                            <td>Weight:</td><td data-bind="text: data[2]"></td>
+                        </tr> 
+                        <tr>
+                            <td>Location:</td><td><span data-bind="text: data[3]"></span> - <span data-bind="html: $root.getLocation($data)"></span></td>
+                        </tr> 
+                        
+                        <!-- ko if: data[1] == 2 || data[1] == 3 -->
+                        <tr>
+                            <td>Weapon Odds:</td><td data-bind="text: data[4]"></td>
+                        </tr> 
+                        <tr>
+                            <td>Weapon Type:</td><td data-bind="text: data[5]"></td>
+                        </tr> 
+                        <tr>
+                            <td>Weapon Damage:</td><td><span data-bind="text: data[6]"></span>d<span data-bind="text: data[7]"></span></td>
+                        </tr>     
+                        <!-- /ko -->
+                        
+                        <!-- ko if: data[1] == 4 -->
+                        <tr>
+                            <td>Key Artifact #:</td><td data-bind="text: data[4]"></td>
+                        </tr> 
+                        <tr>
+                            <td>Num Items Can Hold:</td><td data-bind="text: data[7]"></td>
+                        </tr> 
+                        <!-- /ko -->
+                        
+                        <!-- ko if: data[1] == 5 -->
+                        <tr>
+                            <td>Num Rounds of Light:</td><td data-bind="text: data[4]"></td>
+                        </tr> 
+                        <!-- /ko -->
+                        
+                        <!-- ko if: data[1] == 6 || data[1] == 9 -->
+                        <tr>
+                            <td>Heal/Damage Points:</td><td data-bind="text: data[4]"></td>
+                        </tr> 
+                        <tr>
+                            <td>Num Drinks/Bites:</td><td data-bind="text: data[5]"></td>
+                        </tr> 
+                        <!-- /ko -->
+                        
+                        <!-- ko if: data[1] == 7 -->
+                        <tr>
+                            <td>1st Effect:</td><td data-bind="text: data[4]"></td>
+                        </tr> 
+                        <tr>
+                            <td>Num Effects:</td><td data-bind="text: data[5]"></td>
+                        </tr> 
+                        <!-- /ko -->
+                        
+                        <!-- ko if: data[1] == 8 -->
+                        <tr>
+                            <td>Room Beyond:</td><td data-bind="text: data[4]"></td>
+                        </tr> 
+                        <tr>
+                            <td>Key Artifact #:</td><td data-bind="text: data[5]"></td>
+                        </tr> 
+                        <tr>
+                            <td>Hidden:</td><td data-bind="text: data[7]"></td>
+                        </tr> 
+                        <!-- /ko -->
+                        
+                        <!-- ko if: data[1] == 10 -->
+                        <tr>
+                            <td>Bound Monster #:</td><td data-bind="text: data[4]"></td>
+                        </tr> 
+                        <tr>
+                            <td>Key Artifact #:</td><td data-bind="text: data[5]"></td>
+                        </tr> 
+                        <tr>
+                            <td>Guard Monster #:</td><td data-bind="text: data[6]"></td>
+                        </tr> 
+                        <!-- /ko -->
+                        
+                        <!-- ko if: data[1] == 11 -->
+                        <tr>
+                            <td>Armor Class:</td><td data-bind="text: data[4]"></td>
+                        </tr> 
+                        <tr>
+                            <td>Armor Type:</td><td data-bind="text: data[5]"></td>
+                        </tr> 
+                        <!-- /ko -->
+                        
+                        <!-- ko if: data[1] == 12 -->
+                        <tr>
+                            <td>Disguised Monster #:</td><td data-bind="text: data[4]"></td>
+                        </tr> 
+                        <tr>
+                            <td>1st Effect:</td><td data-bind="text: data[5]"></td>
+                        </tr> 
+                        <tr>
+                            <td>Num Effects:</td><td data-bind="text: data[6]"></td>
+                        </tr> 
+                        <!-- /ko -->
+                        
+                        <!-- ko if: data[1] == 13 -->
+                        <tr>
+                            <td>Takeable status:</td><td data-bind="text: data[4]"></td>
+                        </tr> 
+                        <!-- /ko -->
+
+                    </table>
+                </div>
+                
+                <div id="divMonster" data-bind="with: $root.monster">
+                    <h3>Monster #<span data-bind="text: number"></span></h3>
+                    <table>
+                        <tr>
+                            <td>Name:</td><td data-bind="text: name"></td>
+                        </tr> 
+                        <tr>
+                            <td>Description:</td><td data-bind="text: description"></td>
+                        </tr>    
+                        <tr>
+                            <td>Hardiness:</td><td data-bind="text: data[0]"></td>
+                        </tr>  
+                        <tr>
+                            <td>Agility:</td><td data-bind="text: data[1]"></td>
+                        </tr>  
+                        <tr>
+                            <td>Group Size:</td><td data-bind="text: data[2]"></td>
+                        </tr>   
+                        <tr>
+                            <td>Courage:</td><td data-bind="text: data[3]"></td>
+                        </tr> 
+                        <tr>
+                            <td>Location:</td><td data-bind="text: data[4]"></td>
+                        </tr>  
+                        <tr>
+                            <td>Combat Code:</td><td data-bind="text: data[5]"></td>
+                        </tr>  
+                        <tr>
+                            <td>Armor:</td><td data-bind="text: data[6]"></td>
+                        </tr>  
+                        <tr>
+                            <td>Weapon:</td><td data-bind="text: data[7]"></td>
+                        </tr>   
+                        <tr>
+                            <td>Natural Weapon Damage:</td><td><span data-bind="text: data[8]"></span>d<span data-bind="    text: data[9]"></span></td>
+                        </tr>     
+                        <tr>
+                            <td>Personality:</td><td data-bind="text: data[10]"></td>
+                        </tr>   
+                    </table>
+                </div>
+
+            </div>
+            <div id="divSearch">
+                
+                Search: <input type="text" style="width: 300px" id="txtSearch"/>&nbsp;<button id="btnSearch" data-bind="click: runSearch">Search</button>
+                
+                <div id="divSearchWait">
+                    <br/>
+                    Searching - Please wait...
+                </div>
+
+                <div id="divSearchResults" data-bind="visible: $root.searchResults().length > 0">
+                    <br/>
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>
+                                    Title
+                                </th>
+                                <th>
+                                    Item
+                                </th>
+                                <th>
+                                    Content
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody data-bind="foreach: $root.searchResults">
+                            <tr>
+                                <td><a data-bind="text: title, attr: { href: titleUrl }"></a></td>
+                                <td><a data-bind="text: item, attr: { href: itemUrl }"></a></td>
+                                <td data-bind="text: content"></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+            </div>
+        </div>
+        <div class="footer">
+            <hr>
+            Developed/Compiled by <a href="https://eamononline.com/wiki/Derek_Jeter" target="_new">Derek C. Jeter</a>
+        </div>
+    </body>
+    <script type="text/javascript">
+        ko.applyBindings(new EamonAdvBrowserModel());
+    </script>
+</html>

@@ -1,0 +1,1251 @@
+{
+   "artifacts" : [
+      {
+         "data" : [ 0, 5, 1, 2002, -1, 0, 0, 0 ],
+         "description" : "The torch appears to be a rather flimsy one, but you can make out the words, \"Ever-Lite\" on the wood.",
+         "name" : "torch",
+         "number" : 1
+      },
+      {
+         "data" : [ 0, 8, -999, 2004, 5, 0, 0, 1 ],
+         "description" : "Closer examination of the rock reveals it to be a cleverly disguised door!",
+         "name" : "a secret passage north",
+         "number" : 2
+      },
+      {
+         "data" : [ 15, 2, 5, -2, 5, 3, 1, 5 ],
+         "description" : "The Hermit's mace rests upon the floor.  Hard to believe that once you would have thought of this as a great weapon.  Time and training have taught you that this is inferior to the ones you now use.",
+         "name" : "mace",
+         "number" : 3
+      },
+      {
+         "data" : [ 25, 6, 3, 4, 10, 5, 1, 0 ],
+         "description" : "The potion is here.  I'm sure you know what I'm referring to.",
+         "name" : "potion",
+         "number" : 4
+      },
+      {
+         "data" : [ 0, 4, 999, 5, 0, 1015, 1, 0 ],
+         "description" : "Sitting against one wall is a huge, six foot by six foot crate.",
+         "name" : "crate",
+         "number" : 5
+      },
+      {
+         "data" : [ 0, 1, 999, 1005, 0, 0, 0, 0 ],
+         "description" : "Inside the crate you find 500 healing potions!  Alas, you can get none of them out.",
+         "name" : "500 healing potions",
+         "number" : 6
+      },
+      {
+         "data" : [ 0, 1, 3, 5, 0, 0, 0, 0 ],
+         "description" : "Sitting on the crate is a spray bottle.  It reads, \"Can O'Ugly\".  Now you know what the Hermit uses to smell like that!",
+         "name" : "Can O'Ugly",
+         "number" : 7
+      },
+      {
+         "data" : [ 0, 7, 1, 6, 4, 1, 1, 0 ],
+         "description" : "On the floor amidst the rat droppings, is a note.",
+         "name" : "note",
+         "number" : 8
+      },
+      {
+         "data" : [ 0, 8, -999, 7, 8, 0, 110, 0 ],
+         "description" : "It is a typical wooden door, though some bozo has written \"Women\" on it.",
+         "name" : "east door",
+         "number" : 9
+      },
+      {
+         "data" : [ 0, 8, -999, 7, 9, 0, 110, 0 ],
+         "description" : "It is a typical wooden door, though some bozo has written \"Men\" on it.",
+         "name" : "west door",
+         "number" : 10
+      },
+      {
+         "data" : [ 25, 2, 9, -5, 10, 5, 1, 4 ],
+         "description" : "You see Heimlich's long sword.  A rather inferior weapon by your standards.",
+         "name" : "long sword",
+         "number" : 11
+      },
+      {
+         "data" : [ 30, 11, 7, -5, 1, 0, 0, 0 ],
+         "description" : "You see Heimlich's smiley shield.  You fight down the urge to vomit at the sight of it.",
+         "name" : "smiley shield",
+         "number" : 12
+      },
+      {
+         "data" : [ 0, 1, 999, 0, 0, 0, 0, 0 ],
+         "description" : "A large pile of rubble blocks the east passage!  My god!  Kong dying must have taken out half the kingdom!  The cost of the damage is going to be enormous, and may come out of your pouch!",
+         "name" : "rubble",
+         "number" : 13
+      },
+      {
+         "data" : [ 175, 0, 25, -4, 0, 0, 0, 0 ],
+         "description" : "Under King Kong's toe was a pouch of gold, about 175 pieces in all.  175 very flat pieces of gold...",
+         "name" : "bag of gold",
+         "number" : 14
+      },
+      {
+         "data" : [ 0, 8, -999, 10, 11, 0, 110, 0 ],
+         "description" : "You see a typical wooden door to the east, though some bozo has written \"Democrats\" on it.",
+         "name" : "east door#",
+         "number" : 15
+      },
+      {
+         "data" : [ 0, 8, -999, 10, 12, 0, 110, 0 ],
+         "description" : "You see a typical wooden door to the west, though some bozo has written \"Republicans\" on it.",
+         "name" : "west door#",
+         "number" : 16
+      },
+      {
+         "data" : [ 0, 10, 120, 11, 6, 0, 5, 0 ],
+         "description" : "There is a beautiful woman here, tied up to a hook in the ceiling!  A ball-gag is in her mouth, and her hands are tied together behind her back, with a rope from them going to the hook.  She looks to be in pain.",
+         "name" : "bound woman",
+         "number" : 17
+      },
+      {
+         "data" : [ 75, 4, 6, -6, 0, 0, 1, 0 ],
+         "description" : "You see the photographer's camera.  It's film was undamaged, if you would want to sell the negatives...",
+         "name" : "camera",
+         "number" : 18
+      },
+      {
+         "data" : [ 0, 1, 1, 1018, 0, 0, 0, 0 ],
+         "description" : "Inside the camera was a roll of film.  An idiot knows not to open a camera with film in it that has not been rewound.  Of course, your friends always did say that an idiot was smarter than you (but only behind your back).",
+         "name" : "exposed film",
+         "number" : 19
+      },
+      {
+         "data" : [ 0, 8, -999, 13, 14, 0, 110, 0 ],
+         "description" : "There's a plain wooden door to the east, though some bozo has written \"West\" on it.",
+         "name" : "east door##",
+         "number" : 20
+      },
+      {
+         "data" : [ 0, 8, -999, 13, 15, 0, 110, 0 ],
+         "description" : "There's a plain wooden door to the west, though some bozo has written \"East\" on it.",
+         "name" : "west door##",
+         "number" : 21
+      },
+      {
+         "data" : [ 5, 1, 1, 13, 0, 0, 0, 0 ],
+         "description" : "You see the young man's marker.  Hmmm...  It is an expensive one, a \"Scotto-Deluxe\" marker, worth about 5 gold pieces.",
+         "name" : "black marker",
+         "number" : 22
+      },
+      {
+         "data" : [ 0, 12, 999, 14, 7, 0, 0, 0 ],
+         "description" : "Sitting on the floor is a large chest.  Hey, I have to have this here!  Otherwise it wouldn't be the Beginner's Cave!",
+         "name" : "chest",
+         "number" : 23
+      },
+      {
+         "data" : [ 85, 11, 0, -8, 0, 5, 0, 0 ],
+         "description" : "As the mimic dies, a ring rolls out from underneath it.",
+         "name" : "ring",
+         "number" : 24
+      },
+      {
+         "data" : [ 0, 7, 0, 15, 20, 1, 1, 0 ],
+         "description" : "You see the notes the dragon dropped.",
+         "name" : "notes",
+         "number" : 25
+      },
+      {
+         "data" : [ 0, 8, -999, 16, 17, 0, 110, 0 ],
+         "description" : "There is a door to the east.  Some bozo has written \"Must be 21 or older to enter.  You will be carded!\", whatever that means.",
+         "name" : "east door###",
+         "number" : 26
+      },
+      {
+         "data" : [ 0, 8, -999, 16, 18, 0, 110, 0 ],
+         "description" : "There is a door to the west here.  Some bozo has written \"Exit.  Keep closed at all times.\"  Then why put a door there?  Leave it a wall.",
+         "name" : "west door###",
+         "number" : 27
+      },
+      {
+         "data" : [ 0, 8, -999, 2020, 21, 0, 0, 1 ],
+         "description" : "Closer examination of the hidden door reveals it to be a (gasp!) hidden door.  It is from the \"Acme Hidden Door Series\" and appears to be the cheapest one they make.",
+         "name" : "hidden door",
+         "number" : 28
+      },
+      {
+         "data" : [ 15, 2, 5, -9, 10, 3, 1, 4 ],
+         "description" : "You see the Mad Priest's mace.",
+         "name" : "mace#",
+         "number" : 29
+      },
+      {
+         "data" : [ 15, 4, 7, 2023, 0, 0, 1, 0 ],
+         "description" : "Sitting on top of the table was the Mad Priest's boom box.  Apparently he likes the music of \"Sani-Toxin!\", a Michigan group with a small, but not loyal, following.",
+         "name" : "boom box",
+         "number" : 30
+      },
+      {
+         "data" : [ 100, 1, 1, 1030, 0, 0, 0, 0 ],
+         "description" : "You remove the cassette tape and read the songs listed on it:  \"Squash Them Puppies\", \"Pick My Nose for Satan\", and \"Place the Hot Iron on my Testicles\" (a hit with the masochists of the world!) are just some of the songs on it.",
+         "name" : "cassette tape",
+         "number" : 31
+      },
+      {
+         "data" : [ 0, 4, -999, 2025, 0, 0, 1, 0 ],
+         "description" : "The door (and it's frame) is laying flat on the floor (so you could probably still OPEN it).  For all the damage it has taken, its panels are still free of holes.",
+         "name" : "door",
+         "number" : 32
+      },
+      {
+         "data" : [ 25, 3, 9, 1032, 15, 5, 2, 8 ],
+         "description" : "You see a remarkable sword.  Someone has painted it the color of fire.  The words \"Crimson Fire\" have been etched into the hilt.",
+         "name" : "Crimson Fire",
+         "number" : 33
+      },
+      {
+         "data" : [ 0, 7, 1, 25, 27, 1, 1, 0 ],
+         "description" : "You see a book here.  What you have to figure out is if Robert kept the trick, or if it is really a different book.  The title of it reads \"Where to find, and how to defeat Bookworms.\"  Do you dare read it?",
+         "name" : "book",
+         "number" : 34
+      },
+      {
+         "data" : [ 0, 8, -999, 2029, 30, 0, 0, 1 ],
+         "description" : "The tapestry cleverly conceals a passage to the north!",
+         "name" : "a secret door north",
+         "number" : 35
+      },
+      {
+         "data" : [ 150, 3, 7, -12, 15, 5, 1, 10 ],
+         "description" : "You see the first magical weapon you've ever encountered; TrollsFire.  It's been a long time since you've owned one...",
+         "name" : "TrollsFire",
+         "number" : 36
+      },
+      {
+         "data" : [ 0, 1, 999, 30, 0, 0, 0, 0 ],
+         "description" : "Against the north wall is an open crate.  Inside it, you see hundreds of TrollsFires (literally!)!  The value of all of them would be astronomical.",
+         "name" : "box of TrollsFires",
+         "number" : 37
+      },
+      {
+         "data" : [ 1, 11, 1, 0, 0, 1, 0, 0 ],
+         "description" : "You see the life preserver that Nathan just wrote in.",
+         "name" : "life preserver",
+         "number" : 38
+      },
+      {
+         "data" : [ 0, 8, -999, 1, -999, 28, 1, 0 ],
+         "description" : "A large portcullis blocks the exit to the north.",
+         "name" : "portcullis",
+         "number" : 39
+      },
+      {
+         "data" : [ 0, 1, 999, 2057, 0, 0, 0, 0 ],
+         "description" : "You see a one-man escape pod.  It appears to be a set-program, which means that you don't need to program it to use it, other than start the self-destruct for the space-station.",
+         "name" : "escape pod",
+         "number" : 40
+      },
+      {
+         "data" : [ 0, 4, 999, 2046, 0, 0, 0, 0 ],
+         "description" : "It is a standard metal desk.  The only drawer to it is unlocked.  There is a picture on it.",
+         "name" : "desk",
+         "number" : 41
+      },
+      {
+         "data" : [ 0, 4, 2, 2046, 0, 0, 1, 0 ],
+         "description" : "Sitting on the desk is an 8x10 picture frame.  The contents of the picture are obscured by a square, black object.  (You could probably OPEN it and take said contents out.)",
+         "name" : "picture",
+         "number" : 42
+      },
+      {
+         "data" : [ 0, 7, 0, 1042, 51, 1, 1, 0 ],
+         "description" : "You find a disk inside the frame.  It is labeled #1.",
+         "name" : "disk #1",
+         "number" : 43
+      },
+      {
+         "data" : [ 0, 4, 0, 2052, 0, 0, 1, 0 ],
+         "description" : "It's a regular brown mailing envelope, about 6 inches by 9 inches.",
+         "name" : "brown envelope",
+         "number" : 44
+      },
+      {
+         "data" : [ 0, 7, 1, 1044, 53, 1, 1, 0 ],
+         "description" : "Inside the envelope you find a disk.  It is labeled #2.",
+         "name" : "disk #2",
+         "number" : 45
+      },
+      {
+         "data" : [ 0, 4, 999, 2054, 0, 0, 1, 0 ],
+         "description" : "The crate top, while looking heavy, is light enough to lift up at one corner.",
+         "name" : "crate top",
+         "number" : 46
+      },
+      {
+         "data" : [ 0, 7, 1, 1046, 55, 1, 1, 0 ],
+         "description" : "Laying under the crate top is a disk.  It is labeled #3.",
+         "name" : "disk #3",
+         "number" : 47
+      },
+      {
+         "data" : [ 0, 4, 1, 2056, 0, 0, 1, 0 ],
+         "description" : "It is a standard, large-size, pizza-carton.  It is from \"Checkers\", who's motto is \"30 minutes or less or it gets cold.\"  Understandable why they don't get much repeat business!",
+         "name" : "pizza-carton",
+         "number" : 48
+      },
+      {
+         "data" : [ 0, 7, 1, 1048, 57, 1, 1, 0 ],
+         "description" : "Inside the pizza-carton is a disk.  It is labeled #4.",
+         "name" : "disk #4",
+         "number" : 49
+      },
+      {
+         "data" : [ 0, 4, 999, 2058, 0, 1, 0, 1 ],
+         "description" : "It is a standard, Apple-compatible, 640,256K computer (no plugs, please!).  Hmmm...  It appears to be broken.",
+         "name" : "computer",
+         "number" : 50
+      },
+      {
+         "data" : [ 0, 4, 999, 2053, 0, 125, 1, 0 ],
+         "description" : "Closer examination of the locker on the floor reveals that it has not been opened because it is locked!",
+         "name" : "locker",
+         "number" : 51
+      },
+      {
+         "data" : [ 3, 7, 7, 1051, 59, 1, 1, 0 ],
+         "description" : "Inside the locker is a repair manual for an Apple-compatible, 256K machine.  Also very useful for getting stuff off of the top shelf <grin!>.",
+         "name" : "repair manual",
+         "number" : 52
+      },
+      {
+         "data" : [ 0, 1, 999, 2063, 0, 0, 9, 0 ],
+         "description" : "You see a silver-chrome and black, 1,640,256K Apple-compatible machine (I don't dare say IBM, Tom would kill me!).",
+         "name" : "chrome computer",
+         "number" : 53
+      },
+      {
+         "data" : [ 0, 7, 1, -15, 64, 1, 1, 0 ],
+         "description" : "You see a disk that the chimp had.  It is labeled #5.",
+         "name" : "disk #5",
+         "number" : 54
+      },
+      {
+         "data" : [ 0, 7, 1, -16, 66, 1, 1, 0 ],
+         "description" : "The robot dropped a disk.  It is labeled #6.",
+         "name" : "disk #6",
+         "number" : 55
+      }
+   ],
+   "effects" : [
+      {
+         "description" : "The signs lead you right to the cave.  There, you tie the horse to the post for the horses to be tied to.  Something in your mind says that you are forgetting something.  But what?*002",
+         "number" : 1
+      },
+      {
+         "description" : "The local Knight Marshall comes walking over to you.  \"You can't enter here, it's for beginner's only!  Move along.\" he says.  You bop the Knight Marshall on the head with your weapon.  You haven't come this far to let a**003",
+         "number" : 2
+      },
+      {
+         "description" : "low-life-white-collar-no-hope-in-getting-very-far-with-this-job city employee tell you what to do!  You step over his unconscious body and enter the Beginner's Cave...",
+         "number" : 3
+      },
+      {
+         "description" : "To: Acme Rat Co.                                            From: Hermit.*005",
+         "number" : 4
+      },
+      {
+         "description" : "Sir, due to the larger numbers of new adventurers, I need 1,002 more rats.  Please make that 334 black, 334 tan, and 334 brown.  Please send them C.O.D.  Thank you, the Hermit.",
+         "number" : 5
+      },
+      {
+         "description" : "\"You idiot!\" shouts Betty.  \"You killed Irving!  He was the best photographer in the world!  Who else am I going find to do my bondage shots.  You schmuck!\" she then leaves, dragging the body of Irving behind her.",
+         "number" : 6
+      },
+      {
+         "description" : "You see an old woman with a walker.  She is laying on the floor.  She sees you: \"Help me.  I've fallen, and I can't get up!\" she presses a button on a little gadget on a chain around her neck.  After a couple seconds, two guys with a**008",
+         "number" : 7
+      },
+      {
+         "description" : "stretcher enter.  They put her on it, and wheel her away.  \"God,\" you think, \"that really does get to be annoying after a while.\"",
+         "number" : 8
+      },
+      {
+         "description" : "You see a young man with a black marker.  He is drawing 'doodles' all over the walls!  When he sees you, he stops his vandalism and flees, dropping his marker on the floor.",
+         "number" : 9
+      },
+      {
+         "description" : "As you contemplate the room, trying to figure out where a hidden door would be, two men come rushing into the room.  They are wearing rag-tag clothes, and are out of breath.  They run into the west wall and collapse.  They quickly get to**011",
+         "number" : 10
+      },
+      {
+         "description" : "their feet and begin to frantically look for another exit.  Finding none, they start back towards the door they came in through.  Before they get halfway to it, a dragon enters through it.  The two men start to back up, each trying to**095",
+         "number" : 11
+      },
+      {
+         "description" : "\"Duh, now I got you!\" the dragon says.  \"I thought I lost you!\"  Without warning, the dragon cuts loose with a Number 5 Fire (extra-crispy).*013",
+         "number" : 12
+      },
+      {
+         "description" : "The two men scream as the flames burn them to dust!  The dragon stops breathing and turns toward you...  \"Duh, gee George, didn't we meet somewhere else before?\"*014",
+         "number" : 13
+      },
+      {
+         "description" : "\"N...N...No!\" you quickly shout.*096",
+         "number" : 14
+      },
+      {
+         "description" : "\"Duh, O.K.\" says the dragon as he leaves, dropping a pile of papers as he goes.  You turn back to the two piles of dust, and see a transparent figure in front of them.  You watch in disbelief as from the dust two transparent figures of**016",
+         "number" : 15
+      },
+      {
+         "description" : "the two men rise up!*019",
+         "number" : 16
+      },
+      {
+         "description" : "\"Schmuck.\" says one, and tries to smack the other, his hand going through him.  \"Moron!\" replies the other, and tries to kick the first.*018",
+         "number" : 17
+      },
+      {
+         "description" : "Alas, the chase begins anew in death.  After they take-off, one chasing the other through the walls, the tall figure re-appears.  \"Dammit!\" he says.  \"I should have minded my own business!\" and promptly vanishes in thin air.",
+         "number" : 18
+      },
+      {
+         "description" : "\"Thank you, Obi-Pat Hurst.\" they say in unison.  \"We have seen the error of our ways.\".  The taller figure then disappears.*017",
+         "number" : 19
+      },
+      {
+         "description" : "They are un-readable.  Apparently they were Robert's, who was not a very neat writer.  Only Nathan could decipher them.",
+         "number" : 20
+      },
+      {
+         "description" : "As you pass into the rough-hewn passage to the south, you hear a sound from the north.  Looking back, you see the doors you just passed have mouths on them.  Some are humming, and some are making \"Doom, Doom\" sounds, while one sings:*022",
+         "number" : 21
+      },
+      {
+         "description" : "\"We gotta get out of this place, if it's the last thing we ever do...  We gotta get out of this place, 'cause we hate schmucks like you...  You kick us in and turn us to chips...  We may be doors but we won't take that ship!\" (It rhymes.)*023",
+         "number" : 22
+      },
+      {
+         "description" : "Then they all starting singing it!*098",
+         "number" : 23
+      },
+      {
+         "description" : "A young man with an \"Anthrax\" T-shirt walks in from the north.  He appears to be crying about something.  You question him about this:  \"Robert's dead!  My God, he's working on that great terminal in the sky.  He's saving the big G's**025",
+         "number" : 24
+      },
+      {
+         "description" : "data now.  He's..  He's gone!  And he didn't have time to finish entering the data for this one!  What are we gonna do!  My God!  What's that?  You have his notes!  Give them to me, now!\"*026",
+         "number" : 25
+      },
+      {
+         "description" : "You hand them over to him.*099",
+         "number" : 26
+      },
+      {
+         "description" : "You fool!  Robert was dead, remember?  It is obvious that this book was placed here either by Nathan or The Bookworm?  Which one?  Which one?  Too late for answers.  You turn into a fish...",
+         "number" : 27
+      },
+      {
+         "description" : "Just as you enter the room, the man you ran into earlier (who took the notes you had found) walks into the room.*029",
+         "number" : 28
+      },
+      {
+         "description" : "\"I know why you couldn't go any further.  Robert died before he could write in a life preserver.  Here, take it.  I've got to be going.  I broke one of my mother's expensive Chinese dishes, and I have to pay for it.  Bye.\" he then leaves.",
+         "number" : 29
+      },
+      {
+         "description" : "You begin to swim toward the ship.  About half-way there, a dinghy pulls away from it and heads toward you.  Soon, it pulls up along side you.  In it you see a cat with Samurai-type armour and swords.  He speaks:*031",
+         "number" : 30
+      },
+      {
+         "description" : "\"Have you see the decadent authol of Lagnolock Levisited, Nathan Segelrind?\"*032",
+         "number" : 31
+      },
+      {
+         "description" : "You begin to answer no, but it comes out \"Yes.  He's in the Beginner's Cave, working on some notes of the late Robert Parker.  He did say something about China, though.\"*033",
+         "number" : 32
+      },
+      {
+         "description" : "\"Lobelt is dead!\" exclaims the cat.  \"It is a sad day in Eamon Histoly.  Ret us bow oul heads in playel fol his sour.\"*034",
+         "number" : 33
+      },
+      {
+         "description" : "You bow youl, er, your head in prayer, trying not to inhale the water through your nose.*035",
+         "number" : 34
+      },
+      {
+         "description" : "The cat looks up.  \"I must be going.  Thele is a vendetta that must be paid.  Oh, bewale.  Thele is a ralge whare in the alea.\"*036",
+         "number" : 35
+      },
+      {
+         "description" : "He departs.*037",
+         "number" : 36
+      },
+      {
+         "description" : "\"Whare?\" you think.  \"Whare?... Whare?...Whale!!!!\"*38",
+         "number" : 37
+      },
+      {
+         "description" : "You begin swimming back to the cove.  You are concentrating so hard on getting back, you never notice the huge whale surface behind you...",
+         "number" : 38
+      },
+      {
+         "description" : "You crawl up the narrow tube.  You find yourself in a small cavity under the blow-hole.  It's about 20 feet above you.  Suddenly, a figure comes out of the darkness.  He is wearing a damp T-shirt that reads \"Go Michigan!\".  You**040",
+         "number" : 39
+      },
+      {
+         "description" : "recognize him from earlier.  It's Nathan!*041",
+         "number" : 40
+      },
+      {
+         "description" : "\"Is that cat still out there?\" he asks nervously.  \"God, if I knew he was going to be that upset, I would have never written that game!  Hopefully, he'll never think of looking for me in here.\"*042",
+         "number" : 41
+      },
+      {
+         "description" : "\"Any idea of how we're gonna get out?\" you ask him.*043",
+         "number" : 42
+      },
+      {
+         "description" : "\"None.\"*044",
+         "number" : 43
+      },
+      {
+         "description" : "\"Hmmmm...  We're stuck, then.\"*045",
+         "number" : 44
+      },
+      {
+         "description" : "\"Only until the whale clears his blow-hole.\" he replies.",
+         "number" : 45
+      },
+      {
+         "description" : "You both turn and look at each other...*047",
+         "number" : 46
+      },
+      {
+         "description" : "\"AAAAAAAAAAAAAAAAAAAAAAHHHHHHHHH!!!!!!\"*048",
+         "number" : 47
+      },
+      {
+         "description" : "The whale clears his blow-hole...",
+         "number" : 48
+      },
+      {
+         "description" : "A bright column of light, about two feet wide, appears in the room.  It glows bright, then fades away.  In its place is a young man.  He is holding a large box in his arms.*050",
+         "number" : 49
+      },
+      {
+         "description" : "\"Hot damn!  I finally got my printer!\" he says, then walks north.  A gleam in his eyes tells you not to bother him.  Let him discover the portcullis on his own.",
+         "number" : 50
+      },
+      {
+         "description" : "Subject: Airlocks*052",
+         "number" : 51
+      },
+      {
+         "description" : "The password required to open airlocks is as follows: 1653",
+         "number" : 52
+      },
+      {
+         "description" : "Subject: Password to door #1*054",
+         "number" : 53
+      },
+      {
+         "description" : "The password to door #1 is as follows:  PATC.",
+         "number" : 54
+      },
+      {
+         "description" : "Subject: Password to door #2*056",
+         "number" : 55
+      },
+      {
+         "description" : "The password to door #2 is as follows:  ENEB.",
+         "number" : 56
+      },
+      {
+         "description" : "Subject: Password to door #3*058",
+         "number" : 57
+      },
+      {
+         "description" : "The password to door #3 is as follows:  SATE.",
+         "number" : 58
+      },
+      {
+         "description" : "It reads: \"Most of the 'System Kernel' resides at $F800-$FFFF, though a few system routines lie in other areas of ROM.  The system kernel forms the low-level basis for how the computer works.\"  Etc.  And so on <yawn!>.",
+         "number" : 59
+      },
+      {
+         "description" : "Up, up, up you go.  The young man goes off at an angle, while you go straight up.  Soon, you are in outer space!  Just before you explode, you get sucked into an airlock on the space-station, R.B. Bookworm (the R.B. stands for \"Really Bad\").*062",
+         "number" : 60
+      },
+      {
+         "description" : "Cool!  Dragnet's on the telly.  I'll have to finish the game later.",
+         "number" : 61
+      },
+      {
+         "description" : "Gasping lungfulls of oxygen, you know you have to get back to the Main Hall to warn them that The Bookworm has a space-station.  Has?  It's your job to defeat him.  Make that HAD a space-station.*063",
+         "number" : 62
+      },
+      {
+         "description" : "You stand up, ready for battle...",
+         "number" : 63
+      },
+      {
+         "description" : "Subject: Password to door #4*065",
+         "number" : 64
+      },
+      {
+         "description" : "The password to door #4 is as follows:  NBIF.",
+         "number" : 65
+      },
+      {
+         "description" : "Subject: Password to self-destruct*067",
+         "number" : 66
+      },
+      {
+         "description" : "The password to self-destruction is as  follows: NSIC.",
+         "number" : 67
+      },
+      {
+         "description" : "You enter the escape pod.  A few seconds later, it blasts away from the ship.  You sit back and relax, knowing that these kinds of escape pods have a set-landing spot.  Nothing can alter their paths...*069",
+         "number" : 68
+      },
+      {
+         "description" : "As you glance out the tiny window, you see a young man come flying up towards the ship.  Nathan!  He collides with the escape pod, altering its course.  You see him fall back towards the Earth while you realize your path has been altered**070",
+         "number" : 69
+      },
+      {
+         "description" : "slightly.  You strap yourself in, getting ready for a violent crash.",
+         "number" : 70
+      },
+      {
+         "description" : "With a start you realize that you landed just inside the entrance of the Beginner's Cave!  You hit so hard that the portcullis that blocked the entrance popped open!  You can now leave.",
+         "number" : 71
+      },
+      {
+         "description" : "As you exit the Beginner's Cave, you see a large hairy shape to your right.  It's the dead King Kong!  My God, he must have wiped out the next 4 counties!  You pray that you won't have to pay for all the damage done!  You notice the**073",
+         "number" : 72
+      },
+      {
+         "description" : "young man you saw earlier, the one who beamed in.  He is sitting on a stump by the dead body, and is sobbing his head off:*074",
+         "number" : 73
+      },
+      {
+         "description" : "\"Right on my brand new printer!  I knew I shouldn't have put it down for a moment!  What am I gonna do?!  Two hundred bucks down the drain.  Mom's gonna kill me!\"*075",
+         "number" : 74
+      },
+      {
+         "description" : "As you look at him, a pickup pulls up in front of you.*076",
+         "number" : 75
+      },
+      {
+         "description" : "\"Jeez, look at the size of that thing!\" the driver exclaims.  \"Hey, can I offer you two a lift back?  I promise, I don't stop to climb trees no more!\" he says with a <grin>.*077",
+         "number" : 76
+      },
+      {
+         "description" : "You both climb into the back.  You can't help but notice that it's not his usual small truck.  Indeed, this time, he has a big monster truck with 7-foot tires on it.  The driver looks back through the little glass window.*078",
+         "number" : 77
+      },
+      {
+         "description" : "\"Nope!  I drive over 'em now!\" he says, then proceeds to tear off at a pace that would make A.J. Foyt's hair turn white with fear.",
+         "number" : 78
+      },
+      {
+         "description" : "<Click!>",
+         "number" : 79
+      },
+      {
+         "description" : "\"What a load of manure.  I, Sam Ruby, write better games then that when I'm asleep.  Pheww.  Kind of stuffy in here.  Think I'll open a window.\"*081",
+         "number" : 80
+      },
+      {
+         "description" : "\"Oh wow! a comet!  I must telegram the International Astronomical Society and report yet another comet!  Ah, Ruby-922, what a ring to it!\"",
+         "number" : 81
+      },
+      {
+         "description" : "He also gives you 1,000 gold pieces for the film in the camera with a copy of the pictures thrown in for free.",
+         "number" : 82
+      },
+      {
+         "description" : "(Over the Pacific Ocean, about 75 miles north, northwest of San Francisco...)",
+         "number" : 83
+      },
+      {
+         "description" : "\"Captain, rook to stalboald!  A young man ferr flom the sky!\"*085",
+         "number" : 84
+      },
+      {
+         "description" : "\"Must be a clazy palachutists.  Bling him aboald.\"*086",
+         "number" : 85
+      },
+      {
+         "description" : "\"Yes sil!\"*087",
+         "number" : 86
+      },
+      {
+         "description" : "\"Thank you, Captain!  I must radio my mother and let her know I'll be late for dinner.\"*088",
+         "number" : 87
+      },
+      {
+         "description" : "\"So solly, but thele is no ladio on boald.  You can phone hel, when we leach polt in thlee months, though.\"*089",
+         "number" : 88
+      },
+      {
+         "description" : "\"Three months?  What is this, a slow boat to China?!?\"*090",
+         "number" : 89
+      },
+      {
+         "description" : "\"Why yes, as a mattel of fact, it is.  Asrow boat to china...\"",
+         "number" : 90
+      },
+      {
+         "description" : "(In a rowboat, 25 miles north, northwest of San Francisco, an angry cat rows...)",
+         "number" : 91
+      },
+      {
+         "description" : "As the bookworm dies, he mutters \"Whatta world, Whatta world.\"",
+         "number" : 92
+      },
+      {
+         "description" : "How profound.  With the completion of this Eamon adventure, Robert Parker has become the second most prolific author!  Yeah!!",
+         "number" : 93
+      },
+      {
+         "description" : "The section of the tunnel you're in does not collapse!  Nothing happens!",
+         "number" : 94
+      },
+      {
+         "description" : "hide behind the other.*012",
+         "number" : 95
+      },
+      {
+         "description" : "\"Duh, are you sure?\"*097",
+         "number" : 96
+      },
+      {
+         "description" : "\"Yes!\"*015",
+         "number" : 97
+      },
+      {
+         "description" : "\"We gotta get out of this place, if it's the last thing we ever do...\"",
+         "number" : 98
+      },
+      {
+         "description" : "\"Now then,\" he says, \"Go about the cave while I finish this up for him.\"  He walks away, mumbling about Robert's bad handwriting.",
+         "number" : 99
+      },
+      {
+         "description" : "You deliver the Bookworm's body to the officials at the Main Hall.  The antidote is extracted from it and the orc recovers promptly from his coma.  Hokas Tokas is freed and he gratefully rewards you by not turning you into a toad.*101",
+         "number" : 100
+      },
+      {
+         "description" : "(NOTE:  If you don't understand this, then I suggest you go play \"Encounter: The Bookworm\" and \"Revenge of the Bookworm\" first, like you are supposed to do.)",
+         "number" : 101
+      }
+   ],
+   "info" : {
+      "author" : "Robert Parker",
+      "difficulty" : "7.5/1",
+      "rating" : "7",
+      "serialNum" : "226"
+   },
+   "intro" : "",
+   "monsters" : [
+      {
+         "data" : [ 14, 14, 1, 200, 4, 0, 0, 3, 2, 5, 125, 0, 0 ],
+         "description" : "The Hermit, the foul smelling monster of your nightmares, is here.  The smell!  The smell!  He looks at you, trying to remember where he's seen you before...",
+         "name" : "Hermit",
+         "number" : 1
+      },
+      {
+         "data" : [ 5, 12, 3, 0, 6, 0, 0, 0, 1, 5, 1, 0, 0 ],
+         "description" : "The three rats, brown, black, and tan, are here, just as they always are.  If memory serves you correct, when you go after one, the other two will flee.",
+         "name" : "Rat",
+         "number" : 2
+      },
+      {
+         "data" : [ 25, 5, 1, 200, 8, 1, 0, 0, 1, 4, 1, 0, 0 ],
+         "description" : "My god!  Some fool (namely Robert Parker) has replaced the gorilla usually in here with King Kong!  Actually, it's King Kong's toe and boy, that hangnail must hurt like you would not believe!",
+         "name" : "King Kong's Toe",
+         "number" : 3
+      },
+      {
+         "data" : [ 16, 10, 1, 200, 9, 0, 2, 11, 2, 3, 175, 0, 0 ],
+         "description" : "A young man with a shield with a smiley face on it comes rushing up to you.  He grabs you from behind, and begins to pull his fists into your stomach so hard, you cough up the gum you had in your mouth.",
+         "name" : "Heimlich",
+         "number" : 4
+      },
+      {
+         "data" : [ 16, 10, 1, 200, 11, 0, 0, 0, 1, 4, 2, 0, 0 ],
+         "description" : "There is a man here with a camera.  He is taking pictures of a bound woman.  He sees you, says, \"Will you quit blocking the light?  I'm trying to work!\" and goes back to snapping pictures of the woman.",
+         "name" : "Photographer",
+         "number" : 5
+      },
+      {
+         "data" : [ 16, 16, 1, 200, 0, 0, 0, 0, 1, 1, 2, 0, 0 ],
+         "description" : "The woman, free of her bonds, stretches.  She is a rather attractive lady, and if you were feeling amorous, would of tried something naughty.",
+         "name" : "Betty Page",
+         "number" : 6
+      },
+      {
+         "data" : [ 18, 3, 1, 200, 0, 1, 2, 0, 1, 4, 1, 0, 0 ],
+         "description" : "As you open the chest, it comes to life and tries to attack you!",
+         "name" : "Mimic",
+         "number" : 7
+      },
+      {
+         "data" : [ 18, 10, 1, 200, 23, 0, 0, 29, 1, 4, 1, 0, 0 ],
+         "description" : "You surprise a man in priest's garb.  He jumps up from the table, and grabs his mace.  He advances...",
+         "name" : "Mad Priest",
+         "number" : 8
+      },
+      {
+         "data" : [ 12, 12, 1, 95, 23, 0, 0, -1, 1, 4, 3, 0, 0 ],
+         "description" : "Also at the table was a famous actress, to be named later.  She jumps to her feet, shoving her script into her pocket and starts to speak, \"Oh, help me!  This terrible man wants to sacrifice me to the really old gods.  Help me!\"",
+         "name" : "Cynthia",
+         "number" : 9
+      },
+      {
+         "data" : [ 16, 12, 1, 200, 25, 0, 1, 0, 1, 4, 1, 0, 0 ],
+         "description" : "You see a hideous creature writing something on the wall.  It reads: \"Frodo is a frog-face!\"  He turns and sees you!",
+         "name" : "Orc",
+         "number" : 10
+      },
+      {
+         "data" : [ 16, 14, 1, 200, 29, 0, 1, 36, 1, 5, 1, 0, 0 ],
+         "description" : "A nasty ol' pirate is here.  When he sees you, he pulls out a sword.  He speaks, \"TROLLSFIRE\", and it lights up!",
+         "name" : "Pirate",
+         "number" : 11
+      },
+      {
+         "data" : [ 16, 16, 1, 200, 35, 1, 0, 0, 1, 4, 3, 0, 0 ],
+         "description" : "Standing (?) here is a large white blood-cell.  He sees you and salutes.  If Robert wasn't dead, you'd kill him for making \"Anatomy of a Whale.\"",
+         "name" : "White Blood-Cell",
+         "number" : 12
+      },
+      {
+         "data" : [ 20, 15, 1, 200, 38, 1, 0, 0, 1, 6, 1, 0, 0 ],
+         "description" : "A mean-looking cancer cell is here.  Boy, he looks pissed!  I hope you found the white blood-cell!",
+         "name" : "Cancer-Cell",
+         "number" : 13
+      },
+      {
+         "data" : [ 15, 21, 1, 90, 43, 0, 0, 0, 1, 3, 150, 0, 0 ],
+         "description" : "Swinging from a light in the ceiling is a chimp.  He looks nice, but who knows what The Bookworm has done to him...",
+         "name" : "Chimp",
+         "number" : 14
+      },
+      {
+         "data" : [ 24, 10, 1, 200, 57, 1, 3, 0, 1, 2, 2, 0, 0 ],
+         "description" : "Pounding on the escape pod is a robot.  It is saying something like, \"R2D2, get out of there.\"  It is obviously deranged.  (Either that, or in the wrong game!)",
+         "name" : "Robot",
+         "number" : 15
+      },
+      {
+         "data" : [ 25, 10, 1, 200, 56, 1, 3, 0, 1, 2, 1, 0, 0 ],
+         "description" : "Opening up some of the cans is a robot.  It sees you and advances.  I think it wants to open you up!",
+         "name" : "Robot",
+         "number" : 16
+      },
+      {
+         "data" : [ 200, 5, 1, 200, 46, 1, 4, 0, 0, 0, 3, 0, 0 ],
+         "description" : "Sitting on the floor in the corner is a robot.  It sees you.  \"Hi, I'm Marvin. No-one likes me.  Everyone hates me.  So you might as well hate me.  Please kill me.  You will want to after a while with me.\"  He stands and walks towards you.",
+         "name" : "Marvin",
+         "number" : 17
+      },
+      {
+         "data" : [ 25, 10, 1, 200, 58, 1, 1, 0, 1, 2, 1, 0, 0 ],
+         "description" : "Guarding the computer is a very mean-looking robot.",
+         "name" : "Robot",
+         "number" : 18
+      },
+      {
+         "data" : [ 30, 19, 1, 200, 63, 0, 2, 0, 1, 12, 1, 0, 0 ],
+         "description" : "You see the horrible, etc., Mr. R., on loan to us from the Nathan Segerlind Collection.  Although he isn't wearing his plaid pants, he is still one bad dude!",
+         "name" : "Mr. R",
+         "number" : 19
+      },
+      {
+         "data" : [ 25, 21, 1, 200, 63, 1, 0, 0, 2, 3, 1, 0, 0 ],
+         "description" : "Your arch enemy, not to mention fiend to your hands and other body parts, The Bookworm is here.  He sees you and let's forth a mighty battle cry (Bookworm's have vocal chords???).  He attacks!",
+         "name" : "Bookworm",
+         "number" : 20
+      }
+   ],
+   "name" : "Bookworm 3-D",
+   "numDirections" : 6,
+   "rooms" : [
+      {
+         "data" : [ 1039, -2, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You stand just inside the Beginner's Cave.  You can only move south, deeper into the Beginner's Cave.",
+         "name" : "You are just inside the Beginner's Cave.  (N/S)",
+         "number" : 1
+      },
+      {
+         "data" : [ 1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a dim, north/south passageway.  A torch flickers on the wall, the only one to be seen.  You seem to recall that one of the changes made to the cave was the addition of torches that can be removed.",
+         "name" : "You are in a dim passageway.  (N/S)",
+         "number" : 2
+      },
+      {
+         "data" : [ 2, 7, -4, 6, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a large chamber.  There are exits to the north, south, east and the west.",
+         "name" : "You are in a chamber.  (N/S/E/W)",
+         "number" : 3
+      },
+      {
+         "data" : [ 1002, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You find yourself in the Hermit's room.  All those months of therapy are wasted.  You wonder if you will ever forget the foul odor of this room.  A --->ROCK<--- is sitting against the north wall.  The only exit is west.",
+         "name" : "You are in the Hermit's room.  (W)",
+         "number" : 4
+      },
+      {
+         "data" : [ 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "From the looks of this room, you realize that you have discovered the Hermit's dressing room!  The only exit is south.",
+         "name" : "You are in the Hermit's dressing room.  (S)",
+         "number" : 5
+      },
+      {
+         "data" : [ 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a large chamber that smells of rat droppings.  The only exit is to the east.",
+         "name" : "You are in a chamber.  (E)",
+         "number" : 6
+      },
+      {
+         "data" : [ 3, 10, 1009, 1010, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a plain north/south passage.  There are doors to the east and west.",
+         "name" : "You are in a north/south passage.  (N/S/E/W)",
+         "number" : 7
+      },
+      {
+         "data" : [ 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small plain room.  The only exit is west.",
+         "name" : "You are in a room.  (W)",
+         "number" : 8
+      },
+      {
+         "data" : [ 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small plain room.  The only exit is east.",
+         "name" : "You are in a small room.  (E)",
+         "number" : 9
+      },
+      {
+         "data" : [ 7, 13, 1015, 1016, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a plain north/south passage.  There are doors to the east and west.",
+         "name" : "You are in a north/south passage.  (N/S/E/W)",
+         "number" : 10
+      },
+      {
+         "data" : [ 0, 0, 0, 10, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small plain room.  The only exit is west.",
+         "name" : "You are in a room.  (W)",
+         "number" : 11
+      },
+      {
+         "data" : [ 0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a plain room.  The only exit is east.",
+         "name" : "You are in a room.  (E)",
+         "number" : 12
+      },
+      {
+         "data" : [ 10, 16, 1020, 1021, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a north/south passage.  There are doors to the east and west.  This is getting boring, isn't it?  Don't worry, only one more set of doors to go.",
+         "name" : "You are in a north/south hallway.  (N/S/E/W)",
+         "number" : 13
+      },
+      {
+         "data" : [ 0, 0, 0, 13, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small plain room.  The only exit is west.",
+         "name" : "You are in a small room.  (W)",
+         "number" : 14
+      },
+      {
+         "data" : [ 0, 0, 13, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small plain room.  The only exit is east.",
+         "name" : "You are in a small room.  (E)",
+         "number" : 15
+      },
+      {
+         "data" : [ 13, -19, 1026, 1027, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a plain north/south passage.  There are doors to the east and west.  The passage to the south is roughly cut.  Thank Bob these are the last pair of doors!",
+         "name" : "You are in a north/south passage.  (N/S/E/W)",
+         "number" : 16
+      },
+      {
+         "data" : [ 0, 0, 0, 16, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a plain room.  The only exit is west.",
+         "name" : "You are in a room.  (W)",
+         "number" : 17
+      },
+      {
+         "data" : [ 0, 0, 16, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a plain room.  The only exit is east.",
+         "name" : "You are in a room.  (E)",
+         "number" : 18
+      },
+      {
+         "data" : [ 16, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a rough passage that goes north and south.",
+         "name" : "You are in a rough passage.  (N/S)",
+         "number" : 19
+      },
+      {
+         "data" : [ 19, -24, 1028, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a plain north/south passage.  From the east, you faintly hear music.  It appears to be coming from a large square on the east wall labeled, \"Hidden Door\".",
+         "name" : "You are in a north/south passage.",
+         "number" : 20
+      },
+      {
+         "data" : [ 0, 0, 22, 20, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a cramped, east/west tunnel.  Music can be heard from the east.",
+         "name" : "You are in an east/west tunnel.",
+         "number" : 21
+      },
+      {
+         "data" : [ 0, 0, 23, 21, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a cramped, east/west tunnel.  The music is much louder now.",
+         "name" : "You are in an east/west tunnel.",
+         "number" : 22
+      },
+      {
+         "data" : [ 0, 0, 0, 22, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "The music is extremely loud now.  It seems to be coming from a table in the room.",
+         "name" : "You are in a worshipping room.  (W)",
+         "number" : 23
+      },
+      {
+         "data" : [ 20, 0, 26, 25, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You can return to the north, or go east or west.  To the west, there appears to be a room.  The door which blocked access to the room is missing.",
+         "name" : "You are at a T-intersection.  (N/E/W)",
+         "number" : 24
+      },
+      {
+         "data" : [ 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a room.  It appears to have once been a library.  The DOOR to the room is lying on the floor.",
+         "name" : "You are in a room.  (E)",
+         "number" : 25
+      },
+      {
+         "data" : [ 0, 0, 0, 24, 0, 27, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a plain passage.  It leads west and downwards.",
+         "name" : "You are in a passage.  (W/D)",
+         "number" : 26
+      },
+      {
+         "data" : [ 0, 0, 28, 0, 26, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You can take the landing up or go east.  A hint of salt is in the air, and you think it is beginning to get lighter in the cave.",
+         "name" : "You are at a stair-landing.  (E/U)",
+         "number" : 27
+      },
+      {
+         "data" : [ 0, 0, 29, 27, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a plain east/west passage.  You can smell salt in the air.  Also, it is bright enough that you no longer need to keep the torch lit.",
+         "name" : "You are in an east/west passage.",
+         "number" : 28
+      },
+      {
+         "data" : [ 1035, 0, -31, 28, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a small cove.  To the east is the ocean.  If you had a life jacket, you could swim out to a ship out there!  On the north wall is a tapestry.  The only exit is west.",
+         "name" : "You are in a small cove by the bay.  (E/W)",
+         "number" : 29
+      },
+      {
+         "data" : [ 0, 29, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in the Pirate's store-room!  The only exit is south.",
+         "name" : "You are in the Pirate's store-room.  (S)",
+         "number" : 30
+      },
+      {
+         "data" : [ -32, -32, -32, 29, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are swimming in the bay.  You may go north, south, east or west.",
+         "name" : "You are swimming in the bay.  (N/S/E/W)",
+         "number" : 31
+      },
+      {
+         "data" : [ 0, 33, 34, 35, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in the whale.  You can go south, east or west.  On the north wall, someone has written, \"Jonah was here... Apples - 3 for a dollar.\"  (Anatomy of a Whale ???)",
+         "name" : "You are in the whale.  (S/E/W)",
+         "number" : 32
+      },
+      {
+         "data" : [ 32, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in the whale's butt (yuck!).  Go north, quickly!!!",
+         "name" : "You are in the whale's butt.  (N)",
+         "number" : 33
+      },
+      {
+         "data" : [ 37, 0, 0, 32, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are on the right side of the whale.  You can go north or west.",
+         "name" : "You are on the whale's right side.  (N/W)",
+         "number" : 34
+      },
+      {
+         "data" : [ 36, 0, 32, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are on the left side of the whale.  You can go north or east.",
+         "name" : "You are on the whale's left side.  (N/E)",
+         "number" : 35
+      },
+      {
+         "data" : [ 38, 35, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are on the left side of the whale.  You can go north or south.",
+         "name" : "You are on the left side of the whale.  (N/S)",
+         "number" : 36
+      },
+      {
+         "data" : [ 38, 34, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are on the right side of the whale.  You can go north or south.",
+         "name" : "You are on the right side of the whale.  (N/S)",
+         "number" : 37
+      },
+      {
+         "data" : [ 0, -39, 37, 36, -39, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in the front of the whale.  You can go east or west, or south into a narrow opening that slopes up.",
+         "name" : "You are in the front of the whale.  (S/E/W)",
+         "number" : 38
+      },
+      {
+         "data" : [ 41, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "There is a door to the north.  Next to the door, in the wall, is a small numeric-keyboard.  There is a sealed door on the south wall.  Now would be a good time to SAVE a game.",
+         "name" : "You are in an airlock.  (N)",
+         "number" : 39
+      },
+      {
+         "data" : [ 44, 0, 41, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a plain north/east hallway.  There are connecting hallways in both directions.",
+         "name" : "You are in a north/east hallway.",
+         "number" : 40
+      },
+      {
+         "data" : [ 62, 39, 42, 40, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "There appear to be rooms to the north, south, and east, and a hallway to the west.",
+         "name" : "You are at a 4-way intersection.  (N/S/E/W)",
+         "number" : 41
+      },
+      {
+         "data" : [ 45, 0, 0, 41, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a laboratory.  Everything has been thrown about, destroying valuable equipment.  Nothing of value is here.  The only exits are to the north and west.",
+         "name" : "You are in a lab.  (N/W)",
+         "number" : 42
+      },
+      {
+         "data" : [ 48, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a plain north/east hallway.  You can see hallways to the north and east.",
+         "name" : "You are in a north/east hallway.",
+         "number" : 43
+      },
+      {
+         "data" : [ 59, 40, 62, 43, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "Alcoves can be seen to the north and east, while hallways are seen south and west.",
+         "name" : "You are at a 4-way intersection.  (N/S/E/W)",
+         "number" : 44
+      },
+      {
+         "data" : [ 61, 42, 46, 62, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "Alcoves are to the north and west, while a room is seen to the east.  A hallway is south.",
+         "name" : "You are at a 4-way intersection.  (N/S/E/W)",
+         "number" : 45
+      },
+      {
+         "data" : [ 49, 0, 0, 45, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The lack of identification makes the resident of this room unknown to you.  The only thing of interest is a picture on a desk.",
+         "name" : "You are in a private chamber.  (N/W)",
+         "number" : 46
+      },
+      {
+         "data" : [ 0, 0, 48, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "There is an exit to the east.  It has a numeric-keyboard in the wall next to it.  A west exit stands closed.",
+         "name" : "You are in an airlock.  (E)",
+         "number" : 47
+      },
+      {
+         "data" : [ 58, 43, 59, 47, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "A room can be seen to the north, while an alcove is visible east.  An airlock lies to the west, and a hallway south.",
+         "name" : "You are at a 4-way intersection.  (N/S/E/W)",
+         "number" : 48
+      },
+      {
+         "data" : [ 53, 46, 50, 61, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "Rooms are to the north and south, while an alcove is visible west.  An airlock lies to the east.",
+         "name" : "You are at a 4-way intersection.  (N/S/E/W)",
+         "number" : 49
+      },
+      {
+         "data" : [ 0, 0, 0, 49, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "There is an exit to the west.  It has a numeric-keyboard in the wall next to it.  An east exit stands closed.",
+         "name" : "You are in an airlock.  (W)",
+         "number" : 50
+      },
+      {
+         "data" : [ 54, 59, 60, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at a small 3-way connection.  There is a room to the north, while alcoves are to be seen to the south and east.",
+         "name" : "You are at a 3-way connection.  (N/S/E)",
+         "number" : 51
+      },
+      {
+         "data" : [ 56, 61, 53, 60, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "Rooms are to the north and east, while alcoves are to the south and west.  Other than a brown envelope laying on the floor, there is nothing here.",
+         "name" : "You are in a storage room.  (N/S/E/W)",
+         "number" : 52
+      },
+      {
+         "data" : [ 0, 49, 0, 52, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in what appears to be a locker room.  Something has torn the doors off of most of them.  One has been pulled out of the wall and lays, unopened, on the floor.  Exits are to the south and east.",
+         "name" : "You are in a locker room.  (S/W)",
+         "number" : 53
+      },
+      {
+         "data" : [ 0, 51, 55, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The boxes and crates here have all been ripped open, their contents in ruins.  A large crate-top laying on the floor has \"3-D\" burnt into it.  Exits are south and east.",
+         "name" : "You are in a storage room.  (S/E)",
+         "number" : 54
+      },
+      {
+         "data" : [ 57, 60, 56, 54, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "Rooms are to the east and west.  An airlock is to the north, and an alcove is south.",
+         "name" : "You are at a 4-way intersection.  (N/S/E/W)",
+         "number" : 55
+      },
+      {
+         "data" : [ 0, 52, 0, 55, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in the cooking area.  All of the produce here is canned book-mulch, the Bookworm's favorite!  Other than a pizza-carton, there is no other food here.",
+         "name" : "You are in the kitchen.  (S/W)",
+         "number" : 56
+      },
+      {
+         "data" : [ 0, 55, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "Near the south door is a numeric-keyboard.  The north door is closed.  A small, one-man escape pod is here.",
+         "name" : "You are in an airlock.  (S)",
+         "number" : 57
+      },
+      {
+         "data" : [ 0, 48, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in the space-station's computer room.  Wow!  The computer here would be great to play Eamons on.  If only I had a disk...",
+         "name" : "You are in the computer room.  (S)",
+         "number" : 58
+      },
+      {
+         "data" : [ 51, 44, -63, 48, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "There's hallways to the north, south and west.  East is a door.  It has #1 stenciled on it.  A small keyboard is mounted in the wall next to it.",
+         "name" : "You are in an alcove.  (N/S/E/W)",
+         "number" : 59
+      },
+      {
+         "data" : [ 55, -63, 52, 51, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "There's hallways to the north and west, while a room is to the east.  A door is south.  It has #2 stenciled on it.  There is a small keyboard mounted in the wall next to it.",
+         "name" : "You are in an alcove.  (N/S/E/W)",
+         "number" : 60
+      },
+      {
+         "data" : [ 52, 45, 49, -63, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "There's hallways to the east and south.  North is a room.  A door is to the west with #3 stenciled on it.  A small keyboard is in the wall next to it.",
+         "name" : "You are in an alcove.  (N/S/E/W)",
+         "number" : 61
+      },
+      {
+         "data" : [ -63, 41, 45, 44, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "Hallways are to the east, west, and south.  North is a door.  It has #4 stenciled on it.  A small keyboard is mounted in the wall next to it.",
+         "name" : "You are in an alcove.  (N/S/E/W)",
+         "number" : 62
+      },
+      {
+         "data" : [ 60, 62, 61, 59, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You stand in the space-station's command room.  Exits are in all four directions.  Everything here, including a computer, is done in silver-chrome and black.  This gives the room a very sinister look!",
+         "name" : "You are in the command room.  (N/S/E/W)",
+         "number" : 63
+      }
+   ]
+}

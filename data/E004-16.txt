@@ -1,0 +1,1165 @@
+{
+   "artifacts" : [
+      {
+         "data" : [ 0, 1, -999, 1, 0, 0, 0, 0 ],
+         "description" : "There is a shimmering field of mystic energy surrounding the spire, blocking passage to the north into the spire.",
+         "name" : "force field",
+         "number" : 1
+      },
+      {
+         "data" : [ 0, 8, -999, 17, 18, 38, 1, 0 ],
+         "description" : "There is a heavy iron gate blocking the passage to the north. It runs from roof to floor.",
+         "name" : "iron gate",
+         "number" : 2
+      },
+      {
+         "data" : [ 0, 8, -999, 31, 38, 1, 1, 0 ],
+         "description" : "A wall built of heavy stone and mortar seals the passage to the south.",
+         "name" : "stone wall",
+         "number" : 3
+      },
+      {
+         "data" : [ 0, 8, -999, 52, 54, 5, 1, 0 ],
+         "description" : "There is a heavy oak door here, blocking the entrance to the room to the east. It is too thick and heavy to break down.",
+         "name" : "oak door",
+         "number" : 4
+      },
+      {
+         "data" : [ 1, 1, 1, 53, 0, 0, 0, 0 ],
+         "description" : "Hidden in the dust, you have found an old iron key.",
+         "name" : "old key",
+         "number" : 5
+      },
+      {
+         "data" : [ 20, 7, 5, 13, 1, 1, 1, 0 ],
+         "description" : "You see an old red book lying open on the table.",
+         "name" : "red book",
+         "number" : 6
+      },
+      {
+         "data" : [ 0, 7, 0, 68, 2, 1, 1, 0 ],
+         "description" : "There are some old yellowed papers lying here.",
+         "name" : "old papers",
+         "number" : 7
+      },
+      {
+         "data" : [ 0, 7, 0, 56, 3, 1, 1, 0 ],
+         "description" : "You see some old yellowed notes. They are hand scrawled and quite jumbled.",
+         "name" : "old notes",
+         "number" : 8
+      },
+      {
+         "data" : [ 0, 1, 2, 43, 0, 0, 0, 0 ],
+         "description" : "You see a cute cuddly little teddy bear. It had been stuffed up the vent by some rotten character or somebody trying to hide it. It has a tag on it that somebody has written the name \"Sleazak\" on.",
+         "name" : "teddy bear",
+         "number" : 9
+      },
+      {
+         "data" : [ 15, 6, 450, 11, 20, 45, 1, 0 ],
+         "description" : "The cauldron is giving off a foul stench and almost makes you sick.",
+         "name" : "cauldron",
+         "number" : 10
+      },
+      {
+         "data" : [ 512, 1, 2, 66, 0, 0, 0, 0 ],
+         "description" : "You see a magic amulet that must have belonged to a mighty wizard at one time.",
+         "name" : "magic amulet",
+         "number" : 11
+      },
+      {
+         "data" : [ 0, 11, 1, 39, 0, 4, 0, 0 ],
+         "description" : "You see a wig of human hair. It is well made and must belong to some wealthy bald man.",
+         "name" : "wig",
+         "number" : 12
+      },
+      {
+         "data" : [ 40, 3, 6, 44, 15, 3, 3, 4 ],
+         "description" : "You see a well made mace that seems to vibrate with power. It must be some kind of enchanted weapon.",
+         "name" : "enchanted mace",
+         "number" : 13
+      },
+      {
+         "data" : [ 35, 3, 10, 19, 20, 4, 3, 5 ],
+         "description" : "You see a shimmering golden spear that seems to radiate a mystic force. It is obviously a magic spear!",
+         "name" : "magic spear",
+         "number" : 14
+      },
+      {
+         "data" : [ 800, 11, 0, 68, 0, 5, 0, 0 ],
+         "description" : "You see a shimmering pulsating ring. It is a very powerful looking ring and may be dangerous if handled incorrectly.",
+         "name" : "ring of power",
+         "number" : 15
+      },
+      {
+         "data" : [ 20, 7, 1, 44, 11, 1, 1, 0 ],
+         "description" : "You found a golden locket sitting behind a pile of debris in the corner. There is some engraving on it.",
+         "name" : "gold locket",
+         "number" : 16
+      },
+      {
+         "data" : [ 50, 1, 5, 12, 0, 0, 0, 0 ],
+         "description" : "You see a jar of something labeled \"Bat Wings\". They are very gross looking and make you remember why you are not a wizard.",
+         "name" : "bat wings",
+         "number" : 17
+      },
+      {
+         "data" : [ 10, 1, 1, 8, 0, 0, 0, 0 ],
+         "description" : "You see a small tin with several dried things in it. A label on the side says, \"Lizard Tongues\".",
+         "name" : "lizard tongues",
+         "number" : 18
+      },
+      {
+         "data" : [ 200, 1, 1, 54, 0, 0, 0, 0 ],
+         "description" : "You've found a small glass vial filled with tiny white triangular shaped things inside. A label on the side says, \"Chicken Teeth\".",
+         "name" : "chicken teeth",
+         "number" : 19
+      },
+      {
+         "data" : [ 300, 1, 5, 54, 0, 0, 0, 0 ],
+         "description" : "You see another jar, a much smaller one filled with what looks like extremely small raisins. The label on the side says, \"Toad Warts\".",
+         "name" : "toad warts",
+         "number" : 20
+      },
+      {
+         "data" : [ 500, 1, 5, 11, 0, 0, 0, 0 ],
+         "description" : "As you examined the brew in the cauldron you noticed it was eyeing you too! Then you realized it was just an eye floating on the top. It is the rare \"eye of knute\"!",
+         "name" : "eye of knute",
+         "number" : 21
+      },
+      {
+         "data" : [ 0, 1, -999, 31, 0, 0, 0, 0 ],
+         "description" : "You found a secret button hidden on the side of the wall in a recess on one of the stones.",
+         "name" : "secret button",
+         "number" : 22
+      },
+      {
+         "data" : [ 25, 2, 6, -18, 10, 3, 1, 8 ],
+         "description" : "You see an old mace. They don't make 'em like this anymore!",
+         "name" : "old mace",
+         "number" : 23
+      },
+      {
+         "data" : [ 350, 6, 2, 2, 10, 10, 1, 0 ],
+         "description" : "You found a keg of \"Doctor-in-a-Drum\" the famous industrial strength healing potion! It is slightly banged up from a probable fall down the stairs.",
+         "name" : "Doctor in a Drum",
+         "number" : 24
+      },
+      {
+         "data" : [ 20, 7, 3, 8, 29, 1, 1, 0 ],
+         "description" : "You see a large green volume written by a name that sounds familiar: \"Xandar\". It was written over 100 years ago!",
+         "name" : "Book of Tricks",
+         "number" : 25
+      },
+      {
+         "data" : [ 400, 7, 10, 1037, 38, 1, 1, 0 ],
+         "description" : "You see a set of magic books written in the ancient tongue of Artimea. You can't understand a single word in them.",
+         "name" : "magic books",
+         "number" : 26
+      },
+      {
+         "data" : [ 0, 8, -999, 29, 31, 1, 1, 0 ],
+         "description" : "There is a large pile of rubble blocking the hallway to the west. There must have been a massive cave-in here. Probably of mystical origin.",
+         "name" : "large pile of rubble",
+         "number" : 27
+      },
+      {
+         "data" : [ 0, 8, -999, 32, 31, 1, 1, 0 ],
+         "description" : "There is a large pile of rubble blocking the hallway to the south. There must have been a massive cave-in here. Probably of mystical origin.",
+         "name" : "large pile of rubble#",
+         "number" : 28
+      },
+      {
+         "data" : [ 0, 8, -999, 35, 31, 1, 1, 0 ],
+         "description" : "There is a large pile of rubble blocking the hallway to the east. There must have been a massive cave-in here. Probably of mystical origin.",
+         "name" : "large pile of rubble##",
+         "number" : 29
+      },
+      {
+         "data" : [ 320, 11, 12, 54, 6, 0, 0, 0 ],
+         "description" : "You see a suit of fine plate armor.",
+         "name" : "plate armor",
+         "number" : 30
+      },
+      {
+         "data" : [ 610, 7, 8, 79, 12, 2, 1, 0 ],
+         "description" : "The ancient \"Pact of Tuduska\" is here! It is the bible of wizards! The book is a great shimmering volume of incredible value and age.",
+         "name" : "Pact of Tuduska",
+         "number" : 31
+      },
+      {
+         "data" : [ 0, 7, -999, 41, 25, 1, 1, 0 ],
+         "description" : "A large archway to the south has some writing on it.",
+         "name" : "writing",
+         "number" : 32
+      },
+      {
+         "data" : [ 140, 3, 2, -21, 25, 2, 2, 5 ],
+         "description" : "You see a wand with a sharp reddish crystal at one end. It is radiating a faint yellow glow.",
+         "name" : "wand of pain",
+         "number" : 33
+      },
+      {
+         "data" : [ 90, 3, 2, -22, 50, 4, 1, 8 ],
+         "description" : "You see a cane the seems to help its wielder strike his enemies.",
+         "name" : "mystic cane",
+         "number" : 34
+      },
+      {
+         "data" : [ 89, 7, 12, -23, 40, 1, 1, 0 ],
+         "description" : "You see a set of old magic books. It seems to be a three volume set.",
+         "name" : "old volumes",
+         "number" : 35
+      },
+      {
+         "data" : [ 5, 5, 2, 2042, -1, 0, 0, 0 ],
+         "description" : "You see a standard lantern.",
+         "name" : "lantern",
+         "number" : 36
+      },
+      {
+         "data" : [ 200, 4, 999, 2042, 38, 0, 1, 1 ],
+         "description" : "The cabinet is made of walnut and looks very expensive.",
+         "name" : "cabinet",
+         "number" : 37
+      },
+      {
+         "data" : [ 1, 1, 1, 57, 0, 0, 0, 0 ],
+         "description" : "You see a small brass key.",
+         "name" : "small brass key",
+         "number" : 38
+      },
+      {
+         "data" : [ 450, 1, 5, 78, 0, 0, 0, 0 ],
+         "description" : "You see a bottle of a thick, deep-red liquid. The label says \"Dragon Blood -- Imported\".",
+         "name" : "dragon blood",
+         "number" : 39
+      },
+      {
+         "data" : [ 150, 3, 1, 2, 55, 2, 6, 12 ],
+         "description" : "You see a glowing mystic wand. It is just lying here. It must have been dropped by someone from above during battle and they were never able to retrieve it.",
+         "name" : "mystic wand",
+         "number" : 40
+      },
+      {
+         "data" : [ 0, 1, 999, 82, 0, 0, 0, 0 ],
+         "description" : "Xandar lies here in a death-like trance. You can't tell if he's dead or in a coma of natural or supernatural origin.",
+         "name" : "Xandar",
+         "number" : 41
+      },
+      {
+         "data" : [ 100, 7, 3, 14, 7, 1, 1, 0 ],
+         "description" : "One book is lying here, out of the cases, that looks particularly interesting. Its title is \"Poems of Power\".",
+         "name" : "poems of power",
+         "number" : 42
+      },
+      {
+         "data" : [ 25, 2, 9, -11, 10, 4, 1, 8 ],
+         "description" : "You see a high quality halberd. (A cross between an axe and a spear.)",
+         "name" : "halberd",
+         "number" : 43
+      },
+      {
+         "data" : [ 0, 11, 1, 46, 0, 1, 0, 0 ],
+         "description" : "You see some old worthless clothes.",
+         "name" : "old clothes",
+         "number" : 44
+      },
+      {
+         "data" : [ 40, 11, 1, -27, 0, 5, 0, 0 ],
+         "description" : "You see a sparkling diamond tiara.",
+         "name" : "diamond tiara",
+         "number" : 45
+      },
+      {
+         "data" : [ 0, 1, 80, 0, 0, 0, 0, 0 ],
+         "description" : "You see a pile of broken old bones; the remains of the skeleton.",
+         "name" : "broken bones",
+         "number" : 46
+      },
+      {
+         "data" : [ 0, 13, 2000, 0, 0, 0, 0, 0 ],
+         "description" : "The Guardiax lies dead on the floor. You feel strange, being responsible for the death of this guardian for peace.",
+         "name" : "dead Guardiax",
+         "number" : 47
+      },
+      {
+         "data" : [ 0, 8, -999, 2013, 56, 0, 0, 1 ],
+         "description" : "When you examine the bookcase you discover a lever which opens up a secret passage to the north!",
+         "name" : "a secret passage north",
+         "number" : 48
+      },
+      {
+         "data" : [ 0, 8, -999, 2042, 57, 0, 0, 1 ],
+         "description" : "When you examine the cabinet you discover a lever which opens up a secret passage to the west!",
+         "name" : "a secret passage west",
+         "number" : 49
+      }
+   ],
+   "effects" : [
+      {
+         "description" : "The red book describes a spell called \"ANTIMAG\" in which a magician's power can be halved by having three of his possessions and speaking the magic word while he is in the room.",
+         "number" : 1
+      },
+      {
+         "description" : "The old papers describe a spell for returning home via teleportation. It says you must have a magic amulet and speak the magic word.",
+         "number" : 2
+      },
+      {
+         "description" : "The notes are hand scrawled and rather difficult to read, but seem to indicate that you can reduce all magical powers within a given range with the DESTRAX spell. It does not work 100% of the time, however.",
+         "number" : 3
+      },
+      {
+         "description" : "A mystical sparkling band of energy circles your hand, then lashes out in a concentrated beam of sparkles!",
+         "number" : 4
+      },
+      {
+         "description" : "There is a great rush of hot wind and a loud explosion all around you as you're whisked away in a beam of bright light and deposited elsewhere!",
+         "number" : 5
+      },
+      {
+         "description" : "A small flicker of blue light appears in the center of the room and grows bright until it hurts to look at it. It then rapidly travels about the room touching everyone, seemingly extracting mystic energy. It then flies out of the room.",
+         "number" : 6
+      },
+      {
+         "description" : "When trying to depart a room and doors do not cooperate                    remember what thy want to do and simply say ESCAPE!*008",
+         "number" : 7
+      },
+      {
+         "description" : "When battle is a royal pain and armor you're without                       remember thou this refrain and ARMOR-ON you shout.*009",
+         "number" : 8
+      },
+      {
+         "description" : "If thou say CONFUSE, than mass chaos thou shall see                        and wander they all around as confused as they can be.",
+         "number" : 9
+      },
+      {
+         "description" : "A beam of bright light flashes out!",
+         "number" : 10
+      },
+      {
+         "description" : "The locket says, \"To Sleazak - the most evil, vile, foul-mouthed, ill-tempered, rottenest, meanest, sleaziest wizard it has ever been my ill-fortune to know - Love, Ramasha\".",
+         "number" : 11
+      },
+      {
+         "description" : "The Pact of Tuduska - Part One - states that the balance of power must be maintained or magic will destroy the world. Balance in power cannot, REPEAT CANNOT be maintained by merely killing those in power.",
+         "number" : 12
+      },
+      {
+         "description" : "It must be maintained by right and just means. An ancient spell known as \"XANARA SHEEN\" may be used to balance the magic power in a province, but this spell must be cast by a master wizard.",
+         "number" : 13
+      },
+      {
+         "description" : "The only master wizards ever known to this area have been Molinar, Trezore and Xandar. Molinar is dead, Trezore's whereabouts are unknown and Xandar is ????",
+         "number" : 14
+      },
+      {
+         "description" : "You think a magic word may awake Xandar -- if he isn't dead. But what can it be? Maybe if you keep thinking something will pop into your head.",
+         "number" : 15
+      },
+      {
+         "description" : "Magic seems to work like many other forms of energy...Larger quantities can cancel out smaller quantities.",
+         "number" : 16
+      },
+      {
+         "description" : "As you try to think, a strange word pops into your head: NELSON",
+         "number" : 17
+      },
+      {
+         "description" : "There is much more at stake here than just finding out what happened to the man in town. There is a massive struggle for power going on and it must be the forces of good that prevail.",
+         "number" : 18
+      },
+      {
+         "description" : "If the evil forces win the struggle for power here, who knows what could happen to the rest of the kingdom. The master of this spire holds great responsibility for much of the magic in the land.",
+         "number" : 19
+      },
+      {
+         "description" : "Do you dare try to effect the balance of power yourself? Isn't that best left up to the experts?",
+         "number" : 20
+      },
+      {
+         "description" : "The wizard Xandar was a great and wise man. If only he could help. He kept the evil influences of magic in check for hundreds of years.",
+         "number" : 21
+      },
+      {
+         "description" : "You think it isn't wise to kill the wizards in this place, even if you are able to. What would that do to the all important balance of power?",
+         "number" : 22
+      },
+      {
+         "description" : "You think when you get out of here, you are going to find the biggest keg of ale in the land and crawl into it.",
+         "number" : 23
+      },
+      {
+         "description" : "You think you've been thinking too much and your head is starting to hurt.",
+         "number" : 24
+      },
+      {
+         "description" : "The writing is a warning to keep out.",
+         "number" : 25
+      },
+      {
+         "description" : "As you speak the mysterious word, the great Xandar's form rises from the bed and floats several feet above it. His eyes are still closed as he chants some ancient words that you do not know. The floor shakes as if from a quake.*027",
+         "number" : 26
+      },
+      {
+         "description" : "The walls rumble and begin to crack. The rumbling slowly subsides and you feel fulfilled, as though your mission has been completed. The word HOME pops into your head and you suddenly feel exhausted.",
+         "number" : 27
+      },
+      {
+         "description" : "The great Xandar opens his eyes and says he cannot complete the balance of power until the power of the resisting evil in the complex is reduced. He sends you on your way as he closes his eyes again.",
+         "number" : 28
+      },
+      {
+         "description" : "Page One                                                         POWER ALPHA - Makes minor negative adjustments to the types of spells cast by all.*030",
+         "number" : 29
+      },
+      {
+         "description" : "POWER OMEGA - Makes positive adjustments in the types of spells cast by all.*031",
+         "number" : 30
+      },
+      {
+         "description" : "POWER UP - Makes difficulty level of casting spells greater and thus harder to cast spells. Does not affect overall power of each spell.*032",
+         "number" : 31
+      },
+      {
+         "description" : "POWER DOWN - Makes the atmosphere more susceptible to easier casting of spells without affecting power levels.*033",
+         "number" : 32
+      },
+      {
+         "description" : "To heal others, use the heal spell with the name of the person to be healed.*034",
+         "number" : 33
+      },
+      {
+         "description" : "Some imaginary obstacles may be removed by using the spell \"ELBBUR LA EVOMER\".",
+         "number" : 34
+      },
+      {
+         "description" : "As you say the words, the room starts to vibrate, then to shake violently. Cracks appear in the walls and ceiling and dust, dirt and pieces of the ceiling come down on your head. You are buried beneath 900 tons of earth and rock!",
+         "number" : 35
+      },
+      {
+         "description" : "As Demoniak dies, the mystic wand loses its glow, and crumbles to dust.",
+         "number" : 36
+      },
+      {
+         "description" : "The balance of power was not corrected and the results were, shall we say chaotic. The kingdom was badly damaged and many suffered and lost their lives before a REAL hero came along and finished your job!",
+         "number" : 37
+      },
+      {
+         "description" : "??????????????????????????????????????????????????????????????????????????? ???????????????????????????????????????????????????????????????????????????? ????????????????????????????????????????????????????????????????????????????? ????????????????????",
+         "number" : 38
+      },
+      {
+         "description" : "With a shower of sparks and a cloud of brimstone, the rubble vanishes as though it were an illusion, leaving a gaping doorway in its stead!",
+         "number" : 39
+      },
+      {
+         "description" : "The books are written in an ancient language that you don't know how to read!",
+         "number" : 40
+      },
+      {
+         "description" : "There is a click and a hum. The heavy stone wall slowly grinds open...",
+         "number" : 41
+      },
+      {
+         "description" : "There is a click and a hum. The heavy stone wall slowly grinds closed...",
+         "number" : 42
+      },
+      {
+         "description" : "The exits are appearing and disappearing at an amazing pace. You'll have to just make a dash for one and hope you make it through.",
+         "number" : 43
+      },
+      {
+         "description" : "Your body is violently wrenched out of place as you are teleported out of the mystic chamber!",
+         "number" : 44
+      },
+      {
+         "description" : "The teddy bears eyes suddenly light up and it screams! Sleazak falls back stunned, then staggers toward you as if severely weakened!",
+         "number" : 45
+      }
+   ],
+   "info" : {
+      "author" : "John Nelson",
+      "difficulty" : "9",
+      "rating" : "7.5/5",
+      "serialNum" : "100"
+   },
+   "intro" : "",
+   "monsters" : [
+      {
+         "data" : [ 110, 18, 1, 200, 5, 1, 6, 0, 2, 8, 1, 0, 0 ],
+         "description" : "You see a wicked looking creature with black skin and blazing red eyes. His body skin is smooth, but his head is gnarled and scaly. He breathes with a rasp and says he is Demoniak, guardian of the spire.",
+         "name" : "Demoniak",
+         "number" : 1
+      },
+      {
+         "data" : [ 65, 18, 1, 200, 45, 1, 3, 0, 2, 5, 1, 0, 0 ],
+         "description" : "You see a powerful wizard in flowing black robes that seem to reflect the night skies. He's bald as a pumpkin. When he sees you, he turns and says, \"How dare you defile my inner sanctum and disturb mighty Sleazak!\"",
+         "name" : "Sleazak",
+         "number" : 2
+      },
+      {
+         "data" : [ 20, 14, 1, 200, 21, 1, 0, 0, 2, 5, 3, 0, 0 ],
+         "description" : "You see an old man with a long white beard and white robes. As you enter the room, he sits up on his cot and puts on his spectacles. He says he is known as \"Lycerius\".",
+         "name" : "Lycerius",
+         "number" : 3
+      },
+      {
+         "data" : [ 19, 16, 1, 200, 8, 1, 3, 0, 3, 5, 120, 0, 0 ],
+         "description" : "You see a young handsome man in a violet tunic. Judging by his appearance, he is a sorcerer or at least a fairly experienced apprentice.",
+         "name" : "Handerak",
+         "number" : 4
+      },
+      {
+         "data" : [ 18, 15, 1, 95, 11, 0, 0, 0, 2, 4, 1, 0, 0 ],
+         "description" : "You see an old crone in black and grey dress with a greenish tint to her skin. She is stirring the potion in the large cauldron. She cackles that she is Hazel, leader of the Eamon Witch Society (EWS), Molinar Chapter 3512.",
+         "name" : "Hazel",
+         "number" : 5
+      },
+      {
+         "data" : [ 16, 12, 1, 200, 11, 0, 0, 0, 1, 6, 1, 0, 0 ],
+         "description" : "You see a second old hag with the same greenish tint to her skin, but having a larger nose. She cackles even louder and says her name is Thelma.",
+         "name" : "Thelma",
+         "number" : 6
+      },
+      {
+         "data" : [ 18, 12, 1, 200, 11, 0, 0, 0, 1, 6, 1, 0, 0 ],
+         "description" : "A third crone does not pay too much attention to you as she sips some of the potion from the cauldron on a large wooden spoon.",
+         "name" : "Helga",
+         "number" : 7
+      },
+      {
+         "data" : [ 16, 15, 1, 200, 12, 1, 2, 0, 1, 6, 3, 0, 0 ],
+         "description" : "A young man of about eighteen steps out of the shadows and asks who you are. He introduces himself as Brandon and says he is a wizard...or at least he will be.",
+         "name" : "Brandon",
+         "number" : 8
+      },
+      {
+         "data" : [ 24, 12, 1, 200, 25, 1, 0, 0, 2, 6, 1, 0, 0 ],
+         "description" : "You see a very powerful looking wizard practicing his black art by dissolving rocks with rays flashing from his eyes.",
+         "name" : "Zodd",
+         "number" : 9
+      },
+      {
+         "data" : [ 18, 16, 1, 200, 14, 0, 2, 43, 1, 8, 3, 0, 0 ],
+         "description" : "You see an adventurer here who looks familiar to you, but you do not exactly remember where you saw him. He says his name is Tremane and that he remembers you in somewhat the same light.",
+         "name" : "Tremane",
+         "number" : 10
+      },
+      {
+         "data" : [ 11, 12, 1, 85, 13, 0, 1, 0, 1, 4, 190, 0, 0 ],
+         "description" : "You see a man sitting at the table, trying to understand a spell that he is reading from a book at the table. He looks too simple minded to be a wizard.",
+         "name" : "Simon the Simple",
+         "number" : 11
+      },
+      {
+         "data" : [ 16, 20, 1, 200, 19, 1, 2, 0, 2, 5, 3, 0, 0 ],
+         "description" : "You see a man in rather simple clothing with a strange expression on his face. He smiles slightly when you look at him and says his name is Urbar. He looks as though he would blush at the slightest provocation.",
+         "name" : "Urbar the Timid",
+         "number" : 12
+      },
+      {
+         "data" : [ 12, 12, 1, 200, 77, 0, 0, 0, 1, 4, 1, 0, 0 ],
+         "description" : "You see a skeleton draped over a tombstone. Suddenly it straightens up and starts moving around!",
+         "name" : "Skeleton",
+         "number" : 13
+      },
+      {
+         "data" : [ 17, 12, 1, 200, 46, 1, 2, 0, 1, 6, 135, 0, 0 ],
+         "description" : "A young man in loose robes approaches you from the shadows. He is probably a wizard's apprentice or student here. A small embroidery on his robe says \"Lazard\".",
+         "name" : "Lazard",
+         "number" : 14
+      },
+      {
+         "data" : [ 20, 25, 1, 100, 34, 1, 2, 0, 1, 6, 3, 0, 0 ],
+         "description" : "A middle-aged man with greyish hair at the temples greets you as you enter. He says his name is Tamaran and that he's looking for someone - a friend who may have come here long ago.",
+         "name" : "Tamaran",
+         "number" : 15
+      },
+      {
+         "data" : [ 22, 15, 1, 200, 20, 1, 3, 0, 1, 8, 145, 0, 0 ],
+         "description" : "You see a tall man with reddish-blond hair and light colored robes. He says his name is Mondick.",
+         "name" : "Mondick",
+         "number" : 16
+      },
+      {
+         "data" : [ 18, 17, 1, 110, 30, 0, 4, 23, 1, 6, 1, 0, 0 ],
+         "description" : "A small man with one eye and frazzled hair steps from behind the door. He has a mace in his hand and says you should not have come in here.",
+         "name" : "Hubbray",
+         "number" : 17
+      },
+      {
+         "data" : [ 19, 16, 1, 200, 43, 0, 0, 0, 1, 6, 1, 0, 0 ],
+         "description" : "You see a very large black cat. It is so large it could be used as a guard cat! It is hissing and snarling at you.",
+         "name" : "Black Cat",
+         "number" : 18
+      },
+      {
+         "data" : [ 30, 20, 1, 200, 44, 1, 2, 0, 1, 8, 140, 0, 0 ],
+         "description" : "You see a wizard in a grey frock with gleaming eyes and a grey beard. He is a rather pleasant-looking wizard, but you know he could be bad news if he decides he doesn't like you.",
+         "name" : "Vorjak",
+         "number" : 19
+      },
+      {
+         "data" : [ 28, 15, 1, 100, 40, 0, 3, 33, 1, 10, 1, 0, 0 ],
+         "description" : "You see a wizard with a sour scowl on his face and a great black beard. He is dressed in greenish metal tunic with a loose robe over it. He does not look too friendly.",
+         "name" : "Hurzax",
+         "number" : 20
+      },
+      {
+         "data" : [ 35, 16, 1, 200, 66, 0, 2, 34, 3, 4, 2, 0, 0 ],
+         "description" : "You see a man of about seventy with grey hair and beard, but with a very piercing look in his eyes. He speaks slowly, \"I am Gurroq the Lame. I did not invite you, I do not need company! Good day.\"",
+         "name" : "Gurroq the Lame",
+         "number" : 21
+      },
+      {
+         "data" : [ 29, 12, 1, 200, 70, 0, 5, 35, 2, 5, 1, 0, 0 ],
+         "description" : "You see a young man with a violet hue to his plate armor and a matching violet cape. He says he is Ashley Tain the next ruler of this establishment. He has a very forceful manner.",
+         "name" : "Ashley Tain",
+         "number" : 22
+      },
+      {
+         "data" : [ 16, 12, 1, 65, 65, 0, 3, 0, 1, 6, 140, 0, 0 ],
+         "description" : "You see a man with a set of very ill-fitting armor. He is about 60 pounds overweight with a beard and mustache. He says his name is Willie Chips and that he is a student here.",
+         "name" : "Willie Chips",
+         "number" : 23
+      },
+      {
+         "data" : [ 28, 15, 1, 200, 74, 1, 5, 0, 1, 8, 1, 0, 0 ],
+         "description" : "You see a very evil looking man with a very bushy head of dark hair and a beard to match. He snarls at you and says you should not have bothered him. He says he is Tyzamera the Scourge of the Black Oakwoods.",
+         "name" : "Tyzamera",
+         "number" : 24
+      },
+      {
+         "data" : [ 16, 12, 1, 200, 14, 1, 0, 0, 1, 4, 3, 0, 0 ],
+         "description" : "You see a very, very old man. He mumbles that he is so old that when he came here, they had to walk because horses hadn't been invented yet. He says he's the original \"Wiz\". He says a lot of things.",
+         "name" : "Old Wiz",
+         "number" : 25
+      },
+      {
+         "data" : [ 27, 16, 1, 100, 39, 1, 0, 0, 3, 3, 105, 0, 0 ],
+         "description" : "You see a rather decent-looking woman in long red flowing robes. She has a diamond tiara in her dark hair. She could be a sorceress.",
+         "name" : "Ramasha",
+         "number" : 26
+      },
+      {
+         "data" : [ 90, 19, 1, 200, 54, 1, 6, 0, 2, 8, 2, 0, 0 ],
+         "description" : "You see a huge creature towering eight feet above you who says you shall go no further lest you drop your weapons, and proceed in peace.",
+         "name" : "Guardiax",
+         "number" : 27
+      }
+   ],
+   "name" : "Sorcerer's Spire",
+   "numDirections" : 6,
+   "rooms" : [
+      {
+         "data" : [ -1, 0, 0, -999, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are standing in front of a tall black spire. Above you, you can see where the spire connects to the cliff face. There are thick thorn barriers to the east and south. There is a door to the north leading into the spire.",
+         "name" : "You are at the base of a cliff. (N/W)",
+         "number" : 1
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at the bottom of the dark spire, looking up a very long set of spiral stairs. An aura of doom seems to linger in the air. There are faint creaking sounds from the spire above. You look around and notice that the door has vanished!",
+         "name" : "You are at the bottom of the spire. (U)",
+         "number" : 2
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 4, 2, 0, 0, 0, 0, 1 ],
+         "description" : "You are on the spiral stairway leading up into the spire. The stairs creak as you ascend. All of the spire seems to be made of a hard black metal.",
+         "name" : "You are on the spiral stairs. (U/D)",
+         "number" : 3
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 5, 3, 0, 0, 0, 0, 1 ],
+         "description" : "You are standing on the spiral stairs ascending into the tall black spire. The walls are made of a smooth black metal. The stairs creak and sway as you climb them.",
+         "name" : "You are on the black spiral stairs. (U/D)",
+         "number" : 4
+      },
+      {
+         "data" : [ 0, 0, 6, 0, 47, 4, 0, 0, 0, 0, 1 ],
+         "description" : "You are at a landing in the tall black spire. A door goes into the side of the cliff to the east. The stairs also go even higher above you and look very, very dangerous.",
+         "name" : "You are at a landing in the spire. (E/U/D)",
+         "number" : 5
+      },
+      {
+         "data" : [ 9, 7, 0, 5, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a dark corridor leading north into the darkness. To the south there is a bend in the corridor. The walls are so smooth that they must be made of steel.",
+         "name" : "You are in a dark north/south tunnel. (N/S/W)",
+         "number" : 6
+      },
+      {
+         "data" : [ 6, 0, 8, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "To the east there is a very dark chamber that seems to be lit entirely in a red glow. There seems to be organ music coming from that direction, but it is very low.",
+         "name" : "You are at a dark bend in the tunnel. (N/E)",
+         "number" : 7
+      },
+      {
+         "data" : [ 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a chamber that is fairly dark and has a glowing reddish light coming from an unknown source. There is a large organ here, playing by itself. The walls are gray stone and the exit is west.",
+         "name" : "You are in a dark reddish chamber. (W)",
+         "number" : 8
+      },
+      {
+         "data" : [ 10, 6, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "There is no light that you can see, but you can somehow make out that there are no doors.",
+         "name" : "You are in a dark north/south corridor.",
+         "number" : 9
+      },
+      {
+         "data" : [ 15, 9, 11, 12, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a dark north/south corridor. There are doors to the east and west. A faint glow is coming from the east door.",
+         "name" : "You are in a dark corridor. (N/S/E/W)",
+         "number" : 10
+      },
+      {
+         "data" : [ 0, 0, 0, 10, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a dimly lit room with strange markings on the wall. In the center of the room is a large cauldron over a fire with a bubbling green liquid in it. The only exit is west.",
+         "name" : "You are in a dimly lit incantation room. (W)",
+         "number" : 11
+      },
+      {
+         "data" : [ 0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a dark room used for storage. There are shelves and cabinets all over the room containing sorcerer's supplies. It smells like death in here. The only exit is east.",
+         "name" : "You are in a dark storage room. (E)",
+         "number" : 12
+      },
+      {
+         "data" : [ 1048, 0, 15, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "There are big books sitting in bookshelves on the west and north walls. Most are very fragile. All of them are very dusty. The room is very dim and dusty as though it has been forgotten. A bookcase on the north wall stands out...",
+         "name" : "You are in the secret study. (E)",
+         "number" : 13
+      },
+      {
+         "data" : [ 0, 0, 0, 15, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "There are lots of books lining the shelves on the east and south walls. Most of the books have titles you can't pronounce or read. They seem to be held in place with a red magic glow. The only door is west.",
+         "name" : "You are in a small library. (W)",
+         "number" : 14
+      },
+      {
+         "data" : [ 16, 10, 14, 13, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a dimly lit north/south corridor. There is a door to the east. West is a secret door that is lying wide open.",
+         "name" : "You are in a dim north/south corridor. (N/S/E/W)",
+         "number" : 15
+      },
+      {
+         "data" : [ 0, 15, 0, 0, 0, 17, 0, 0, 0, 0, 1 ],
+         "description" : "To the south is the corridor you came from. There is also a set of stairs going down to another level.",
+         "name" : "You are at a bend in the corridor. (S/D)",
+         "number" : 16
+      },
+      {
+         "data" : [ 1002, 37, 22, 0, 16, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The corridors go north, east, and south from here. You may also go back up the stairs.",
+         "name" : "You are at the bottom of the stairs. (N/S/E/U)",
+         "number" : 17
+      },
+      {
+         "data" : [ 21, 17, 20, 19, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a marble corridor running north and south. There is a temple or some such room to the north. There are smaller rooms to the east and west.",
+         "name" : "You are in a north/south marble corridor. (N/S/E/W)",
+         "number" : 18
+      },
+      {
+         "data" : [ 0, 0, 18, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a small room made from smooth stone. It seems to serve as a servant's quarters. There is a table in the middle of the room, a bed against the wall and a desk in the corner.",
+         "name" : "You are in a small stone servants room. (E)",
+         "number" : 19
+      },
+      {
+         "data" : [ 0, 0, 0, 18, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a small room that looks like it is a private dining room. A very nice looking table sits in the center of the room. A beautiful chandelier hangs from the ceiling. The exit is west.",
+         "name" : "You are in the private dining room. (W)",
+         "number" : 20
+      },
+      {
+         "data" : [ 0, 18, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a large marble room that is somewhat like a temple, but has some strange symbols and designs on the walls and floor. The only exit is south.",
+         "name" : "You are in a large mystic temple. (S)",
+         "number" : 21
+      },
+      {
+         "data" : [ 61, 0, 23, 17, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The walls are a powder gray here and are still very smooth. It is dimly lit and fairly spooky down here. Your keen eyes spot a secret door to the north!",
+         "name" : "You are in an east/west corridor. (N/E/W)",
+         "number" : 22
+      },
+      {
+         "data" : [ 0, 32, 24, 22, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The east/west hallway meets a south bound hall here. The south hallway is even darker than the one you're in.",
+         "name" : "You are at an intersection in the hall. (S/E/W)",
+         "number" : 23
+      },
+      {
+         "data" : [ 25, 33, 26, 23, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at another intersection. Halls go east, west and south from here. To the north is a very large chamber.",
+         "name" : "You are at an intersection in the hall. (N/S/E/W)",
+         "number" : 24
+      },
+      {
+         "data" : [ 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a large chamber that has been modified from a natural cave. The walls and floor have been smoothed out. There are chains hanging from the walls where it looks like prisoners have been kept.",
+         "name" : "You are in a large darkened chamber. (S)",
+         "number" : 25
+      },
+      {
+         "data" : [ 0, 27, 0, 24, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "There is a torch bolted to the wall, but it is not lit. The halls lead south and west.",
+         "name" : "You are at a bend in the hallway. (S/W)",
+         "number" : 26
+      },
+      {
+         "data" : [ 26, 28, 46, 77, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The west wall is covered with a gray wall covering that is very hideous. There is a chamber to the east. As you stand here, you realize the west wall is really just cobwebs and there is a door there.",
+         "name" : "You are in a north/south hallway. (N/S/E/W)",
+         "number" : 27
+      },
+      {
+         "data" : [ 27, 0, 0, 29, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a hallway with an ugly gray wall covering. The hall bends from the north to the west here. Faint noises are echoing around in here, but you cannot tell where they are coming from.",
+         "name" : "You are at a bend in the hall. (N/W)",
+         "number" : 28
+      },
+      {
+         "data" : [ 33, 0, 28, 1027, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at an intersection in the grey hallway. There are halls leading north, east and west. Faint unidentified noises are echoing around from somewhere.",
+         "name" : "You are at an intersection. (N/E/W)",
+         "number" : 29
+      },
+      {
+         "data" : [ 0, 0, 33, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The walls and floor seem to be made of steel in here. A thin film of rust covers them. There are strange furnishings in this room that you do not understand. The only exit is east.",
+         "name" : "You are in a large steel chamber. (E)",
+         "number" : 30
+      },
+      {
+         "data" : [ 32, 1003, 29, 35, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at a four-way intersection. The gray hallway leads north, east and west. To the south is a stone corridor that's been walled up.",
+         "name" : "You are at a four-way intersection. (N/S/E/W)",
+         "number" : 31
+      },
+      {
+         "data" : [ 23, 1028, 0, 34, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "There is a door to the west, leading into a large chamber. Faint noises echo around here and you cannot tell what is making them, but it is rather spooky.",
+         "name" : "You are in a north/south hallway. (N/S/W)",
+         "number" : 32
+      },
+      {
+         "data" : [ 24, 29, 0, 30, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "There is a chamber to the west. There is a strange flickering of the natural light here, which gives the place a rather fearsome aura.",
+         "name" : "You are in a north/south hallway. (N/S/W)",
+         "number" : 33
+      },
+      {
+         "data" : [ 0, 35, 32, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a very large room made of stone. The room is almost bare, with only a few scraps of furniture. There are doors to the east and south leading out into the hallways.",
+         "name" : "You are in a very large stone room. (S/E)",
+         "number" : 34
+      },
+      {
+         "data" : [ 34, 0, 1029, 36, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "There is a door leading into a stone chamber to the north. The combination of gray walls, strange unexplained sounds and flickering light makes it rather scary.",
+         "name" : "You are in an east/west hallway. (N/E/W)",
+         "number" : 35
+      },
+      {
+         "data" : [ 37, 44, 35, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at a north, south, east intersection in the hallway. There are some strange noises here that you cannot see any source for. They are faint scraping and rumbling noises.",
+         "name" : "You are at an intersection. (N/S/E)",
+         "number" : 36
+      },
+      {
+         "data" : [ 17, 36, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The walls are covered with an ugly gray wall paper. It is tattered and torn and does not reflect light very well, making it rather dark in here.",
+         "name" : "You are in a north/south hall.",
+         "number" : 37
+      },
+      {
+         "data" : [ 31, 41, 39, 40, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a stone hallway. There are doors leading into large chambers to the east and west.",
+         "name" : "You are in a north/south hallway. (N/S/E/W)",
+         "number" : 38
+      },
+      {
+         "data" : [ 0, 0, 0, 38, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "A big table sits in the center of the room. A heavy bookcase in the corner is all but cleaned out and the only chair in here is broken. The only exit is west.",
+         "name" : "You are in a large stone chamber. (W)",
+         "number" : 39
+      },
+      {
+         "data" : [ 0, 0, 38, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a rather large stone room. A neatly kept bookcase in a corner of the room has several nice looking volumes. A table and chair sit in the middle of the room. The exit is east.",
+         "name" : "You are in a large stone chamber. (E)",
+         "number" : 40
+      },
+      {
+         "data" : [ 38, 45, 43, 42, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a stone hallway. There are doors leading into small rooms to the east and west. There is a large chamber to the south.",
+         "name" : "You are in a north/south hall. (N/S/E/W)",
+         "number" : 41
+      },
+      {
+         "data" : [ 0, 0, 41, 1049, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a small room that serves as a study. There are books in an old locked cabinet, a small table and chair, and a lantern sitting on the table. The only exit is east.",
+         "name" : "You are in a small study. (E)",
+         "number" : 42
+      },
+      {
+         "data" : [ 0, 0, 0, 41, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a small room that has a vent in the roof. It is a privy (an outhouse that is inside, not out).",
+         "name" : "You are in a small privy. (W)",
+         "number" : 43
+      },
+      {
+         "data" : [ 36, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You have entered a room that looks like it is used for conjuring. Strange marks adorn the walls, floor and ceiling. There is a heavy block and tackle in the center of the room making you realize they must do weird things here.",
+         "name" : "You are in a conjuring room. (N)",
+         "number" : 44
+      },
+      {
+         "data" : [ 41, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a magnificent room that has a definite use as a mage's chamber. It must belong to the person who built this place (or at least his descendents).",
+         "name" : "You are in a master mage's chamber. (N)",
+         "number" : 45
+      },
+      {
+         "data" : [ 0, 0, 0, 27, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a small rundown bedroom. There is an old cot slid against one wall and a bunch of worthless clothes scattered on the floor. The only exit is west.",
+         "name" : "You are in a small bedroom. (W)",
+         "number" : 46
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 48, 5, 0, 0, 0, 0, 1 ],
+         "description" : "You are still ascending the spiral staircase in the spire. Looking down makes you dizzy. There are more stairs above.",
+         "name" : "You are on the spiral stairs. (U/D)",
+         "number" : 47
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 49, 47, 0, 0, 0, 0, 1 ],
+         "description" : "You are on the tall spiral stairs. The staircase is truly amazing, but is also rather scary. Above the stairs continue.",
+         "name" : "You are on the stairs. (U/D)",
+         "number" : 48
+      },
+      {
+         "data" : [ 0, 0, 50, 0, 0, 48, 0, 0, 0, 0, 1 ],
+         "description" : "You are on the top of the stairs of the spire. There is a landing here to the east.",
+         "name" : "You are on the stairs. (E/D)",
+         "number" : 49
+      },
+      {
+         "data" : [ 0, 0, 51, 49, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "There is a walkway to the east to breach the distance between the side of the cliff and the spire. There is a stairway to the west.",
+         "name" : "You are on a landing at the top of the spire. (E/W)",
+         "number" : 50
+      },
+      {
+         "data" : [ 0, 0, 52, 50, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on the walkway between the spire and the cliff entrance. It is a covered walkway, so you do not have to worry about falling off. To the east is the entrance into the mountain.",
+         "name" : "You are on the walkway. (E/W)",
+         "number" : 51
+      },
+      {
+         "data" : [ 53, 55, 1004, 51, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "There are doors leading into chambers to the north south and east. The walkway to the spire is west.",
+         "name" : "You are in a central hallway. (N/S/E/W)",
+         "number" : 52
+      },
+      {
+         "data" : [ 0, 52, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a small room used for storage of old magical supplies. There is a lot of stuff still stored here, but it looks rather useless to you.",
+         "name" : "You are in a small storage room. (S)",
+         "number" : 53
+      },
+      {
+         "data" : [ 0, 0, 78, 52, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You have entered a strange chamber made of heavy natural marble. The room walls are made of dozens of marble slabs fit together with painstaking accuracy. To the east is a secret door that somebody forgot to shut.",
+         "name" : "You are in a strange stone guardroom. (E/W)",
+         "number" : 54
+      },
+      {
+         "data" : [ 52, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "This room serves as a small work room. It has a bunch of miscellaneous tools and other supplies and equipment in it. Over in the corner is a sturdy work bench.",
+         "name" : "You are in a small work room. (N)",
+         "number" : 55
+      },
+      {
+         "data" : [ 0, 13, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a secret room that was hidden behind the bookcase. It is dry and dusty in here. Cobwebs hang from the corners, and it is very musty smelling.",
+         "name" : "You are in a secret room. (S)",
+         "number" : 56
+      },
+      {
+         "data" : [ 0, 0, 42, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "Another book shelf is against the west wall. It is very dusty in here.",
+         "name" : "You are in a small secret room. (E)",
+         "number" : 57
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a mystic room with strange glowing colors blinking and flashing from the walls. The exit is north...no east, wait, south-- now west! It is moving rapidly around the room in random patterns!*043",
+         "name" : "You are in the magic maze. (N?/S?/E?/W?)",
+         "number" : 58
+      },
+      {
+         "data" : [ 60, 60, 60, 60, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a dark chamber and/or closet. You cannot see your hand in front of your face! There does not appear to be any exit, but you can't tell for sure.",
+         "name" : "You are in a dark chamber.",
+         "number" : 59
+      },
+      {
+         "data" : [ 22, 0, 34, 37, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a massive stone chamber. The exits are north, east and west. The doorways seem to be magical one-way doors, as if you are in another dimension looking out into the rest of the world.",
+         "name" : "You are in a very large chamber. (N/E/W)",
+         "number" : 60
+      },
+      {
+         "data" : [ 0, 22, 62, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The hall turns from the south to the east here.",
+         "name" : "You are in a secret hallway. (S/E)",
+         "number" : 61
+      },
+      {
+         "data" : [ 63, 0, 0, 61, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The hall takes a turn here from the west to the north. The walls are covered with a strange gray powdery substance.",
+         "name" : "You are in a secret hallway. (N/W)",
+         "number" : 62
+      },
+      {
+         "data" : [ 69, 62, 64, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The hall leads north and east. You may also go back south.",
+         "name" : "You are at a T-intersection. (N/S/E)",
+         "number" : 63
+      },
+      {
+         "data" : [ 0, 65, 66, 63, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "There is a door into a chamber to the south and another (larger) chamber east.",
+         "name" : "You are in an east/west hallway. (S/E/W)",
+         "number" : 64
+      },
+      {
+         "data" : [ 64, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The bed is a mess, the room is very filthy and the walls are a very drab dirty grey. The only exit is north.",
+         "name" : "You are in a small bedroom. (N)",
+         "number" : 65
+      },
+      {
+         "data" : [ 0, 67, 0, 64, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "A fireplace is on the north wall. A large bull moosehead is hung over the mantle. The room is dirty and stale. The exit is west and your keen eyes spot a secret door to the south!",
+         "name" : "You are in a large living area. (S/W)",
+         "number" : 66
+      },
+      {
+         "data" : [ 66, 68, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "There is a tiny room to the south.",
+         "name" : "You are in a secret hall. (N/S)",
+         "number" : 67
+      },
+      {
+         "data" : [ 67, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "It is a bit dusty in here. Rows of human skulls line the shelves on the south wall. The light is very dim. The exit is north.",
+         "name" : "You are in a tiny secret room. (N)",
+         "number" : 68
+      },
+      {
+         "data" : [ 70, 63, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "There is a huge chamber to the north.",
+         "name" : "You are in a north/south hall. (N/S)",
+         "number" : 69
+      },
+      {
+         "data" : [ 0, 69, 71, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a massive north chamber. The ceiling is decorated in large paintings and there are marble columns holding up large beams of finest black oak. There is a door east and a door south.",
+         "name" : "You are in a massive chamber. (S/E)",
+         "number" : 70
+      },
+      {
+         "data" : [ 0, 0, 72, 70, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "There is an intersection to the east and a very large chamber west.",
+         "name" : "You are in an east/west passage. (E/W)",
+         "number" : 71
+      },
+      {
+         "data" : [ 73, 0, 75, 71, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The east/west passage intersects a north hall here. The walls are made from a hard mineral.",
+         "name" : "You are at a T-intersection. (N/E/W)",
+         "number" : 72
+      },
+      {
+         "data" : [ 74, 72, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "There is a small chamber north. The doorway is an older style, with an archway shape. There is dim light coming from the room.",
+         "name" : "You are in a north/south hall. (N/S)",
+         "number" : 73
+      },
+      {
+         "data" : [ 0, 73, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "There is an old table against the west wall. The room is very dirty and dust fills the air.",
+         "name" : "You are in a small sleeping room. (S)",
+         "number" : 74
+      },
+      {
+         "data" : [ 0, 0, 76, 72, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in front of a doorway into a blue colored room. You may go east into the room or back west.",
+         "name" : "You are in front of a doorway. (E/W)",
+         "number" : 75
+      },
+      {
+         "data" : [ 0, 0, 83, 75, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The walls in this room were painted to look like the sea and sky. The lower portion is painted to look like pathways leading down to a beach. You can almost smell the sea air... The exit is west.",
+         "name" : "You are in a blue colored room. (E/W)",
+         "number" : 76
+      },
+      {
+         "data" : [ 0, 0, 27, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You have exited the caves and are standing in a small outdoor graveyard. The graveyard is surrounded by high cliffs on all sides with a door cut into the side to the east.",
+         "name" : "You are in a small graveyard. (E)",
+         "number" : 77
+      },
+      {
+         "data" : [ 0, 0, 79, 54, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You have entered a secret hallway that goes east. The hallway has eerie noises that don't appear to be originating from any one particular spot. There is a large chamber to the east that is glowing with a light green color.",
+         "name" : "You are in a secret hallway. (E/W)",
+         "number" : 78
+      },
+      {
+         "data" : [ 0, 0, 80, 78, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a large chamber with green florescent walls and ceiling. Strange images are formed in the walls and an eerie music fades in from the east.",
+         "name" : "You are in a green glowing chamber. (E/W)",
+         "number" : 79
+      },
+      {
+         "data" : [ 0, 0, 81, 79, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The ceiling is thirty feet above and shaped like a cathedral. The walls are ribbed for acoustic value, apparently. To the east is a grand chamber of immense size.",
+         "name" : "You are in a great hallway. (E/W)",
+         "number" : 80
+      },
+      {
+         "data" : [ 0, 82, 0, 80, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in an immense grand chamber. A light radiates all around the room, but you can't discern where it's coming from. A four poster bed is against the south wall, but that is so far away you can't see much.",
+         "name" : "You are in the grand chamber. (S/W)",
+         "number" : 81
+      },
+      {
+         "data" : [ 81, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are next to the massive four-poster bed of Xandar himself.",
+         "name" : "You are at Xandar's bedside. (N)",
+         "number" : 82
+      },
+      {
+         "data" : [ 84, 85, 0, 76, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You have stepped through the painted wall and actually stepped onto the sandy beach! It is very warm and beautiful here. You turn around to see only a rock cliff wall. You may go north or south.",
+         "name" : "You are on the beach. (N/S/W)",
+         "number" : 83
+      },
+      {
+         "data" : [ 84, 83, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on a sandy beach with a warm sun beating down on you and making it very hot in your garb. You may go north or south.",
+         "name" : "You are at the beach. (N/S)",
+         "number" : 84
+      },
+      {
+         "data" : [ 83, -999, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "It is hot out here with only a slight breeze. You see the road to the Main Hall to the south.",
+         "name" : "You are at the beach. (N/S)",
+         "number" : 85
+      }
+   ]
+}

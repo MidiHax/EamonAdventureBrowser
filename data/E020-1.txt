@@ -1,0 +1,1485 @@
+{
+   "artifacts" : [
+      {
+         "data" : [ 240, 3, 5, -2, 35, 5, 4, 8 ],
+         "description" : "You see Sangre, a magical sword that, according to legend, was made from blood.  It is immensely powerful and is the only sword that has successfully slayed a sea dragon.",
+         "name" : "Sangre",
+         "number" : 1
+      },
+      {
+         "data" : [ 15, 11, 15, 1, 0, 7, 0, 0 ],
+         "description" : "You see your EAG climbing gear. Although you may not need it, you brought it just in case you have to scale something. It includes a rope and pulley system and clips to hold your rope to a wall, cliff, or whatever you need to scale. (WEAR it to use it.)",
+         "name" : "climbing gear",
+         "number" : 2
+      },
+      {
+         "data" : [ 0, 4, 999, 2004, 0, 1020, 4, 0 ],
+         "description" : "You see an unnaturally large chest.  In fact, you'd have no trouble fitting inside it!  It's locked but made of wood, so it isn't very strong.",
+         "name" : "large chest",
+         "number" : 3
+      },
+      {
+         "data" : [ 0, 13, 999, 1003, 1, 0, 0, 0 ],
+         "description" : "You see the dead body of the famous wizard, Jake Oudheusden.  Somebody must have been very tough to kill him.  You can't help but keep looking over your shoulder--you feel like you're being watched.",
+         "name" : "Jake Oudheusden's body",
+         "number" : 4
+      },
+      {
+         "data" : [ 55, 5, 1, 1003, -1, 0, 0, 0 ],
+         "description" : "You see a torch which has been enchanted to last nearly forever.",
+         "name" : "torch",
+         "number" : 5
+      },
+      {
+         "data" : [ 750, 3, 5, 1003, 50, 5, 6, 8 ],
+         "description" : "You see an enhanced version of the original \"StarFire\" magic sword.  It has an anti-fumble agent and 50% odds (more than enough for a hardened adventurer).  You look longingly at it.",
+         "name" : "StarFire Enhanced",
+         "number" : 6
+      },
+      {
+         "data" : [ 30, 14, 10, 1003, 0, 0, 0, 0 ],
+         "description" : "You see Jake's alto saxophone.  It plays very well (note that I used the adverb well, not the adjective good) and is in remarkably good (this calls for the adjective good) condition.  You remember the good old days when you were in the school band.",
+         "name" : "alto saxophone",
+         "number" : 7
+      },
+      {
+         "data" : [ 0, 10, 999, 0, 2, 0, 0, 0 ],
+         "description" : "You notice that Jake Oudheusden is alive, but still bound with chains!  He's screaming about how much of an idiot you are.",
+         "name" : "bound Jake Oudheusden",
+         "number" : 8
+      },
+      {
+         "data" : [ 0, 7, 1, 0, 1, 1, 1, 0 ],
+         "description" : "Under the floorboard, you see a note that appears to be hastily written.",
+         "name" : "note",
+         "number" : 9
+      },
+      {
+         "data" : [ 40, 14, 5, 7, 0, 0, 0, 0 ],
+         "description" : "You see an excellent-quality trumpet that could make you 30-50 gold pieces back at the Main Hall.  Hmm . . . it's kind of odd that it survived in the ocean.",
+         "name" : "trumpet",
+         "number" : 10
+      },
+      {
+         "data" : [ 10, 7, 5, 2041, 5, 1, 0, 0 ],
+         "description" : "You see a book describing the castle you are in.  It seems a bit heavy for only being 25-50 pages.",
+         "name" : "book of Sorpresa Castle",
+         "number" : 11
+      },
+      {
+         "data" : [ 1, 1, 1, 1011, 0, 0, 0, 0 ],
+         "description" : "You see a master key to the entire castle!  It even opens every set of chains in the torture chamber!",
+         "name" : "master key",
+         "number" : 12
+      },
+      {
+         "data" : [ 0, 10, 650, 42, 3, 12, 4, 0 ],
+         "description" : "You see a girl chained up and being tortured.  She says that she is Kit Richards and accompanied the famous wizard Oudheusden on a mission to find the control potion.",
+         "name" : "bound Kit Richards",
+         "number" : 13
+      },
+      {
+         "data" : [ 75, 3, 8, -4, 20, 1, 5, 6 ],
+         "description" : "You see a battle axe taken from the Minotaur's Lair.  Since then, it has been enhanced considerably.",
+         "name" : "battle axe",
+         "number" : 14
+      },
+      {
+         "data" : [ 0, 1, -999, 2039, 0, 0, 0, 0 ],
+         "description" : "As you examine the painting, you notice four levers behind it.  One lever has a number 1 above it.",
+         "name" : "lever 1",
+         "number" : 15
+      },
+      {
+         "data" : [ 0, 1, -999, 2039, 0, 0, 0, 0 ],
+         "description" : "You see another lever.  It has the number 2 above it.",
+         "name" : "lever 2",
+         "number" : 16
+      },
+      {
+         "data" : [ 0, 1, -999, 2039, 0, 0, 0, 0 ],
+         "description" : "You see a third lever with the number three above it.",
+         "name" : "lever 3",
+         "number" : 17
+      },
+      {
+         "data" : [ 0, 1, -999, 2039, 0, 0, 0, 0 ],
+         "description" : "You see a fourth lever.  I don't think I need to tell you that it has a number 4 above it.",
+         "name" : "lever 4",
+         "number" : 18
+      },
+      {
+         "data" : [ 0, 1, -999, 2047, 0, 0, 0, 0 ],
+         "description" : "You see a table in the center of the room.  It's bolted down.  You notice a bottle with a bubbling potion on it.",
+         "name" : "table",
+         "number" : 19
+      },
+      {
+         "data" : [ 100, 6, 3, 2047, 0, 5, 1, 0 ],
+         "description" : "You see a bottle filled with some kind of potion.  You don't know what it is, so I wouldn't advise drinking it until further notice.",
+         "name" : "potion",
+         "number" : 20
+      },
+      {
+         "data" : [ 300, 11, 20, 2046, 6, 0, 0, 0 ],
+         "description" : "You see some plate armor on the wall that seems to be in very good condition!  You see a sword hanging on the wall next to it.",
+         "name" : "plate armor#",
+         "number" : 21
+      },
+      {
+         "data" : [ 350, 3, 5, 2046, 15, 5, 6, 8 ],
+         "description" : "You see the legendary Ironcut sword, which some say can actually cut metal.  It has gems embedded in the handle.",
+         "name" : "Ironcut",
+         "number" : 22
+      },
+      {
+         "data" : [ 300, 3, 25, 2040, 30, 2, 2, 8 ],
+         "description" : "You see a magic bow that has an auto-load feature and will never run out of arrows.  The arrows, if hit exactly right, explode upon impact, hence the name.",
+         "name" : "Explosion",
+         "number" : 23
+      },
+      {
+         "data" : [ 0, 4, -999, 2048, 0, 1, 1, 0 ],
+         "description" : "You see a cabinet against the wall.  It's already open.",
+         "name" : "cabinet",
+         "number" : 24
+      },
+      {
+         "data" : [ 500, 0, 50, 1024, 0, 0, 0, 0 ],
+         "description" : "You see 500 gold pieces in the back of the cabinet!",
+         "name" : "gold",
+         "number" : 25
+      },
+      {
+         "data" : [ 5000, 1, 999, 54, 0, 0, 0, 0 ],
+         "description" : "You see the throne.  It has many jewels embedded in it.  Unfortunately, it's too heavy to get.",
+         "name" : "throne",
+         "number" : 26
+      },
+      {
+         "data" : [ 5000, 1, 300, 2054, 0, 0, 0, 0 ],
+         "description" : "You see many valuables.  They would be worth a lot of money back at the Main Hall.",
+         "name" : "valuables",
+         "number" : 27
+      },
+      {
+         "data" : [ 0, 7, -999, 2055, 6, 1, 1, 0 ],
+         "description" : "You see a chalkboard in the meeting room.  It has something on it that somebody forgot to erase.",
+         "name" : "chalkboard",
+         "number" : 28
+      },
+      {
+         "data" : [ 0, 4, 999, 2056, 0, 0, 1, 5 ],
+         "description" : "You see a standard desk in the corner of the room.  It has several drawers and a piece of parchment on the top.",
+         "name" : "desk",
+         "number" : 29
+      },
+      {
+         "data" : [ 0, 1, 1, 2056, 0, 0, 0, 0 ],
+         "description" : "You see a blank piece of parchment.  As you look at it, you notice it is covering a poison-dart trap in the desk.  You disarm it.",
+         "name" : "parchment",
+         "number" : 30
+      },
+      {
+         "data" : [ 15, 7, 5, 1029, 7, 1, 1, 0 ],
+         "description" : "You see a scroll that was in the desk.  It looks old, but not so old that it will crumble to dust.",
+         "name" : "scroll",
+         "number" : 31
+      },
+      {
+         "data" : [ 1500, 14, 10, 2057, 0, 0, 0, 0 ],
+         "description" : "You see a clarinet that the queen stole from the author while he was writing notes for the adventure.  He will give you 10,000 gold pieces if you return it unharmed.",
+         "name" : "clarinet",
+         "number" : 32
+      },
+      {
+         "data" : [ 0, 7, -999, 2037, 13, 1, 1, 0 ],
+         "description" : "You see a sign on the wall that you could READ.",
+         "name" : "sign",
+         "number" : 33
+      },
+      {
+         "data" : [ 300, 0, 30, 2052, 0, 0, 0, 0 ],
+         "description" : "You see some solid gold cue sticks.  They are VERY valuable.",
+         "name" : "gold cue sticks",
+         "number" : 34
+      },
+      {
+         "data" : [ 75, 2, 5, -15, 15, 2, 2, 5 ],
+         "description" : "You see the strange weapon.  You could probably figure out how to use it.",
+         "name" : "gun",
+         "number" : 35
+      },
+      {
+         "data" : [ 400, 1, 0, -14, 0, 0, 0, 0 ],
+         "description" : "You see a jar containing pure air.  It is one of the components to the control potion!",
+         "name" : "jar of pure air",
+         "number" : 36
+      },
+      {
+         "data" : [ 35, 1, 0, 2067, 0, 0, 0, 0 ],
+         "description" : "You see a jar of pure water.  It is the second component to the control potion!",
+         "name" : "jar of pure water",
+         "number" : 37
+      },
+      {
+         "data" : [ 1000, 5, 0, 26, -1, 0, 0, 0 ],
+         "description" : "You see a torch that has been lit with pure fire.  It is the third and final component to the control potion!",
+         "name" : "torch of pure fire",
+         "number" : 38
+      },
+      {
+         "data" : [ 4, 1, 8, -22, 0, 0, 0, 0 ],
+         "description" : "You see a fancy shovel.  It was being carried by the master of the second island.",
+         "name" : "shovel",
+         "number" : 39
+      },
+      {
+         "data" : [ 25, 2, 5, -23, 10, 4, 1, 4 ],
+         "description" : "You see a standard Marcos spear.  You wonder why, if Bill Gates has all sorts of money, he can't afford any better weapons.",
+         "name" : "spear",
+         "number" : 40
+      },
+      {
+         "data" : [ 100, 3, 5, -22, 20, 2, 3, 4 ],
+         "description" : "You see a small box that shoots flying windows out of it.",
+         "name" : "flying window",
+         "number" : 41
+      },
+      {
+         "data" : [ 0, 10, 999, 62, 23, 0, 22, 0 ],
+         "description" : "You see a prisoner of whoever owns this place.",
+         "name" : "prisoner#",
+         "number" : 42
+      },
+      {
+         "data" : [ 25, 2, 5, -25, 10, 4, 1, 4 ],
+         "description" : "You see a standard Marcos spear.  You wonder why, if Bill Gates has all sorts of money, he can't afford any better weapons.",
+         "name" : "spear#",
+         "number" : 43
+      },
+      {
+         "data" : [ 0, 10, 999, 64, 25, 0, 24, 0 ],
+         "description" : "You see a prisoner, who the guard claims runs a rival operating system (whatever that means).",
+         "name" : "prisoner",
+         "number" : 44
+      },
+      {
+         "data" : [ 1500, 11, 20, 0, 4, 0, 0, 0 ],
+         "description" : "You see a suit of magical chain mail that can repel heat!",
+         "name" : "Muyfrio chain mail",
+         "number" : 45
+      },
+      {
+         "data" : [ 5, 1, 5, 0, 0, 0, 0, 0 ],
+         "description" : "You see a bottle filled with insecticide.  It has a label reading, \"INSECTICIDE - kills every insect except spiders\".",
+         "name" : "insecticide",
+         "number" : 46
+      },
+      {
+         "data" : [ 0, 8, -999, 2003, 4, 0, 0, 1 ],
+         "description" : "You see a ship that looks like it sank a long time ago.  It appears to be in relatively good condition.  You could probably enter it by going DOWN into it.",
+         "name" : "sunken ship",
+         "number" : 47
+      },
+      {
+         "data" : [ 0, 8, -999, 37, 38, 0, 1, 0 ],
+         "description" : "You see a standard door (well, as standard as it can be considering it's in a castle).",
+         "name" : "west door",
+         "number" : 48
+      },
+      {
+         "data" : [ 0, 8, -999, 37, 44, 0, 1, 0 ],
+         "description" : "You see another door.",
+         "name" : "east door",
+         "number" : 49
+      },
+      {
+         "data" : [ 0, 8, -999, 37, 48, 0, 1, 0 ],
+         "description" : "You see yet another door.",
+         "name" : "south door",
+         "number" : 50
+      },
+      {
+         "data" : [ 0, 8, -999, 2038, 39, 0, 0, 1 ],
+         "description" : "You move the cloak and see a secret passage!",
+         "name" : "a secret passage west",
+         "number" : 51
+      },
+      {
+         "data" : [ 0, 8, -999, 2045, 46, 0, 1, 1 ],
+         "description" : "You move the painting and see a secret stairway.  It goes up into what appears to be a guard tower.",
+         "name" : "a secret stairway leading up",
+         "number" : 52
+      },
+      {
+         "data" : [ 0, 8, -999, 48, 50, 0, 1, 0 ],
+         "description" : "You see a door to the east labeled \"Kitchen\".",
+         "name" : "kitchen door (east)",
+         "number" : 53
+      },
+      {
+         "data" : [ 0, 8, -999, 48, 49, 0, 1, 0 ],
+         "description" : "You see a door to the west labeled \"Library\".",
+         "name" : "library door (west)",
+         "number" : 54
+      },
+      {
+         "data" : [ 0, 8, -999, 51, 52, 0, 1, 0 ],
+         "description" : "You see a door to the west labeled \"Billiard Room\".",
+         "name" : "billiard room door",
+         "number" : 55
+      },
+      {
+         "data" : [ 0, 8, -999, 2056, 57, -1, 1, 1 ],
+         "description" : "You notice that the bookcase spins around!  It's a SECRET PASSAGE into the KING'S QUARTERS!  The passage is blocked by a strong steel door.",
+         "name" : "steel door to the east",
+         "number" : 56
+      },
+      {
+         "data" : [ 0, 8, -999, 2065, 66, 0, 0, 1 ],
+         "description" : "You notice a secret door in the shadows in the wall!",
+         "name" : "a secret door to the east",
+         "number" : 57
+      },
+      {
+         "data" : [ 0, 8, -999, 2077, 59, 0, 0, 1 ],
+         "description" : "You notice that the patch of grass is really a secret trap door down into the cliff itself!",
+         "name" : "a secret trap door down",
+         "number" : 58
+      },
+      {
+         "data" : [ 0, 8, -999, 2069, 70, 0, 0, 1 ],
+         "description" : "You notice a hidden path leading south around the waterfall!",
+         "name" : "a path around the waterfall (south)",
+         "number" : 59
+      },
+      {
+         "data" : [ 0, 1, 999, 0, 0, 0, 0, 0 ],
+         "description" : "A heavy iron grate comes crashing down and blocks your path up the stairs!",
+         "name" : "heavy iron grate",
+         "number" : 60
+      },
+      {
+         "data" : [ 0, 1, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see the assassin looming above you, you'd better do something quick!",
+         "name" : "Assassin on the cliff above you",
+         "number" : 61
+      },
+      {
+         "data" : [ 5000, 1, 2, 2067, 0, 0, 0, 0 ],
+         "description" : "You see a jar containing the control potion.  It is still warm.",
+         "name" : "control potion",
+         "number" : 62
+      },
+      {
+         "data" : [ 0, 1, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see a secret path around the waterfall to the north.",
+         "name" : "a path around the waterfall (north)",
+         "number" : 63
+      }
+   ],
+   "effects" : [
+      {
+         "description" : "Dear friend-- This is for the EAG's eyes alone.  I was sent on a mission to make the control potion to try to stop the communist's invasion of the planet of Eamon.  However, the plan went badly wrong.  Kit Richards, the bravest girl I**002",
+         "number" : 1
+      },
+      {
+         "description" : "knew, was captured at a castle by the guards.  I decided it would be best to put myself into a death-like trance until somebody else was sent so that I could free her.  To revive me, one must say the incantation, \"I solemnly swear that I**003",
+         "number" : 2
+      },
+      {
+         "description" : "will rescue Kit\".  Then, simply do a POWER spell and I'll be resurrected.  One warning:  If you have the chance to rescue Kit, but don't, I will kill you.",
+         "number" : 3
+      },
+      {
+         "description" : "As you kiss the body, some boards come down from the ceiling.  Strange... the boat is in good condition.  One that narrowly misses your head hits a floorboard, revealing something underneath it!",
+         "number" : 4
+      },
+      {
+         "description" : "The book describes three secret passages that can be opened and closed by levers hidden behind a painting in the guard tower.  One is the one you're in now, another is in the guest room-- it becomes unreadable after that.",
+         "number" : 5
+      },
+      {
+         "description" : "The chalkboard has a plan to kill everyone in the torture room because they aren't giving the King enough information.  It also has a note about the guards not liking music very much.",
+         "number" : 6
+      },
+      {
+         "description" : "\"Dragons are very hard to kill.  To kill one, you need the sword Sangre, which is the only sword that can get through its armor.  You also need the Muyfrio Armor, a chain mail armor that can prevent you from being scorched from the dragon's fire!\"",
+         "number" : 7
+      },
+      {
+         "description" : "The King doesn't seem to notice you and walks into the meeting room.",
+         "number" : 8
+      },
+      {
+         "description" : "The assassin breaks another of your clips.  You fall down 100 feet!",
+         "number" : 9
+      },
+      {
+         "description" : "The assassin suddenly falls off the cliff!  You manage to stabilize yourself and can now move up or down the cliff again.",
+         "number" : 10
+      },
+      {
+         "description" : "You drop Explosion to the ground!  Kit picks it up and shoots at the assassin.  She hits, sending the assassin falling off the cliff!  You manage to stabilize yourself and can now move up or down.",
+         "number" : 11
+      },
+      {
+         "description" : "Kit grabs Explosion from you and shoots the assassin, who falls off the cliff!",
+         "number" : 12
+      },
+      {
+         "description" : "You realize that this sign was put here by the author.  It says:*014",
+         "number" : 13
+      },
+      {
+         "description" : "It is recommended that you do a SAVE now.  When in the castle, be on the lookout for embedded artifacts. (As you were reading the sign, somebody was telling somebody else that those who get stuck should try the HINT command.)",
+         "number" : 14
+      },
+      {
+         "description" : "The secret passage you are in closes!  You're shut in!",
+         "number" : 15
+      },
+      {
+         "description" : "The secret passage you are in opens again.",
+         "number" : 16
+      },
+      {
+         "description" : "As you pull the lever, you hear a loud grinding noise far off in the distance...",
+         "number" : 17
+      },
+      {
+         "description" : "As you pull the lever, you hear a rumbling noise far off in the distance...",
+         "number" : 18
+      },
+      {
+         "description" : "The guards hate the music and rush out of the room.",
+         "number" : 19
+      },
+      {
+         "description" : "The guests give you a set of gold cue sticks to reward you for killing him.",
+         "number" : 20
+      },
+      {
+         "description" : "The sharks are suddenly startled and move out of your way!  You quickly go by them.",
+         "number" : 21
+      },
+      {
+         "description" : "Sangre turns red and goes right through the dragon's armor and pierces it's heart!",
+         "number" : 22
+      },
+      {
+         "description" : "The lighthouse beam passes over the water where you are and moves behind it.  You can now approach it without being seen!",
+         "number" : 23
+      },
+      {
+         "description" : "He takes the saxophone and the StarFire Enhanced, but gives you the torch.",
+         "number" : 24
+      },
+      {
+         "description" : "The lighthouse beam sees you.  You realize that it's been taken over by the enemy!",
+         "number" : 25
+      },
+      {
+         "description" : "Are you mad!?! The assassin is trying to kill you!",
+         "number" : 26
+      },
+      {
+         "description" : "The force of the explosion knocks the assassin off the cliff!",
+         "number" : 27
+      },
+      {
+         "description" : "However, it knocks you off the cliff as well!",
+         "number" : 28
+      },
+      {
+         "description" : "As you hit the ground, you do a lot of damage to yourself!",
+         "number" : 29
+      },
+      {
+         "description" : "Kit says a word that you cannot make out, and the queen collapses.",
+         "number" : 30
+      },
+      {
+         "description" : "Brian Gendreau says, \"How about you try KISSing it?  In all the adventure stories, that's how they resurrect dead bodies!\"",
+         "number" : 31
+      },
+      {
+         "description" : "Jake yells at you, \"Don't you realize that if that lighthouse sees us, we're dead!\"",
+         "number" : 32
+      },
+      {
+         "description" : "You get so tired that everything you are carrying drops to the ground!",
+         "number" : 33
+      },
+      {
+         "description" : "You get very tired very quickly climbing down the stairs.  Once you get to the bottom, you nearly collapse.",
+         "number" : 34
+      },
+      {
+         "description" : "You must WEAR your climbing gear before you can scale a cliff!",
+         "number" : 35
+      },
+      {
+         "description" : "Nobody else has any climbing gear, so they can't follow you.",
+         "number" : 36
+      },
+      {
+         "description" : "You open the jar.  Some of the pure air starts to come out!",
+         "number" : 37
+      },
+      {
+         "description" : "A poison dart comes shooting out of the desk at you!",
+         "number" : 38
+      },
+      {
+         "description" : "Jake drinks some and immediately passes out!  You realize that it's a sleeping potion!",
+         "number" : 39
+      },
+      {
+         "description" : "You light the pure water with the pure fire! It starts bubbling and soon a shower of sparks appears.  You let it cool down and replace the lid on the jar.  You have made the control potion!",
+         "number" : 40
+      },
+      {
+         "description" : "As you cast the spell there is a great explosion.  When the smoke clears, you find yourself floating peacefully on the ocean, your boat as good as new!",
+         "number" : 41
+      },
+      {
+         "description" : "Jake says, \"I'd prefer not to...\" in the best Crispin Glover--\"Bartleby\" impression you have ever heard.",
+         "number" : 42
+      },
+      {
+         "description" : "You return to the Main Hall and present the control potion to Major Clark (it seems General Zuchowski had to rush home because his herd of cats had broken loose and started a stampede).*044",
+         "number" : 43
+      },
+      {
+         "description" : "\"Good work!\" Major Clark says, \"We caught the people who planted the bombs on your ship!  It turns out it was unrelated to your mission, it was some disgruntled programmers from the Computer Club of Fear.\"  (See Eamon Deluxe adventure #8)*045",
+         "number" : 44
+      },
+      {
+         "description" : "You give the control potion to Major Clark and leave to collect your reward: One gold-plated three-ring binder with the famous Eamon dragon on the cover (value = 75 gold pieces, but who would sell it?), two months unlimited tab at**046",
+         "number" : 45
+      },
+      {
+         "description" : "Benway's Bar & Grill, and a 50 gold piece gift certificate to A.J.'s Junk and Treasure shop.*047",
+         "number" : 46
+      },
+      {
+         "description" : "While you are enjoying your vacation, the control potion is successfully used and peace is restored.  Congratulations and thanks for playing!",
+         "number" : 47
+      }
+   ],
+   "info" : {
+      "author" : "John MacArthur",
+      "difficulty" : "7",
+      "rating" : "7.5/1",
+      "serialNum" : "DX#20"
+   },
+   "intro" : "",
+   "monsters" : [
+      {
+         "data" : [ 35, 20, 1, 100, 1, 0, 1, 1, 4, 8, 3, 0, 0 ],
+         "description" : "You see your only remaining companion.  He is armed with the sword Sangre.  He is powerful.  He seems scared but won't admit it.",
+         "name" : "Brian Gendreau",
+         "number" : 1
+      },
+      {
+         "data" : [ 50, 30, 1, 200, 0, -1, 3, -1, 5, 5, 3, 0, 0 ],
+         "description" : "You see the famous wizard Jake Oudheusden, alive again.  He will gladly accompany you on your mission and says that he may have an idea where Kit disappeared to.  He's carrying his StarFire Enhanced (magic sword) and a nice alto saxophone.",
+         "name" : "Jake Oudheusden",
+         "number" : 2
+      },
+      {
+         "data" : [ 45, 25, 1, 200, 0, -1, 0, 14, 5, 4, 3, 0, 0 ],
+         "description" : "You see Kit Richards, now freed.  She grabs a battle axe off the wall and says she wants to destroy every guard in the castle.",
+         "name" : "Kit Richards",
+         "number" : 3
+      },
+      {
+         "data" : [ 9, 12, 20, 100, 42, 0, 3, 0, 3, 4, 1, 0, 0 ],
+         "description" : "You see many guards.  They don't want you to get their prisoners.",
+         "name" : "Guard",
+         "number" : 4
+      },
+      {
+         "data" : [ 23, 20, 2, 200, 7, 1, 1, 0, 4, 2, 1, 0, 0 ],
+         "description" : "You see two mean sharks come at you.  They appear to want to make a dinner out of you.",
+         "name" : "Mean Shark",
+         "number" : 5
+      },
+      {
+         "data" : [ 30, 10, 3, 100, 10, 1, 1, 0, 4, 3, 1, 0, 0 ],
+         "description" : "You see three large sharks come in, ready to attack you.",
+         "name" : "Large Shark",
+         "number" : 6
+      },
+      {
+         "data" : [ 15, 15, 1, 200, 8, 1, 0, 0, 4, 2, 1, 0, 0 ],
+         "description" : "You see an old shark.  Although old, he isn't much less dangerous.",
+         "name" : "Old Shark",
+         "number" : 7
+      },
+      {
+         "data" : [ 25, 20, 4, 200, 12, 1, 2, 0, 5, 3, 1, 0, 0 ],
+         "description" : "You see four sea monsters.  They are at least 50 feet tall and could easily kill a human in two bites.",
+         "name" : "Sea Monster",
+         "number" : 8
+      },
+      {
+         "data" : [ 10, 20, 2, 200, 22, 1, 3, 0, 3, 3, 1, 0, 0 ],
+         "description" : "You see two of the deadliest sea creatures in existence.  They obviously want to kill you!",
+         "name" : "Piranha",
+         "number" : 9
+      },
+      {
+         "data" : [ 20, 24, 1, 100, 76, 0, 0, 0, 1, 4, 1, 0, 0 ],
+         "description" : "As soon as you reach the top of the cliff, an assassin appears and breaks one of the clips holding your rope to the edge of the cliff.  You slide back down and are dangling from the cliff!",
+         "name" : "Assassin",
+         "number" : 10
+      },
+      {
+         "data" : [ 500, 35, 1, 200, 54, 0, 10, 0, 50, 1, 1, 0, 0 ],
+         "description" : "You see the King of the island.  He does not seem exceptionally pleased with you and says that you must leave or die.  He then mumbles a bit to himself and you notice that he seems to have a very vacant look in his eyes...",
+         "name" : "King",
+         "number" : 11
+      },
+      {
+         "data" : [ 500, 35, 1, 200, 57, 0, 10, 0, 50, 1, 1, 0, 0 ],
+         "description" : "You see the queen.  Drat!  You realize that the Queen slipped the King the control potion!",
+         "name" : "Queen",
+         "number" : 12
+      },
+      {
+         "data" : [ 35, 24, 1, 200, 58, 0, 3, 0, 3, 12, 2, 0, 0 ],
+         "description" : "You see the Prince.  You tell him of your quest, but he ignores you!",
+         "name" : "Prince",
+         "number" : 13
+      },
+      {
+         "data" : [ 15, 12, 1, 95, 52, 0, 1, 35, 3, 3, 1, 0, 0 ],
+         "description" : "You see a person who just lost a game.  He takes out a strange weapon called a gun.  You've heard of them at the Main Hall but have never seen one.",
+         "name" : "Sore Loser",
+         "number" : 14
+      },
+      {
+         "data" : [ 20, 20, 5, 200, 52, 0, 1, 0, 3, 4, 2, 1, 0 ],
+         "description" : "You see several guests who don't seem to notice you.  However, you feel that you should be careful NOT to attract attention.",
+         "name" : "Guest",
+         "number" : 15
+      },
+      {
+         "data" : [ 20, 20, 2, 200, 49, 0, 1, 0, 3, 4, 2, 1, 0 ],
+         "description" : "You see two guests who are browsing the books.  They don't seem to notice you.  However, you feel that you should be careful NOT to attract attention.",
+         "name" : "Guest",
+         "number" : 16
+      },
+      {
+         "data" : [ 20, 20, 4, 200, 48, 0, 1, 0, 3, 4, 2, 1, 0 ],
+         "description" : "You see four guests who are eating dinner.  They don't seem to notice you.  However, you feel that you should be careful NOT to attract attention.",
+         "name" : "Guest",
+         "number" : 17
+      },
+      {
+         "data" : [ 20, 20, 4, 200, 51, 0, 1, 0, 3, 4, 2, 1, 0 ],
+         "description" : "You see four guests who are eating dinner.  They don't seem to notice you.  However, you feel that you should be careful NOT to attract attention.",
+         "name" : "Guest",
+         "number" : 18
+      },
+      {
+         "data" : [ 20, 20, 5, 200, 44, 0, 1, 0, 3, 4, 2, 1, 0 ],
+         "description" : "You see several guests who don't seem to notice you.  However, you feel that you should be careful NOT to attract attention.",
+         "name" : "Guest",
+         "number" : 19
+      },
+      {
+         "data" : [ 20, 19, 1, 200, 82, 0, 1, 0, 3, 3, 1, 0, 0 ],
+         "description" : "You see a panther.  Something keeps reminding you of the number 10.3, but you're not sure exactly what it is.",
+         "name" : "Black Panther",
+         "number" : 20
+      },
+      {
+         "data" : [ 30, 12, 1, 200, 67, -1, 3, 41, 5, 3, 1, 0, 0 ],
+         "description" : "You see a person wearing a suit and a tie covered in flying-window logos.  He says that he is the master of the second island and has the unfortunate task of defending the components to the control potion from the Communists and from you.",
+         "name" : "Bill Gates",
+         "number" : 21
+      },
+      {
+         "data" : [ 20, 15, 1, 100, 62, -1, 2, 40, 3, 3, 1, 0, 0 ],
+         "description" : "You see a guard wearing a T-shirt with a flying-window logo on it.  He says that he is one of Emperor Bill's Gates' guards and you aren't going to get away with his prisoner.",
+         "name" : "Guard",
+         "number" : 22
+      },
+      {
+         "data" : [ 30, 25, 1, 200, 0, 0, 0, 0, 3, 4, 3, 0, 0 ],
+         "description" : "You see the CEO of a company from a faraway planet called Earth.  His company is called Apple Computers, Inc.  He says that Bill Gates kidnapped him after his Mac OS 10.3 sold its millionth copy.",
+         "name" : "Steve Jobs",
+         "number" : 23
+      },
+      {
+         "data" : [ 20, 15, 1, 100, 64, -1, 2, 43, 3, 3, 1, 0, 0 ],
+         "description" : "You see a guard wearing a T-shirt with a flying-window logo on it.  He says that he is one of Emperor Bill Gates' guards and you aren't going to get away with his prisoner.",
+         "name" : "Guard",
+         "number" : 24
+      },
+      {
+         "data" : [ 60, 20, 1, 200, 0, -1, 0, 0, 3, 4, 3, 0, 0 ],
+         "description" : "You see the father of Linux, Linus Torvalds.  He is wearing a T-shirt with a picture of a penguin on it.  In case you're wondering, Linux is a competitor to Microsoft Windows which runs on weird devices called computers.",
+         "name" : "Linus Torvalds",
+         "number" : 25
+      },
+      {
+         "data" : [ 1500, 35, 1, 100, 26, 1, 3, 0, 50, 3, 1, 0, 0 ],
+         "description" : "You see a SEA DRAGON!  Some say that it is the worst kind of dragon.  It suddenly exhales a flame that stretches for a mile and barely misses you.",
+         "name" : "Sea Dragon",
+         "number" : 26
+      },
+      {
+         "data" : [ 5, 24, 200, 100, 0, 1, 0, 0, 2, 4, 1, 0, 0 ],
+         "description" : "About 100 bees come swarming at you!  This is not good!",
+         "name" : "Bee",
+         "number" : 27
+      },
+      {
+         "data" : [ 15, 16, 1, 200, 84, 0, 1, 0, 3, 3, 1, 0, 0 ],
+         "description" : "You see a jaguar.  Something makes you think of the number 10.2, but you're not sure quite what it is.",
+         "name" : "Jaguar",
+         "number" : 28
+      },
+      {
+         "data" : [ 16, 16, 1, 200, 86, 0, 1, 0, 3, 3, 1, 0, 0 ],
+         "description" : "You see a vicious wolf.  It is ready to attack!",
+         "name" : "Wolf",
+         "number" : 29
+      },
+      {
+         "data" : [ 24, 16, 1, 200, 88, 0, 1, 0, 3, 3, 1, 0, 0 ],
+         "description" : "You see a grizzly.  It starts to attack before you even notice it's there!",
+         "name" : "Grizzly Bear",
+         "number" : 30
+      },
+      {
+         "data" : [ 16, 16, 1, 100, 90, 0, 1, 0, 3, 3, 1, 0, 0 ],
+         "description" : "You see a boar.  It charges at you and wants to rip you apart.",
+         "name" : "Wild Boar",
+         "number" : 31
+      },
+      {
+         "data" : [ 20, 16, 1, 200, 92, 0, 1, 0, 3, 3, 1, 0, 0 ],
+         "description" : "You see a brown bear.  It was peacefully walking around until you showed up.",
+         "name" : "Brown Bear",
+         "number" : 32
+      },
+      {
+         "data" : [ 8, 10, 1, 200, 107, 0, 1, 0, 4, 3, 1, 0, 0 ],
+         "description" : "You see a lost squirrel.  It is probably the first thing in this forest to not attack upon sight.",
+         "name" : "Lost Squirrel",
+         "number" : 33
+      },
+      {
+         "data" : [ 20, 10, 1, 200, 103, 0, 1, 0, 3, 3, 1, 0, 0 ],
+         "description" : "You see a GIANT SPIDER!  It is your worst fear besides other giant spiders!",
+         "name" : "Grey Spider",
+         "number" : 34
+      },
+      {
+         "data" : [ 20, 10, 1, 200, 113, 0, 1, 0, 3, 3, 1, 0, 0 ],
+         "description" : "You see a GIANT SPIDER!  This one appears to be the leader of the spider colony.",
+         "name" : "Brown Spider",
+         "number" : 35
+      },
+      {
+         "data" : [ 20, 10, 1, 200, 111, 0, 1, 0, 3, 3, 1, 0, 0 ],
+         "description" : "You see a GIANT SPIDER!  It is crawling around on its eight giant legs, trying to figure out how he wants to kill you.",
+         "name" : "Black Spider",
+         "number" : 36
+      },
+      {
+         "data" : [ 10, 15, 2, 200, 109, 0, 1, 0, 3, 3, 1, 0, 0 ],
+         "description" : "You see two squirrels.  As soon as they see you, they show unnaturally sharp teeth.",
+         "name" : "Squirrel",
+         "number" : 37
+      }
+   ],
+   "name" : "Journey Across the Muerte Sea",
+   "numDirections" : 6,
+   "rooms" : [
+      {
+         "data" : [ 2, -999, 8, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You have just left the Gran Buen Port in the Free Republic.  To the north, south, and east, all you can see is ocean.  However, you have a mission to accomplish.",
+         "name" : "You are in the ocean. (N/S/E)",
+         "number" : 1
+      },
+      {
+         "data" : [ 3, 1, 36, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in the ocean.  You think you see something up ahead, but you think it's your imagination.  You may head north, south, or east.",
+         "name" : "You are in more ocean. (N/S/E)",
+         "number" : 2
+      },
+      {
+         "data" : [ 5, 2, 10, 0, 0, 1047, 0, 0, 0, 0, 1 ],
+         "description" : "You are in the ocean.  Suddenly, your boat slams against some kind of object.  You may go north, south, or east from here.",
+         "name" : "You are in deepening ocean. (N/S/E)",
+         "number" : 3
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a ship.  There is a chest that catches your eye.  The ship is brightly lit and seems to be undisturbed.",
+         "name" : "You are in a sunken ship. (U)",
+         "number" : 4
+      },
+      {
+         "data" : [ -7, 3, -1, 0, 0, 6, 0, 0, 0, 0, 1 ],
+         "description" : "You are in the ocean near the coast.  However, you need to succeed in your quest.  There is a group of sharks east that you shouldn't go near.  There is also a lighthouse northwest.  You remember General Zuchowski's orders that you must NOT be seen!",
+         "name" : "You are in the ocean. (N/S/E/D)",
+         "number" : 5
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are deep enough underwater so that you won't be seen, and you've moved your ship away from the lighthouse.",
+         "name" : "You are underwater. (U)",
+         "number" : 6
+      },
+      {
+         "data" : [ 0, 5, 12, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in the ocean.  There is a lighthouse northwest.  It could easily see you.  You may go east or south.",
+         "name" : "You are in the ocean near a lighthouse. (S/E)",
+         "number" : 7
+      },
+      {
+         "data" : [ -1, 0, 13, 1, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in the ocean.  There is a group of sharks north, and I wouldn't advise going that way.  Beyond the sharks lies an island with what looks like houses and a castle, but you thought that nobody had gone through this ocean before!",
+         "name" : "You are in more ocean. (N/E/W)",
+         "number" : 8
+      },
+      {
+         "data" : [ 10, 37, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You have arrived at the first island.  You may go south into a castle or north back into the ocean.",
+         "name" : "You are at the first island! (N/S)",
+         "number" : 9
+      },
+      {
+         "data" : [ 11, 9, 15, 3, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in the ocean.  There is an island south.  There is more ocean north, south, and east.  You notice a few sharks around, mostly to the southwest.",
+         "name" : "You are in the ocean near an island. (N/S/E/W)",
+         "number" : 10
+      },
+      {
+         "data" : [ 12, 10, 16, 5, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "All you can see in all four directions is ocean!!!",
+         "name" : "You are in so much ocean that you're getting seasick! (N/S/E/W)",
+         "number" : 11
+      },
+      {
+         "data" : [ 0, 11, 17, -7, 0, 6, 0, 0, 0, 0, 1 ],
+         "description" : "The Nocalor Ocean lies north, but you have no business there.  There is a lighthouse to the northwest that could see you if you approach it too far.",
+         "name" : "You are in the ocean. (E/S/W)",
+         "number" : 12
+      },
+      {
+         "data" : [ 14, 0, 18, 8, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are southeast of an island.  There is ocean north, east, and west.  There is ocean south as well, but there are sharks there and from what you've figured out, you don't need to go there anyway.",
+         "name" : "You are in the ocean. (N/E/W)",
+         "number" : 13
+      },
+      {
+         "data" : [ 15, 13, 21, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "There is more ocean north, south, and west.  There is an island west, but nowhere to land.  You see a castle on the island with two towers on either side; however, you cannot make out any details.",
+         "name" : "You are in the ocean east of an island. (N/S/E)",
+         "number" : 14
+      },
+      {
+         "data" : [ -1, -1, -1, -1, 0, -1, 0, 0, 0, 0, 1 ],
+         "description" : "Sharks are around you on all sides.  You notice that the ocean has turned red here.  You'd better find a way out, and fast!",
+         "name" : "You are surrounded by sharks!",
+         "number" : 15
+      },
+      {
+         "data" : [ 17, 15, -1, 11, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in the ocean and surrounded by it!  It is approaching nightfall, and you can't see very far in any direction.  You can, however, see some sharks to the east that would tear you to pieces if you went that way.",
+         "name" : "You are in the ocean. (N/S/E/W)",
+         "number" : 16
+      },
+      {
+         "data" : [ 0, 16, 24, 12, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "Ha, ha, scared ya!  Although there are some sharks to the southeast, they won't bother you unless you go in that direction.",
+         "name" : "YOU ARE DEAD!!! Just kidding! You're in the ocean. (S/E/W)",
+         "number" : 17
+      },
+      {
+         "data" : [ 19, 0, 25, 13, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "Your boat has capsized!  You manage to get it right-side-up, and notice that there are storm clouds north.  I'd try to avoid it if possible by going east or west.  It is approaching nightfall, and becoming more difficult to see.",
+         "name" : "You are in the ocean. (N/E/W)",
+         "number" : 18
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 0, 20, 0, 0, 0, 0, 1 ],
+         "description" : "The storm is raging all around you.  You are working very hard to try to keep the boat from tipping over, but if the storm doesn't let up soon, you'll wind up drowned!",
+         "name" : "You are in the ocean during a storm!",
+         "number" : 19
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are soaked, underwater, and very near death.  It doesn't help the fact that a storm is raging around you.  The boat capsizes and smashes into a million pieces!",
+         "name" : "You are underwater during a storm!",
+         "number" : 20
+      },
+      {
+         "data" : [ 22, 18, 26, 14, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in the ocean.  A desert island is east, with what looks like fire.  North, south, and west is ocean.  It is dark; however, and you cannot make out any details.",
+         "name" : "You are to the west of an island. (N/S/E/W)",
+         "number" : 21
+      },
+      {
+         "data" : [ 23, 21, 27, 15, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in the ocean.  There is an island north.  To the south, east, and west is more ocean.  You can very faintly see an island southeast, but it's very hard to see in the torchlight.  It appears to be on fire!",
+         "name" : "You are northwest of one island and south of another. (N/S/E/W)",
+         "number" : 22
+      },
+      {
+         "data" : [ 80, 22, 81, 79, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "To the north is more beach.  To the east and west is forest.  To the south is the ocean.  You cannot see very well, because of the time of day and the fact that there are trees around you.",
+         "name" : "You are at the second island. (N/S/E/W)",
+         "number" : 23
+      },
+      {
+         "data" : [ 0, 0, 29, 17, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are north of an island that you can barely see.  There is nowhere for you to land, however.  You need not go north.  To the east and west is more ocean.  It is increasingly hard to see with your torchlight.",
+         "name" : "You are in the ocean near an island. (E/W)",
+         "number" : 24
+      },
+      {
+         "data" : [ 0, 0, 31, 18, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are near an island.  There is nowhere to land and you can only sail east or west.",
+         "name" : "You are in the ocean south of an island. (E/W)",
+         "number" : 25
+      },
+      {
+         "data" : [ 0, 0, 0, 21, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in the lair of a dragon.  The only exit is west, back into the ocean.  There is immense treasure around, but you'd be lucky to get away alive with any of it.",
+         "name" : "You are in a dragon's lair! (W)",
+         "number" : 26
+      },
+      {
+         "data" : [ 28, 0, 33, 22, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are north of an island that seems to be on fire.  It is approaching morning, and you can see a little better, but you still need your torchlight.",
+         "name" : "You are north of a desert island. (N/E/W)",
+         "number" : 27
+      },
+      {
+         "data" : [ 29, 27, 34, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are east of an island.  To the north, south, and east, there is more ocean.  You cannot land on the island west.",
+         "name" : "You are east of a forested island. (N/S/E)",
+         "number" : 28
+      },
+      {
+         "data" : [ 0, 28, -35, 24, 0, 30, 0, 0, 0, 0, 1 ],
+         "description" : "There is a lighthouse northeast.  More importantly, that is the shore of Nocambio.  You shouldn't approach it; however, unless you're sure you won't be seen.",
+         "name" : "You are to the west of a lighthouse. (S/E/W)",
+         "number" : 29
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 34, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are underwater.  You won't be seen by the lighthouse now.",
+         "name" : "You are underwater. (U)",
+         "number" : 30
+      },
+      {
+         "data" : [ 32, 0, 0, 25, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The continent of Grancasa lies to the east.  To the south lies even more dangerous ocean that you need not enter.  There is ocean north and west.",
+         "name" : "You are in the ocean. (N/W)",
+         "number" : 31
+      },
+      {
+         "data" : [ 33, 31, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in the ocean east of an island, west of Grancasa.  This means that you can only go north or south.",
+         "name" : "You are east of an island. (N/S)",
+         "number" : 32
+      },
+      {
+         "data" : [ 34, 32, 0, 27, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "There is more of it north, south, and west.  You can see the continent of Grancasa to the east, though you can't land there from here.",
+         "name" : "You are in the ocean. (N/S/W)",
+         "number" : 33
+      },
+      {
+         "data" : [ -35, 33, 0, 28, 0, 30, 0, 0, 0, 0, 1 ],
+         "description" : "You are in the ocean.  To the northeast is a lighthouse that you should avoid getting too close to.  There is ocean north, south, and west.",
+         "name" : "You are southwest of a lighthouse. (N/S/W)",
+         "number" : 34
+      },
+      {
+         "data" : [ -999, 34, 0, 29, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are near a lighthouse.  You may go south or west into the ocean.  North will take you back home.",
+         "name" : "You are near a lighthouse. (N/S/W)",
+         "number" : 35
+      },
+      {
+         "data" : [ 3, 1, 0, 2, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "There is an island east.  However, you cannot land there.  There is ocean north, south, and west.",
+         "name" : "You are west of an island. (N/S/W)",
+         "number" : 36
+      },
+      {
+         "data" : [ 9, 1050, 1049, 1048, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at the entrance to a castle.  There are doors east, west, and south.  There is a chandelier and paintings on the wall.  This castle seems very nice for being in the middle of the Muerte Sea.  On the wall is a sign.",
+         "name" : "You are in a castle entrance. (N/S/E/W)",
+         "number" : 37
+      },
+      {
+         "data" : [ 0, 0, 37, 1051, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a standard cloak room.  One cloak catches your attention and seems to be hanging directly over the wall.",
+         "name" : "You are in a cloak room. (E)",
+         "number" : 38
+      },
+      {
+         "data" : [ 0, 42, 38, 0, 40, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a guard tower with stairs leading up.  You see a painting that looks very expensive for being in a guard tower.  You hear screams coming from the south.",
+         "name" : "You are at the bottom of a guard tower. (S/E/U)",
+         "number" : 39
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 41, 39, 0, 0, 0, 0, 1 ],
+         "description" : "This part of the tower must serve as an armory as well, because there are some weapons on the shelves.  You may go up to the top or down to the bottom.",
+         "name" : "You are in the middle of a guard tower. (U/D)",
+         "number" : 40
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 0, 40, 0, 0, 0, 0, 1 ],
+         "description" : "You see a book lying here.  There are arrow slits in the walls and a window above you through which you can see for miles.",
+         "name" : "You are at the top of a guard tower. (D)",
+         "number" : 41
+      },
+      {
+         "data" : [ 39, 43, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a room with lots of screaming people.  There are many people being whipped.  You see a door to the south and hear many voices coming from there.",
+         "name" : "You are in a torture chamber! (N/S)",
+         "number" : 42
+      },
+      {
+         "data" : [ 42, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a room that serves as the guard's quarters.  Luckily, it's not storming with activity right now.",
+         "name" : "You are in the guard's quarters. (N)",
+         "number" : 43
+      },
+      {
+         "data" : [ 0, 0, 45, 37, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "To the east you can hear voices and see a sign labeled \"Guest rooms\".",
+         "name" : "You are in the lounge. (E/W)",
+         "number" : 44
+      },
+      {
+         "data" : [ 0, 0, 0, 44, 1052, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a guest room.  There are many paintings on the walls, including a very large one on one of the walls.",
+         "name" : "You are in a guest bedroom. (W)",
+         "number" : 45
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 47, 45, 0, 0, 0, 0, 1 ],
+         "description" : "You may proceed to the top or go back down.  There is a suit of armor here.",
+         "name" : "You are in a guard tower. (U/D)",
+         "number" : 46
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 0, 46, 0, 0, 0, 0, 1 ],
+         "description" : "You see a table in the center of the room.  There is a very good view of the ocean.  It would be very easy to spot enemies miles away.  The only exit is down.",
+         "name" : "You are at the top of a guard tower. (D)",
+         "number" : 47
+      },
+      {
+         "data" : [ 37, 51, 1053, 1054, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a dining hall.  There is a cabinet on the wall.  Fine paintings adorn the walls.  You see doors in all directions save south, where you see more dining hall.",
+         "name" : "You are in a main dining hall. (N/S/E/W)",
+         "number" : 48
+      },
+      {
+         "data" : [ 0, 0, 48, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a library.  Many rare books line the bookshelves.  You hear shouts of anger (?) coming through the south wall.",
+         "name" : "You are in the library. (E)",
+         "number" : 49
+      },
+      {
+         "data" : [ 0, 53, 0, 48, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a kitchen.  There is a door west and a room south.",
+         "name" : "You are in the kitchen. (S/W)",
+         "number" : 50
+      },
+      {
+         "data" : [ 48, 54, 0, 1055, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a dining hall.  There is a door to the west.  South is an archway with a plaque that says \"Throne room\".",
+         "name" : "You are in the main dining hall. (N/S/W)",
+         "number" : 51
+      },
+      {
+         "data" : [ 0, 0, 51, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in the billiard room.  A game has just finished and you can hear shouts of joy (from the winner) and of anger (from the loser).",
+         "name" : "You are in a billiard room. (E)",
+         "number" : 52
+      },
+      {
+         "data" : [ 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a room which serves as the servant's quarters.  You cannot believe that it is this messy.  What do the servants do in their spare time?",
+         "name" : "You are in the servant's quarters. (N)",
+         "number" : 53
+      },
+      {
+         "data" : [ 51, 0, 56, 55, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in the throne room.  There is obviously a throne in the center of the room.  There are many valuables scattered across the room.",
+         "name" : "You are in the throne room! (N/E/W)",
+         "number" : 54
+      },
+      {
+         "data" : [ 0, 0, 54, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "There is a chalkboard on one wall.  On the south wall is a window.  You can see at least 100 houses that look like slums.",
+         "name" : "You are in the King's meeting room. (E)",
+         "number" : 55
+      },
+      {
+         "data" : [ 0, 0, 1056, 54, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a study.  There is a desk against one corner and a bookshelf on the east wall.",
+         "name" : "You are in the King's study. (W)",
+         "number" : 56
+      },
+      {
+         "data" : [ 58, 0, 0, 56, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a room which serves as the King's quarters.  There are many valuables on the wall, including a gold-keyed clarinet.  You may go west through the bookcase or north from here.",
+         "name" : "You are in the King's quarters! (N/W)",
+         "number" : 57
+      },
+      {
+         "data" : [ 0, 57, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a room which serves as the quarters for the Prince.  It is not as well decorated as the King's quarters but still very magnificently done.",
+         "name" : "You are in the Prince's quarters. (S)",
+         "number" : 58
+      },
+      {
+         "data" : [ 0, 60, 0, 0, 77, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a secret room (actually a hallway).  You may go south or back up through the secret door.",
+         "name" : "You are in a secret underground room. (S/U)",
+         "number" : 59
+      },
+      {
+         "data" : [ 59, 63, 62, 61, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a jail.  There are cells east and west, and more hallway north and south.  You can hear screaming from all around you.",
+         "name" : "You are in a hallway in a jail. (N/S/E/W)",
+         "number" : 60
+      },
+      {
+         "data" : [ 0, 0, 60, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "There is nothing of any interest or value here.  The only exit is east.",
+         "name" : "You are in a jail cell. (E)",
+         "number" : 61
+      },
+      {
+         "data" : [ 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "There is nothing of any value or interest here.  The only exit is west.",
+         "name" : "You are in a jail cell. (W)",
+         "number" : 62
+      },
+      {
+         "data" : [ 60, 0, 65, 64, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a hallway inside a jail.  The hall abruptly stops because of a cave-in south.  However, there are cells east and west.",
+         "name" : "You are in a hallway. (N/E/W)",
+         "number" : 63
+      },
+      {
+         "data" : [ 0, 0, 63, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "There is nothing of any value or interest here.  The only exit is east.",
+         "name" : "You are in a jail cell. (E)",
+         "number" : 64
+      },
+      {
+         "data" : [ 0, 0, 1057, 63, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "There is a strange shadow on the east wall.  Other than that, there is nothing of any interest or value here.  The only exit you can see is east.",
+         "name" : "You are in a jail cell. (W)",
+         "number" : 65
+      },
+      {
+         "data" : [ 68, 67, 0, 65, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The secret door is west.  You may go north where you can't see anything or south into a throne room of sorts.",
+         "name" : "You are in a hallway. (N/S/W)",
+         "number" : 66
+      },
+      {
+         "data" : [ 66, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in some kind of throne room.  There is a lot of treasure around.  The only exit you can see is north.",
+         "name" : "You are in a throne room (of sorts). (N)",
+         "number" : 67
+      },
+      {
+         "data" : [ 0, 66, 0, 0, 0, -69, 0, 0, 0, 0, 0 ],
+         "description" : "You are at the end of a hallway.  There is a stairway down.  It looks very, very, very, very, very, very, very long!!!",
+         "name" : "You are at the top of a stairway. (S/D)",
+         "number" : 68
+      },
+      {
+         "data" : [ 0, 1059, 0, 0, -68, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a cave.  There is a stairway leading up that it very, very, very tall and could take you days to climb!  A waterfall is flowing all around you making it hard to see...",
+         "name" : "You are in a cave concealed by a waterfall. (U)",
+         "number" : 69
+      },
+      {
+         "data" : [ 0, 0, 0, 84, -71, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at the bottom of a cliff.  You could climb it if you had climbing equipment.  You can also go back west.",
+         "name" : "You are at the bottom of a cliff. (W/U)",
+         "number" : 70
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 72, 70, 0, 0, 0, 0, 1 ],
+         "description" : "You are near the bottom of a cliff.  You can see two figures at the top of the cliff, but they don't seem to have noticed you.  You may go up and die like a hero or go down and live like a rat.",
+         "name" : "You are climbing a cliff. (U/D)",
+         "number" : 71
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 73, 71, 0, 0, 0, 0, 1 ],
+         "description" : "You are near the middle of a cliff.  You are still trying to hide from the two figures at the top, which are becoming more distinct.",
+         "name" : "You are climbing a cliff. (U/D)",
+         "number" : 72
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 74, 72, 0, 0, 0, 0, 1 ],
+         "description" : "You are climbing a cliff.  You think the two figures have seen you because they suddenly go running off (to alert somebody?)",
+         "name" : "You are in the middle of a cliff. (U/D)",
+         "number" : 73
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 75, 73, 0, 0, 0, 0, 1 ],
+         "description" : "You are above the middle of the cliff.  However, you are finding it harder and harder not to look down.",
+         "name" : "You are climbing a cliff. (U/D)",
+         "number" : 74
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 76, 74, 0, 0, 0, 0, 1 ],
+         "description" : "You are near the top of a cliff.  Maybe another 100 feet.  Some rocks fall from the cliff, one nearly missing your head!  It appears that somebody is throwing them at you!",
+         "name" : "You are climbing a cliff. (U/D)",
+         "number" : 75
+      },
+      {
+         "data" : [ 0, 0, 77, 0, 0, -75, 0, 0, 0, 0, 1 ],
+         "description" : "You made it!  You're at the top of the cliff.  There is a waterfall east that goes off the cliff; however, you could approach it a little farther.",
+         "name" : "You are at the top of a cliff! (E/D)",
+         "number" : 76
+      },
+      {
+         "data" : [ 0, 0, 0, 76, 0, 1058, 0, 0, 0, 0, 1 ],
+         "description" : "You are at the top of a cliff.  To the east is a giant waterfall.  You are at the top of it.  There is a strange-looking patch of grass here.",
+         "name" : "You are near the top of a waterfall. (W)",
+         "number" : 77
+      },
+      {
+         "data" : [ 89, 0, 79, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a forest.  You may go north or east into more forest.",
+         "name" : "You are in the southwest corner of a forest. (N/E)",
+         "number" : 78
+      },
+      {
+         "data" : [ 88, 0, 80, 78, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "North and west is forest, east is a beach.",
+         "name" : "You are in the forest. (N/E/W)",
+         "number" : 79
+      },
+      {
+         "data" : [ 87, 23, 81, 79, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on south beach (the place on the island, not the diet.)  South is more beach; east, west, and north is forest that you can get lost in.",
+         "name" : "You are at the north part of a beach. (N/S/E/W)",
+         "number" : 80
+      },
+      {
+         "data" : [ 86, 0, 82, 80, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at the southern part of a forest.  It continues north and east.  West is a beach.",
+         "name" : "You are in a forest. (N/E/W)",
+         "number" : 81
+      },
+      {
+         "data" : [ 85, 0, 83, 81, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a forest.  It is getting darker by the minute, although this night seems even darker than usual.",
+         "name" : "You are in a forest. (N/E/W)",
+         "number" : 82
+      },
+      {
+         "data" : [ 84, 0, 0, 82, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in the southeast corner of a forest.  You may go north or west.  You think you see a cliff far to the northeast, but you think it's your imagination.",
+         "name" : "You are at the corner of a forest. (N/W)",
+         "number" : 83
+      },
+      {
+         "data" : [ 95, 83, 70, 85, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are by a river, which is to the north.  There is forest south and west, and a small clearing east.  There is a waterfall to the northeast, though you are at the bottom of it.",
+         "name" : "You are by a river. (N/E/W/S)",
+         "number" : 84
+      },
+      {
+         "data" : [ 94, 82, 84, 86, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are by a river, which is to the north.  You could enter it, or go south, east, and west into denser forest.",
+         "name" : "You are in the forest by a river. (N/S/E/W)",
+         "number" : 85
+      },
+      {
+         "data" : [ 0, 81, 85, 87, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "There is a river north, though the current is picking up and it would be unwise to enter the river here.  You may, however, go south, east, and west.",
+         "name" : "You are in a forest. (S/E/W)",
+         "number" : 86
+      },
+      {
+         "data" : [ 92, 80, 86, 88, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "The forest extends in all directions.  It is getting darker, and you can see less and less in your torchlight.",
+         "name" : "You are in a forest. (N/S/E/W)",
+         "number" : 87
+      },
+      {
+         "data" : [ 91, 79, 87, 89, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "There is more forest to the north, south, east, and west.  In your torchlight you think you see a river very far to the north, but you cannot make out any details.",
+         "name" : "You are in a forest. (N/S/E/W)",
+         "number" : 88
+      },
+      {
+         "data" : [ 90, 78, 0, 88, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a forest which extends north, south, and east.  Very far north, you think you see a river, but you cannot make out any details.",
+         "name" : "You are at the edge of a forest. (N/S/E)",
+         "number" : 89
+      },
+      {
+         "data" : [ 0, 89, 91, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "There is a river to the north.  However, the current is far too strong to enter it.  You may go south or east.",
+         "name" : "You are just south of a river. (S/E)",
+         "number" : 90
+      },
+      {
+         "data" : [ 0, 88, 92, 90, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "Although you cannot enter the river because of the current, you can go south, east, and west into a pitch-dark forest.",
+         "name" : "You are in a forest by a river. (S/E/W)",
+         "number" : 91
+      },
+      {
+         "data" : [ 0, 87, 93, 91, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You could enter the river east.  You may also go south or west.",
+         "name" : "You are in a forest by a river. (S/E/W)",
+         "number" : 92
+      },
+      {
+         "data" : [ 0, 0, 0, 99, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "The current is sweeping you west!  It is impossible to go in any other direction!",
+         "name" : "You are in a river with an extremely fast current! (W)",
+         "number" : 93
+      },
+      {
+         "data" : [ 0, 0, 95, 93, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You could go east _or_ west with the current; however, you could not land north or south.",
+         "name" : "You are in a river with a moderate current. (E/W)",
+         "number" : 94
+      },
+      {
+         "data" : [ 96, 84, 0, 94, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "There is a waterfall east.  Luckily, you're at the bottom.",
+         "name" : "You are in a river just after a waterfall. (N/S/W)",
+         "number" : 95
+      },
+      {
+         "data" : [ 107, 95, 0, 97, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "There is a river south which you can enter.  You may also go into a dark forest north and west.",
+         "name" : "You are in a forest. (N/S/W)",
+         "number" : 96
+      },
+      {
+         "data" : [ 106, 94, 96, 98, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "There is a river south, though the current is picking up to the west.  The forest does seem to get lighter north and east, but it gets darker west.",
+         "name" : "You are in a forest. (N/S/E/W)",
+         "number" : 97
+      },
+      {
+         "data" : [ 105, 0, 97, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "The river is south and west, but the current is too strong!  The trees seem to be getting taller around here.",
+         "name" : "You are in the forest by a river. (N/E)",
+         "number" : 98
+      },
+      {
+         "data" : [ 0, 0, 0, 100, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "I don't think there's much I can say in the description that isn't already obvious.  I'd recommend getting out of the river at the first opportunity.",
+         "name" : "You are being swept away by the current! (W)",
+         "number" : 99
+      },
+      {
+         "data" : [ 0, 0, 0, 101, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "The current is still too strong to any direction besides west, though.",
+         "name" : "You are in a river with a (finally!) slowing current. (W)",
+         "number" : 100
+      },
+      {
+         "data" : [ 102, 90, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "The river is about to empty into the Muerte Sea.  You can land north or south.",
+         "name" : "You are in a river with a slowing current. (N/S)",
+         "number" : 101
+      },
+      {
+         "data" : [ 113, 101, 103, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "The forest seems to be getting darker than you think it's possible to get!",
+         "name" : "You are in a forest north of a river. (N/S/E)",
+         "number" : 102
+      },
+      {
+         "data" : [ 112, 104, 104, 102, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "It almost seems supernaturally dark.  In your torchlight, you still can barely see your surroundings!",
+         "name" : "You are in a very dark forest. (N/S/E/W)",
+         "number" : 103
+      },
+      {
+         "data" : [ 111, 0, 105, 103, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "There is a very fast river south, but you can't see any details.  Therefore, the only directions you may go in are north, east, and west.",
+         "name" : "You are in a forest. (N/E/W)",
+         "number" : 104
+      },
+      {
+         "data" : [ 110, 98, 106, 104, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "It is getting light north and west.  In fact, you think you can see a small clearing northwest.",
+         "name" : "You are in a slowly lightening forest. (N/S/E/W)",
+         "number" : 105
+      },
+      {
+         "data" : [ 109, 97, 107, 105, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You can see a clearing east.  There is forest north, south, and west.",
+         "name" : "You are near a clearing in a forest. (N/S/E/W)",
+         "number" : 106
+      },
+      {
+         "data" : [ 108, 96, 0, 106, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a small clearing in a forest.  The ground looks as though it were recently dug up here...",
+         "name" : "You are in a clearing. (N/S/W)",
+         "number" : 107
+      },
+      {
+         "data" : [ 0, 107, 0, 109, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The only exits are south and west.  There seems to be a lot of natural light here, but far to the east, it's _very_ dark.",
+         "name" : "You are at the northeast corner of a forest.  (S/W)",
+         "number" : 108
+      },
+      {
+         "data" : [ 0, 106, 108, 110, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The forest gets darker to the west and lighter to the east.  There is a clearing to the southeast.",
+         "name" : "You are in a forest. (S/E/W)",
+         "number" : 109
+      },
+      {
+         "data" : [ 0, 105, 109, 111, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "It is getting darker to the west, and something makes you think that there's some danger there.",
+         "name" : "You are in a darkening forest. (S/E/W)",
+         "number" : 110
+      },
+      {
+         "data" : [ 0, 104, 110, 112, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a dark part of the forest.  You see spider webs all over the place.  You wonder why you even headed in this direction.",
+         "name" : "You are in a spider's lair!! (S/E/W)",
+         "number" : 111
+      },
+      {
+         "data" : [ 0, 103, 111, 113, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in the northern part of a forest.  There are spider webs all around and you think that you're going to get stuck in one soon.",
+         "name" : "You are a dark forest. (S/E/W)",
+         "number" : 112
+      },
+      {
+         "data" : [ 0, 102, 112, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "There are spider webs all around you.  In fact, you think you see . . . .",
+         "name" : "You are in the northwestern part of a forest. (S/E)",
+         "number" : 113
+      }
+   ]
+}

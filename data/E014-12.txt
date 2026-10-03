@@ -1,0 +1,883 @@
+{
+   "artifacts" : [
+      {
+         "data" : [ 20, 2, 5, -2, 10, 5, 1, 8 ],
+         "description" : "You see a good quality sword.",
+         "name" : "sword",
+         "number" : 1
+      },
+      {
+         "data" : [ 25, 2, 6, -3, 10, 5, 1, 12 ],
+         "description" : "You see a standard quality Marcos sword.",
+         "name" : "sword#",
+         "number" : 2
+      },
+      {
+         "data" : [ 50, 0, 5, 3, 0, 0, 0, 0 ],
+         "description" : "You see a pile of gold pieces.",
+         "name" : "gold",
+         "number" : 3
+      },
+      {
+         "data" : [ 150, 0, 10, 5, 0, 0, 0, 0 ],
+         "description" : "You see a large gold egg.",
+         "name" : "gold egg",
+         "number" : 4
+      },
+      {
+         "data" : [ 50, 0, 4, 7, 0, 0, 0, 0 ],
+         "description" : "You see a coin of pure silver.",
+         "name" : "silver ingot",
+         "number" : 5
+      },
+      {
+         "data" : [ 6, 2, 2, -6, 25, 2, 1, 6 ],
+         "description" : "You see a bag of Japanese throwing stars, also known as shuriken.",
+         "name" : "shuriken",
+         "number" : 6
+      },
+      {
+         "data" : [ 30, 3, 14, -7, -10, 1, 2, 6 ],
+         "description" : "You see the minotaur's large axe.",
+         "name" : "huge axe",
+         "number" : 7
+      },
+      {
+         "data" : [ 100, 1, 2, 10, 0, 0, 0, 0 ],
+         "description" : "You see a large emerald glinting in the light.",
+         "name" : "emerald",
+         "number" : 8
+      },
+      {
+         "data" : [ 40, 3, 6, -8, 10, 3, 2, 4 ],
+         "description" : "You see a magically enchanted mace.",
+         "name" : "magic mace",
+         "number" : 9
+      },
+      {
+         "data" : [ 175, 1, 1, 14, 0, 0, 0, 0 ],
+         "description" : "You see a rather small pearl.",
+         "name" : "pearl",
+         "number" : 10
+      },
+      {
+         "data" : [ 50, 1, 5, 15, 0, 0, 0, 0 ],
+         "description" : "You see a crystal orb sparkling here.",
+         "name" : "crystal orb",
+         "number" : 11
+      },
+      {
+         "data" : [ 220, 11, 2, 16, 0, 5, 0, 0 ],
+         "description" : "You see a ring with a diamond the size of Gibralter.",
+         "name" : "diamond ring",
+         "number" : 12
+      },
+      {
+         "data" : [ 50, 1, 1, 19, 0, 0, 0, 0 ],
+         "description" : "You see a small diamond glinting in the light.",
+         "name" : "diamond",
+         "number" : 13
+      },
+      {
+         "data" : [ 30, 2, 15, -14, 10, 2, 2, 6 ],
+         "description" : "You see a regular bow & arrow set.",
+         "name" : "bow & arrows",
+         "number" : 14
+      },
+      {
+         "data" : [ 40, 3, 10, -15, 10, 1, 2, 5 ],
+         "description" : "You see an axe that is glowing a strange puce color.",
+         "name" : "mystic axe",
+         "number" : 15
+      },
+      {
+         "data" : [ 50, 3, 8, 24, 25, 4, 2, 8 ],
+         "description" : "You see a dagger made of unmeltable ice.  Brrrr!",
+         "name" : "ice dagger",
+         "number" : 16
+      },
+      {
+         "data" : [ 25, 2, 8, -17, 10, 5, 1, 10 ],
+         "description" : "You see a standard Marcos sword.",
+         "name" : "sword##",
+         "number" : 17
+      },
+      {
+         "data" : [ 35, 1, 2, 27, 0, 0, 0, 0 ],
+         "description" : "You see a small red ruby.",
+         "name" : "ruby",
+         "number" : 18
+      },
+      {
+         "data" : [ 100, 0, 9, 33, 0, 0, 0, 0 ],
+         "description" : "You see a large bar of solid platinum.",
+         "name" : "platinum bar",
+         "number" : 19
+      },
+      {
+         "data" : [ 117, 11, 3, 36, 0, 5, 0, 0 ],
+         "description" : "You see a jewel-studded necklace.",
+         "name" : "necklace",
+         "number" : 20
+      },
+      {
+         "data" : [ 50, 0, 5, 40, 0, 0, 0, 0 ],
+         "description" : "You see a bag of gold coins.",
+         "name" : "bag of gold",
+         "number" : 21
+      },
+      {
+         "data" : [ 40, 3, 10, -27, 7, 5, 3, 4 ],
+         "description" : "You see a magically enchanted longsword.",
+         "name" : "magic longsword",
+         "number" : 22
+      },
+      {
+         "data" : [ 25, 1, 7, 46, 0, 0, 0, 0 ],
+         "description" : "You see a large silver plaque.  It says, \"Howard Johnson's 2001 Employee of the Year:  Justin T. Wilson\"",
+         "name" : "plaque",
+         "number" : 23
+      },
+      {
+         "data" : [ 400, 1, 10, 51, 0, 0, 0, 0 ],
+         "description" : "You see a very large pile of jewels.",
+         "name" : "jewels",
+         "number" : 24
+      },
+      {
+         "data" : [ 50, 0, 5, 64, 0, 0, 0, 0 ],
+         "description" : "You see a bag of gold 50 coins.",
+         "name" : "bag of gold coins",
+         "number" : 25
+      },
+      {
+         "data" : [ 500, 0, 15, 69, 0, 0, 0, 0 ],
+         "description" : "You see a large gold bar.",
+         "name" : "gold bar",
+         "number" : 26
+      },
+      {
+         "data" : [ 0, 13, 200, 0, 0, 0, 0, 0 ],
+         "description" : "You see the dead body of Xenon.  It does not look like he will cause anymore trouble!",
+         "name" : "Xenon's body",
+         "number" : 27
+      },
+      {
+         "data" : [ 0, 8, -999, 2008, 9, 0, 0, 1 ],
+         "description" : "You find a doorknob painted black to blend in and turn it...",
+         "name" : "a secret passage south",
+         "number" : 28
+      },
+      {
+         "data" : [ 0, 7, -999, 25, 2, 1, 1, 0 ],
+         "description" : "There is a sign on the road.",
+         "name" : "sign",
+         "number" : 29
+      },
+      {
+         "data" : [ 0, 7, -999, 47, 3, 1, 1, 0 ],
+         "description" : "There is a sign by the road.",
+         "name" : "sign#",
+         "number" : 30
+      }
+   ],
+   "effects" : [
+      {
+         "description" : "As you are about to leave the room, a large slab of granite falls from the ceiling, sealing the door!  Suddenly the room begins to fill up with water!  You try valiantly to stay afloat, but end up drowning!",
+         "number" : 1
+      },
+      {
+         "description" : "The sign points east and says, \"This way to Eldarr Forest.\"",
+         "number" : 2
+      },
+      {
+         "description" : "The sign points south, down the road, and says, \"This way to the hideout of Xenon!\"",
+         "number" : 3
+      }
+   ],
+   "info" : {
+      "author" : "Sam Bhayani",
+      "difficulty" : "4",
+      "rating" : "5.0/1",
+      "serialNum" : "66"
+   },
+   "intro" : "",
+   "monsters" : [
+      {
+         "data" : [ 30, 16, 1, 200, 2, 0, 5, 1, 1, 8, 3, 0, 0 ],
+         "description" : "You see a tall knight.  He smiles at you and says, \"You must be the fat adventurer the old man talked about.  I'm Sir Angadon and I will help you in trying to find Xenon!\"",
+         "name" : "Sir Angadon",
+         "number" : 1
+      },
+      {
+         "data" : [ 20, 15, 1, 200, 3, 0, 1, 2, 1, 8, 1, 0, 0 ],
+         "description" : "You see a small humanoid that reeks a foul stench.  When he sees you he says, \"I wonder if fat adventurer tastes good!\"",
+         "name" : "Orc",
+         "number" : 2
+      },
+      {
+         "data" : [ 25, 14, 1, 200, 5, 1, 0, 0, 1, 6, 1, 0, 0 ],
+         "description" : "You see a large bird.  You recognize it to be an oversized eagle.",
+         "name" : "Eagle",
+         "number" : 3
+      },
+      {
+         "data" : [ 20, 10, 1, 200, 7, 0, 0, 0, 1, 7, 1, 0, 0 ],
+         "description" : "You see a large, fierce African tiger.",
+         "name" : "Tiger",
+         "number" : 4
+      },
+      {
+         "data" : [ 22, 23, 1, 200, 8, 0, 1, 6, 3, 3, 1, 0, 0 ],
+         "description" : "You see a man dressed in black, squatting in a martial arts pose.",
+         "name" : "Ninja",
+         "number" : 5
+      },
+      {
+         "data" : [ 35, 16, 1, 200, 10, 0, 2, 7, 1, 9, 1, 0, 0 ],
+         "description" : "You see a huge half-man, half-bull creature.  It is a minotaur.",
+         "name" : "Minotaur",
+         "number" : 6
+      },
+      {
+         "data" : [ 20, 13, 1, 200, 11, 0, 2, 9, 2, 4, 3, 0, 0 ],
+         "description" : "You see the fair Lady Amrat.  She says to you, \"You must be the fat adventurer I have to go with!\"  You can't help but wonder why everyone keeps calling you fat...",
+         "name" : "Lady Amrat",
+         "number" : 7
+      },
+      {
+         "data" : [ 25, 11, 1, 200, 14, 0, 2, 0, 2, 4, 1, 0, 0 ],
+         "description" : "You see an ugly troll dressed in leather armor and carrying a shield.  It says, \"Yum-yum!  Finally a nice fat adventurer!\"",
+         "name" : "Troll",
+         "number" : 8
+      },
+      {
+         "data" : [ 35, 12, 1, 200, 15, 0, 0, 0, 1, 8, 1, 0, 0 ],
+         "description" : "You see a huge gorilla pounding its chest.",
+         "name" : "Gorilla",
+         "number" : 9
+      },
+      {
+         "data" : [ 40, 14, 1, 200, 16, 0, 3, 0, 2, 6, 1, 0, 0 ],
+         "description" : "You see a large hairy slob.",
+         "name" : "Cave Giant",
+         "number" : 10
+      },
+      {
+         "data" : [ 25, 16, 1, 200, 18, 0, 1, 0, 1, 7, 1, 0, 0 ],
+         "description" : "You see a deformed humanoid.  He is a gargoyle.",
+         "name" : "Gargoyle",
+         "number" : 11
+      },
+      {
+         "data" : [ 20, 5, 1, 200, 19, 1, 0, 0, 2, 4, 1, 0, 0 ],
+         "description" : "You see an enormous ant that is bigger than you.",
+         "name" : "Giant Ant",
+         "number" : 12
+      },
+      {
+         "data" : [ 11, 7, 1, 50, 21, 0, 0, 14, 1, 8, 1, 0, 0 ],
+         "description" : "You see a black elf.  He sneers at you when you see him and says, \"Whaz up wit da fores' elfz ebonics, yo!?!\"",
+         "name" : "Black Elf",
+         "number" : 13
+      },
+      {
+         "data" : [ 28, 10, 1, 200, 22, 0, 3, 15, 2, 6, 1, 0, 0 ],
+         "description" : "You see a man dressed in blood red.",
+         "name" : "Murderer",
+         "number" : 14
+      },
+      {
+         "data" : [ 35, 6, 1, 200, 24, 0, 3, 0, 2, 5, 1, 0, 0 ],
+         "description" : "You see a snow giant, otherwise called a yeti.",
+         "name" : "Yeti",
+         "number" : 15
+      },
+      {
+         "data" : [ 20, 15, 1, 200, 25, 0, 5, 17, 1, 8, 3, 0, 0 ],
+         "description" : "You see the son of the King.  Prince Castillon says, \"Why does the old man always expect me to go with the fat adventurers?  Oh well let's get moving!\"",
+         "name" : "Prince Castillon",
+         "number" : 16
+      },
+      {
+         "data" : [ 35, 4, 1, 200, 28, 1, 1, 0, 2, 5, 1, 0, 0 ],
+         "description" : "You see a fierce unicorn, its eyes ablaze with hatred for all things unhorned!",
+         "name" : "Unicorn",
+         "number" : 17
+      },
+      {
+         "data" : [ 40, 10, 1, 200, 30, 0, 2, 0, 3, 4, 1, 0, 0 ],
+         "description" : "You see a huge and angry forest giant standing here.",
+         "name" : "Forest Giant",
+         "number" : 18
+      },
+      {
+         "data" : [ 30, 9, 1, 200, 32, 0, 4, 0, 2, 4, 3, 0, 0 ],
+         "description" : "You see the fourth companion you were supposed to meet, Destroyer the ogre.",
+         "name" : "Destroyer",
+         "number" : 19
+      },
+      {
+         "data" : [ 20, 10, 1, 200, 33, 0, 4, 0, 2, 4, 1, 0, 0 ],
+         "description" : "You see a bloodthirsty warrior standing here.",
+         "name" : "Warrior",
+         "number" : 20
+      },
+      {
+         "data" : [ 15, 16, 1, 110, 36, 0, 0, 0, 1, 4, 1, 0, 0 ],
+         "description" : "You see a ferocious wolf leap from the shadows.",
+         "name" : "Wolf",
+         "number" : 21
+      },
+      {
+         "data" : [ 7, 20, 1, 200, 40, 1, 0, 0, 2, 4, 1, 0, 0 ],
+         "description" : "You see an old dirty bird.  It is a >>gasp!<< vulture.",
+         "name" : "Vulture",
+         "number" : 22
+      },
+      {
+         "data" : [ 30, 6, 1, 200, 42, 1, 2, 0, 1, 7, 1, 0, 0 ],
+         "description" : "You see a large bull that reacts angrily to the red blood stains on your armor!",
+         "name" : "Bull",
+         "number" : 23
+      },
+      {
+         "data" : [ 30, 10, 1, 200, 42, 0, 0, 0, 2, 6, 1, 0, 0 ],
+         "description" : "You see a huge and hungry bear.  It is ready to eat you.",
+         "name" : "Bear",
+         "number" : 24
+      },
+      {
+         "data" : [ 12, 3, 1, 200, 43, 1, 4, 0, 7, 1, 1, 0, 0 ],
+         "description" : "You see a large crocodile lying here as still as a log.",
+         "name" : "Crocodile",
+         "number" : 25
+      },
+      {
+         "data" : [ 30, 15, 1, 200, 44, 0, 4, 22, 1, 11, 1, 0, 0 ],
+         "description" : "You see a knight dressed in black armor.  He says, \"Come and fight to your death, fat adventurer!\"  You wonder why everyone calls you fat when you are in excellent shape.",
+         "name" : "Evil Knight",
+         "number" : 26
+      },
+      {
+         "data" : [ 12, 12, 1, 200, 45, 0, 0, 0, 1, 4, 1, 0, 0 ],
+         "description" : "You see a hungry mangy jackal charge at you.",
+         "name" : "Jackal",
+         "number" : 27
+      },
+      {
+         "data" : [ 26, 19, 1, 200, 46, 0, 2, 0, 1, 8, 1, 0, 0 ],
+         "description" : "You see a swordsman blocking your path.  He says, \"I am the Guardian of the Forest.  No one shall pass here!\"",
+         "name" : "Swordsman",
+         "number" : 28
+      },
+      {
+         "data" : [ 20, 12, 1, 200, 48, 0, 5, 0, 1, 8, 3, 0, 0 ],
+         "description" : "You see your last faithful companion, Don the Dwarf.  You notice that he is very fat and his beard has weird missing patches as of somebody tried to cut his whiskers off...",
+         "name" : "Don",
+         "number" : 29
+      },
+      {
+         "data" : [ 55, 4, 1, 200, 51, 0, 6, 0, 2, 5, 1, 0, 0 ],
+         "description" : "You see Xenon's pet, a huge fiery dragon!",
+         "name" : "Dragon",
+         "number" : 30
+      },
+      {
+         "data" : [ 25, 15, 1, 200, 52, 0, 3, 0, 1, 10, 1, 0, 0 ],
+         "description" : "You see one of Xenon's guards.  He has a tattoo that says, \"MOM\" on his arm.",
+         "name" : "Guard1",
+         "number" : 31
+      },
+      {
+         "data" : [ 25, 16, 1, 200, 54, 0, 3, 0, 1, 10, 1, 0, 0 ],
+         "description" : "You see one of Xenon's guards.  He has a long scar down his cheek.",
+         "name" : "Guard2",
+         "number" : 32
+      },
+      {
+         "data" : [ 25, 16, 1, 200, 56, 0, 3, 0, 1, 10, 1, 0, 0 ],
+         "description" : "You see one of Xenon's guards.  He is standing in his underwear.",
+         "name" : "Guard3",
+         "number" : 33
+      },
+      {
+         "data" : [ 25, 16, 1, 200, 60, 0, 3, 0, 1, 10, 1, 0, 0 ],
+         "description" : "You see one of Xenon's guards.  He has a 6-inch nail through his nose.",
+         "name" : "Guard4",
+         "number" : 34
+      },
+      {
+         "data" : [ 25, 16, 1, 200, 62, 0, 3, 0, 1, 10, 1, 0, 0 ],
+         "description" : "You see one of Xenon's guards.  He has thick glasses and his pants are pulled up to his chest.",
+         "name" : "Guard5",
+         "number" : 35
+      },
+      {
+         "data" : [ 25, 16, 1, 200, 64, 0, 3, 0, 1, 10, 1, 0, 0 ],
+         "description" : "You see one of Xenon's guard.  He bites the head off of a small dragon and spits it at you!",
+         "name" : "Guard6",
+         "number" : 36
+      },
+      {
+         "data" : [ 25, 16, 1, 200, 64, 0, 3, 0, 1, 10, 1, 0, 0 ],
+         "description" : "You see one of Xenon's guards.  He is busy writing poetry.",
+         "name" : "Guard7",
+         "number" : 37
+      },
+      {
+         "data" : [ 25, 16, 1, 200, 64, 0, 3, 0, 1, 10, 1, 0, 0 ],
+         "description" : "You see another one of Xenon's guards.  This one has Tourette's Syndrome and is cursing loudly at his sword.",
+         "name" : "Guard8",
+         "number" : 38
+      },
+      {
+         "data" : [ 25, 16, 1, 200, 66, 0, 3, 0, 1, 10, 1, 0, 0 ],
+         "description" : "You see one of Xenon's guards.  He is wearing a Star Trek uniform that is about two sizes too small.",
+         "name" : "Guard9",
+         "number" : 39
+      },
+      {
+         "data" : [ 25, 16, 1, 200, 67, 0, 3, 0, 1, 10, 1, 0, 0 ],
+         "description" : "You see one of Xenon's guards.  He was reading a dirty magazine when you came in.  He throws it aside and draws his sword, his face turning a beet red.",
+         "name" : "Guard10",
+         "number" : 40
+      },
+      {
+         "data" : [ 25, 16, 1, 200, 69, 0, 3, 0, 1, 10, 1, 0, 0 ],
+         "description" : "You see one of the royal guards of Xenon urinating in the corner.",
+         "name" : "Guard11",
+         "number" : 41
+      },
+      {
+         "data" : [ 25, 16, 1, 200, 69, 0, 3, 0, 1, 10, 1, 0, 0 ],
+         "description" : "You see one of the royal guards of Xenon inhaling a tube of glue.",
+         "name" : "Guard12",
+         "number" : 42
+      },
+      {
+         "data" : [ 35, 22, 1, 200, 69, 0, 7, 0, 1, 12, 1, 0, 0 ],
+         "description" : "You see a tall black figure.  He is none other than the evil lord Xenon!  The horrible villain who obviously employs anybody in his royal guard.",
+         "name" : "Xenon",
+         "number" : 43
+      }
+   ],
+   "name" : "Dungeons of Xenon",
+   "numDirections" : 6,
+   "rooms" : [
+      {
+         "data" : [ 0, 0, 2, 3, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in an unremarkable small chamber.  Exits lie to the east and west.",
+         "name" : "You are in a small chamber.  (E/W)",
+         "number" : 1
+      },
+      {
+         "data" : [ 0, 6, 0, 1, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a knight's living quarters.",
+         "name" : "You are in the living quarters.  (S/W)",
+         "number" : 2
+      },
+      {
+         "data" : [ 0, 4, 1, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in what appears to be a cramped home for some animal-creature.  Bones are laid about and a dirt bed is in the corner.  You may go either east or south.",
+         "name" : "You are in a small room.  (S/E)",
+         "number" : 3
+      },
+      {
+         "data" : [ 3, 10, 5, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at an unremarkable T-intersection.",
+         "name" : "You are at a T-intersection.  (N/S/E)",
+         "number" : 4
+      },
+      {
+         "data" : [ 0, 8, 0, 4, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in some sort of a bird's nest.  Twigs are on all sides of you and you may go west or south.",
+         "name" : "You are in an eagle's lair.  (S/W)",
+         "number" : 5
+      },
+      {
+         "data" : [ 2, 11, 7, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You see chambers to all three directions.",
+         "name" : "You are at a T-intersection.  (N/S/E)",
+         "number" : 6
+      },
+      {
+         "data" : [ 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a damp room with plants growing everywhere.  The only exit is west",
+         "name" : "You are in a damp room.  (W)",
+         "number" : 7
+      },
+      {
+         "data" : [ 5, 1028, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a room in which every wall is black.  The south wall is painted a different shade of black and is just about the size of a door...",
+         "name" : "You are in the black chamber.  (N)",
+         "number" : 8
+      },
+      {
+         "data" : [ 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "As you enter the room, a video screen lights up.  You see the grinning face of the evil Xenon looking down upon you!  \"Welcome fool!\" he intones, \"Welcome to your doom!\"",
+         "name" : "You are in the secret room.  (N)",
+         "number" : 9
+      },
+      {
+         "data" : [ 4, 13, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in some sort of a monster's den.  Passages lead both north and south.",
+         "name" : "You are in a monster's den.  (N/S)",
+         "number" : 10
+      },
+      {
+         "data" : [ 6, 17, 12, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in some sort of a large bedroom, obviously for a woman.  You may go north, south or east.",
+         "name" : "You are in a large bedroom.  (N/S/E)",
+         "number" : 11
+      },
+      {
+         "data" : [ 0, 0, 0, 11, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a small storeroom.  The only exit is to the west.",
+         "name" : "You are in a storeroom.  (W)",
+         "number" : 12
+      },
+      {
+         "data" : [ 10, 15, 16, 14, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at an unremarkable four-way intersection.  In all directions you see rooms.",
+         "name" : "You are at a four-way intersection.  (N/S/E/W)",
+         "number" : 13
+      },
+      {
+         "data" : [ 0, 0, 13, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in an unremarkable smelly chamber.  The only exit is to the east.",
+         "name" : "You are in a smelly chamber.  (E)",
+         "number" : 14
+      },
+      {
+         "data" : [ 13, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in what we'll call the south chamber.  The only exit is to the north.",
+         "name" : "You are in the south chamber.  (N)",
+         "number" : 15
+      },
+      {
+         "data" : [ 0, 18, 17, 13, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a large dungeon room.  The ceiling is higher than in the other room and you may go south, east or west.",
+         "name" : "You are in a dungeon room.  (S/E/W)",
+         "number" : 16
+      },
+      {
+         "data" : [ 11, 19, 23, 16, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at an unremarkable four-way intersection.",
+         "name" : "You are at a four-way intersection.  (N/S/E/W)",
+         "number" : 17
+      },
+      {
+         "data" : [ 16, 0, 19, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at an unremarkable bend in the passage.  You may go north or east.",
+         "name" : "You are at a bend in the passage.  (N/E)",
+         "number" : 18
+      },
+      {
+         "data" : [ 17, 20, 0, 18, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in an unremarkable ant colony.  You may go north, south or west.",
+         "name" : "You are in a ant colony.  (N/S/W)",
+         "number" : 19
+      },
+      {
+         "data" : [ 19, 0, 21, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at an unremarkable bend.  You may go north or east.",
+         "name" : "You are at a bend in the hall.  (N/E)",
+         "number" : 20
+      },
+      {
+         "data" : [ 22, 0, 0, 20, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "This room appears to be the home of a civilized but evil being.",
+         "name" : "You are in a small dungeon room.  (N/W)",
+         "number" : 21
+      },
+      {
+         "data" : [ 23, 21, 0, 0, 25, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in the dungeon exit room.  You may go north, south, or up the stairs which lead out of the dungeon.",
+         "name" : "You are in the exit room.  (N/S/U)",
+         "number" : 22
+      },
+      {
+         "data" : [ 0, 22, 24, 17, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at an unremarkable T-intersection.  You may go south, east or west.",
+         "name" : "You are at a T-intersection.  (S/E/W)",
+         "number" : 23
+      },
+      {
+         "data" : [ 0, 0, 0, 23, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a room that is made of ice.  The only exit is to the west.",
+         "name" : "You are in the ice room.  (W)",
+         "number" : 24
+      },
+      {
+         "data" : [ 0, 0, 26, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "As you exit the stairs, they disappear!  You may only go east.",
+         "name" : "You are on a path.  (E)",
+         "number" : 25
+      },
+      {
+         "data" : [ 0, 0, 27, 25, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in the Forest of Eldarr.  The path goes east and west.",
+         "name" : "You are on an east/west path.  (E/W)",
+         "number" : 26
+      },
+      {
+         "data" : [ 35, 28, 32, 26, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at an unremarkable four-way intersection in the path.  The forest is getting thicker.",
+         "name" : "You are at a four-way intersection.  (N/S/E/W)",
+         "number" : 27
+      },
+      {
+         "data" : [ 27, 0, 29, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at an unremarkable bend in the path.",
+         "name" : "You are at a bend.  (N/E)",
+         "number" : 28
+      },
+      {
+         "data" : [ 0, 0, 30, 28, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on an unremarkable forest path.",
+         "name" : "You are on a path.  (E/W)",
+         "number" : 29
+      },
+      {
+         "data" : [ 31, 0, 0, 29, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at an unremarkable bend in the path.  You may go west or north.",
+         "name" : "You are at a bend in the path.  (N/W)",
+         "number" : 30
+      },
+      {
+         "data" : [ 33, 30, 45, 32, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at an unremarkable four-way intersection on this forest path.",
+         "name" : "You are at an intersection in the path.  (N/S/E/W)",
+         "number" : 31
+      },
+      {
+         "data" : [ 0, 0, 31, 27, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on an east/west forest path in Eldarr.",
+         "name" : "You are on an east/west forest path.",
+         "number" : 32
+      },
+      {
+         "data" : [ 39, 31, 0, 34, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at an unremarkable T-intersection in the path.  You may go north, south or west.",
+         "name" : "You are at a T-intersection.  (N/S/W)",
+         "number" : 33
+      },
+      {
+         "data" : [ 0, 0, 33, 35, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on an unremarkable east/west forest path.",
+         "name" : "You are on an east/west path.",
+         "number" : 34
+      },
+      {
+         "data" : [ 36, 27, 34, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on a path in the woods of Eldarr.  To the west are impenetrable trees.  You can go north, south or east.",
+         "name" : "You are at a T-intersection on the path.  (N/S/E)",
+         "number" : 35
+      },
+      {
+         "data" : [ 40, 35, 37, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at an unremarkable clearing.  To the west is much overgrowth.",
+         "name" : "You are in a clearing.  (N/S/E)",
+         "number" : 36
+      },
+      {
+         "data" : [ 0, 0, 38, 36, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on an unremarkable path in the forest.",
+         "name" : "You are on an east/west path.",
+         "number" : 37
+      },
+      {
+         "data" : [ 41, 39, 42, 37, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at an unremarkable four-way intersection.",
+         "name" : "You are at a four-way intersection.  (N/S/E/W)",
+         "number" : 38
+      },
+      {
+         "data" : [ 38, 33, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on an unremarkable path in the woods of Eldarr.",
+         "name" : "You are on a forest path.  (N/S)",
+         "number" : 39
+      },
+      {
+         "data" : [ 0, 36, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at a clearing in the forest, where you may only go south.  Trees line the north east and west sides.",
+         "name" : "You are at a clearing.  (S)",
+         "number" : 40
+      },
+      {
+         "data" : [ 0, 38, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at the end of the path where you may only go south.",
+         "name" : "You are at the end of the path.  (S)",
+         "number" : 41
+      },
+      {
+         "data" : [ 0, 44, 43, 38, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at an unremarkable T-intersection in the woods of Eldarr.",
+         "name" : "You are at a T-intersection.  (S/E/W)",
+         "number" : 42
+      },
+      {
+         "data" : [ 0, 0, 0, 42, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "At the north end of the clearing is a small pond.  The only exit is to the west.",
+         "name" : "You are at a small clearing with a pond.  (W)",
+         "number" : 43
+      },
+      {
+         "data" : [ 42, 45, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on an unremarkable path in the forest.  You may go north or south.",
+         "name" : "You are on a path.  (N/S)",
+         "number" : 44
+      },
+      {
+         "data" : [ 44, 46, 0, 31, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "To the south the forest seems to get thinner...",
+         "name" : "You are at a T-intersection.  (N/S/W)",
+         "number" : 45
+      },
+      {
+         "data" : [ 0, 47, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The forest disappears behind you as you leave it!  You may only continue south.",
+         "name" : "You are out of the forest.  (S)",
+         "number" : 46
+      },
+      {
+         "data" : [ 46, 48, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on a road that has been well-traveled.",
+         "name" : "You are on a road.  (N/S)",
+         "number" : 47
+      },
+      {
+         "data" : [ 47, 0, 0, 49, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at an unremarkable bend in the road.  You may go west or north.",
+         "name" : "You are at a bend in the road.  (N/W)",
+         "number" : 48
+      },
+      {
+         "data" : [ 0, 0, 48, 50, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on an unremarkable east/west road.",
+         "name" : "You are on an east/west road.",
+         "number" : 49
+      },
+      {
+         "data" : [ 0, 51, 49, 52, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at an unremarkable T-intersection.",
+         "name" : "You are at a T-intersection.  (S/E/W)",
+         "number" : 50
+      },
+      {
+         "data" : [ 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The walls are scorched here and bones lie everywhere.  You may only go north.",
+         "name" : "You are in Xenon's pet's chamber.  (N)",
+         "number" : 51
+      },
+      {
+         "data" : [ 63, 53, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You may not go back east because a wall appeared there out of nowhere!",
+         "name" : "You are in a hall.  (N/S)",
+         "number" : 52
+      },
+      {
+         "data" : [ 52, 54, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in an unremarkable corridor.",
+         "name" : "You are in a corridor.  (N/S)",
+         "number" : 53
+      },
+      {
+         "data" : [ 53, 0, 0, 55, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at an unremarkable bend in the passage.",
+         "name" : "You are at a bend.  (N/W)",
+         "number" : 54
+      },
+      {
+         "data" : [ 0, 0, 54, 56, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in an unremarkable corridor.",
+         "name" : "You are in a corridor.  (E/W)",
+         "number" : 55
+      },
+      {
+         "data" : [ 57, 0, 55, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at an unremarkable bend in Xenon's complex",
+         "name" : "You are at a bend.  (N/E)",
+         "number" : 56
+      },
+      {
+         "data" : [ 58, 56, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in an unremarkable corridor.",
+         "name" : "You are in a corridor.  (N/S)",
+         "number" : 57
+      },
+      {
+         "data" : [ 59, 57, 64, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at an unremarkable T-intersection.",
+         "name" : "You are at a T-intersection.  (N/S/E)",
+         "number" : 58
+      },
+      {
+         "data" : [ 60, 58, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in an unremarkable corridor.",
+         "name" : "You are in a corridor.  (N/S)",
+         "number" : 59
+      },
+      {
+         "data" : [ 0, 59, 61, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at an unremarkable bend in the passage.",
+         "name" : "You are at a bend.  (S/E)",
+         "number" : 60
+      },
+      {
+         "data" : [ 0, 0, 62, 60, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in an unremarkable corridor.",
+         "name" : "You are in a corridor.  (E/W)",
+         "number" : 61
+      },
+      {
+         "data" : [ 0, 63, 0, 61, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at an unremarkable bend in the passage.",
+         "name" : "You are at a bend.  (S/W)",
+         "number" : 62
+      },
+      {
+         "data" : [ 62, 52, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in an unremarkable passage.",
+         "name" : "You are in a passage.  (N/S)",
+         "number" : 63
+      },
+      {
+         "data" : [ 67, 65, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "When you enter this room a wall falls to the west.  You may only go north or south.",
+         "name" : "You are in a passage.  (N/S)",
+         "number" : 64
+      },
+      {
+         "data" : [ 64, 0, 66, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at an unremarkable bend.",
+         "name" : "You are at a bend.  (N/E)",
+         "number" : 65
+      },
+      {
+         "data" : [ 69, 0, 0, 65, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at an unremarkable bend in the passage.",
+         "name" : "You are at a bend.  (N/W)",
+         "number" : 66
+      },
+      {
+         "data" : [ 0, 64, 68, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at an unremarkable bend.",
+         "name" : "You are at a bend.  (S/E)",
+         "number" : 67
+      },
+      {
+         "data" : [ 0, 69, 0, 67, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at an unremarkable bend.",
+         "name" : "You are at a bend.  (S/W)",
+         "number" : 68
+      },
+      {
+         "data" : [ 0, 0, 0, -999, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in Xenon's chamber.  As you enter, the walls close around you.  A teleportation gate to the Main Hall opens up to the west.",
+         "name" : "You are in Xenon's chamber.  (W)",
+         "number" : 69
+      }
+   ]
+}

@@ -1,0 +1,427 @@
+{
+   "artifacts" : [
+      {
+         "data" : [ 40, 6, 1, 9, 5, 5, 1, 0 ],
+         "description" : "There is a small bottle of myrrh here.  The label reads, \"100% myrrh USP\".",
+         "name" : "myrrh",
+         "number" : 1
+      },
+      {
+         "data" : [ 30, 0, 3, 7, 0, 0, 0, 0 ],
+         "description" : "There is a small pile of gold sheckels here!",
+         "name" : "gold coins",
+         "number" : 2
+      },
+      {
+         "data" : [ 250, 3, 8, 4, 40, 5, 3, 15 ],
+         "description" : "You see an unusual sword.  The blade is a single long crystal of diamond.  The shaft is made of ivory, fastened with stainless steel, and inlaid with gold.  A tag attached reads, \"Manufactured on 1/2/1000 BCE by Angelic Armorers, Inc.\"",
+         "name" : "diamond sword",
+         "number" : 3
+      },
+      {
+         "data" : [ 50, 1, 2, 13, 0, 0, 0, 0 ],
+         "description" : "There is a small sack of rough diamonds here!",
+         "name" : "diamonds",
+         "number" : 4
+      },
+      {
+         "data" : [ 14, 2, 6, 4, 15, 4, 2, 10 ],
+         "description" : "You see a high quality spear.  The shaft is made of oak, the tip ends in a diamond point, and is very well balanced.",
+         "name" : "spear",
+         "number" : 5
+      },
+      {
+         "data" : [ 5, 2, 6, 4, 5, 3, 4, 6 ],
+         "description" : "You see a particularly nasty club made of oak, with a large spike driven into the business end.",
+         "name" : "club",
+         "number" : 6
+      },
+      {
+         "data" : [ 10, 2, 6, -7, 10, 5, 3, 6 ],
+         "description" : "You see a standard issue sword.",
+         "name" : "sword",
+         "number" : 7
+      },
+      {
+         "data" : [ 8, 6, 12, 17, -1, 30, 1, 0 ],
+         "description" : "You see a set of full wineskins!",
+         "name" : "wine",
+         "number" : 8
+      },
+      {
+         "data" : [ 1000, 7, 2, 17, 2, 1, 1, 0 ],
+         "description" : "You see a sealed packet of Manna that the local priests would love to have!  (And pay dearly for!)",
+         "name" : "Manna",
+         "number" : 9
+      },
+      {
+         "data" : [ 50, 2, 10, -3, 15, 4, 2, 10 ],
+         "description" : "You see a high quality spear.  The shaft is made of oak, the tip ends in a diamond point, and is very well balanced.",
+         "name" : "spear#",
+         "number" : 10
+      },
+      {
+         "data" : [ 250, 2, 10, -17, 40, 5, 3, 11 ],
+         "description" : "You see an unusual sword.  The blade is a single long crystal of pure gold.  The shaft is made of ivory, fastened with stainless steel, and inlaid with gold.  A tag attached reads, \"Manufactured on 1/4/1200 BCE by The Royal Armorer.\"",
+         "name" : "gold sword",
+         "number" : 11
+      },
+      {
+         "data" : [ 30, 0, 5, 25, 0, 0, 0, 0 ],
+         "description" : "There is a bar of solid silver here!",
+         "name" : "bar of silver",
+         "number" : 12
+      },
+      {
+         "data" : [ 2, 6, 1, 22, -1, 5, 1, 0 ],
+         "description" : "There is a quart bottle of ale here!",
+         "name" : "ale",
+         "number" : 13
+      },
+      {
+         "data" : [ 140, 1, 5, 34, 0, 0, 0, 0 ],
+         "description" : "You see a large pearl, the \"Pearl of Knowledge\"!",
+         "name" : "pearl",
+         "number" : 14
+      },
+      {
+         "data" : [ 7000, 1, 4, 34, 0, 0, 0, 0 ],
+         "description" : "You see a packet of leaves from the Tree of Healing.  It's what you came here for in the first place!",
+         "name" : "leaves",
+         "number" : 15
+      }
+   ],
+   "effects" : [
+      {
+         "description" : "As you ready the diamond sword, the blade is suddenly enveloped in an intense white, nearly blinding, light.",
+         "number" : 1
+      },
+      {
+         "description" : "It says, \"????????????????????????????????????????????????????\", and so on...",
+         "number" : 2
+      },
+      {
+         "description" : "Congratulations!  You brought back the leaves and saved the Lord's daughter.  Unfortunatley, the author of this adventure forgot to program your rewared for you, so you get ... NOTHING!  Thanks for playing (I guess) -FK.",
+         "number" : 3
+      }
+   ],
+   "info" : {
+      "author" : "David Crawford",
+      "difficulty" : "9",
+      "rating" : "3.0/2",
+      "serialNum" : "46"
+   },
+   "intro" : "",
+   "monsters" : [
+      {
+         "data" : [ 18, 16, 1, 200, 8, 0, 2, 0, 3, 9, 3, 0, 0 ],
+         "description" : "You see a large, friendly, lion, wearing an ID tag.  It reads, Property of the Army of Judah.  Please return to Massada Garrison (all fees paid).",
+         "name" : "Lion",
+         "number" : 1
+      },
+      {
+         "data" : [ 7, 10, 3, 200, 7, 0, 0, 10, 3, 2, 1, 0, 0 ],
+         "description" : "There before you are three standard, garden variety demons.",
+         "name" : "Demon",
+         "number" : 2
+      },
+      {
+         "data" : [ 28, 24, 1, 200, 32, 0, 0, 0, 4, 5, 3, 0, 0 ],
+         "description" : "You see a Seraphim here!",
+         "name" : "Seraphim",
+         "number" : 3
+      },
+      {
+         "data" : [ 10, 14, 1, 200, 7, 1, 0, 0, 1, 6, 1, 0, 0 ],
+         "description" : "There is a boa constrictor hanging from the roof.  He wants to put the squeeze on you!",
+         "name" : "Boa Constrictor",
+         "number" : 4
+      },
+      {
+         "data" : [ 10, 20, 1, 200, 5, 0, 2, 0, 1, 5, 3, 0, 0 ],
+         "description" : "You see a friendly fox, wearing a small ID tag.  It reads, \"Property of Judaen army, Covert Operations Dept.  Warning!  Understands, speaks, and reads Hebrew, English, and Arabic.\"  (Yikes!  It's a ... Literate fox!  -FK)",
+         "name" : "Fox",
+         "number" : 5
+      },
+      {
+         "data" : [ 20, 10, 1, 200, 13, 0, 0, 7, 3, 6, 1, 0, 0 ],
+         "description" : "You see a Moabite Army Captain, and he isn't smiling!",
+         "name" : "Moabite Captain",
+         "number" : 6
+      },
+      {
+         "data" : [ 10, 14, 1, 200, 13, 1, 0, 0, 2, 8, 1, 0, 0 ],
+         "description" : "You see a large python, and it looks hungry!",
+         "name" : "Python",
+         "number" : 7
+      },
+      {
+         "data" : [ 7, 11, 5, 200, 18, 0, 0, 0, 3, 2, 1, 0, 0 ],
+         "description" : "Here before you are five standard, garden variety demons.",
+         "name" : "Demon",
+         "number" : 8
+      },
+      {
+         "data" : [ 20, 12, 1, 200, 25, 0, 1, 0, 2, 5, 1, 0, 0 ],
+         "description" : "You see an angry black bear, looking right at you!",
+         "name" : "Bear",
+         "number" : 9
+      },
+      {
+         "data" : [ 20, 18, 1, 90, 25, 0, 0, 0, 1, 10, 1, 0, 0 ],
+         "description" : "You see a Philistine soldier who has just spotted you, and drawn his weapon!",
+         "name" : "Philistine",
+         "number" : 10
+      },
+      {
+         "data" : [ 40, 24, 1, 200, 32, 0, 0, 0, 4, 5, 3, 0, 0 ],
+         "description" : "You see a Cherubim here!",
+         "name" : "Cherubim",
+         "number" : 11
+      },
+      {
+         "data" : [ 20, 14, 2, 200, 18, 0, 0, 0, 2, 5, 1, 0, 0 ],
+         "description" : "You see two small dragons who were aiding the demons in their evil.",
+         "name" : "Dragon",
+         "number" : 12
+      },
+      {
+         "data" : [ 15, 20, 1, 200, 18, 0, 1, 0, 3, 9, 3, 0, 0 ],
+         "description" : "You see a fellow adventurer who, thanks to your entrance, was able to shake off the spell detaining him.  Brother, does he want revenge!!",
+         "name" : "Colleague",
+         "number" : 13
+      },
+      {
+         "data" : [ 60, 24, 1, 200, 22, 0, 5, 0, 3, 10, 3, 0, 0 ],
+         "description" : "You see the most feared man who ever served in the IDF, and later ruled all of Israel:  King David.",
+         "name" : "King David",
+         "number" : 14
+      },
+      {
+         "data" : [ 20, 16, 2, 200, 25, 0, 0, 0, 1, 10, 1, 0, 0 ],
+         "description" : "You see two small dragons who lick their chops when they see you.",
+         "name" : "Dragon",
+         "number" : 15
+      },
+      {
+         "data" : [ 20, 16, 1, 200, 10, -1, 2, 11, 2, 8, 1, 0, 0 ],
+         "description" : "You see an angel wearing a hard hat.  He yells, \"Tom Z. sent me!\", an attacks with a gold sword!",
+         "name" : "Angel",
+         "number" : 16
+      }
+   ],
+   "name" : "LifeQuest",
+   "numDirections" : 6,
+   "rooms" : [
+      {
+         "data" : [ -999, 2, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at the main entrance to the LifeQuest world.  It is guarded by four Seraphim, armed with drawn flameswords, saluting you with their flameswords as you draw near.  To the south is a well lit corridor, and north is the path to the Main Hall.",
+         "name" : "You are at the main entrance.  (N/S)",
+         "number" : 1
+      },
+      {
+         "data" : [ 1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You notice a warning sign that reads, \"Do not touch miniaturized stars.  Burn hazard!\".  To the north is the main entrance, south is a four-way intersection.",
+         "name" : "You are at corridor 1.  (N/S)",
+         "number" : 2
+      },
+      {
+         "data" : [ 2, 6, 4, 5, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at a four way intersection.  To the north and south are corridors.  To the east is a small armory.  To the west is a rest area.",
+         "name" : "You are at intersection 1.  (N/S/E/W)",
+         "number" : 3
+      },
+      {
+         "data" : [ 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a small armory, well stocked with highest quality weapons.  The exit is to the west.",
+         "name" : "You are at the armory.  (W)",
+         "number" : 4
+      },
+      {
+         "data" : [ 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a rest area for guardians of various species.  There are couches, tables, and chairs here.  The only exit is to the east.",
+         "name" : "You are at rest area 1.  (E)",
+         "number" : 5
+      },
+      {
+         "data" : [ 3, 7, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at the north end of a long and well lit corridor.  There is a red line across the floor, and a warning sign that reads, \"Unsecured area begins here, always have a weapon ready!\".  To the south the corridor continues.",
+         "name" : "You are at corridor 2 north.  (N/S)",
+         "number" : 6
+      },
+      {
+         "data" : [ 6, 8, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at the south end of a long and well lit corridor.  To the north the corridor continues, and to the south is a four-way intersection.",
+         "name" : "You are at corridor 2 south.  (N/S)",
+         "number" : 7
+      },
+      {
+         "data" : [ 7, 10, 0, 9, 11, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at an intersection with exits to the north, south, up, and west.  You see a storage area to the west...",
+         "name" : "You are at intersection 2.  (N/S/W/U)",
+         "number" : 8
+      },
+      {
+         "data" : [ 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a dimly lit storage closet.  You see many items of not much value.",
+         "name" : "You are in storage closet 1.  (E)",
+         "number" : 9
+      },
+      {
+         "data" : [ 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in an unused room.  It has been recently swept.",
+         "name" : "You are in an unused room.  (N)",
+         "number" : 10
+      },
+      {
+         "data" : [ 0, 12, 0, 0, 19, 8, 0, 0, 0, 0, 1 ],
+         "description" : "You are in an entry foyer to one of the main levels.  The foyer is brightly lit.  The sign on the wall reads, \"You are at main level 1.         ---UNSECURED AREA---\".  Exits are up, down, and south.",
+         "name" : "You are in entry foyer 1.  (S/U/D)",
+         "number" : 11
+      },
+      {
+         "data" : [ 11, 13, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at the north end of a well lit corridor.  North of you is a stairway, and south the corridor continues.",
+         "name" : "You are at main level 1 corridor 1.  (N/S)",
+         "number" : 12
+      },
+      {
+         "data" : [ 12, 14, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at the middle of a well lit corridor.  You see evidence of what became of some of your friends.  To the south and north the corridor continues.",
+         "name" : "You are at main level 1 corridor 1.  (N/S)",
+         "number" : 13
+      },
+      {
+         "data" : [ 13, 15, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at the south end of a long corridor.  To the north the corridor continues.  South is an intersection.",
+         "name" : "You are at main level 1 corridor 1 south.  (N/S)",
+         "number" : 14
+      },
+      {
+         "data" : [ 14, 16, 17, 0, 0, 18, 0, 0, 0, 0, 1 ],
+         "description" : "You are at a four-way intersection.  Below you, you hear some evil sounding noises!",
+         "name" : "You are at main level 1 intersection 1.  (N/S/E/D)",
+         "number" : 15
+      },
+      {
+         "data" : [ 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a junk bin...  Oh well...",
+         "name" : "You are in level 1 storage area 1.  (N)",
+         "number" : 16
+      },
+      {
+         "data" : [ 0, 0, 0, 15, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a room with a lot of shelves installed.  It's a bit cool in here.  (BRRRRRRR!!!!!!)",
+         "name" : "You are in main level 1 storage area 2.  (W)",
+         "number" : 17
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 15, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You have stumbled onto a detention area of the forces of darkness, set up illegally!  There is a hint of sulfur in the air.",
+         "name" : "You are in an illegal detention area.  (U)",
+         "number" : 18
+      },
+      {
+         "data" : [ 0, 20, 0, 0, 21, 11, 0, 0, 0, 0, 1 ],
+         "description" : "You are in an entry foyer to one of the main levels.  The foyer is brightly lit.  The sign on the wall reads, \"You are at main level 2         ---UNSECURED AREA---\".  Exits are up, down, and south.",
+         "name" : "You are in entry foyer 2.  (S/U/D)",
+         "number" : 19
+      },
+      {
+         "data" : [ 19, 23, 22, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at a three-way intersection with exits to the north, south, and east.  The sign on the east wall reads, \"IDF O-Club\"",
+         "name" : "You are in main level 2 intersection 2.  (N/S/E)",
+         "number" : 20
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 0, 19, 0, 0, 0, 0, 1 ],
+         "description" : "You have entered a storage area reserved for the use of angels only.  It would be extremely unwise to take anything from here.",
+         "name" : "You are at loft 1.  (D)",
+         "number" : 21
+      },
+      {
+         "data" : [ 0, 0, 0, 20, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in an O-Club run for IDF members assigned to this dungeon.",
+         "name" : "You are in the IDF O-Club.  (W)",
+         "number" : 22
+      },
+      {
+         "data" : [ 20, 24, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at the north end of a well lit corridor.",
+         "name" : "You are at main level 2 corridor 1.  (N/S)",
+         "number" : 23
+      },
+      {
+         "data" : [ 23, 25, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at the south end of a well lit corridor.  To the north the corridor continues, and to the south is a large room.",
+         "name" : "You are at main level 2 corridor 1.  (N/S)",
+         "number" : 24
+      },
+      {
+         "data" : [ 24, 26, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a large room with exits to the north and south.  There are some all-too-familiar corpses here!",
+         "name" : "You are in main level 2 room 1.  (N/S)",
+         "number" : 25
+      },
+      {
+         "data" : [ 25, 27, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a short connecting corridor.  Exits are to the north and south.",
+         "name" : "You are in main level 2 corridor 2.  (N/S)",
+         "number" : 26
+      },
+      {
+         "data" : [ 26, 28, 0, 0, 29, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a four-way intersection with exits to the north, south, east, and up.  There is a breeze blowing from above.",
+         "name" : "You are in main level 2 intersection 2.  (N/S/U)",
+         "number" : 27
+      },
+      {
+         "data" : [ 27, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a nondescript room.  <YAWN> -FK",
+         "name" : "You are at main level 2 room 2.  (N)",
+         "number" : 28
+      },
+      {
+         "data" : [ 0, 30, 0, 0, 31, 27, 0, 0, 0, 0, 1 ],
+         "description" : "You are in an entry foyer to one of the main levels.  The foyer is brightly lit.  The sign on the wall reads, \"You are at main level 3           ---UNSECURED AREA---\".  Exits are up, down, and south.",
+         "name" : "You are in entry foyer 3.  (S/U/D)",
+         "number" : 29
+      },
+      {
+         "data" : [ 29, 32, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a short connecting corridor.  Exits are to the north and south.",
+         "name" : "You are in main level 3 corridor 1.  (N/S)",
+         "number" : 30
+      },
+      {
+         "data" : [ 1, 1, 1, 1, 0, 29, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a watchtower, and can see the Main Hall from here.  The angel on duty points out a shortcut to the main entrance most adventurers don't use.  (And it lies N, S, E, and W.  -FK)",
+         "name" : "You are at a watchtower.  (N/S/E/W/D)",
+         "number" : 31
+      },
+      {
+         "data" : [ 30, 33, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You have entered a guard station usually manned by angels.  A red line runs across the entrance way, and a sign reads, \"Unsecured area ends/begins here!  Always have a weapon ready!\".",
+         "name" : "You are at main level 3 guard station.  (N/S)",
+         "number" : 32
+      },
+      {
+         "data" : [ 32, 34, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a short connecting corridor.  Exits are to the north and south.",
+         "name" : "You are in main level 3 corridor 3.  (N/S)",
+         "number" : 33
+      },
+      {
+         "data" : [ 33, 0, 0, 0, 35, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in the fabled paradise!  There is room, food, and drink here, enough for the entire Guild to stay here forever!  There are a set of trees to one side.  Exits are north and up.",
+         "name" : "You are in paradise!.  (N/U)",
+         "number" : 34
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 0, 34, 0, 0, 0, 0, 1 ],
+         "description" : "You have entered the private throne room of the Almighty.  A sense of justice and mercy fills the room.  A disembodied voice congratulates you on making it.",
+         "name" : "You are in the throne room.  (D)",
+         "number" : 35
+      }
+   ]
+}

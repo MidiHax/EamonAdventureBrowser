@@ -1,0 +1,1249 @@
+{
+   "artifacts" : [
+      {
+         "data" : [ 5, 5, 10, 0, -1, 0, 0, 0 ],
+         "description" : "You see the lantern you brought with you which lights your way.",
+         "name" : "lantern",
+         "number" : 1
+      },
+      {
+         "data" : [ 1000, 1, 5, 0, 0, 0, 0, 0 ],
+         "description" : "You see the Key of Molinar, which you brought with you to rescue the diplomats.",
+         "name" : "Key of Molinar",
+         "number" : 2
+      },
+      {
+         "data" : [ 45, 2, 5, 0, 10, 1, 1, 6 ],
+         "description" : "You see a high-quality axe.",
+         "name" : "axe1",
+         "number" : 3
+      },
+      {
+         "data" : [ 45, 2, 5, 0, 10, 1, 1, 6 ],
+         "description" : "You see a high-quality axe.",
+         "name" : "axe2",
+         "number" : 4
+      },
+      {
+         "data" : [ 45, 2, 5, 0, 10, 1, 1, 6 ],
+         "description" : "You see a high-quality axe.",
+         "name" : "axe3",
+         "number" : 5
+      },
+      {
+         "data" : [ 45, 2, 5, 0, 10, 1, 1, 6 ],
+         "description" : "You see a high-quality axe.",
+         "name" : "axe4",
+         "number" : 6
+      },
+      {
+         "data" : [ 45, 2, 5, 0, 10, 1, 1, 6 ],
+         "description" : "You see a high-quality axe.",
+         "name" : "axe5",
+         "number" : 7
+      },
+      {
+         "data" : [ 45, 2, 5, 0, 10, 1, 1, 6 ],
+         "description" : "You see a high-quality axe.",
+         "name" : "axe6",
+         "number" : 8
+      },
+      {
+         "data" : [ 45, 2, 5, 0, 10, 1, 1, 6 ],
+         "description" : "You see a high-quality axe.",
+         "name" : "axe7",
+         "number" : 9
+      },
+      {
+         "data" : [ 45, 2, 5, 0, 10, 1, 1, 6 ],
+         "description" : "You see a high-quality axe.",
+         "name" : "axe8",
+         "number" : 10
+      },
+      {
+         "data" : [ 45, 2, 5, 0, 10, 1, 1, 6 ],
+         "description" : "You see a high-quality axe.",
+         "name" : "axe9",
+         "number" : 11
+      },
+      {
+         "data" : [ 45, 2, 5, 0, 10, 1, 1, 6 ],
+         "description" : "You see a high-quality axe.",
+         "name" : "axe10",
+         "number" : 12
+      },
+      {
+         "data" : [ 45, 2, 5, 0, 10, 1, 1, 6 ],
+         "description" : "You see a high-quality axe.",
+         "name" : "axe11",
+         "number" : 13
+      },
+      {
+         "data" : [ 45, 2, 5, 0, 10, 1, 1, 6 ],
+         "description" : "You see a high-quality axe.",
+         "name" : "axe12",
+         "number" : 14
+      },
+      {
+         "data" : [ 45, 2, 5, 0, 10, 1, 1, 6 ],
+         "description" : "You see a high-quality axe.",
+         "name" : "axe13",
+         "number" : 15
+      },
+      {
+         "data" : [ 45, 2, 5, 0, 10, 1, 1, 6 ],
+         "description" : "You see a high-quality axe.",
+         "name" : "axe14",
+         "number" : 16
+      },
+      {
+         "data" : [ 45, 2, 5, 0, 10, 1, 1, 6 ],
+         "description" : "You see a high-quality axe.",
+         "name" : "axe15",
+         "number" : 17
+      },
+      {
+         "data" : [ 45, 2, 5, 0, 10, 1, 1, 6 ],
+         "description" : "You see a high-quality axe.",
+         "name" : "axe16",
+         "number" : 18
+      },
+      {
+         "data" : [ 45, 2, 5, 0, 10, 1, 1, 6 ],
+         "description" : "You see a high-quality axe.",
+         "name" : "axe17",
+         "number" : 19
+      },
+      {
+         "data" : [ 45, 2, 5, 0, 10, 1, 1, 6 ],
+         "description" : "You see a high-quality axe.",
+         "name" : "axe18",
+         "number" : 20
+      },
+      {
+         "data" : [ 45, 2, 5, 0, 10, 1, 1, 6 ],
+         "description" : "You see a high-quality axe.",
+         "name" : "axe19",
+         "number" : 21
+      },
+      {
+         "data" : [ 45, 2, 5, 0, 10, 1, 1, 6 ],
+         "description" : "You see a high-quality axe.",
+         "name" : "axe20",
+         "number" : 22
+      },
+      {
+         "data" : [ 45, 2, 5, 0, 10, 1, 1, 6 ],
+         "description" : "You see a high-quality axe.",
+         "name" : "axe21",
+         "number" : 23
+      },
+      {
+         "data" : [ 45, 2, 5, 0, 10, 1, 1, 6 ],
+         "description" : "You see a high-quality axe.",
+         "name" : "axe22",
+         "number" : 24
+      },
+      {
+         "data" : [ 45, 2, 5, 0, 10, 1, 1, 6 ],
+         "description" : "You see a high-quality axe.",
+         "name" : "axe23",
+         "number" : 25
+      },
+      {
+         "data" : [ 45, 2, 5, 0, 10, 1, 1, 6 ],
+         "description" : "You see a high-quality axe.",
+         "name" : "axe24",
+         "number" : 26
+      },
+      {
+         "data" : [ 100, 3, 1, -47, 20, 1, 8, 1 ],
+         "description" : "You see an unusually light battle axe.",
+         "name" : "battle axe",
+         "number" : 27
+      },
+      {
+         "data" : [ 45, 2, 5, 38, 10, 5, 1, 8 ],
+         "description" : "You see a high-quality sword.",
+         "name" : "sword",
+         "number" : 28
+      },
+      {
+         "data" : [ 100, 3, 3, 38, 20, 3, 8, 1 ],
+         "description" : "You see a mace-like weapon glowing in a dark corner.  It has its name inscribed on it:  \"Thudwacker\".",
+         "name" : "thudwacker",
+         "number" : 29
+      },
+      {
+         "data" : [ 5, 2, 3, 38, -5, 4, 1, 3 ],
+         "description" : "You see a small, rusty dagger.",
+         "name" : "dagger",
+         "number" : 30
+      },
+      {
+         "data" : [ 50, 2, 4, 38, 10, 2, 1, 8 ],
+         "description" : "You see a high-quality bow.",
+         "name" : "bow",
+         "number" : 31
+      },
+      {
+         "data" : [ 10, 2, 3, 38, -10, 4, 1, 5 ],
+         "description" : "You see a very poor quality spear.",
+         "name" : "spear",
+         "number" : 32
+      },
+      {
+         "data" : [ 100, 3, 4, 38, 25, 1, 1, 8 ],
+         "description" : "You see a small hand axe with a slight blue glow surrounding it.  Its name, \"Bemsbane\", is inscribed upon it.",
+         "name" : "Bemsbane",
+         "number" : 33
+      },
+      {
+         "data" : [ 300, 7, 10, 51, 5, 1, 1, 0 ],
+         "description" : "You see a set of very rare books that Sam Slicker would give his eyeteeth for!",
+         "name" : "books",
+         "number" : 34
+      },
+      {
+         "data" : [ 200, 1, 5, 51, 0, 0, 0, 0 ],
+         "description" : "You see a glorious painting of the Earth rising on the moon.",
+         "name" : "painting",
+         "number" : 35
+      },
+      {
+         "data" : [ 200, 1, 50, 51, 0, 0, 0, 0 ],
+         "description" : "You see a silver statue of a bull.  It is about six inches tall.",
+         "name" : "statue",
+         "number" : 36
+      },
+      {
+         "data" : [ 75, 11, 4, 40, 0, 4, 0, 0 ],
+         "description" : "You see a small golden (or at least gold-plated) crown.",
+         "name" : "crown",
+         "number" : 37
+      },
+      {
+         "data" : [ 500, 1, 4, 40, 0, 0, 0, 0 ],
+         "description" : "You see the biggest diamond that you have ever seen in your life!",
+         "name" : "diamond",
+         "number" : 38
+      },
+      {
+         "data" : [ 1000, 1, 200, 30, 0, 0, 0, 0 ],
+         "description" : "You see a glowing idol, decorated in all sorts of precious jewels (which won't come loose).  It looks more valuable than anything you have ever seen.  It also looks very heavy.",
+         "name" : "idol",
+         "number" : 39
+      },
+      {
+         "data" : [ 100, 1, 20, 2, 0, 0, 0, 0 ],
+         "description" : "You see a small trophy with the engraving, \"1st place for axe throw competition, A.S. 23\".",
+         "name" : "trophy",
+         "number" : 40
+      },
+      {
+         "data" : [ 80, 1, 10, 23, 0, 0, 0, 0 ],
+         "description" : "You see a small, golden scepter.",
+         "name" : "scepter",
+         "number" : 41
+      },
+      {
+         "data" : [ 30, 1, 100, 27, 0, 0, 0, 0 ],
+         "description" : "You see a keg of old wine.  It is of a very fine vintage.",
+         "name" : "keg",
+         "number" : 42
+      },
+      {
+         "data" : [ 500, 0, 50, 36, 0, 0, 0, 0 ],
+         "description" : "You see a pile of 500 gold coins!",
+         "name" : "gold coins",
+         "number" : 43
+      },
+      {
+         "data" : [ 0, 12, -999, 34, 59, 0, 0, 0 ],
+         "description" : "You see a large wooden coffin here.",
+         "name" : "coffin",
+         "number" : 44
+      },
+      {
+         "data" : [ 45, 2, 5, -65, 10, 5, 1, 8 ],
+         "description" : "You see a high-quality sword here.",
+         "name" : "sword#",
+         "number" : 45
+      },
+      {
+         "data" : [ 1000, 1, 5, 79, 0, 0, 0, 0 ],
+         "description" : "You see a glowing orb here.  The mystical inscription tells you that it is the Key of Molinar, the object of your quest!",
+         "name" : "Key of Molinar",
+         "number" : 46
+      },
+      {
+         "data" : [ 5, 5, 10, 54, -1, 0, 0, 0 ],
+         "description" : "You see a small lantern here, burning brightly so that you may see.",
+         "name" : "small lantern",
+         "number" : 47
+      },
+      {
+         "data" : [ 500, 0, 10, 59, 0, 0, 0, 0 ],
+         "description" : "You see a stack of gold bars here, welded together to form a single unit.  They look heavy, but my how they glisten in your lantern's light!",
+         "name" : "gold bars",
+         "number" : 48
+      },
+      {
+         "data" : [ 100, 6, 10, 68, 30, 1, 1, 0 ],
+         "description" : "You see a bottle with a bright red label marked, \"HEALING POTION\".  It is filled with a mysterious blue liquid.",
+         "name" : "bottle",
+         "number" : 49
+      },
+      {
+         "data" : [ 50, 1, 3, 0, 0, 0, 0, 0 ],
+         "description" : "You see an empty bottle which you should never see.",
+         "name" : "empty bottle",
+         "number" : 50
+      },
+      {
+         "data" : [ 0, 12, -999, 71, 65, 0, 0, 0 ],
+         "description" : "You see a huge chest lying in the exact center of the room.  It is closed, but not locked.",
+         "name" : "chest",
+         "number" : 51
+      },
+      {
+         "data" : [ 0, 1, -999, 77, 0, 0, 0, 0 ],
+         "description" : "You see a huge coffin in the center of the room, painted so black that no shadows will show on it.  As you run your hand over it, it is perfectly smooth; no decorative carvings have been put on it.",
+         "name" : "black coffin",
+         "number" : 52
+      },
+      {
+         "data" : [ 0, 1, -999, 0, 0, 0, 0, 0 ],
+         "description" : "You see the coffin lying open here.  It is lined with a blood-red satin.",
+         "name" : "open coffin",
+         "number" : 53
+      },
+      {
+         "data" : [ 0, 1, 75, 0, 0, 0, 0, 0 ],
+         "description" : "You see the body of a man lying in the coffin.  From the grotesque sight and smell, he has been dead for a very, very long time.",
+         "name" : "dead body",
+         "number" : 54
+      },
+      {
+         "data" : [ 0, 1, 25, -61, 0, 0, 0, 0 ],
+         "description" : "You see the smashed remains of the skeleton.  It is in far too many pieces to be any sort of a threat again.",
+         "name" : "smashed skeleton",
+         "number" : 55
+      },
+      {
+         "data" : [ 0, 8, -999, 0, 78, 0, 1, 0 ],
+         "description" : "You see a secret ladder in the bottom of the coffin.  It leads down into darkness.",
+         "name" : "a secret passage down",
+         "number" : 56
+      }
+   ],
+   "effects" : [
+      {
+         "description" : "Congratulations, you are now ready to rescue the kidnapped officials.  Again, the warlock does not know where they are, but he will teleport you to their vicinity.",
+         "number" : 1
+      },
+      {
+         "description" : "You will still be carrying the Key of Molinar and all other items that you found.  To teleport yourself or a friendly person home, you must be carrying the Key of Molinar and say their (or your) name.  Good luck!",
+         "number" : 2
+      },
+      {
+         "description" : "As you pick up the dead body, it crumbles to dust.  Where it laid, you can see a hidden passageway!  It goes down through the coffin into inky darkness.",
+         "number" : 3
+      },
+      {
+         "description" : "If you were to drink the entire keg of wine right now, you'd be slurring too badly to use the Key of Molinar.",
+         "number" : 4
+      },
+      {
+         "description" : "The books are printed in a language which you cannot read.",
+         "number" : 5
+      },
+      {
+         "description" : "As you were warned, you break you neck falling off of the cliff.",
+         "number" : 6
+      }
+   ],
+   "info" : {
+      "author" : "Donald Brown",
+      "difficulty" : "8",
+      "rating" : "6.7/3",
+      "serialNum" : "81"
+   },
+   "intro" : "",
+   "monsters" : [
+      {
+         "data" : [ 35, 10, 1, 200, 40, 0, 3, 0, 2, 8, 1, 0, 0 ],
+         "description" : "You see an incredibly huge, nasty, and hungry-looking dragon.  His huge bulk stays between you and the north exit.  His long neck lets him strike at any location in the chamber.",
+         "name" : "Dragon",
+         "number" : 1
+      },
+      {
+         "data" : [ 8, 16, 1, 200, 6, -2, 0, 0, 1, 6, 3, 0, 0 ],
+         "description" : "You see Roark, a male official.",
+         "name" : "Roark",
+         "number" : 2
+      },
+      {
+         "data" : [ 10, 14, 1, 200, 6, -2, 0, 0, 1, 6, 3, 0, 0 ],
+         "description" : "You see Allene, a female official.",
+         "name" : "Allene",
+         "number" : 3
+      },
+      {
+         "data" : [ 11, 17, 1, 200, 12, -2, 0, 0, 1, 6, 3, 0, 0 ],
+         "description" : "You see Fawn, a female official.",
+         "name" : "Fawn",
+         "number" : 4
+      },
+      {
+         "data" : [ 18, 10, 1, 200, 12, -2, 0, 0, 1, 6, 3, 0, 0 ],
+         "description" : "You see Aimee, a female official.",
+         "name" : "Aimee",
+         "number" : 5
+      },
+      {
+         "data" : [ 14, 10, 1, 200, 12, -2, 0, 0, 1, 6, 3, 0, 0 ],
+         "description" : "You see Mana, a female official.",
+         "name" : "Mana",
+         "number" : 6
+      },
+      {
+         "data" : [ 14, 9, 1, 200, 19, -2, 0, 0, 1, 6, 3, 0, 0 ],
+         "description" : "You see Dyce, a male official.",
+         "name" : "Dyce",
+         "number" : 7
+      },
+      {
+         "data" : [ 14, 19, 1, 200, 19, -2, 0, 0, 1, 6, 3, 0, 0 ],
+         "description" : "You see Astolphe, a male official.",
+         "name" : "Astolphe",
+         "number" : 8
+      },
+      {
+         "data" : [ 11, 11, 1, 200, 19, -2, 0, 0, 1, 6, 3, 0, 0 ],
+         "description" : "You see Aitken, a male official.",
+         "name" : "Aitken",
+         "number" : 9
+      },
+      {
+         "data" : [ 9, 17, 1, 200, 25, -2, 0, 0, 1, 6, 3, 0, 0 ],
+         "description" : "You see Bech, a male official.",
+         "name" : "Bech",
+         "number" : 10
+      },
+      {
+         "data" : [ 11, 12, 1, 200, 25, -2, 0, 0, 1, 6, 3, 0, 0 ],
+         "description" : "You see Kelin, a female official.",
+         "name" : "Kelin",
+         "number" : 11
+      },
+      {
+         "data" : [ 18, 15, 1, 200, 33, -2, 0, 0, 1, 6, 3, 0, 0 ],
+         "description" : "You see Minella, a female official.",
+         "name" : "Minella",
+         "number" : 12
+      },
+      {
+         "data" : [ 17, 14, 1, 200, 33, -2, 0, 0, 1, 6, 3, 0, 0 ],
+         "description" : "You see Birket, a male official.",
+         "name" : "Birket",
+         "number" : 13
+      },
+      {
+         "data" : [ 11, 14, 1, 200, 44, -2, 0, 0, 1, 6, 3, 0, 0 ],
+         "description" : "You see Dundas, a male official.",
+         "name" : "Dundas",
+         "number" : 14
+      },
+      {
+         "data" : [ 15, 12, 1, 200, 44, -2, 0, 0, 1, 6, 3, 0, 0 ],
+         "description" : "You see Pue, a male official.",
+         "name" : "Pue",
+         "number" : 15
+      },
+      {
+         "data" : [ 11, 14, 1, 200, 44, -2, 0, 0, 1, 6, 3, 0, 0 ],
+         "description" : "You see Ranald, a male official.",
+         "name" : "Ranald",
+         "number" : 16
+      },
+      {
+         "data" : [ 11, 17, 1, 200, 47, -2, 0, 0, 1, 6, 3, 0, 0 ],
+         "description" : "You see Everard, a male official.",
+         "name" : "Everard",
+         "number" : 17
+      },
+      {
+         "data" : [ 12, 12, 1, 200, 47, -2, 0, 0, 1, 6, 3, 0, 0 ],
+         "description" : "You see Llyn, a female official.",
+         "name" : "Llyn",
+         "number" : 18
+      },
+      {
+         "data" : [ 20, 15, 1, 200, 50, -2, 0, 0, 1, 6, 3, 0, 0 ],
+         "description" : "You see Kavalam, a male official.",
+         "name" : "Kavalam",
+         "number" : 19
+      },
+      {
+         "data" : [ 16, 16, 1, 200, 50, -2, 0, 0, 1, 6, 3, 0, 0 ],
+         "description" : "You see Dorr, a male official.",
+         "name" : "Dorr",
+         "number" : 20
+      },
+      {
+         "data" : [ 11, 22, 1, 200, 50, -2, 0, 0, 1, 6, 3, 0, 0 ],
+         "description" : "You see Edward, a male official.",
+         "name" : "Edward",
+         "number" : 21
+      },
+      {
+         "data" : [ 14, 12, 1, 90, 6, 0, 2, 3, 1, 6, 1, 0, 0 ],
+         "description" : "You see a goonish fighter-type, with a patch on his chest marked \"01\".",
+         "name" : "Goon1",
+         "number" : 22
+      },
+      {
+         "data" : [ 12, 8, 1, 90, 12, 0, 2, 4, 1, 6, 1, 0, 0 ],
+         "description" : "You see a goonish fighter-type, with a patch on his chest marked \"02\".",
+         "name" : "Goon2",
+         "number" : 23
+      },
+      {
+         "data" : [ 17, 8, 1, 60, 19, 0, 2, 5, 1, 6, 1, 0, 0 ],
+         "description" : "You see a goonish fighter-type, with a patch on his chest marked \"03\".",
+         "name" : "Goon3",
+         "number" : 24
+      },
+      {
+         "data" : [ 11, 12, 1, 200, 25, 0, 2, 6, 1, 6, 1, 0, 0 ],
+         "description" : "You see a goonish fighter-type, with a patch on his chest marked \"04\".",
+         "name" : "Goon4",
+         "number" : 25
+      },
+      {
+         "data" : [ 14, 13, 1, 200, 33, 0, 2, 7, 1, 6, 1, 0, 0 ],
+         "description" : "You see a goonish fighter-type, with a patch on his chest marked \"05\".",
+         "name" : "Goon5",
+         "number" : 26
+      },
+      {
+         "data" : [ 17, 12, 1, 200, 44, 0, 2, 8, 1, 6, 1, 0, 0 ],
+         "description" : "You see a goonish fighter-type, with a patch on his chest marked \"06\".",
+         "name" : "Goon6",
+         "number" : 27
+      },
+      {
+         "data" : [ 8, 7, 1, 200, 47, 0, 2, 9, 1, 6, 1, 0, 0 ],
+         "description" : "You see a goonish fighter-type, with a patch on his chest marked \"07\".",
+         "name" : "Goon7",
+         "number" : 28
+      },
+      {
+         "data" : [ 12, 12, 1, 200, 50, 0, 2, 10, 1, 6, 1, 0, 0 ],
+         "description" : "You see a goonish fighter-type, with a patch on his chest marked \"08\".",
+         "name" : "Goon8",
+         "number" : 29
+      },
+      {
+         "data" : [ 13, 12, 1, 200, 2, 0, 2, 11, 1, 6, 1, 0, 0 ],
+         "description" : "You see a goonish fighter-type, with a patch on his chest marked \"09\".",
+         "name" : "Goon9",
+         "number" : 30
+      },
+      {
+         "data" : [ 10, 10, 1, 200, 2, 0, 2, 12, 1, 6, 1, 0, 0 ],
+         "description" : "You see a goonish fighter-type, with a patch on his chest marked \"10\".",
+         "name" : "Goon10",
+         "number" : 31
+      },
+      {
+         "data" : [ 11, 13, 1, 200, 2, 0, 2, 13, 1, 6, 1, 0, 0 ],
+         "description" : "You see a goonish fighter-type, with a patch on his chest marked \"11\".",
+         "name" : "Goon11",
+         "number" : 32
+      },
+      {
+         "data" : [ 14, 14, 1, 200, 23, 0, 2, 14, 1, 6, 1, 0, 0 ],
+         "description" : "You see a goonish fighter-type, with a patch on his chest marked \"12\".",
+         "name" : "Goon12",
+         "number" : 33
+      },
+      {
+         "data" : [ 16, 12, 1, 200, 23, 0, 2, 15, 1, 6, 1, 0, 0 ],
+         "description" : "You see a goonish fighter-type, with a patch on his chest marked \"13\".",
+         "name" : "Goon13",
+         "number" : 34
+      },
+      {
+         "data" : [ 15, 8, 1, 200, 23, 0, 2, 16, 1, 6, 1, 0, 0 ],
+         "description" : "You see a goonish fighter-type, with a patch on his chest marked \"14\".",
+         "name" : "Goon14",
+         "number" : 35
+      },
+      {
+         "data" : [ 20, 11, 1, 200, 27, 0, 2, 17, 1, 6, 1, 0, 0 ],
+         "description" : "You see a goonish fighter-type, with a patch on his chest marked \"15\".",
+         "name" : "Goon15",
+         "number" : 36
+      },
+      {
+         "data" : [ 10, 12, 1, 200, 27, 0, 2, 18, 1, 6, 1, 0, 0 ],
+         "description" : "You see a goonish fighter-type, with a patch on his chest marked \"16\".",
+         "name" : "Goon16",
+         "number" : 37
+      },
+      {
+         "data" : [ 10, 10, 1, 200, 27, 0, 2, 19, 1, 6, 1, 0, 0 ],
+         "description" : "You see a goonish fighter-type, with a patch on his chest marked \"17\".",
+         "name" : "Goon17",
+         "number" : 38
+      },
+      {
+         "data" : [ 14, 13, 1, 200, 36, 0, 2, 20, 1, 6, 1, 0, 0 ],
+         "description" : "You see a goonish fighter-type, with a patch on his chest marked \"18\".",
+         "name" : "Goon18",
+         "number" : 39
+      },
+      {
+         "data" : [ 11, 14, 1, 200, 36, 0, 2, 21, 1, 6, 1, 0, 0 ],
+         "description" : "You see a goonish fighter-type, with a patch on his chest marked \"19\".",
+         "name" : "Goon19",
+         "number" : 40
+      },
+      {
+         "data" : [ 7, 7, 1, 200, 36, 0, 2, 22, 1, 6, 1, 0, 0 ],
+         "description" : "You see a goonish fighter-type, with a patch on his chest marked \"20\".",
+         "name" : "Goon20",
+         "number" : 41
+      },
+      {
+         "data" : [ 9, 10, 1, 200, 51, 0, 2, 23, 1, 6, 1, 0, 0 ],
+         "description" : "You see a goonish fighter-type, with a patch on his chest marked \"21\".",
+         "name" : "Goon21",
+         "number" : 42
+      },
+      {
+         "data" : [ 19, 11, 1, 200, 51, 0, 2, 24, 1, 6, 1, 0, 0 ],
+         "description" : "You see a goonish fighter-type, with a patch on his chest marked \"22\".",
+         "name" : "Goon22",
+         "number" : 43
+      },
+      {
+         "data" : [ 21, 11, 1, 200, 51, 0, 2, 25, 1, 6, 1, 0, 0 ],
+         "description" : "You see a goonish fighter-type, with a patch on his chest marked \"23\".",
+         "name" : "Goon23",
+         "number" : 44
+      },
+      {
+         "data" : [ 13, 9, 1, 200, 51, 0, 2, 26, 1, 6, 1, 0, 0 ],
+         "description" : "You see a goonish fighter-type, with a patch on his chest marked \"24\".",
+         "name" : "Goon24",
+         "number" : 45
+      },
+      {
+         "data" : [ 18, 16, 1, 200, 51, 0, 3, 27, 1, 8, 1, 0, 0 ],
+         "description" : "You see the person who is obviously the ringleader of this operation:  The infamous Lucinda, that renegade Amazon!",
+         "name" : "Lucinda",
+         "number" : 46
+      },
+      {
+         "data" : [ 17, 14, 1, 100, 16, 0, 0, 0, 2, 8, 105, 0, 0 ],
+         "description" : "You see a very large lion.",
+         "name" : "Lion",
+         "number" : 47
+      },
+      {
+         "data" : [ 15, 17, 1, 100, 16, 0, 0, 0, 2, 6, 105, 0, 0 ],
+         "description" : "You see a regal-looking lioness.",
+         "name" : "Lioness",
+         "number" : 48
+      },
+      {
+         "data" : [ 15, 12, 1, 100, 16, 0, 0, 0, 1, 4, 105, 0, 0 ],
+         "description" : "You see a cute little lion cub.",
+         "name" : "Cub",
+         "number" : 49
+      },
+      {
+         "data" : [ 4, 8, 5, 30, 10, 0, 0, 0, 1, 4, 1, 0, 0 ],
+         "description" : "You are suddenly attacked by a group of huge rats!",
+         "name" : "Rat",
+         "number" : 50
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You see a monster",
+         "name" : "Dummy Monster",
+         "number" : 51
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You see a monster",
+         "name" : "Dummy Monster",
+         "number" : 52
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You see a monster",
+         "name" : "Dummy Monster",
+         "number" : 53
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You see a monster",
+         "name" : "Dummy Monster",
+         "number" : 54
+      },
+      {
+         "data" : [ 4, 18, 1, 200, 26, 0, 0, 0, 2, 1, 3, 0, 0 ],
+         "description" : "You see an adorable little kitten.",
+         "name" : "Kitten",
+         "number" : 55
+      },
+      {
+         "data" : [ 20, 12, 3, 100, 29, 0, 1, 0, 1, 8, 105, 0, 0 ],
+         "description" : "You see three huge, fat bears here.  They don't seem happy to see you!",
+         "name" : "Bear",
+         "number" : 56
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You see a monster",
+         "name" : "Dummy Monster",
+         "number" : 57
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You see a monster",
+         "name" : "Dummy Monster",
+         "number" : 58
+      },
+      {
+         "data" : [ 35, 14, 1, 200, 0, 0, 0, 0, 1, 10, 1, 0, 0 ],
+         "description" : "You see what was the coffin now shifting into a form with several tentacles that hold you tight.  Yes, friends, it's one last mimic!  And my, what a big one!",
+         "name" : "Mimic",
+         "number" : 59
+      },
+      {
+         "data" : [ 6, 8, 1, 200, 56, 0, 0, 0, 1, 6, 1, 0, 0 ],
+         "description" : "You see an animated skeleton here, attacking with his ten boney fingers.",
+         "name" : "Skeleton",
+         "number" : 60
+      },
+      {
+         "data" : [ 3, 10, 3, 30, 59, 0, 0, 0, 1, 4, 1, 0, 0 ],
+         "description" : "You see three gigantic rats with sharp white teeth.  One is tan, one is brown, and one is black.",
+         "name" : "Rat",
+         "number" : 61
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You see a monster",
+         "name" : "Dummy Monster",
+         "number" : 62
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You see a monster",
+         "name" : "Dummy Monster",
+         "number" : 63
+      },
+      {
+         "data" : [ 12, 18, 1, 200, 68, 0, 0, 45, 1, 8, 175, 0, 0 ],
+         "description" : "You see a half-crazed old hermit here, who looks at you with suspicion.  He smells as if he's never bathed in his life!",
+         "name" : "Hermit",
+         "number" : 64
+      },
+      {
+         "data" : [ 12, 8, 1, 200, 0, 0, 0, 0, 1, 6, 1, 0, 0 ],
+         "description" : "You see before your eyes, the chest sprouting three tentacles.  You recognize it as a mimic, a beast with no mind but an instinct which tells it how to lure prey to itself.  It holds you tight and attacks you!",
+         "name" : "Mimic",
+         "number" : 65
+      },
+      {
+         "data" : [ 20, 16, 1, 200, 78, 0, 0, 0, 2, 5, 1, 0, 0 ],
+         "description" : "You see a beautiful, huge, jet-black panther who looks like poetry in motion as he lunges through the air at you!",
+         "name" : "Panther",
+         "number" : 66
+      }
+   ],
+   "name" : "The Rescue Mission",
+   "numDirections" : 6,
+   "rooms" : [
+      {
+         "data" : [ 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small room of a dank cave complex.  As your eyes adjust to the dimness, you can see that the only exit from this room is to the north.",
+         "name" : "in a small chamber. (N)",
+         "number" : 1
+      },
+      {
+         "data" : [ 3, 1, 7, 13, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "A dead campfire, some miscellaneous trash, and a table and chairs carved out of the walls tell you that this room has been lived in.",
+         "name" : "at a four-way intersection.",
+         "number" : 2
+      },
+      {
+         "data" : [ 4, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small tunnel going from north to south.",
+         "name" : "in a north/south tunnel.",
+         "number" : 3
+      },
+      {
+         "data" : [ 21, 3, 5, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are at an intersection where the north/south tunnel also branches to the east.",
+         "name" : "at a T-intersection; N/S and east.",
+         "number" : 4
+      },
+      {
+         "data" : [ 0, 0, 6, 4, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small tunnel going from east to west.  The tunnel seems to widen to the east.",
+         "name" : "in an east/west tunnel.",
+         "number" : 5
+      },
+      {
+         "data" : [ 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small chamber with the only exit west.  Chains are embedded in the wall (although not currently in use), and various torture instruments lie on the ground.",
+         "name" : "in a holding cell. (W)",
+         "number" : 6
+      },
+      {
+         "data" : [ 0, 0, 8, 2, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small tunnel going from east to west.",
+         "name" : "in an east/west tunnel.",
+         "number" : 7
+      },
+      {
+         "data" : [ 11, 9, 0, 7, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are at an intersection where the north/south tunnel also branches to the west.",
+         "name" : "at a T-intersection; N/S and west.",
+         "number" : 8
+      },
+      {
+         "data" : [ 8, 0, 10, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "Although the tunnel gets smaller as you go east, it appears to open up into a chamber of some sort.",
+         "name" : "at a bend in the tunnel. (N/E)",
+         "number" : 9
+      },
+      {
+         "data" : [ 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a very small chamber where the scent of rat droppings assaults your nose.",
+         "name" : "in the rat chamber. (W)",
+         "number" : 10
+      },
+      {
+         "data" : [ 0, 8, 12, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "Here the tunnel bends, going south and east.",
+         "name" : "at a bend in the tunnel. (S/E)",
+         "number" : 11
+      },
+      {
+         "data" : [ 0, 0, 0, 11, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a dank chamber with the only exit west.  Small blood stains, bits of flesh, and other unappetizing items adorn the walls.",
+         "name" : "in a holding cell. (W)",
+         "number" : 12
+      },
+      {
+         "data" : [ 0, 0, 2, 14, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small tunnel going from east to west.",
+         "name" : "in an east/west tunnel.",
+         "number" : 13
+      },
+      {
+         "data" : [ 15, 0, 13, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "Here the tunnel bends, going north and east.",
+         "name" : "at a bend in the tunnel. (N/E)",
+         "number" : 14
+      },
+      {
+         "data" : [ 0, 14, 16, 17, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are at an intersection where the east/west tunnel also branches to the south.",
+         "name" : "at a T-intersection; E/W and south.",
+         "number" : 15
+      },
+      {
+         "data" : [ 0, 0, 0, 15, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small chamber with the only exit lying to the west.",
+         "name" : "in the lion room. (W)",
+         "number" : 16
+      },
+      {
+         "data" : [ 52, 18, 15, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are at an intersection where the north/south tunnel also branches to the east.",
+         "name" : "at a T-intersection; N/S and east.",
+         "number" : 17
+      },
+      {
+         "data" : [ 17, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small tunnel going from north to south.  The tunnel seems to widen to the south.",
+         "name" : "in a north/south tunnel.",
+         "number" : 18
+      },
+      {
+         "data" : [ 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a dank chamber with the only exit north.  The stink of decayed flesh offends your nostrils.",
+         "name" : "in a holding cell. (N)",
+         "number" : 19
+      },
+      {
+         "data" : [ 0, 0, 23, 53, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small tunnel going from east to west.",
+         "name" : "in an east/west tunnel.",
+         "number" : 20
+      },
+      {
+         "data" : [ 0, 4, 0, 22, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "Here the tunnel bends, going south and west.",
+         "name" : "at a bend in the tunnel. (S/W)",
+         "number" : 21
+      },
+      {
+         "data" : [ 0, 0, 21, 23, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small tunnel going from east to west.",
+         "name" : "in an east/west tunnel.",
+         "number" : 22
+      },
+      {
+         "data" : [ 26, 24, 22, 20, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "General garbage scattered all about tells you that this intersection has been lived in for quite some time.",
+         "name" : "at a four-way intersection.",
+         "number" : 23
+      },
+      {
+         "data" : [ 23, 25, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small tunnel going from north to south.  The tunnel seems to widen to the south.",
+         "name" : "in a north/south tunnel.",
+         "number" : 24
+      },
+      {
+         "data" : [ 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small chamber designed to hold prisoners, with the only exit north.  This chamber is perfectly clean, possibly kept so by the three tooth brushes chained to the wall.",
+         "name" : "in a holding cell. (N)",
+         "number" : 25
+      },
+      {
+         "data" : [ 27, 23, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small tunnel going from north to south.",
+         "name" : "in a north/south tunnel.",
+         "number" : 26
+      },
+      {
+         "data" : [ 35, 26, 28, 31, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "Once again, you are at an intersection of two corridors with garbage scattered about, indicating that people have been living in it.",
+         "name" : "at a four-way intersection.",
+         "number" : 27
+      },
+      {
+         "data" : [ 0, 0, 29, 27, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small tunnel going from east to west.",
+         "name" : "in an east/west tunnel.",
+         "number" : 28
+      },
+      {
+         "data" : [ 0, 0, 30, 28, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small chamber with a large exit to the west, and a small tunnel going east.",
+         "name" : "in the bear chamber. (E/W)",
+         "number" : 29
+      },
+      {
+         "data" : [ 0, 0, 0, 29, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a very small chamber with the only exit to the west.  There is an aura to this room that raises the hair in the back of your head, the same sort of feeling you get in the presence of great wizards or holy men.",
+         "name" : "in the idol room. (W)",
+         "number" : 30
+      },
+      {
+         "data" : [ 0, 0, 27, 32, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small tunnel going from east to west.",
+         "name" : "in an east/west tunnel.",
+         "number" : 31
+      },
+      {
+         "data" : [ 34, 33, 31, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are at an intersection where the north/south tunnel also branches to the east.  To the north and south, the tunnel seems to open up into rooms.",
+         "name" : "at a T-intersection; N/S and east.",
+         "number" : 32
+      },
+      {
+         "data" : [ 32, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small chamber designed to hold prisoners, with the only exit north.  Much garbage, fecal matter, and other stuff lines the floor.",
+         "name" : "in a holding cell. (N)",
+         "number" : 33
+      },
+      {
+         "data" : [ 0, 32, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a small chamber with the only exit to the south.",
+         "name" : "in the coffin room. (S)",
+         "number" : 34
+      },
+      {
+         "data" : [ 36, 27, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small tunnel going from north to south.",
+         "name" : "in a north/south tunnel.",
+         "number" : 35
+      },
+      {
+         "data" : [ 39, 35, 37, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are at an intersection where the north/south tunnel also branches to the east.  This intersection also looks well lived in.",
+         "name" : "at a T-intersection; N/S and east.",
+         "number" : 36
+      },
+      {
+         "data" : [ 0, 0, 38, 36, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small tunnel going from east to west.",
+         "name" : "in an east/west tunnel.",
+         "number" : 37
+      },
+      {
+         "data" : [ 0, 0, 0, 37, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small chamber with the only exit west.  Carved into the walls themselves are racks designed to hold hundreds of varied weapons.",
+         "name" : "in the armoury. (W)",
+         "number" : 38
+      },
+      {
+         "data" : [ 40, 36, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small tunnel going from north to south.  You can feel heat coming from the north and the tunnel appears to open up in that direction.",
+         "name" : "in a north/south tunnel.",
+         "number" : 39
+      },
+      {
+         "data" : [ 41, 39, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a huge chamber.  Far, far up (too far to climb) you can see sunlight through a hole, although it is too dark to see by.",
+         "name" : "in the dragon's chamber. (N/S)",
+         "number" : 40
+      },
+      {
+         "data" : [ 42, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small tunnel going from north to south.",
+         "name" : "in a north/south tunnel.",
+         "number" : 41
+      },
+      {
+         "data" : [ 0, 41, 43, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "Here the tunnel bends, going south and east.",
+         "name" : "at a bend in the tunnel. (S/E)",
+         "number" : 42
+      },
+      {
+         "data" : [ 0, 44, 45, 42, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are at an intersection where the east/west tunnel also branches to the south.",
+         "name" : "at a T-intersection; E/W and south.",
+         "number" : 43
+      },
+      {
+         "data" : [ 43, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small chamber designed to hold prisoners, with the only exit north.  This room has been kept reasonably neat and clean.",
+         "name" : "in a holding cell. (N)",
+         "number" : 44
+      },
+      {
+         "data" : [ 0, 0, 46, 43, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small tunnel going from east to west.",
+         "name" : "in an east/west tunnel.",
+         "number" : 45
+      },
+      {
+         "data" : [ 0, 47, 48, 45, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are at an intersection where the east/west tunnel also branches to the south.",
+         "name" : "at a T-intersection; E/W and south.",
+         "number" : 46
+      },
+      {
+         "data" : [ 46, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small chamber designed to hold prisoners, with the only exit north.  This room is noticeably clean.",
+         "name" : "in a holding cell. (N)",
+         "number" : 47
+      },
+      {
+         "data" : [ 0, 0, 49, 46, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small tunnel going from east to west.",
+         "name" : "in an east/west tunnel.",
+         "number" : 48
+      },
+      {
+         "data" : [ 51, 50, 0, 48, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are at an intersection where the north/south tunnel also branches to the west.  To the north and south, the tunnel seems to open up into rooms.",
+         "name" : "at a T-intersection; N/S and west.",
+         "number" : 49
+      },
+      {
+         "data" : [ 49, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small chamber designed to hold prisoners, with the only exit north.  This room has been kept reasonably neat and clean.",
+         "name" : "in a holding cell. (N)",
+         "number" : 50
+      },
+      {
+         "data" : [ 0, 49, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small chamber with the only visible exit south.  This is being used as a living quarters and is very neat and tidy.",
+         "name" : "in Lucinda's room. (S)",
+         "number" : 51
+      },
+      {
+         "data" : [ 53, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small tunnel going from north to south.",
+         "name" : "in a north/south tunnel.",
+         "number" : 52
+      },
+      {
+         "data" : [ 0, 52, 20, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "Here the tunnel bends, going south and east.",
+         "name" : "at a bend in the tunnel. (S/E)",
+         "number" : 53
+      },
+      {
+         "data" : [ 0, 55, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You find yourself in a small chamber of a dank cave complex.  The only exit is south.",
+         "name" : "in a small chamber. (S)",
+         "number" : 54
+      },
+      {
+         "data" : [ 54, 57, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a rough tunnel going from north to south.",
+         "name" : "in a north/south tunnel.",
+         "number" : 55
+      },
+      {
+         "data" : [ 0, 0, 57, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small chamber with the only visible exit east.",
+         "name" : "in the skeleton room. (E)",
+         "number" : 56
+      },
+      {
+         "data" : [ 55, 0, 58, 56, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are at an intersection where the east/west tunnel also branches to the north.",
+         "name" : "at a T-intersection; E/W and north.",
+         "number" : 57
+      },
+      {
+         "data" : [ 0, 0, 60, 57, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a rough tunnel going from east to west.",
+         "name" : "in an east/west tunnel.",
+         "number" : 58
+      },
+      {
+         "data" : [ 0, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a very small chamber where the scent of rat droppings assaults your nose.",
+         "name" : "in the rat chamber. (S)",
+         "number" : 59
+      },
+      {
+         "data" : [ 59, 61, 0, 58, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "Here the tunnel bends, going south and west.  A large chamber lies north.",
+         "name" : "at a bend in the tunnel. (N/S/W)",
+         "number" : 60
+      },
+      {
+         "data" : [ 60, 62, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a rough tunnel going from north to south.  The further south you go, the smother the walls become.",
+         "name" : "in a north/south tunnel.",
+         "number" : 61
+      },
+      {
+         "data" : [ 61, 66, 63, 70, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are at an intersection of two corridors with exits going off in all directions.  The walls are extremely smooth, as if they were carved.",
+         "name" : "at a four-way intersection.",
+         "number" : 62
+      },
+      {
+         "data" : [ 0, 0, 64, 62, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a tunnel going from east to west.  You can see light to the east!",
+         "name" : "in an east/west tunnel.",
+         "number" : 63
+      },
+      {
+         "data" : [ 0, 0, 65, 63, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are just inside a hole to the outside.  You can see a ledge outside to the east, and dark tunnels lead back to the west.",
+         "name" : "near a hole to the outside. (E/W)",
+         "number" : 64
+      },
+      {
+         "data" : [ -1, -1, -1, 64, -1, -1, 0, 0, 0, 0, 1 ],
+         "description" : "You are standing on a very small ledge on the side of a cliff.  To the west is a hole in the wall back into the tunnels.  If you go any other direction, you will probably fall down the cliff and break your neck.",
+         "name" : "on the ledge outside. (W & N/S/E)",
+         "number" : 65
+      },
+      {
+         "data" : [ 62, 67, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a tunnel going from north to south.  The sides of the tunnel have been worked to glass smoothness.  Your lantern casts strange reflections in the wall as you walk by.",
+         "name" : "in a north/south tunnel.",
+         "number" : 66
+      },
+      {
+         "data" : [ 66, 68, 0, 69, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "Here the tunnel bends, going north and west.  A small chamber lies south.",
+         "name" : "at a bend in the tunnel. (N/S/W)",
+         "number" : 67
+      },
+      {
+         "data" : [ 67, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small chamber with the only visible exit north.  Someone has been living here for quite some time, as shown by the large amount of cigarette butts and candy bar wrappers found on the floor.",
+         "name" : "in the hermit's room. (N)",
+         "number" : 68
+      },
+      {
+         "data" : [ 0, 0, 67, 72, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a tunnel going from east to west.",
+         "name" : "in an east/west tunnel.",
+         "number" : 69
+      },
+      {
+         "data" : [ 0, 0, 62, 74, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a tunnel going from east to west.",
+         "name" : "in an east/west tunnel.",
+         "number" : 70
+      },
+      {
+         "data" : [ 72, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a small chamber with the only visible exit north.  There is no dust, loose stones, or any other sort of trash on the floor.",
+         "name" : "in the chest room. (N)",
+         "number" : 71
+      },
+      {
+         "data" : [ 73, 71, 69, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "Here the tunnel bends, going north and east.  A small chamber lies south.",
+         "name" : "at a bend in the tunnel. (N/S/E)",
+         "number" : 72
+      },
+      {
+         "data" : [ 74, 72, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a tunnel going from north to south.",
+         "name" : "in a north/south tunnel.",
+         "number" : 73
+      },
+      {
+         "data" : [ 0, 73, 70, 75, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are at an intersection where the east/west tunnel also branches to the south.  All the corridors near here are perfectly smooth, with absolute 90 degree angle connections.",
+         "name" : "at a T-intersection; E/W and south.",
+         "number" : 74
+      },
+      {
+         "data" : [ 0, 0, 74, 76, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a tunnel going from east to west.  A few murals adorned these walls, but they must have faded away eons ago.",
+         "name" : "in an east/west tunnel.",
+         "number" : 75
+      },
+      {
+         "data" : [ 0, 0, 75, 77, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "A door in the west wall has rotted away.  A few crosses lie in the doorway, as does the remains of some smelly plant, but they are nearly decayed away.  A chamber lies beyond the door.",
+         "name" : "at the west end of a corridor. (E/W)",
+         "number" : 76
+      },
+      {
+         "data" : [ 0, 0, 76, 0, 0, -78, 0, 0, 0, 0, 0 ],
+         "description" : "You are in a huge room.  More of that plant is to be found on the floor, and you can recognize it now by its odor:  garlic.",
+         "name" : "in the coffin room. (E)",
+         "number" : 77
+      },
+      {
+         "data" : [ 0, 79, 0, 0, 77, 0, 0, 0, 0, 0, 0 ],
+         "description" : "The chamber continues south, although you cannot see what lies in that half.  A ladder permits you to climb back up.  The floor and walls are wet earth, giving the air a very musty smell.",
+         "name" : "below the coffin. (S/U)",
+         "number" : 78
+      },
+      {
+         "data" : [ 78, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+         "description" : "Walls made of dark earth seem to swallow the light as it leaves your lantern.  There are no exits down here, to leave you must go back north and up through the coffin.",
+         "name" : "in the south side of the chamber. (N)",
+         "number" : 79
+      }
+   ]
+}

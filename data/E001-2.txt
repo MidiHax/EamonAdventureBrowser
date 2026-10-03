@@ -1,0 +1,647 @@
+{
+   "artifacts" : [
+      {
+         "data" : [ 15, 9, 5, 9, 0, 15, 1, 0 ],
+         "description" : "On the table before him is a dish of rare fruit - golden apples, blue pears, silver grapes and similar produce.",
+         "name" : "rare fruit",
+         "number" : 1
+      },
+      {
+         "data" : [ 12, 2, 4, -3, 0, 5, 1, 6 ],
+         "description" : "You see a good standard sword.",
+         "name" : "sword",
+         "number" : 2
+      },
+      {
+         "data" : [ 0, 12, -999, 11, 3, 2, 1, 0 ],
+         "description" : "Standing upon a raised platform in the center of the room is a closed glass case with an exquisitely-carved diamond dragon within.",
+         "name" : "glass case",
+         "number" : 3
+      },
+      {
+         "data" : [ 45, 1, 5, 15, 0, 0, 0, 0 ],
+         "description" : "A large plant, mostly gold-covered, but with some streaks of green, grows from a niche in the wall - a gilded lily.",
+         "name" : "lily",
+         "number" : 4
+      },
+      {
+         "data" : [ 25, 7, 2, 16, 5, 1, 1, 0 ],
+         "description" : "Bolted to the west wall is a shelf. You see a jar of yellow liquid on the left. It has a label on it.",
+         "name" : "jar",
+         "number" : 5
+      },
+      {
+         "data" : [ 1, 7, 1, 16, 12, 1, 1, 0 ],
+         "description" : "You also see a plain brown vial. It has no label or markings on it.",
+         "name" : "vial",
+         "number" : 6
+      },
+      {
+         "data" : [ 0, 4, 20, 10, 0, 0, 2, 2 ],
+         "description" : "Laying in a corner, as though carelessly tossed aside, is a closed box. Unknown writing covers the sides and lid.",
+         "name" : "box",
+         "number" : 7
+      },
+      {
+         "data" : [ 35, 3, 3, 1007, 25, 4, 2, 6 ],
+         "description" : "A very sharp dagger with fancy designs on it is here.",
+         "name" : "dagger",
+         "number" : 8
+      },
+      {
+         "data" : [ 0, 7, 2, 1007, 8, 1, 1, 0 ],
+         "description" : "A scrap of parchment is here.",
+         "name" : "parchment",
+         "number" : 9
+      },
+      {
+         "data" : [ 12, 2, 5, -6, 0, 3, 1, 6 ],
+         "description" : "A good standard mace lies here.",
+         "name" : "mace",
+         "number" : 10
+      },
+      {
+         "data" : [ 70, 1, 4, 1022, 0, 0, 0, 0 ],
+         "description" : "A star sapphire of impressive size was within the depression. When you opened the grate it washed out and landed at your feet!",
+         "name" : "sapphire",
+         "number" : 11
+      },
+      {
+         "data" : [ 20, 1, 6, 36, 0, 0, 0, 0 ],
+         "description" : "In a small cage is a pair of purple magpies. They cock their heads in your direction and break into song - \"A-hunting we will go, a-hunting we will go...\"",
+         "name" : "magpies",
+         "number" : 12
+      },
+      {
+         "data" : [ 13, 2, 10, -10, 0, 1, 1, 6 ],
+         "description" : "You see a good standard axe here.",
+         "name" : "axe",
+         "number" : 13
+      },
+      {
+         "data" : [ 200, 0, 30, 39, 0, 0, 0, 0 ],
+         "description" : "Stacked against one wall are four bars of silver glittering magnificently.",
+         "name" : "silver bars",
+         "number" : 14
+      },
+      {
+         "data" : [ 14, 3, 10, -11, 15, 3, 1, 8 ],
+         "description" : "A black leather whip is here.",
+         "name" : "whip",
+         "number" : 15
+      },
+      {
+         "data" : [ 110, 1, 5, 41, 0, 0, 0, 0 ],
+         "description" : "In a corner, partly hidden by some trash are two unusual jewels. They glow red and yellow; highlighting a dead mouse, a torn boot, and a broken cup.",
+         "name" : "jewels",
+         "number" : 16
+      },
+      {
+         "data" : [ 65, 3, 20, 45, -25, 2, 1, 1 ],
+         "description" : "On a bench before you is an ornamental silver bow and a dozen peacock-fletched arrows in a leather quiver. Not exceptionally useful as a weapon, but still a very nice find!",
+         "name" : "silver bow",
+         "number" : 17
+      },
+      {
+         "data" : [ 15, 2, 5, -13, 0, 4, 1, 6 ],
+         "description" : "A wickedly-barbed spear is here.",
+         "name" : "spear1",
+         "number" : 18
+      },
+      {
+         "data" : [ 17, 2, 5, -14, 0, 4, 1, 6 ],
+         "description" : "A super wickedly-barbed spear is here.",
+         "name" : "spear2",
+         "number" : 19
+      },
+      {
+         "data" : [ 0, 7, -999, 2002, 1, 1, 1, 0 ],
+         "description" : "Try to READ the sign instead.",
+         "name" : "sign",
+         "number" : 20
+      },
+      {
+         "data" : [ 0, 8, -999, 2025, 26, 0, 0, 1 ],
+         "description" : "You find that the false torch is really a switch which opens a secret door!",
+         "name" : "a secret passage west",
+         "number" : 21
+      },
+      {
+         "data" : [ 0, 1, -999, 2024, 0, 0, 0, 0 ],
+         "description" : "This grate looks just great! It also looks like it could be opened.",
+         "name" : "grate",
+         "number" : 22
+      },
+      {
+         "data" : [ 0, 1, -999, 2001, 0, 0, 0, 0 ],
+         "description" : "The sign has a finger pointing east and says,                                                                 \"BEGINNER'S CAVE AHEAD -->\"",
+         "name" : "sign",
+         "number" : 23
+      },
+      {
+         "data" : [ 0, 13, 2, 0, 0, 0, 0, 0 ],
+         "description" : "Feathers are scattered around the body of the dead bird lying here.",
+         "name" : "dead bird",
+         "number" : 24
+      },
+      {
+         "data" : [ 0, 13, 150, 0, 0, 0, 0, 0 ],
+         "description" : "You see the body of Rufus here.",
+         "name" : "Rufus' body",
+         "number" : 25
+      },
+      {
+         "data" : [ 250, 1, 90, 0, 0, 0, 0, 0 ],
+         "description" : "The dead dragon drops to the floor and quickly stiffens into diamond once again. Its sparkling body gleams in the light.",
+         "name" : "diamond dragon",
+         "number" : 26
+      },
+      {
+         "data" : [ 0, 13, 30, 0, 0, 0, 0, 0 ],
+         "description" : "The balcony still shakes from the impact of the body of the dead wasp.",
+         "name" : "dead wasp",
+         "number" : 27
+      },
+      {
+         "data" : [ 0, 13, 250, 0, 0, 0, 0, 0 ],
+         "description" : "You see the ugly body of the troll here.",
+         "name" : "dead troll",
+         "number" : 28
+      },
+      {
+         "data" : [ 0, 13, 200, 0, 0, 0, 0, 0 ],
+         "description" : "You see the dead body of the lion here.",
+         "name" : "dead lion",
+         "number" : 29
+      },
+      {
+         "data" : [ 0, 13, 150, 0, 0, 0, 0, 0 ],
+         "description" : "you see the dead body of the panther.",
+         "name" : "dead panther",
+         "number" : 30
+      },
+      {
+         "data" : [ 80, 13, 30, 0, 1, 0, 0, 0 ],
+         "description" : "You see the dead body of the climber. Being that it is such a rare creature, you could probably get a nice amount for its body back at the Main Hall.",
+         "name" : "dead climber",
+         "number" : 31
+      },
+      {
+         "data" : [ 0, 13, 150, 0, 0, 0, 0, 0 ],
+         "description" : "You see the green body of the Prince.",
+         "name" : "Prince's body",
+         "number" : 32
+      },
+      {
+         "data" : [ 0, 13, 250, 0, 0, 0, 0, 0 ],
+         "description" : "You see the dead body of the Killmaster.",
+         "name" : "Killmaster's body",
+         "number" : 33
+      },
+      {
+         "data" : [ 0, 13, 110, 0, 0, 0, 0, 0 ],
+         "description" : "You see the dead body of Nina.",
+         "name" : "Nina's body",
+         "number" : 34
+      },
+      {
+         "data" : [ 0, 13, 100, 0, 0, 0, 0, 0 ],
+         "description" : "You see the dead body of the Red Elf.",
+         "name" : "Red Elf's body",
+         "number" : 35
+      },
+      {
+         "data" : [ 0, 13, 100, 0, 0, 0, 0, 0 ],
+         "description" : "You see the dead body of the Green Elf.",
+         "name" : "Green Elf's body",
+         "number" : 36
+      },
+      {
+         "data" : [ 0, 8, -999, 2028, 29, 0, 0, 1 ],
+         "description" : "You pass your hand through the wall and realize that it is just an illusion and you can see a passage to the east, leading into a hidden room!",
+         "name" : "a secret passage to the east",
+         "number" : 37
+      }
+   ],
+   "effects" : [
+      {
+         "description" : "The sign says, \"** BEGINNER'S CAVE ** (N)ewly en(G)raved in (C)avern: MDCCI. Number of Adventurers Returned:\", and the rest is blank...",
+         "number" : 1
+      },
+      {
+         "description" : "As you raise the clear crystalline cover the miniature dragon comes to life and flies from its prison!",
+         "number" : 2
+      },
+      {
+         "description" : "The slippery grate is difficult to raise but you finally do it and place it to the side. The water exits through a pipe in one end of the hole while the other end remains dry.",
+         "number" : 3
+      },
+      {
+         "description" : "From the open jar rushes an intense yellow vapor. The wasp flies through the cloud, falters, and plunges to the floor of the balcony!",
+         "number" : 4
+      },
+      {
+         "description" : "\"This is a specially prepared waspicide for adventures. Warning - use only under adult supervision!\"",
+         "number" : 5
+      },
+      {
+         "description" : "Fortunately the yellow liquid was not poisonous but all the critters living in your armor with you fall off!",
+         "number" : 6
+      },
+      {
+         "description" : "Within the box, you see an ornate knife and a scrap of parchment with writing on it!",
+         "number" : 7
+      },
+      {
+         "description" : "The battered manuscript contains this brief statement, \"This is a magic dagger. To use: DRINK VIAL then READY DAGGER. The spell is strong, and lasts quite a while. ACME Spells, Inc. Patent Pending.\"",
+         "number" : 8
+      },
+      {
+         "description" : "The dagger begins to quiver as if alive. A faint blue aura surrounds it and a feeling of power courses through your body! (Your Hardiness has temporarily increased by 5!)",
+         "number" : 9
+      },
+      {
+         "description" : "As you go east the wall disappears and a room materializes before you!",
+         "number" : 10
+      },
+      {
+         "description" : "The vial's clear liquid goes down easily but then gives you a stabbing pain in your stomach. This quickly passes, however.",
+         "number" : 11
+      },
+      {
+         "description" : "It has no label or markings on it.",
+         "number" : 12
+      },
+      {
+         "description" : "Unknown writing covers the sides and lid. You can't decipher a single letter of it.",
+         "number" : 13
+      }
+   ],
+   "info" : {
+      "author" : "Rick Volberding",
+      "difficulty" : "3",
+      "rating" : "5.0/6",
+      "serialNum" : "42"
+   },
+   "intro" : "",
+   "monsters" : [
+      {
+         "data" : [ 3, 12, 1, 200, 3, 1, 0, 0, 1, 6, 1, 0, 0 ],
+         "description" : "You hear a loud 'plop' and discover a gray-white mass nearby. You look up and see a large bird of indeterminate ancestry soaring and swooping just under the cavern roof. Just then it dives!",
+         "name" : "Bird",
+         "number" : 1
+      },
+      {
+         "data" : [ 10, 16, 1, 90, 9, 0, 0, 2, 1, 6, 175, 0, 0 ],
+         "description" : "Stretched out upon a divan, eating fruit with gusto, is a short, portly man. He mutters around his meal, \"I'm Rufus\" and his hand lowers to the hilt of a sword.",
+         "name" : "Rufus",
+         "number" : 2
+      },
+      {
+         "data" : [ 8, 10, 1, 200, 0, 1, 0, 0, 1, 6, 1, 0, 0 ],
+         "description" : "The tiny dragon darts near your head and breathes flame! As you brush singed eyebrows off and put out your hair the dragon heads toward you again.",
+         "name" : "Tiny Dragon",
+         "number" : 3
+      },
+      {
+         "data" : [ 200, 12, 1, 200, 16, 1, 0, 0, 1, 4, 1, 0, 0 ],
+         "description" : "A five-foot long insect zooms over your head and begins to pelt you with a gooey black material. You deduce that this is a 'Mud-Lobber Wasp'.",
+         "name" : "Mud-Lobber Wasp",
+         "number" : 4
+      },
+      {
+         "data" : [ 15, 15, 1, 200, 20, -1, 1, 10, 1, 6, 110, 0, 0 ],
+         "description" : "A squat ugly troll stands truculently before you with a good standard mace clutched in his six-and-a-half fingered hand. He bares his snaggely fangs in either a snarl or a smile.",
+         "name" : "Troll",
+         "number" : 5
+      },
+      {
+         "data" : [ 4, 9, 1, 200, 26, 0, 0, 0, 1, 6, 110, 0, 0 ],
+         "description" : "Your nose twitches as dinner-sapping odors assail it. Two cage doors click open and a slobbering lion emerges from one of them.",
+         "name" : "Lion",
+         "number" : 6
+      },
+      {
+         "data" : [ 5, 12, 1, 105, 26, 0, 0, 0, 1, 60, 175, 0, 0 ],
+         "description" : "A weak and starving panther slinks out of the other cage. He whines at you.",
+         "name" : "Panther",
+         "number" : 7
+      },
+      {
+         "data" : [ 5, 16, 1, 200, 29, 0, 0, 0, 1, 6, 1, 0, 0 ],
+         "description" : "A weird animal with two short front legs and two longer hind legs stands upright in the room facing north. It is the rare \"Hill Climber\" and is very valuable - dead or alive!",
+         "name" : "Climber",
+         "number" : 8
+      },
+      {
+         "data" : [ 8, 16, 1, 100, 36, 0, 0, 13, 1, 6, 195, 0, 0 ],
+         "description" : "A prince wearing green armor is here. He carries an axe (also green).",
+         "name" : "Prince",
+         "number" : 9
+      },
+      {
+         "data" : [ 8, 19, 1, 200, 39, 0, 0, 15, 1, 8, 105, 0, 0 ],
+         "description" : "An awesome figure clad in black leather stands here. In his hand, slowly swinging, is a whip laced with gold and platinum barbs.",
+         "name" : "Killmaster",
+         "number" : 10
+      },
+      {
+         "data" : [ 4, 3, 1, 85, 39, 0, 0, -1, 0, 0, 3, 0, 0 ],
+         "description" : "At the far wall is a woman dressed in diaphanous silks and wearing slippers. She is standing on tiptoe but doesn't seem uncomfortable. It's Nina, the Missing Ballerina!",
+         "name" : "Nina",
+         "number" : 11
+      },
+      {
+         "data" : [ 4, 5, 1, 200, 45, 0, 0, 18, 1, 6, 1, 0, 0 ],
+         "description" : "Two Elves, working industriously, look up as you enter. A Red Elf reaches below the work surface and raises a wickedly barbed spear.",
+         "name" : "Red Elf",
+         "number" : 12
+      },
+      {
+         "data" : [ 4, 3, 1, 110, 45, 0, 0, 19, 1, 6, 1, 0, 0 ],
+         "description" : "A Green Elf also raises a spear - even more wickedly barbed.",
+         "name" : "Green Elf",
+         "number" : 13
+      }
+   ],
+   "name" : "Alternate Beginner's Cave",
+   "numDirections" : 6,
+   "rooms" : [
+      {
+         "data" : [ 0, 0, 2, -999, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on a road which runs east and west. In the distance to the west is the gate of the Main Hall. A sign, with a finger pointing east, reads,                                                                  \"BEGINNER'S CAVE AHEAD -->\"",
+         "name" : "You are on an east/west road.",
+         "number" : 1
+      },
+      {
+         "data" : [ 0, 0, 3, 1, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at a dark hole beneath jagged cliffs. Nearby is a weary-looking vulture perched on a sign. The cave mouth is to the east and a road goes west.",
+         "name" : "You are at the cave entrance. (E/W)",
+         "number" : 2
+      },
+      {
+         "data" : [ 0, 0, 4, 2, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are standing in a lofty stalactite-studded cavern. The floor is very deeply pitted. Exits lead west to daylight and east into the cave.",
+         "name" : "You are in a lofty cavern. (E/W)",
+         "number" : 3
+      },
+      {
+         "data" : [ 0, 0, 5, 3, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "Weak light filters in from both ends.",
+         "name" : "You are in a primitive east/west tunnel.",
+         "number" : 4
+      },
+      {
+         "data" : [ 10, 6, 12, 4, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at a four-way intersection of tunnels. The roof is blackened from the smoke rising from a wall-mounted torch.",
+         "name" : "You are at a 4-way intersection.",
+         "number" : 5
+      },
+      {
+         "data" : [ 5, 7, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are standing in a north/south tunnel. The walls improve in workmanship to the south. Light enters from the north.",
+         "name" : "You are in a north/south tunnel",
+         "number" : 6
+      },
+      {
+         "data" : [ 6, 0, 8, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at a sharp bend in a well-built corridor. A torch is bolted to the wall. There are exits to the north and east.",
+         "name" : "You are in a corner. (N/E)",
+         "number" : 7
+      },
+      {
+         "data" : [ 0, 0, 9, 7, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "A corridor paved with tiny colored stones lies before you. Torch-light comes from the east and west.",
+         "name" : "You are in an east/west corridor.",
+         "number" : 8
+      },
+      {
+         "data" : [ 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "A small chamber, richly furnished with thick carpets and overstuffed furniture, meets your gaze. The only exit is to the west.",
+         "name" : "You are in Rufus' room. (W)",
+         "number" : 9
+      },
+      {
+         "data" : [ 11, 5, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The walls and floor are of fitted stone. Light enters from both ends.",
+         "name" : "You are in a north/south passageway.",
+         "number" : 10
+      },
+      {
+         "data" : [ 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are standing in a large chamber. The walls and ceiling are inlaid with precious jewels and valuable metals. A brief but violent attempt convinces you that they cannot be removed. There is an exit to the south.",
+         "name" : "You are in the precious room. (S)",
+         "number" : 11
+      },
+      {
+         "data" : [ 0, 0, 13, 5, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "A wide tunnel leads to near-darkness to the east. The floor has been worn smooth by the passage of many feet. To the west weak light can be seen.",
+         "name" : "You are in a worn east/west tunnel.",
+         "number" : 12
+      },
+      {
+         "data" : [ 0, 0, 14, 12, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The ceiling rises beyond your touch. Strong light streams in from the east.",
+         "name" : "You are in a high east/west tunnel.",
+         "number" : 13
+      },
+      {
+         "data" : [ 16, 15, 17, 13, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "This is a vast cylindrical shaft and a bright circle of blue above provides ample light. Bolted doors are to the north and south.",
+         "name" : "You are in a cylindrical shaft. (N/S/E/W)",
+         "number" : 14
+      },
+      {
+         "data" : [ 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a small cubby-hole poorly hollowed from the living rock. Bits of crumbled stone grit underfoot. A door to the north is the only exit.",
+         "name" : "You are in a small cubby-hole. (N)",
+         "number" : 15
+      },
+      {
+         "data" : [ 0, 14, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are standing on a tiny balcony. Beyond and far below bubbles a magma-filled pit. The heat and stench are almost unbearable. An exit goes south.",
+         "name" : "You are on a balcony. (S)",
+         "number" : 16
+      },
+      {
+         "data" : [ 0, 0, 18, 14, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a featureless corridor. Lighted exits lead east and west.",
+         "name" : "You are in an east/west corridor.",
+         "number" : 17
+      },
+      {
+         "data" : [ 19, 0, 21, 17, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "A flaming flambeau illuminates a T-intersection of an east/west corridor and a northward-leading tunnel.",
+         "name" : "You are at a T-intersection; east/west by north.",
+         "number" : 18
+      },
+      {
+         "data" : [ 20, 18, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a low, narrow tunnel. Cramped and dimly lighted exits go north and south.",
+         "name" : "You are in a low north/south tunnel.",
+         "number" : 19
+      },
+      {
+         "data" : [ 0, 19, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a small room which is lit by many scattered oil lamps placed in niches. A claustrophobic feeling makes you search for the exit - it's south.",
+         "name" : "You are in the Troll's room. (S)",
+         "number" : 20
+      },
+      {
+         "data" : [ 0, 0, 22, 18, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "An east/west corridor stretches before you and faint beams of light can be seen at both ends.",
+         "name" : "You are in an east/west corridor.",
+         "number" : 21
+      },
+      {
+         "data" : [ 0, 0, 23, 21, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "A lone torch is bolted to the wall of this boring ol' east/west corridor.",
+         "name" : "You are in an east/west corridor.",
+         "number" : 22
+      },
+      {
+         "data" : [ 0, 24, 0, 22, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at a turn in the corridor. A lighted west exit and a darker south one are your only choices.",
+         "name" : "You are in at a corner. (S/W)",
+         "number" : 23
+      },
+      {
+         "data" : [ 23, 25, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are standing in a north/south corridor. The floor is tiled with red stones. Fine streams of water flow from holes in the ceiling to a large grate in the floor. The grate has a massive inset ring.",
+         "name" : "You are in a watery north/south corridor.",
+         "number" : 24
+      },
+      {
+         "data" : [ 24, 30, 27, 1021, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at a T-intersection with exits leading north, south, and east. The low floor is damp and cold and a very odd-looking torch nearby gives little warmth or light.",
+         "name" : "You are at a T-intersection; north/south by east.",
+         "number" : 25
+      },
+      {
+         "data" : [ 0, 0, 25, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a hidden room. Flaming urns shed light on many tiers of cages.",
+         "name" : "You are in the animal room. (E)",
+         "number" : 26
+      },
+      {
+         "data" : [ 0, 0, 28, 25, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You lean against the south wall of an east/west passage because the floor is sloped in that direction for the length of the passageway. Light from the east and west reveals this unusual construction.",
+         "name" : "You are in a tilted east/west passage.",
+         "number" : 27
+      },
+      {
+         "data" : [ 0, 0, 1037, 27, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a sloped east/west passage with the floor tilted 45 degrees to the south. The tunnel continues west and a shimmering blank wall appears to bar your passage to the east...",
+         "name" : "You are at a dead-end. (W)",
+         "number" : 28
+      },
+      {
+         "data" : [ 0, 0, 0, 28, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a diamond-shaped room with the only exit at the pointed western end. The floor slopes so sharply to the south that you can barely keep your footing. Torches placed near the high ceiling give plenty of light.",
+         "name" : "Diamond-shaped room. (W)",
+         "number" : 29
+      },
+      {
+         "data" : [ 25, 31, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a north/south corridor. The floor slopes slightly to the north and a faint glow can be seen there.",
+         "name" : "You are in a north/south corridor.",
+         "number" : 30
+      },
+      {
+         "data" : [ 30, 32, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "Torchlight streams in from the south.",
+         "name" : "You are in a north/south corridor.",
+         "number" : 31
+      },
+      {
+         "data" : [ 31, 0, 33, 40, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at a T-intersection of an east/west passage and a north corridor. Several torches illuminate each exit for quite some distance.",
+         "name" : "You are at a T-intersection; east/west by north.",
+         "number" : 32
+      },
+      {
+         "data" : [ 0, 0, 34, 32, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in an east/west passage. The walls are covered with moss and fungi which seem to absorb the light coming from the ends of the tunnel, apparently making it darker than it really is. You can smell water to the east.",
+         "name" : "You are in a damp east/west passage.",
+         "number" : 33
+      },
+      {
+         "data" : [ 35, 36, 37, 33, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are standing on a sandy beach which extends to the north and south. Directly to the east is a calm lake with an eastward-leading isthmus. A mossy exit leads west.",
+         "name" : "You are on the middle beach. (N/S/E/W)",
+         "number" : 34
+      },
+      {
+         "data" : [ 0, 34, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You stand ankle-deep in loose sand on the north beach. Scattered pieces of burned driftwood litter the area. High cliffs prevent movement in every direction except south.",
+         "name" : "You are on the north beach. (S)",
+         "number" : 35
+      },
+      {
+         "data" : [ 34, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on the south beach. Many waterlogged axe and mace handles have been washed ashore here; each is splintered and broken. Water and cliffs prevent all movement except northward.",
+         "name" : "You are on the south beach. (N)",
+         "number" : 36
+      },
+      {
+         "data" : [ 0, 0, 38, 34, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "To the east you can see what appears to be a high rocky island. To the west is the middle beach.",
+         "name" : "You are on an isthmus. (E/W)",
+         "number" : 37
+      },
+      {
+         "data" : [ 0, 0, 39, 37, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "To the east are the rocky ramparts of a massive fortress. The isthmus goes west to the beach.",
+         "name" : "You are on an isthmus. (E/W)",
+         "number" : 38
+      },
+      {
+         "data" : [ 0, 0, 0, 38, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in the fortress' courtyard. High walls are to the north and south and a huge iron door to the east has been welded to its frame.",
+         "name" : "You are outside the fortress. (W)",
+         "number" : 39
+      },
+      {
+         "data" : [ 0, 0, 32, 0, 41, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at the bottom of a flight of stairs. The steps look uncomfortably shallow and narrow. The top steps are beyond the rays of light coming from the east.",
+         "name" : "You are at the bottom of the stairs. (E/U)",
+         "number" : 40
+      },
+      {
+         "data" : [ 0, 0, 0, 42, 0, 40, 0, 0, 0, 0, 1 ],
+         "description" : "This is a drab low room. In the west wall is a small round opening about two axe handles wide. On the east side of the room are stairs leading down. A torch, bolted at waist height, flickers fitfully.",
+         "name" : "You are in a low room. (W/D)",
+         "number" : 41
+      },
+      {
+         "data" : [ 0, 0, 41, 43, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are kneeling in a low round tunnel. Light comes from both east and west exits.",
+         "name" : "You are in a low round east/west passage.",
+         "number" : 42
+      },
+      {
+         "data" : [ 0, 44, 42, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The light of a tiny torch shows a sharp bend in the small tunnel. A check shows that there is sufficient room to pass through. Exits go east and south.",
+         "name" : "You are at a bend. (S/E)",
+         "number" : 43
+      },
+      {
+         "data" : [ 43, 45, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on your hands and knees in a north and south tunnel. You keep bumping your head on the ceiling. Light comes from both ends.",
+         "name" : "You are in a north/south crawl way.",
+         "number" : 44
+      },
+      {
+         "data" : [ 44, 0, 0, 46, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a low, long, narrow room. The ceiling is four feet above the floor which allows you to stand up -- on your knees. Primitive candelabra shed light over the gray walls.",
+         "name" : "You are in the workshop. (N/W)",
+         "number" : 45
+      },
+      {
+         "data" : [ 0, 0, 45, 3, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "This is a strange tunnel which seems to stretch and contract before your eyes. A west door shrinks and expands while a small room lies eastward.",
+         "name" : "You are in a strange east/west tunnel.",
+         "number" : 46
+      }
+   ]
+}

@@ -1,0 +1,867 @@
+{
+   "artifacts" : [
+      {
+         "data" : [ 0, 1, -999, 4, 0, 0, 0, 0 ],
+         "description" : "You see a helicopter warming it's engines.  You may ENTER it to go on a mission.",
+         "name" : "helicopter",
+         "number" : 1
+      },
+      {
+         "data" : [ 35, 3, 5, 5, 25, 2, 3, 6 ],
+         "description" : "You see an M-16 assault rifle.",
+         "name" : "M-16",
+         "number" : 2
+      },
+      {
+         "data" : [ 70, 1, 15, 60, 0, 0, 0, 0 ],
+         "description" : "You see a rocket launcher.  An instruction manual states that you can USE it to destroy planes, tanks, and other large things.",
+         "name" : "rocket launcher",
+         "number" : 3
+      },
+      {
+         "data" : [ 0, 1, 0, 1, 0, 0, 0, 0 ],
+         "description" : "You see a hypodermic needle.  It is used for injecting things into the body.  It was left by the last guy who used it.  He's not in the Army anymore.",
+         "name" : "syringe",
+         "number" : 4
+      },
+      {
+         "data" : [ 55, 3, 9, -2, 20, 2, 3, 5 ],
+         "description" : "You see an AK-47 assault rifle.",
+         "name" : "AK-47",
+         "number" : 5
+      },
+      {
+         "data" : [ 35, 3, 5, -3, 25, 2, 3, 6 ],
+         "description" : "You see an M-16 assault rifle.",
+         "name" : "M-16#",
+         "number" : 6
+      },
+      {
+         "data" : [ 55, 3, 9, -4, 20, 2, 3, 5 ],
+         "description" : "You see an AK-47 assault rifle.",
+         "name" : "AK-47#",
+         "number" : 7
+      },
+      {
+         "data" : [ 55, 3, 9, -20, 20, 2, 3, 5 ],
+         "description" : "You see an AK-47 assault rifle.",
+         "name" : "AK-47##",
+         "number" : 8
+      },
+      {
+         "data" : [ 55, 3, 9, -18, 20, 2, 3, 5 ],
+         "description" : "You see an AK-47 assault rifle.",
+         "name" : "AK-47###",
+         "number" : 9
+      },
+      {
+         "data" : [ 300, 1, 1, -8, 0, 0, 0, 0 ],
+         "description" : "You see a bag of heroin.  Looks like enough for 4 fixes (injections) or one good overdose.",
+         "name" : "heroin",
+         "number" : 10
+      },
+      {
+         "data" : [ 30, 3, 20, -24, 25, 2, 3, 8 ],
+         "description" : "You see a Bunsen burner along with tanks of acetylene and oxygen.  Looks like it would make a good flame-thrower.",
+         "name" : "Bunsen burner",
+         "number" : 11
+      },
+      {
+         "data" : [ 20, 3, 3, -31, 20, 2, 2, 6 ],
+         "description" : "You see a standard revolver.",
+         "name" : "revolver",
+         "number" : 12
+      },
+      {
+         "data" : [ 0, 7, 0, 13, 10, 1, 1, 0 ],
+         "description" : "You see a rolled piece of paper.  It looks like something about the underground's activity.",
+         "name" : "scroll",
+         "number" : 13
+      },
+      {
+         "data" : [ 20, 6, 2, 59, -2000, 1, 1, 0 ],
+         "description" : "You see a brown bottle of cyanide.  Maybe this is your only way out?",
+         "name" : "brown bottle",
+         "number" : 14
+      },
+      {
+         "data" : [ 0, 1, 999, 46, 0, 0, 0, 0 ],
+         "description" : "As you walk through the rice paddy, you step on something that goes \"CLICK!\".  If you do so much as lift your foot off the ground, you may be killed!",
+         "name" : "trip wire",
+         "number" : 15
+      },
+      {
+         "data" : [ 0, 1, 999, 43, 0, 0, 0, 0 ],
+         "description" : "Your blood chills as you realize you have stepped on a trip wire!",
+         "name" : "trip wire#",
+         "number" : 16
+      },
+      {
+         "data" : [ 200, 0, 20, 74, 0, 0, 0, 0 ],
+         "description" : "You see a stack of gold bars.",
+         "name" : "gold bars",
+         "number" : 17
+      },
+      {
+         "data" : [ 0, 13, 180, 0, 0, 0, 0, 0 ],
+         "description" : "You see Kelso lying in a lifeless heap.",
+         "name" : "Kelso's body",
+         "number" : 18
+      },
+      {
+         "data" : [ 0, 1, 999, 0, 0, 0, 0, 0 ],
+         "description" : "You see a burning tank.",
+         "name" : "burning tank",
+         "number" : 19
+      },
+      {
+         "data" : [ 0, 13, 120, 0, 0, 0, 0, 0 ],
+         "description" : "You see a dead drug addict.  He's not dead from drugs either!",
+         "name" : "Drug Addict's body",
+         "number" : 20
+      },
+      {
+         "data" : [ 0, 1, 999, 0, 0, 0, 0, 0 ],
+         "description" : "You see a crashed and burning plane.",
+         "name" : "burning plane",
+         "number" : 21
+      },
+      {
+         "data" : [ 0, 1, 999, 0, 0, 0, 0, 0 ],
+         "description" : "You see a burning tank.",
+         "name" : "burning tank#",
+         "number" : 22
+      },
+      {
+         "data" : [ 0, 1, 999, 0, 0, 0, 0, 0 ],
+         "description" : "You see a burning and sinking gunboat.",
+         "name" : "burning gunboat",
+         "number" : 23
+      }
+   ],
+   "effects" : [
+      {
+         "description" : "Ahhhhhhhhhhh... You are totally strung out...",
+         "number" : 1
+      },
+      {
+         "description" : "You are going into heroin withdrawal.  Your body is starting to tremble.",
+         "number" : 2
+      },
+      {
+         "description" : "You went crazy from lack of heroin and committed suicide!  You are dead!",
+         "number" : 3
+      },
+      {
+         "description" : "The Military Police arrest you for possession of narcotics!  They take your heroin and execute you!  You are dead!",
+         "number" : 4
+      },
+      {
+         "description" : "BOOOOOM!!  You have stepped on a mine.  It explodes and kills you instantly!  You are dead!",
+         "number" : 5
+      },
+      {
+         "description" : "BOOOOOOOOOOOOOOMMMMMMM!!!!!!!!!!!  The booby trap explodes killing you instantly!  You are dead!",
+         "number" : 6
+      },
+      {
+         "description" : "As you release the trip wire, hundreds of punjii stakes are catapulted into your body from all directions!  You are dead!",
+         "number" : 7
+      },
+      {
+         "description" : "All of a sudden, millions of punjii stakes fly out of nowhere and stick into your body!  You are dead!",
+         "number" : 8
+      },
+      {
+         "description" : "Agggghhhhhh!  Hack!  Choke!  Blahhhhhh!  The cyanide kills!  You are dead!",
+         "number" : 9
+      },
+      {
+         "description" : "You can't read the writing.",
+         "number" : 10
+      },
+      {
+         "description" : "Uh-oh!  Your Sergeant caught you shooting up!  But good news, it looks like you are being Dishonorably Discharged and sent home!",
+         "number" : 11
+      }
+   ],
+   "info" : {
+      "author" : "Jeff Allen",
+      "difficulty" : "1",
+      "rating" : "2.1/4",
+      "serialNum" : "59"
+   },
+   "intro" : "",
+   "monsters" : [
+      {
+         "data" : [ 18, 12, 1, 95, 13, 0, 0, 5, 3, 5, 1, 0, 0 ],
+         "description" : "You see an Oriental man dressed in a black uniform.  He seems to be a spy who is watching the base.",
+         "name" : "Gook1",
+         "number" : 1
+      },
+      {
+         "data" : [ 20, 16, 1, 200, 14, 0, 0, 6, 3, 6, 3, 18, 0 ],
+         "description" : "You see a man wearing a green beret.",
+         "name" : "Kelso",
+         "number" : 2
+      },
+      {
+         "data" : [ 17, 10, 1, 105, 22, 0, 0, 7, 3, 5, 1, 0, 0 ],
+         "description" : "You see an Oriental man wearing a black uniform.",
+         "name" : "Gook2",
+         "number" : 3
+      },
+      {
+         "data" : [ 200, 15, 1, 200, 25, 1, 20, 0, 100, 4, 1, 19, 0 ],
+         "description" : "You see a monstrous tank sitting in the middle of the road.",
+         "name" : "Tank",
+         "number" : 4
+      },
+      {
+         "data" : [ 10, 12, 1, 85, 22, 0, 0, 0, 3, 5, 1, 0, 0 ],
+         "description" : "You see an Oriental man wearing a black uniform.",
+         "name" : "Gook3",
+         "number" : 5
+      },
+      {
+         "data" : [ 20, 15, 1, 200, 22, 0, 0, 0, 3, 5, 1, 0, 0 ],
+         "description" : "You see a man in a black uniform.",
+         "name" : "Gook4",
+         "number" : 6
+      },
+      {
+         "data" : [ 15, 6, 1, 65, 40, -1, 0, -1, 1, 1, 1, 20, 0 ],
+         "description" : "You see a strung-out Oriental man staggering around.",
+         "name" : "Addict",
+         "number" : 7
+      },
+      {
+         "data" : [ 180, 20, 1, 200, 48, 1, 4, 0, 50, 50, 1, 21, 0 ],
+         "description" : "You see a MIG-21 come screaming out of the skies at you.  It is heavily armed with missiles.",
+         "name" : "MIG-21",
+         "number" : 8
+      },
+      {
+         "data" : [ 15, 18, 1, 200, 7, 0, 1, 0, 2, 6, 190, 0, 0 ],
+         "description" : "You see a chimpanzee.  It says to you, \"Ooo!  Ahh!\".",
+         "name" : "Chimpanzee",
+         "number" : 9
+      },
+      {
+         "data" : [ 7, 20, 1, 85, 31, -1, 0, 0, 3, 15, 1, 0, 0 ],
+         "description" : "You see a little boy walking toward you.",
+         "name" : "Little Boy",
+         "number" : 10
+      },
+      {
+         "data" : [ 9, 5, 1, 80, 34, -1, 0, -1, 1, 7, 1, 0, 0 ],
+         "description" : "You see a man here.  He is old.",
+         "name" : "Old Man",
+         "number" : 11
+      },
+      {
+         "data" : [ 12, 10, 1, 200, 34, 0, 0, -1, 0, 0, 1, 0, 0 ],
+         "description" : "You see a mangy-looking Vietnamese peasant.",
+         "name" : "Peasant6",
+         "number" : 12
+      },
+      {
+         "data" : [ 20, 12, 1, 200, 71, 0, 0, 0, 2, 5, 1, 0, 0 ],
+         "description" : "You see the faint outline of a gook.",
+         "name" : "Gook5",
+         "number" : 13
+      },
+      {
+         "data" : [ 15, 15, 1, 200, 50, 0, 0, 0, 2, 4, 1, 0, 0 ],
+         "description" : "You see an Oriental man wearing a black uniform.",
+         "name" : "Gook6",
+         "number" : 14
+      },
+      {
+         "data" : [ 16, 12, 1, 200, 71, 0, 0, 0, 1, 8, 1, 0, 0 ],
+         "description" : "You see an Oriental man wearing a black uniform.",
+         "name" : "Gook7",
+         "number" : 15
+      },
+      {
+         "data" : [ 13, 15, 1, 200, 71, 0, 0, 0, 2, 6, 1, 0, 0 ],
+         "description" : "You see an Oriental man wearing a black uniform.",
+         "name" : "Gook8",
+         "number" : 16
+      },
+      {
+         "data" : [ 16, 12, 1, 200, 52, 0, 0, 9, 3, 5, 1, 0, 0 ],
+         "description" : "You see an Oriental man wearing a black uniform.",
+         "name" : "Gook9",
+         "number" : 17
+      },
+      {
+         "data" : [ 32, 10, 1, 200, 49, 0, 5, 0, 1, 1, 1, 0, 0 ],
+         "description" : "You see a gigantic fat Oriental man wearing a black uniform.",
+         "name" : "Gook10",
+         "number" : 18
+      },
+      {
+         "data" : [ 20, 12, 1, 200, 26, 0, 0, 8, 3, 5, 1, 0, 0 ],
+         "description" : "You see a North Vietnamese Soldier.",
+         "name" : "North Vietnamese Soldier1",
+         "number" : 19
+      },
+      {
+         "data" : [ 20, 12, 1, 200, 26, 0, 0, 0, 2, 5, 1, 0, 0 ],
+         "description" : "You see another North Vietnamese Soldier.",
+         "name" : "North Vietnamese Soldier2",
+         "number" : 20
+      },
+      {
+         "data" : [ 20, 12, 1, 200, 39, 0, 0, 0, 3, 6, 3, 0, 0 ],
+         "description" : "You see a South Vietnamese soldier.  He looks friendly.",
+         "name" : "South Vietnamese Soldier",
+         "number" : 21
+      },
+      {
+         "data" : [ 200, 15, 1, 200, 24, 1, 20, 0, 100, 4, 1, 22, 0 ],
+         "description" : "You see a tank moving toward you!",
+         "name" : "Tank",
+         "number" : 22
+      },
+      {
+         "data" : [ 12, 12, 1, 60, 41, 0, 0, 11, 1, 40, 3, 0, 0 ],
+         "description" : "You see a pale-looking trooper with dark rimmed glasses.  He looks as if he's scared to death and desperately trying to get out of the army.",
+         "name" : "Private Whiggie",
+         "number" : 23
+      },
+      {
+         "data" : [ 14, 12, 1, 200, 8, 0, 0, 0, 1, 5, 1, 0, 0 ],
+         "description" : "You see a wild-eyed man.  His name is \"Wild Bill\".",
+         "name" : "Wild Bill",
+         "number" : 24
+      },
+      {
+         "data" : [ 10, 15, 1, 200, 8, 0, 0, 0, 1, 6, 1, 0, 0 ],
+         "description" : "You see a short and stocky person whom some call \"Buffalo Cody\".",
+         "name" : "Buffalo Cody",
+         "number" : 25
+      },
+      {
+         "data" : [ 4, 24, 1, 200, 8, 1, 0, 0, 1, 3, 2, 0, 0 ],
+         "description" : "You see a toad.  <Yawn>",
+         "name" : "Toad",
+         "number" : 26
+      },
+      {
+         "data" : [ 14, 8, 1, 200, 32, -1, 0, -1, 1, 3, 1, 0, 0 ],
+         "description" : "You see a mangy-looking Vietnamese peasant.",
+         "name" : "Peasant1",
+         "number" : 27
+      },
+      {
+         "data" : [ 10, 6, 1, 60, 32, -1, 0, -1, 1, 3, 1, 0, 0 ],
+         "description" : "You see a mangy-looking Vietnamese peasant.",
+         "name" : "Peasant2",
+         "number" : 28
+      },
+      {
+         "data" : [ 25, 10, 1, 200, 33, -1, 0, -1, 1, 3, 1, 0, 0 ],
+         "description" : "You see a mangy-looking Vietnamese peasant.",
+         "name" : "Peasant3",
+         "number" : 29
+      },
+      {
+         "data" : [ 18, 14, 1, 200, 35, 0, 0, 12, 2, 6, 1, 0, 0 ],
+         "description" : "You see a man in a trench coat.  He looks like a KGB Agent.",
+         "name" : "KGB Agent",
+         "number" : 30
+      },
+      {
+         "data" : [ 20, 12, 1, 200, 36, 0, 0, 0, 2, 6, 1, 0, 0 ],
+         "description" : "You see an Oriental man wearing a black uniform.",
+         "name" : "Gook11",
+         "number" : 31
+      },
+      {
+         "data" : [ 15, 10, 1, 200, 36, 0, 0, 0, 2, 6, 1, 0, 0 ],
+         "description" : "You see an Oriental man wearing a black uniform.",
+         "name" : "Gook12",
+         "number" : 32
+      },
+      {
+         "data" : [ 12, 8, 1, 200, 33, -1, 0, -1, 1, 3, 1, 0, 0 ],
+         "description" : "You see a mangy-looking Vietnamese peasant.",
+         "name" : "Peasant4",
+         "number" : 33
+      },
+      {
+         "data" : [ 12, 8, 1, 50, 33, -1, 0, -1, 1, 3, 1, 0, 0 ],
+         "description" : "You see a mangy-looking Vietnamese peasant.",
+         "name" : "Peasant5",
+         "number" : 34
+      },
+      {
+         "data" : [ 150, 12, 1, 200, 73, 1, 5, 0, 100, 4, 1, 23, 0 ],
+         "description" : "You see a gun boat sailing up the river.",
+         "name" : "Gun Boat",
+         "number" : 35
+      },
+      {
+         "data" : [ 25, 18, 1, 200, 9, 0, 2, 0, 3, 4, 1, 0, 0 ],
+         "description" : "You see a terrifying tiger sitting in the bushes licking its chops and paws.  It looks like it would attack anything it sees.",
+         "name" : "Tiger",
+         "number" : 36
+      },
+      {
+         "data" : [ 18, 6, 1, 50, 34, -1, 0, -1, 1, 3, 1, 0, 0 ],
+         "description" : "You see a mangy-looking Vietnamese peasant.",
+         "name" : "Peasant7",
+         "number" : 37
+      }
+   ],
+   "name" : "The Jungles of Vietnam",
+   "numDirections" : 6,
+   "rooms" : [
+      {
+         "data" : [ 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in an Army barracks.  The walls are painted a drab olive green.  Cots are lined up in precision military fashion.  There is a door to the south.",
+         "name" : "You are in a barracks. (S)",
+         "number" : 1
+      },
+      {
+         "data" : [ 1, 0, 4, 3, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are standing on an east/west path.  To the west you see a building, to the east you see helicopters.  There is a fence to the south and the barracks are north.",
+         "name" : "You are on a path. (N/E/W)",
+         "number" : 2
+      },
+      {
+         "data" : [ 14, 66, 2, 5, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are standing in front of a building.  A sign says, \"Arsenal\".  The door is to the west and the path runs east.  Another path leads north to another building and south is a trail to the hospital.",
+         "name" : "You are in front of a building. (N/S/E/W)",
+         "number" : 3
+      },
+      {
+         "data" : [ 6, 7, 6, 2, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are standing on a helicopter landing strip.  A path runs to the west, a minefield is to the east and north, and a trail leads south towards jungle.",
+         "name" : "You are on a helicopter landing strip. (N/S/E/W)",
+         "number" : 4
+      },
+      {
+         "data" : [ 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are standing in the arsenal.  Weapons line the walls.  A man asks you, \"What weapon would you like to get?\".  A door is to the east.",
+         "name" : "You are in the arsenal. (E)",
+         "number" : 5
+      },
+      {
+         "data" : [ 0, 4, 0, 4, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You see the landing strip behind you to the south.",
+         "name" : "You are in a minefield. (S/W)",
+         "number" : 6
+      },
+      {
+         "data" : [ 4, 9, 8, 10, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are standing in a jungle.  To the north is the only clearing visible (it is the base you're stationed at).  Thick growth is all around.",
+         "name" : "You are in a jungle. (N/S/E/W)",
+         "number" : 7
+      },
+      {
+         "data" : [ 0, 9, 0, 7, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a thick jungle.  Mosquitos fly around your head.  West and south there are openings in the thick green underbrush.",
+         "name" : "You are in a jungle. (S/W)",
+         "number" : 8
+      },
+      {
+         "data" : [ 7, 0, 8, 10, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a thick jungle.  Vines, brush, and trees tangle together every which way.",
+         "name" : "You are in a jungle. (N/E/W)",
+         "number" : 9
+      },
+      {
+         "data" : [ 0, 9, 7, 0, 0, 11, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a thick jungle.  Mosquitos fly around your head in a very annoying fashion.  You notice a pile of dirt that came from a hole leading down behind some bushes.  There are openings in the growth to the east and south.",
+         "name" : "You are in a jungle. (S/E/D)",
+         "number" : 10
+      },
+      {
+         "data" : [ 0, 0, 0, 12, 10, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are crawling in a Vietcong tunnel.  The ceiling is only two feet above the floor.  It's dark and humid in here.  The passage leads west or you can go back up.",
+         "name" : "You are in a Vietcong tunnel. (W/U)",
+         "number" : 11
+      },
+      {
+         "data" : [ 0, 0, 11, 13, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are crawling in a Vietcong tunnel.  The passage is only two feet high.  There seems to be light to the west.  The tunnel also leads east.",
+         "name" : "You are in a Vietcong tunnel. (E/W)",
+         "number" : 12
+      },
+      {
+         "data" : [ 0, 0, 12, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are standing in a chamber.  A straw mat covers the floor and the room is lit by a single bare light bulb.  A radio is on the table in the corner and maps are also spread out on the table.  The only exit is east.",
+         "name" : "You are in a Vietcong hideout. (E)",
+         "number" : 13
+      },
+      {
+         "data" : [ 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in the briefing room.  Desks are lined up as in a classroom and there is also a blackboard with battle tactics drawn out at the front of the room.",
+         "name" : "You are in the briefing room. (S)",
+         "number" : 14
+      },
+      {
+         "data" : [ 16, 18, 17, 19, 15, 60, 0, 0, 0, 0, 1 ],
+         "description" : "You are airborne over the base.  The jungle spreads out underneath you as far as the eye can see in all directions.  Which direction do you want to fly?",
+         "name" : "You are over the base. (N/S/E/W/U/D)",
+         "number" : 15
+      },
+      {
+         "data" : [ 16, 15, 16, 16, 16, 63, 0, 0, 0, 0, 1 ],
+         "description" : "You are airborne over the Ho-Chi-Mihn trail.  Bullets ricochet occasionally off the side of the helicopter.  You may fly in any direction.",
+         "name" : "You are over the Ho-Chi-Mihn trail. (N/S/E/W/U/D)",
+         "number" : 16
+      },
+      {
+         "data" : [ 17, 17, 17, 15, 17, 62, 0, 0, 0, 0, 1 ],
+         "description" : "You are airborne over a village.  You may fly in any direction.",
+         "name" : "You are over a village. (N/S/E/W/U/D)",
+         "number" : 17
+      },
+      {
+         "data" : [ 15, 18, 18, 18, 18, 61, 0, 0, 0, 0, 1 ],
+         "description" : "You are airborne over Saigon.  You see streets, buildings and a landing field underneath you.  You may fly in any direction.",
+         "name" : "You are over Saigon. (N/S/E/W/U/D)",
+         "number" : 18
+      },
+      {
+         "data" : [ 19, 19, 15, 19, 19, 64, 0, 0, 0, 0, 1 ],
+         "description" : "You are airborne over the countryside.  You may fly in any direction.",
+         "name" : "You are in the air over bush country. (N/S/E/W/U/D)",
+         "number" : 19
+      },
+      {
+         "data" : [ 21, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a small clearing.  Jungle completely surrounds you.  There seems to be an opening in the trees to the north.  You better have a rocket launcher ready.  The helicopter is here.",
+         "name" : "You are in a field. (N)",
+         "number" : 20
+      },
+      {
+         "data" : [ 24, 20, 22, 23, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are moving through a thick jungle.  You hear men yelling off in the distance.  To the north you see what may be a road.",
+         "name" : "You are in a jungle. (N/S/E/W)",
+         "number" : 21
+      },
+      {
+         "data" : [ 25, 0, 0, 21, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are wandering through a jungle.  To the north you hear engines rumbling and to the west is an opening in the thick underbrush.",
+         "name" : "You are in a jungle. (N/W)",
+         "number" : 22
+      },
+      {
+         "data" : [ 26, 0, 21, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are wandering through a jungle.  To the north you hear men yelling and there is an opening in the thick underbrush to the east.",
+         "name" : "You are in a jungle. (N/E)",
+         "number" : 23
+      },
+      {
+         "data" : [ 0, 21, 25, 26, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are standing in the middle of a dirt road.  The road looks as if it is quite well used by many different vehicles.",
+         "name" : "You are on the Ho-Chi-Mihn trail. (S/E/W)",
+         "number" : 24
+      },
+      {
+         "data" : [ 0, 22, 26, 24, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are standing in the middle of a dirt road.  Bomb craters line the side of the road.  The road runs east and west.  There is an opening in the jungle south.",
+         "name" : "You are on the Ho-Chi-Mihn trail. (S/E/W)",
+         "number" : 25
+      },
+      {
+         "data" : [ 0, 23, 24, 25, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are standing in the middle of a dirt road.  The sides are lined with many bomb craters.  The road runs east and west.  There is an opening in the jungle to the south.",
+         "name" : "You are on the Ho-Chi-Mihn trail. (S/E/W)",
+         "number" : 26
+      },
+      {
+         "data" : [ 0, 0, 30, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in an open field.  A path runs east toward a village.  The helicopter is waiting here.",
+         "name" : "You are in an open field. (E)",
+         "number" : 27
+      },
+      {
+         "data" : [ 0, 37, 35, 36, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are standing on an airfield.  A sign says, \"Saigon Airport\".  To the east you see oil tanks.  To the west you see the countryside and downtown is south.  The helicopter is waiting here.",
+         "name" : "You are on an airfield. (S/E/W)",
+         "number" : 28
+      },
+      {
+         "data" : [ 42, 43, 0, 44, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in the middle of a clearing.  To north and south is jungle.  The clearing also continues to the west.  You hear gunfire and explosions off in the distance.  The helicopter is waiting here.",
+         "name" : "You are in a clearing. (N/S/W)",
+         "number" : 29
+      },
+      {
+         "data" : [ 31, 0, 32, 27, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are walking down a road in the middle of a village.  A sign by the road says, \"My-Lai\".  A path leads north and the road runs east and west.",
+         "name" : "You are in a village. (N/E/W)",
+         "number" : 30
+      },
+      {
+         "data" : [ 0, 30, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are standing on a muddy path.  You see run down shacks in all directions.  The only exit is to the south.",
+         "name" : "You are on a path. (S)",
+         "number" : 31
+      },
+      {
+         "data" : [ 0, 0, 33, 30, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are walking down an east/west road through a village.",
+         "name" : "You are on a road. (E/W)",
+         "number" : 32
+      },
+      {
+         "data" : [ 0, 34, 0, 32, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "To the north and east the jungle too thick to move through.  To the west is a road leading into a village.  To the south is a path leading to a hut.",
+         "name" : "You are at the east end of a road. (S/W)",
+         "number" : 33
+      },
+      {
+         "data" : [ 33, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are inside a dark hut.  The walls are made of bamboo and the floor is dirt.  The door is to the north.",
+         "name" : "You are in a hut. (N)",
+         "number" : 34
+      },
+      {
+         "data" : [ 0, 0, 0, 28, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "Oil tanks, pipes, and cracking towers surround you in one massive system.  On the sides of the oil tanks is the name, \"Amoco\".  The exit is to the west.",
+         "name" : "You are at the oil refinery. (W)",
+         "number" : 35
+      },
+      {
+         "data" : [ 0, 0, 28, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are walking through the countryside.  The ground is hard and dusty.  Occasionally, you hear an explosion off in the distance.  The exit is to the east.",
+         "name" : "You are in the countryside. (E)",
+         "number" : 36
+      },
+      {
+         "data" : [ 28, 38, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are walking down a street in Saigon.  There are a few cars out driving and a few people are wandering around.  The street runs north and south.",
+         "name" : "You are on a downtown street. (N/S)",
+         "number" : 37
+      },
+      {
+         "data" : [ 37, 40, 39, 41, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on a downtown street.  To the south is an alley.  To the east is a building and to the west is the U.S. Embassy.  The street also runs north.",
+         "name" : "You are on a downtown street. (N/S/E/W)",
+         "number" : 38
+      },
+      {
+         "data" : [ 0, 0, 0, 38, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "Maps and pictures of tanks line the walls.  There is a door to the west.",
+         "name" : "You are in the South Vietnamese Army Headquarters. (W)",
+         "number" : 39
+      },
+      {
+         "data" : [ 38, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You can't see much except a few barrels of garbage.  There is a street to the north.",
+         "name" : "You are in an alley. (N)",
+         "number" : 40
+      },
+      {
+         "data" : [ 0, 0, 38, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "Military Police are patrolling everywhere.  The compound is surrounded by high walls and barbed wire.",
+         "name" : "You are at the U.S. Embassy. (E)",
+         "number" : 41
+      },
+      {
+         "data" : [ 0, 29, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a thick jungle.  You see faint light from the south where the clearing is.  The only exit is south.",
+         "name" : "You are in a jungle. (S)",
+         "number" : 42
+      },
+      {
+         "data" : [ 29, -70, -70, -70, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a thick jungle.  To the north you see faint light from the clearing.  The jungle appears too thick to move through except to the north.",
+         "name" : "You are in a jungle. (N/S/E/W)",
+         "number" : 43
+      },
+      {
+         "data" : [ 0, 0, 29, 45, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a clearing.  The ground is soft and mushy.  To the west is a rice paddy.  There is a helicopter off in the distance to the east.",
+         "name" : "You are in a clearing. (E/W)",
+         "number" : 44
+      },
+      {
+         "data" : [ 46, 0, 44, 47, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are wading through a rice paddy.  The water is knee deep.  To the north is more rice paddy.  To the west is a hill and to the east is the clearing.",
+         "name" : "You are in a rice paddy. (N/E/W)",
+         "number" : 45
+      },
+      {
+         "data" : [ -70, 45, -70, -70, 0, -70, 0, 0, 0, 0, 1 ],
+         "description" : "You are wading through a rice paddy.  The water is knee deep.  The only exit is south.",
+         "name" : "You are in a rice paddy. (N/S/E/W/D)",
+         "number" : 46
+      },
+      {
+         "data" : [ 0, 49, 45, 48, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are standing on a hill.  To the east is a rice paddy.  Trails lead off to the south and west.",
+         "name" : "You are on a hill. (S/E/W)",
+         "number" : 47
+      },
+      {
+         "data" : [ 0, 0, 47, 67, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on a rocky slope.  There is no vegetation around at all.  To the east you see a small trail, west you see a trail leading to a bridge.",
+         "name" : "You are on a rocky slope. (E/W)",
+         "number" : 48
+      },
+      {
+         "data" : [ 47, 0, 0, 0, 0, 50, 0, 0, 0, 0, 1 ],
+         "description" : "You are trampling through thick underbrush.  There appears to be a hole going down behind a bush.",
+         "name" : "You are in thick underbrush. (N/D)",
+         "number" : 49
+      },
+      {
+         "data" : [ 0, 0, 51, 0, 49, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The space between the ceiling and floor is only two feet.  It is dark and humid down here.  Looking up, you see daylight.  The tunnel runs to the east.",
+         "name" : "You are in a Vietcong tunnel. (E/U)",
+         "number" : 50
+      },
+      {
+         "data" : [ 0, 0, 52, 50, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a two-foot high Vietcong tunnel.  Move east or west.",
+         "name" : "You are in a Vietcong tunnel. (E/W)",
+         "number" : 51
+      },
+      {
+         "data" : [ 53, 0, 55, 51, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The underground chamber is faintly lit.",
+         "name" : "You are in an underground chamber. (N/E/W)",
+         "number" : 52
+      },
+      {
+         "data" : [ 54, 52, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a two-foot high Vietcong tunnel.  Move north or south.",
+         "name" : "You are in a Vietcong tunnel. (N/S)",
+         "number" : 53
+      },
+      {
+         "data" : [ 0, 53, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are at a dead end in a Vietcong tunnel.  The only exit is south.",
+         "name" : "You are at the north end. (S)",
+         "number" : 54
+      },
+      {
+         "data" : [ 0, 0, 56, -90, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in an east/west Vietcong tunnel.  The ceiling is only two-feet high.  The sides of the tunnel are lined with long punjii stakes which points east.",
+         "name" : "You are in a Vietcong tunnel. (E/W)",
+         "number" : 55
+      },
+      {
+         "data" : [ 0, 57, 0, -90, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a east/west Vietcong tunnel.  The walls are lined with punjii stakes which point east.  The tunnel continues to the south where you see light.",
+         "name" : "You are in a Vietcong tunnel. (S/W)",
+         "number" : 56
+      },
+      {
+         "data" : [ -90, 58, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a north/south Vietcong tunnel.  The ceiling is only two feet above the floor and punjii stakes pointing south line the walls.  To the south you see light.",
+         "name" : "You are in a Vietcong tunnel. (N/S)",
+         "number" : 57
+      },
+      {
+         "data" : [ -90, 59, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in a north/south Vietcong tunnel.  Punjii stakes line the walls and point to the south.  There is a chamber to the south.",
+         "name" : "You are in a Vietcong tunnel. (N/S)",
+         "number" : 58
+      },
+      {
+         "data" : [ -90, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "The floor is covered with gravel and a bare light bulb lights the room.  Punjii stakes stick out of the only exit which is to the north.  You cannot leave.  You are now a P.O.W. and an M.I.A.!",
+         "name" : "You are in an underground chamber. (N)",
+         "number" : 59
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 15, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are inside the helicopter on the landing strip of the base.  The pilot says, \"Ready when you are!\".  (UP to take off or EXIT to leave.)",
+         "name" : "You are inside the helicopter. (U)",
+         "number" : 60
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 18, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are inside the helicopter at the Saigon Airfield.  The pilot says, \"Ready when you are!\".  (UP to take off or EXIT to leave.)",
+         "name" : "You are inside the helicopter. (U)",
+         "number" : 61
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 17, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are inside the helicopter which is on an open field.  The pilot says, \"Ready when you are!\".  (UP to take off or EXIT to leave.)",
+         "name" : "You are inside the helicopter. (U)",
+         "number" : 62
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are inside the helicopter which is sitting in a small clearing.  The pilot says, \"Ready when you are!\".  (UP to take off or EXIT to leave.)",
+         "name" : "You are inside the helicopter. (U)",
+         "number" : 63
+      },
+      {
+         "data" : [ 0, 0, 0, 0, 19, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are inside a helicopter which is sitting in the middle of a clearing.  The pilot says, \"Ready when you are!\".  (UP to take off or EXIT to leave.)",
+         "name" : "You are inside the helicopter. (U)",
+         "number" : 64
+      },
+      {
+         "data" : [ -999, -999, -999, -999, -999, -999, 0, 0, 0, 0, 1 ],
+         "description" : "You are being discharged from the Army for being a drug addict!  Move any direction to leave.",
+         "name" : "You are being discharged. (N/S/E/W/U/D)",
+         "number" : 65
+      },
+      {
+         "data" : [ 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are in the hospital.  HEAL will always be successful here.  The only exit is a door to the north.",
+         "name" : "You are in the hospital. (N)",
+         "number" : 66
+      },
+      {
+         "data" : [ 0, 0, 48, 68, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on the east side of a small canyon.  Looking below, you see a river at the bottom of the canyon.  To the west, a small foot bridge leads across the canyon.  To the east is a trail leading to the slope of a hill.",
+         "name" : "You are on the east side. (E/W)",
+         "number" : 67
+      },
+      {
+         "data" : [ -60, -60, 67, 69, 0, -60, 0, 0, 0, 0, 1 ],
+         "description" : "You are standing on an east/west foot bridge.  In the canyon below you see a river.",
+         "name" : "You are on the bridge. (N/S/E/W/D)",
+         "number" : 68
+      },
+      {
+         "data" : [ 0, 70, 68, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on the west side of a canyon.  Looking down into the canyon, you see a river.  To the east is a foot bridge that crosses the canyon.  To the south is a rocky trail leading down to the river.",
+         "name" : "You are on the west side. (S/E)",
+         "number" : 69
+      },
+      {
+         "data" : [ 69, 0, 0, 71, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on a rocky trail.  The trail leads north to a cliff and west to the river bank where there is thick plant growth.",
+         "name" : "You are on a rocky trail. (N/W)",
+         "number" : 70
+      },
+      {
+         "data" : [ 0, 72, 70, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on the north bank of the river.  There is thick growth of small jungle plants all around.  There is a trail to the east leading to a rocky slope.  You notice that the river is shallow to the south.",
+         "name" : "You are on the north bank. (S/E)",
+         "number" : 71
+      },
+      {
+         "data" : [ 71, 0, 0, 73, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are wading in the river.  The water comes up to your chest.  To the north is a river bank.  To the east, the river makes a northward bend.  The water current prevents you from moving east in the river.",
+         "name" : "You are wading in the river. (N/W)",
+         "number" : 72
+      },
+      {
+         "data" : [ 0, 74, 0, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are wading in chest deep river water.  To the south you see a low spot in the river bank.  The water current prevents you from moving east.  The water is too deep to move in to the west.",
+         "name" : "You are wading in the river. (S)",
+         "number" : 73
+      },
+      {
+         "data" : [ 73, 0, 67, 0, 0, 0, 0, 0, 0, 0, 1 ],
+         "description" : "You are on the south bank of the river.  To the north is a trail leading into a shallow spot in the river.  To the east is a trail.",
+         "name" : "You are on the south bank. (N/E)",
+         "number" : 74
+      }
+   ]
+}
