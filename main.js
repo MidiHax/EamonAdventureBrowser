@@ -405,9 +405,14 @@
         }
         else if (w < 0)
         {
-            // Unarmed. Between fights the monster readies its best carried weapon or picks up
-            // the best one in the room. -(N + 1) means it lost weapon artifact N and will
-            // recover it first if it can see it (see GetWep in the Eamon Deluxe source).
+            // Unarmed. The monster readies a carried weapon or picks one up from the room.
+            // -(N + 1) means it lost weapon artifact N and will recover it first if it can see it
+            // (see GetWep in the Eamon Deluxe source). Combat code -2 monsters never do either.
+            if (m.data[5] == -2)
+            {
+                return w + " - Unarmed (never picks up a weapon - combat code -2)";
+            }
+
             var unarmed = w + " - Unarmed (will ready or pick up a weapon if it can)";
             var lost = _.findWhere(self.adventure().artifacts, { number: -w - 1 });
 
@@ -429,14 +434,16 @@
         return "<a href='#/adv/" + self.currentId() + "/artifact/" + a.number + "'>" + a.number + "</a> - " + _.escape(a.name);
     };
 
-    // Combat codes, from section 5.5 of the Eamon Deluxe design manual
+    // Combat codes, as implemented by the Battle and GetWep routines in the Eamon Deluxe source.
+    // An unarmed monster (negative weapon) spends its combat turn picking up or readying a weapon;
+    // the codes decide what happens when there is none, and how the attack is described.
     self.getMonsterCombatCode = function(m)
     {
         var labels = {
-            '1': 'Shown as "attacking" instead of the random combat verbs',
-            '0': 'Fights with a weapon (or its natural weapons)',
-            '-1': 'Uses natural weapons if there is no weapon around',
-            '-2': 'Never fights'
+            '1': 'Same as 0, but combat text says "attacks" instead of the weapon\'s verbs (Eamon Deluxe 5.0 engine only; no effect in older adventures)',
+            '0': 'Normal - attacks with its weapon or natural weapons. If unarmed, uses its turn to get a weapon, and does not attack if there is none',
+            '-1': 'Same as 0, but if unarmed with no weapon to get, attacks with natural weapons',
+            '-2': 'Never attacks or picks up weapons (can still be attacked)'
         };
         var c = m.data[5];
 
