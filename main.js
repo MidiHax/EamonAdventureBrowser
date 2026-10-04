@@ -405,7 +405,18 @@
         }
         else if (w < 0)
         {
-            return String(w);
+            // Unarmed. Between fights the monster readies its best carried weapon or picks up
+            // the best one in the room. -(N + 1) means it lost weapon artifact N and will
+            // recover it first if it can see it (see GetWep in the Eamon Deluxe source).
+            var unarmed = w + " - Unarmed (will ready or pick up a weapon if it can)";
+            var lost = _.findWhere(self.adventure().artifacts, { number: -w - 1 });
+
+            if (w == -1 || _.isUndefined(lost))
+            {
+                return unarmed;
+            }
+
+            return w + " - Unarmed, will try to recover its lost weapon: Artifact #<a href='#/adv/" + self.currentId() + "/artifact/" + lost.number + "'>" + lost.number + "</a> (" + _.escape(lost.name) + ")";
         }
 
         var a = _.findWhere(self.adventure().artifacts, { number: w });
@@ -533,6 +544,15 @@
     self.init = function()
     {
         self.sammy.run();
+
+        // Enter in the search box runs the search (unless one is already running)
+        $("#txtSearch").keydown(function(e)
+        {
+            if (e.which == 13 && !$("#btnSearch").prop('disabled'))
+            {
+                self.runSearch();
+            }
+        });
 
         // Load the master list
         $.get("data/list.txt", null, function(data)
