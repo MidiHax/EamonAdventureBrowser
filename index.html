@@ -146,8 +146,28 @@
                         </tr> 
                         <tr>
                             <td>Light:</td><td data-bind="text: data[10]"></td>
-                        </tr> 
+                        </tr>
                     </table>
+
+                    <!-- ko with: $root.getRoomContents($data) -->
+                    <p><b>Monsters</b></p>
+                    <ul data-bind="foreach: monsters">
+                        <li>
+                            <a data-bind="text: number, attr: { href: '#/adv/' + $root.currentId() + '/monster/' + number }"></a> - <span data-bind="text: name"></span>
+                            <span data-bind="visible: data[2] > 1, text: '(group of ' + data[2] + ')'"></span>
+                        </li>
+                    </ul>
+                    <i data-bind="visible: monsters.length == 0">None</i>
+
+                    <p><b>Artifacts</b></p>
+                    <ul data-bind="foreach: artifacts">
+                        <li>
+                            <a data-bind="text: number, attr: { href: '#/adv/' + $root.currentId() + '/artifact/' + number }"></a> - <span data-bind="text: name"></span>
+                            <i data-bind="visible: note, text: '(' + note + ')'"></i>
+                        </li>
+                    </ul>
+                    <i data-bind="visible: artifacts.length == 0">None</i>
+                    <!-- /ko -->
                 </div>
                 
                 <div id="divArtifact" data-bind="with: $root.artifact">
@@ -308,7 +328,7 @@
                             <td>Courage:</td><td data-bind="text: data[3]"></td>
                         </tr> 
                         <tr>
-                            <td>Location:</td><td data-bind="text: data[4]"></td>
+                            <td>Location:</td><td data-bind="html: $root.getMonsterLocation($data)"></td>
                         </tr>  
                         <tr>
                             <td>Combat Code:</td><td data-bind="text: data[5]"></td>
@@ -317,7 +337,7 @@
                             <td>Armor:</td><td data-bind="text: data[6]"></td>
                         </tr>  
                         <tr>
-                            <td>Weapon:</td><td data-bind="text: data[7]"></td>
+                            <td>Weapon:</td><td data-bind="html: $root.getMonsterWeapon($data)"></td>
                         </tr>   
                         <tr>
                             <td>Natural Weapon Damage:</td><td><span data-bind="text: data[8]"></span>d<span data-bind="    text: data[9]"></span></td>
@@ -326,6 +346,17 @@
                             <td>Personality:</td><td data-bind="text: data[10]"></td>
                         </tr>   
                     </table>
+
+                    <!-- ko with: $root.getMonsterArtifacts($data) -->
+                    <p><b>Carried / Worn Artifacts</b></p>
+                    <ul data-bind="foreach: $data">
+                        <li>
+                            <a data-bind="text: number, attr: { href: '#/adv/' + $root.currentId() + '/artifact/' + number }"></a> - <span data-bind="text: name"></span>
+                            <i data-bind="text: '(' + note + ')'"></i>
+                        </li>
+                    </ul>
+                    <i data-bind="visible: $data.length == 0">None</i>
+                    <!-- /ko -->
                 </div>
 
             </div>

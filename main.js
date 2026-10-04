@@ -337,6 +337,110 @@
 
     };
 
+    // Artifacts at each of the given locations ({ loc, note }), plus the contents of any containers among them
+    self.collectArtifacts = function(sources)
+    {
+        var adv = self.adventure();
+        var artifacts = [];
+        var seen = {};
+
+        var addAll = function(loc, note)
+        {
+            _.each(_.filter(adv.artifacts, function(a) { return a.data[3] == loc; }), function(a)
+            {
+                if (seen[a.number]) return;
+                seen[a.number] = true;
+
+                artifacts.push({ number: a.number, name: a.name, note: note });
+
+                if (a.data[1] == 4) // Container
+                {
+                    addAll(1000 + a.number, 'inside ' + a.name);
+                }
+            });
+        };
+
+        _.each(sources, function(s) { addAll(s.loc, s.note); });
+
+        return artifacts;
+    };
+
+    // Artifacts carried or worn by a monster
+    self.monsterArtifactSources = function(m, carriedNote, wornNote)
+    {
+        return [
+            { loc: -1 - m.number, note: carriedNote },
+            { loc: -1000 - m.number, note: wornNote }
+        ];
+    };
+
+    // Monsters and artifacts that start in a room, including artifacts embedded in it,
+    // inside containers lying in it, or carried/worn by monsters in it
+    self.getRoomContents = function(room)
+    {
+        var n = room.number;
+        var monsters = _.filter(self.adventure().monsters, function(m) { return m.data[4] == n; });
+        var sources = [{ loc: n, note: '' }, { loc: 2000 + n, note: 'embedded in the room' }];
+
+        _.each(monsters, function(m)
+        {
+            sources = sources.concat(self.monsterArtifactSources(m, 'carried by ' + m.name, 'worn by ' + m.name));
+        });
+
+        return { monsters: monsters, artifacts: self.collectArtifacts(sources) };
+    };
+
+    self.getMonsterArtifacts = function(m)
+    {
+        return self.collectArtifacts(self.monsterArtifactSources(m, 'carried', 'worn'));
+    };
+
+    self.getMonsterWeapon = function(m)
+    {
+        var w = m.data[7];
+
+        if (w == 0)
+        {
+            return "0 - Natural weapons";
+        }
+        else if (w < 0)
+        {
+            return String(w);
+        }
+
+        var a = _.findWhere(self.adventure().artifacts, { number: w });
+
+        if (_.isUndefined(a))
+        {
+            return w + " - undefined Artifact #" + w;
+        }
+
+        return "<a href='#/adv/" + self.currentId() + "/artifact/" + a.number + "'>" + a.number + "</a> - " + _.escape(a.name);
+    };
+
+    self.getMonsterLocation = function(m)
+    {
+        var n = m.data[4];
+
+        if (n == 0)
+        {
+            return "0 - Not placed at start";
+        }
+        else if (n < 0)
+        {
+            return String(n);
+        }
+
+        var r = _.findWhere(self.adventure().rooms, { number: n });
+
+        if (_.isUndefined(r))
+        {
+            return n + " - undefined Room #" + n;
+        }
+
+        return "<a href='#/adv/" + self.currentId() + "/room/" + r.number + "'>" + r.number + "</a> - " + _.escape(r.name);
+    };
+
     self.getLocation = function(item)
     {
         if (item.data[3] == 0)
