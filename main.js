@@ -476,6 +476,143 @@
             + pct(1 - notHostile) + ' enemy (before the player\'s charisma bonus)';
     };
 
+    self.linkArtifact = function(n)
+    {
+        var a = _.findWhere(self.adventure().artifacts, { number: n });
+
+        if (_.isUndefined(a)) return n + " - undefined Artifact #" + n;
+
+        return "<a href='#/adv/" + self.currentId() + "/artifact/" + n + "'>" + n + "</a> - " + _.escape(a.name);
+    };
+
+    self.linkMonster = function(n)
+    {
+        var m = _.findWhere(self.adventure().monsters, { number: n });
+
+        if (_.isUndefined(m)) return n + " - undefined Monster #" + n;
+
+        return "<a href='#/adv/" + self.currentId() + "/monster/" + n + "'>" + n + "</a> - " + _.escape(m.name);
+    };
+
+    self.linkRoom = function(n)
+    {
+        var r = _.findWhere(self.adventure().rooms, { number: n });
+
+        if (_.isUndefined(r)) return n + " - undefined Room #" + n;
+
+        return "<a href='#/adv/" + self.currentId() + "/room/" + n + "'>" + n + "</a> - " + _.escape(r.name);
+    };
+
+    // Effect text for effects first .. first + count - 1
+    self.effectsText = function(first, count)
+    {
+        var html = String(first);
+
+        for (var i = 0; i < Math.max(count, 1); i++)
+        {
+            var e = _.findWhere(self.adventure().effects, { number: first + i });
+
+            html += "<br/><i>" + (e ? "#" + e.number + ": " + _.escape(e.description)
+                                     : "Effect #" + (first + i) + " is not in the effect list (probably handled by the adventure's own program)") + "</i>";
+        }
+
+        return html;
+    };
+
+    // Shared by containers and doors: an open/closed value above 1000 means it is locked
+    // shut and must be forced, breaking after (value - 1000) points of damage. 101-999 is an
+    // older format that the engine converts by adding 900 (see Attack in MAINPGM.BAS).
+    var forcedText = function(v)
+    {
+        if (v > 1000) return v + " - Closed; must be forced open (breaks after " + (v - 1000) + " points of damage)";
+        if (v > 100) return v + " - Closed; must be forced open (older format: breaks after " + (v - 100) + " points of damage)";
+        return null;
+    };
+
+    var keyText = function(k)
+    {
+        if (k == 0) return "0 - None";
+        if (k == -1) return "-1 - Can't be opened with OPEN (handled by the adventure's own program)";
+        if (k < 0) return String(k);
+        return self.linkArtifact(k);
+    };
+
+    // Type-specific artifact fields (data[4..7] = fields 5-8 in the design manual, section 4.4),
+    // with value meanings checked against the Eamon Deluxe 5.0 MAINPGM.BAS
+    self.getArtifactFields = function(a)
+    {
+        var d = a.data;
+        var rows = [];
+        var add = function(label, html) { rows.push({ label: label, html: html }); };
+        var openText = function(v) { return v + (v == 1 ? " - Open" : v == 0 ? " - Closed (must be opened first)" : ""); };
+
+        switch (d[1])
+        {
+            case 2: // Weapon
+            case 3: // Magic weapon
+                var weaponTypes = { '1': 'Axe', '2': 'Missile weapon (bow, gun, etc.)', '3': 'Club', '4': 'Spear', '5': 'Sword' };
+                add("Weapon Odds:", d[4] + "% (half of this is added to the chance to hit; negative for hard-to-use weapons)");
+                add("Weapon Type:", d[5] + (weaponTypes[d[5]] ? " - " + weaponTypes[d[5]] : ""));
+                add("Weapon Damage:", d[6] + "d" + d[7] + " (" + d[6] + " to " + (d[6] * d[7]) + " points)");
+                break;
+
+            case 4: // Container
+                add("Key:", keyText(d[4]));
+                add("Open/Closed:", forcedText(d[5]) || openText(d[5]));
+                add("Items Inside:", String(d[6]));
+                add("Items It Can Hold:", d[7] + (d[7] < 1 ? " - Nothing can be put in it" : ""));
+                break;
+
+            case 5: // Lightable
+                add("Turns of Light:", d[4] + (d[4] == -1 ? " - Never runs out" : d[4] == 0 ? " - Won't light" : ""));
+                break;
+
+            case 6: // Drinkable
+            case 9: // Edible
+                add("Heal/Damage Points:", d[4] + (d[4] > 0 ? " - Heals " + d[4] : d[4] < 0 ? " - Damages the player by " + (-d[4]) : " - No effect"));
+                add(d[1] == 6 ? "Number of Drinks:" : "Number of Bites:", d[5] + (d[1] == 9 ? " (it is gone when all are eaten)" : ""));
+                add("Open/Closed:", openText(d[6]));
+                break;
+
+            case 7: // Readable
+                add("Text (Effects):", self.effectsText(d[4], d[5]));
+                add("Open/Closed:", openText(d[6]));
+                break;
+
+            case 8: // Door/Gate
+                add("Room Beyond:", d[4] > 0 ? self.linkRoom(d[4]) : d[4] == -999 ? "-999 - Exits the adventure" : d[4] + " - Special (handled by the adventure's own program)");
+                add("Key:", keyText(d[5]));
+                add("Open/Closed:", forcedText(d[6]) || (d[6] + (d[6] == 0 ? " - Open" : d[6] == 1 ? " - Closed" : "")));
+                add("Hidden:", d[7] == 1 ? "1 - Yes (\"You can't go that way!\" until it is found)" : d[7] + " - No");
+                break;
+
+            case 10: // Bound monster
+                add("Bound Monster:", self.linkMonster(d[4]));
+                add("Key:", d[5] > 0 ? self.linkArtifact(d[5]) : d[5] + " - None");
+                add("Guard:", d[6] > 0 ? self.linkMonster(d[6]) + " (prevents freeing while in the room)" : d[6] + " - None");
+                break;
+
+            case 11: // Wearable
+                var armorClasses = { '0': 'Clothing (no protection)', '1': 'Shield', '2': 'Leather armor', '4': 'Chain mail', '6': 'Plate mail' };
+                var armorTypes = { '0': 'Armor, shields, plain clothes', '1': 'Overclothes (coats, capes, etc.)', '2': 'Shoes, boots', '3': 'Gloves',
+                                   '4': 'Hats, headwear', '5': 'Jewelry', '6': 'Undergarments' };
+                add("Armor Class:", d[4] + (armorClasses[d[4]] ? " - " + armorClasses[d[4]] : d[4] > 1 ? " - Armor" : ""));
+                add("Clothing/Armor Type:", d[5] + (armorTypes[d[5]] ? " - " + armorTypes[d[5]] : "") + " (not used by the game engine)");
+                break;
+
+            case 12: // Disguised monster
+                add("Disguised Monster:", self.linkMonster(d[4]));
+                add("Reveal Text (Effects):", d[5] > 0 ? self.effectsText(d[5], d[6]) : d[5] + " - None");
+                break;
+
+            case 13: // Dead body
+                add("Takeable:", d[4] == 1 ? "1 - Yes" : d[4] + " - No (\"best if left alone\")");
+                break;
+        }
+
+        return rows;
+    };
+
     self.getMonsterLocation = function(m)
     {
         var n = m.data[4];
