@@ -331,7 +331,7 @@
                             <td>Location:</td><td data-bind="html: $root.getMonsterLocation($data)"></td>
                         </tr>  
                         <tr>
-                            <td>Combat Code:</td><td data-bind="text: data[5]"></td>
+                            <td>Combat Code:</td><td data-bind="text: $root.getMonsterCombatCode($data)"></td>
                         </tr>  
                         <tr>
                             <td>Armor:</td><td data-bind="text: data[6]"></td>
@@ -343,7 +343,7 @@
                             <td>Natural Weapon Damage:</td><td><span data-bind="text: data[8]"></span>d<span data-bind="    text: data[9]"></span></td>
                         </tr>     
                         <tr>
-                            <td>Personality:</td><td data-bind="text: data[10]"></td>
+                            <td>Personality:</td><td data-bind="text: $root.getMonsterPersonality($data)"></td>
                         </tr>   
                     </table>
 

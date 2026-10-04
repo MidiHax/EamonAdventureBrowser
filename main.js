@@ -429,6 +429,46 @@
         return "<a href='#/adv/" + self.currentId() + "/artifact/" + a.number + "'>" + a.number + "</a> - " + _.escape(a.name);
     };
 
+    // Combat codes, from section 5.5 of the Eamon Deluxe design manual
+    self.getMonsterCombatCode = function(m)
+    {
+        var labels = {
+            '1': 'Shown as "attacking" instead of the random combat verbs',
+            '0': 'Fights with a weapon (or its natural weapons)',
+            '-1': 'Uses natural weapons if there is no weapon around',
+            '-2': 'Never fights'
+        };
+        var c = m.data[5];
+
+        return c + (labels[c] ? ' - ' + labels[c] : '');
+    };
+
+    // 1-3 are fixed. Values over 100 are rolled when the monster is first met: with
+    // p = value - 100 + the player's charisma bonus, it is not hostile if p beats a d100 roll,
+    // and then friendly if p also beats a d200 roll (see EnemyCheck in the Eamon Deluxe source)
+    self.getMonsterPersonality = function(m)
+    {
+        var labels = { '1': 'Enemy', '2': 'Neutral', '3': 'Friend' };
+        var v = m.data[10];
+
+        if (labels[v])
+        {
+            return v + ' - ' + labels[v];
+        }
+        else if (v <= 100)
+        {
+            return String(v);
+        }
+
+        var p = v - 100;
+        var notHostile = Math.min(p / 100, 1);
+        var friend = notHostile * Math.min(p / 200, 1);
+        var pct = function(x) { return Math.round(x * 100) + '%'; };
+
+        return v + ' - Random: ' + pct(friend) + ' friend, ' + pct(notHostile - friend) + ' neutral, '
+            + pct(1 - notHostile) + ' enemy (before the player\'s charisma bonus)';
+    };
+
     self.getMonsterLocation = function(m)
     {
         var n = m.data[4];
